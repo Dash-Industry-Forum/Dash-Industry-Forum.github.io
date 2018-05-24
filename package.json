@@ -1,0 +1,16 @@
+{
+  "name": "dash-if.org",
+  "version": "1.0.0",
+  "description": "DASH-IF website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Thomas",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
