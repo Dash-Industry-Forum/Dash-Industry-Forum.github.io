@@ -1,12 +1,12 @@
 .header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 1em
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
-
 
 .nav-menu {
   font: 14px 'Raleway', sans-serif;
