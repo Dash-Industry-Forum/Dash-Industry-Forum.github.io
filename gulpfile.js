@@ -18,6 +18,7 @@ gulp.task('js', function(){
 gulp.task('css', function(){
   return gulp.src([
 	  'node_modules/bootstrap/dist/css/bootstrap.min.css',
+	  'node_modules/font-awesome/css/font-awesome.min.css',
 	  'src/css/default.css'
     ])
     .pipe(minifyCSS())
@@ -25,5 +26,11 @@ gulp.task('css', function(){
     .pipe(gulp.dest('static/css'));
 });
 
+gulp.task('fonts', function(){
+  return gulp.src([
+	  'node_modules/font-awesome/fonts/*'
+    ])
+    .pipe(gulp.dest('static/fonts'));
+});
 
-gulp.task('default', [ 'js', 'css' ]);
+gulp.task('default', [ 'js', 'css', 'fonts' ]);
