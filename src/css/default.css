@@ -8,6 +8,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
 
+.navbar {
+  background-color: white;
+}
+
 .nav-menu {
   font: 14px 'Raleway', sans-serif;
   text-transform: uppercase;
@@ -34,4 +38,5 @@ body {
   background-origin: initial;
   background-clip: initial;
   background-color: initial;
+  padding: 28px 20px;
 }
