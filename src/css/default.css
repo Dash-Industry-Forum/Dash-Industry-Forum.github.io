@@ -8,10 +8,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
 }
 
-h3 {
+h1 {
   margin-left: 1em;
   color: white;
   margin: 0px;
+  font-weight: 200;
 }
 
 .navbar {
@@ -19,9 +20,10 @@ h3 {
 }
 
 .nav-menu {
-  font: 14px 'Raleway', sans-serif;
+  font: 13px 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
+  color: #454545 !important;
 }
 
 body {
@@ -29,13 +31,26 @@ body {
   font-size: 16;
 }
 
+p {
+  font: 14px 'Open Sans', sans-serif;
+  font-weight: normal;
+  line-height: 23px;
+}
+
 .breadcrumb-leaf {
   color: white;
 }
 
+/* overrides and extends bootstrap style */
 .breadcrumb {
   background-color: transparent !important;
   padding-left: 0px;
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+main {
+  margin-top: 4em;
 }
 
 .breadcrumb-nav {
