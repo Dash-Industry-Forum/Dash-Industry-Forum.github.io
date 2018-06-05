@@ -1,7 +1,12 @@
 <nav aria-label="breadcrumb">
-  <ol class="breadcrumb breadcrumb-nav">
-    {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
-  </ol>
+  <div class="breadcrumb-nav">
+    <div class="container">
+      <h3>About</h3>
+      <ol class="breadcrumb">
+      {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+      </ol>
+    </div>
+  </div>
 </nav>
 {{ define "breadcrumbnav" }}
 {{ if .p1.Parent }}

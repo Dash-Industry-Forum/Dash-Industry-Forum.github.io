@@ -1,3 +1,16 @@
-{{ define "main" }}
-  {{ partial "carousel.html" . }}
-{{ end }}
+{{ partial "head.html" . }}
+
+<body>
+  <div class="container">
+    {{ partial "header.html" . }}
+    {{ partial "nav.html" . }}
+  </div>
+  <main role="main" class="container">
+    {{ partial "carousel.html" . }}
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+  
+  {{ partial "scripts.html" . }}
+</body>

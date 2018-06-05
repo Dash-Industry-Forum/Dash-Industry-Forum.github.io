@@ -5,6 +5,7 @@
     {{ partial "header.html" . }}
     {{ partial "nav.html" . }}
   </div>
+  {{ partial "breadcrumb.html" . }}
   <main role="main" class="container">
     {{ block "main" . }}{{ end }}
   </main>

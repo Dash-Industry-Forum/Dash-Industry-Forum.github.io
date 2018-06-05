@@ -5,7 +5,13 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  margin-left: 1em;
+  color: white;
+  margin: 0px;
 }
 
 .navbar {
@@ -27,6 +33,11 @@ body {
   color: white;
 }
 
+.breadcrumb {
+  background-color: transparent !important;
+  padding-left: 0px;
+}
+
 .breadcrumb-nav {
   background-image: url(/img/pattern11.png);
   background-position-x: left;
@@ -38,7 +49,7 @@ body {
   background-origin: initial;
   background-clip: initial;
   background-color: initial;
-  padding: 28px 20px;
+  padding: 28px 15px;
 }
 
 .footer {
