@@ -6,10 +6,10 @@ before_script:
   - npm install -g gulp-cli
   - sudo apt-get update -qq
   - sudo apt-get install -y snapd
+  - sudo snap install hugo --classic
 
 script:
  - gulp
- - sudo snap install hugo
  - hugo
 
 cache:
