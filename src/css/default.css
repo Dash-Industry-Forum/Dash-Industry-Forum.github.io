@@ -54,7 +54,7 @@ main {
 }
 
 .breadcrumb-nav {
-  background-image: url(/img/pattern11.png);
+  background-image: url(../img/pattern11.png);
   background-position-x: left;
   background-position-y: top;
   background-size: initial;
