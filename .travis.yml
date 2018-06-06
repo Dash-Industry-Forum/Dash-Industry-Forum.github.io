@@ -6,14 +6,11 @@ before_script:
   - npm install -g gulp-cli
   - sudo apt-get update -qq
   - sudo apt-get install -y snapd
-  - sudo snap remove hugo
   - sudo snap install hugo --classic
 
 script:
  - gulp
- - snap list
- - snap info hugo
- - hugo
+ - /snap/bin/hugo
 
 cache:
   directories:
