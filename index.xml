@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on DASH Industry Forum</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on DASH Industry Forum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>In April 2012, ISO, the international standards body which had already given us the core media foundations of MPEG-2, MP3 and MP4, finally ratified the version of its next generation adaptive streaming standard: MPEG-DASH. In an industry besieged by three comparable (but incompatible) segmented formats many asked – why another? The participating companies in the MPEG-DASH standardization (including Microsoft, Apple, Netflix, Qualcomm, Ericsson, Samsung, and many others) saw a vision of interoperability and convergence required for large-scale market growth that trumped the proprietary and competing solutions.</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>http://example.org/academic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clients</title>
+      <link>http://example.org/clients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/clients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://example.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://example.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>http://example.org/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifiers</title>
+      <link>http://example.org/identifiers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/identifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>http://example.org/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://example.org/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://example.org/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Assets</title>
+      <link>http://example.org/test_assets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/test_assets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
