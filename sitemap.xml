@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/academic/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/academic/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/clients/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/clients/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/events/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/faq/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/faq/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/guidelines/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/guidelines/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/identifiers/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/identifiers/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/members/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/members/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/news/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/software/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/software/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/test_assets/</loc>
+    <loc>https://edrthomas.github.io/dash-if-beta/test_assets/</loc>
   </url>
   
 </urlset>
