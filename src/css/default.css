@@ -37,6 +37,17 @@ p {
   line-height: 23px;
 }
 
+.card-group-mini {
+  width: 13rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-caption-text {
+  font-weight: 200;
+}
+
+
 .breadcrumb-leaf {
   color: white;
 }
