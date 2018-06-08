@@ -4,8 +4,8 @@ node_js:
 
 before_script:
   - npm install -g gulp-cli
-  - sudo apt-get update -qq
-  - sudo apt-get install -y snapd
+  - travis_wait sudo apt-get update -qq
+  - travis_wait sudo apt-get install -y snapd
   - sudo snap install hugo --classic
 
 script:
