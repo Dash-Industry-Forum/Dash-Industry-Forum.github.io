@@ -1,7 +1,7 @@
 <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <h1>{{ .Title}}</h1>
+      <div class="breadcrumb-title">{{ .Title }}</div>
       <ol class="breadcrumb">
       {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
       </ol>

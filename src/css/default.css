@@ -6,13 +6,46 @@
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  color: #272727;
+  text-transform: uppercase;
 }
 
 h1 {
-  margin-left: 1em;
-  color: white;
-  margin: 0px;
-  font-weight: 200;
+  font-size: 27px;
+  line-height: 35px;
+  margin-bottom: 40px;
+  font-style: normal;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: #333333;
+}
+
+h3 {
+
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 20px;
+  font-style: normal;
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 18px;
+  font-style: normal;
+}
+
+h5 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 16px;
+  font-style: normal;
 }
 
 .navbar {
@@ -60,8 +93,13 @@ p {
   margin-bottom: 0px;
 }
 
-main {
-  margin-top: 4em;
+.breadcrumb-title {
+  font-size: xx-large;
+  font-family: 'Raleway', sans-serif;
+  margin-left: 1em;
+  color: white;
+  margin: 0px;
+  font-weight: 200;
 }
 
 .breadcrumb-nav {
@@ -76,6 +114,10 @@ main {
   background-clip: initial;
   background-color: initial;
   padding: 28px 15px;
+}
+
+main {
+  margin-top: 4em;
 }
 
 .footer {
