@@ -9,7 +9,7 @@
     <div class="carousel-item {{ if eq .position 0 }}active{{ end }}">
       <img class="d-block w-100" data-src="holder.js/800x300?text= &bg=#0165FF" alt="background">
       <div class="carousel-caption d-none d-md-block">
-        <h1>{{ .title }}</h1>
+        <div class="carousel-slide-title">{{ .title }}</div>
         <p>{{ .text | markdownify }}</p>
       </div>
     </div>

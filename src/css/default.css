@@ -76,10 +76,13 @@ p {
   margin-right: auto;
 }
 
+.carousel-slide-title {
+  font-color: white;
+}
+
 .carousel-caption-text {
   font-weight: 200;
 }
-
 
 .breadcrumb-leaf {
   color: white;
@@ -93,7 +96,7 @@ p {
   margin-bottom: 0px;
 }
 
-.breadcrumb-title {
+.breadcrumb-title, .carousel-slide-title {
   font-size: xx-large;
   font-family: 'Raleway', sans-serif;
   margin-left: 1em;
