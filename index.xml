@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on DASH Industry Forum</title>
-    <link>https://edrthomas.github.io/dash-if-beta/</link>
+    <link>https://dash-industry-forum.github.io/</link>
     <description>Recent content in Home on DASH Industry Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://edrthomas.github.io/dash-if-beta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dash-industry-forum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://edrthomas.github.io/dash-if-beta/about/</link>
+      <link>https://dash-industry-forum.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/about/</guid>
+      <guid>https://dash-industry-forum.github.io/about/</guid>
       <description>In April 2012, ISO, the international standards body which had already given us the core media foundations of MPEG-2, MP3 and MP4, finally ratified the version of its next generation adaptive streaming standard: MPEG-DASH. In an industry besieged by three comparable (but incompatible) segmented formats many asked – why another? The participating companies in the MPEG-DASH standardization (including Microsoft, Apple, Netflix, Qualcomm, Ericsson, Samsung, and many others) saw a vision of interoperability and convergence required for large-scale market growth that trumped the proprietary and competing solutions.</description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://edrthomas.github.io/dash-if-beta/academic/</link>
+      <link>https://dash-industry-forum.github.io/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/academic/</guid>
+      <guid>https://dash-industry-forum.github.io/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clients</title>
-      <link>https://edrthomas.github.io/dash-if-beta/clients/</link>
+      <link>https://dash-industry-forum.github.io/clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/clients/</guid>
+      <guid>https://dash-industry-forum.github.io/clients/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://edrthomas.github.io/dash-if-beta/contact/</link>
+      <link>https://dash-industry-forum.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/contact/</guid>
+      <guid>https://dash-industry-forum.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Events</title>
-      <link>https://edrthomas.github.io/dash-if-beta/events/</link>
+      <link>https://dash-industry-forum.github.io/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/events/</guid>
+      <guid>https://dash-industry-forum.github.io/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://edrthomas.github.io/dash-if-beta/faq/</link>
+      <link>https://dash-industry-forum.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/faq/</guid>
+      <guid>https://dash-industry-forum.github.io/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines</title>
-      <link>https://edrthomas.github.io/dash-if-beta/guidelines/</link>
+      <link>https://dash-industry-forum.github.io/guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/guidelines/</guid>
+      <guid>https://dash-industry-forum.github.io/guidelines/</guid>
       <description>Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.g, request for clarifications or bugs. For this purpose, please use the Github bug tracker cited along with the documents.
 DASH-IF Interoperability Points and Extensions Latest Version:
  Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes | (Bugtracker) | (diff to v4.</description>
@@ -77,46 +77,46 @@ DASH-IF Interoperability Points and Extensions Latest Version:
     
     <item>
       <title>Identifiers</title>
-      <link>https://edrthomas.github.io/dash-if-beta/identifiers/</link>
+      <link>https://dash-industry-forum.github.io/identifiers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/identifiers/</guid>
+      <guid>https://dash-industry-forum.github.io/identifiers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://edrthomas.github.io/dash-if-beta/members/</link>
+      <link>https://dash-industry-forum.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/members/</guid>
+      <guid>https://dash-industry-forum.github.io/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://edrthomas.github.io/dash-if-beta/news/</link>
+      <link>https://dash-industry-forum.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/news/</guid>
+      <guid>https://dash-industry-forum.github.io/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://edrthomas.github.io/dash-if-beta/software/</link>
+      <link>https://dash-industry-forum.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/software/</guid>
+      <guid>https://dash-industry-forum.github.io/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Assets</title>
-      <link>https://edrthomas.github.io/dash-if-beta/test_assets/</link>
+      <link>https://dash-industry-forum.github.io/test_assets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://edrthomas.github.io/dash-if-beta/test_assets/</guid>
+      <guid>https://dash-industry-forum.github.io/test_assets/</guid>
       <description></description>
     </item>
     
