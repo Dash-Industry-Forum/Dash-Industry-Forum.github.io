@@ -76,8 +76,9 @@ p {
   margin-right: auto;
 }
 
-.carousel-slide-title {
-  font-color: white;
+.carousel-slide-img {
+  max-width: 50vw;
+  max-height: 30vh;
 }
 
 .carousel-caption-text {
