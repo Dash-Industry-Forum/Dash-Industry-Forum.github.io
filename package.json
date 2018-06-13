@@ -15,7 +15,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^3.0.1",
     "gulp-sourcemaps": "^2.6.4",
-    "holderjs": "^2.9.4",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3"
   }
