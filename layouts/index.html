@@ -7,7 +7,42 @@
     {{ partial "carousel.html" . }}
   </div>
   <main role="main" class="container">
-    {{ block "main" . }}{{ end }}
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="card-body bg-light">
+            <h3 class="card-title">Guidelines</h3>
+            <p class="card-text">
+	      Find the <a href="/guidelines/">latest version</a> of DASH-IF
+              Interoperability Guidelines, as well as the interoperability documents
+              currently available for community review.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="card-body bg-light">
+            <h3 class="card-title">Test Vectors</h3>
+            <p class="card-text">
+              Find the <a href="//testassets.dashif.org/">test vectors</a>
+              corresponding to the latest DASH-IF guidelines: SD, HD,
+              multichannel audio, HEVC, timed text, multiple periods, encryption…</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card">
+          <div class="card-body bg-light">
+            <h3 class="card-title">Software</h3>
+            <p class="card-text">
+              Our <a href="/software/">Software section</a> contains links for
+              our reference player implementation, as well as DASH clients,
+              DASH libraries and sample segmenters, packagers and validators.</p>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
 
   {{ partial "footer.html" . }}
