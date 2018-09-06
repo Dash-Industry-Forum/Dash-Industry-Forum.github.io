@@ -97,7 +97,9 @@ DASH-IF Interoperability Points and Extensions Latest Version:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/software/</guid>
-      <description></description>
+      <description>A number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.
+Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
+The framework source code is downloadable from our Github repository at https://github.</description>
     </item>
     
     <item>
