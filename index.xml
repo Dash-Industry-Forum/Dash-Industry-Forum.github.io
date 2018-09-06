@@ -11,6 +11,15 @@
     
     
     <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/ipr-declarations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/ipr-declarations/</guid>
+      <description>DASH-IF has been facilitating and promoting the adoption of the MPEG-DASH standard fsince 2012 and is known by the industry as the authority on the DASH standard and its deployment. DASH-IF believes that the DASH standard enables the industry to create an open, interoperable, multi-vendor ecosystem for the internet video streaming market, and is committed to industry-wide deployment of the MPEG-DASH standard. To help further accelerate the market adoption of MPEG-DASH, some of our member companies who are major contributors to the MPEG-DASH standard have made announcements regarding access to their essential DASH patents.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://dash-industry-forum.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
