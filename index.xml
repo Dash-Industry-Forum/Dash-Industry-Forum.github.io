@@ -12,6 +12,17 @@
     
     <item>
       <title></title>
+      <link>https://dash-industry-forum.github.io/icme2017grandchallenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/icme2017grandchallenge/</guid>
+      <description>Host organization: DASH-IF (https://dashif.org/)
+Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
+DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://dash-industry-forum.github.io/ipr-declarations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
