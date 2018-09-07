@@ -75,6 +75,10 @@ body {
   font-size: 16;
 }
 
+table code{
+  word-break: normal;
+}
+
 p {
   font: 14px 'Open Sans', sans-serif;
   font-weight: normal;
