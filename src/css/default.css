@@ -48,12 +48,26 @@ h5 {
 }
 
 .nav-menu {
-  font: 13px 'Raleway', sans-serif;
+  font: 12px 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   color: #454545 !important;
   margin-left: auto;
   margin-right: auto;
+}
+
+.nav-sub-menu {
+  font: 11px 'Raleway', sans-serif;
+  text-transform: none;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+
+/* Remove the arrow in the dropdown menu */
+.dropdown-toggle::after {
+    display:none;
 }
 
 body {
