@@ -53,6 +53,11 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/introduction/</loc>
   </url>
   
   <url>
@@ -70,10 +75,6 @@
   <url>
     <loc>https://dash-industry-forum.github.io/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/test_assets/</loc>
   </url>
   
 </urlset>
