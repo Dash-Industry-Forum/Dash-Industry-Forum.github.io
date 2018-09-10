@@ -58,6 +58,7 @@ Latest Version:
 * The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0
 
 This updated version adds the following aspects:
+
 * Update of references to refer to the latest correct versions
 * Clarification on track selection in clause 3.3 and addition of a new clause 2.7.5
 * Addition of a placeholder for a non-real time profile in clause 1.3
