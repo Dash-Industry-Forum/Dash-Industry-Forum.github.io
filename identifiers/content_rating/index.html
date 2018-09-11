@@ -118,9 +118,11 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title"></div>
+      <div class="breadcrumb-title">Content Rating</div>
       <ol class="breadcrumb">
       
+
+
 
 
 
@@ -131,9 +133,16 @@
 </li>
 
 
+<li class="breadcrumb-item " >
+  
+  <a  href="https://dash-industry-forum.github.io/identifiers/">Identifiers</a>
+  
+</li>
+
+
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf"></span>
+  <span class="breadcrumb-leaf">Content Rating</span>
   
 </li>
 
@@ -147,51 +156,37 @@
     
   
 
-<p>Membership in DASH-IF offers some great benefits. We have three membership levels and the benefits of each are included below:</p>
+<h1 id="introduction">Introduction</h1>
 
-<h2 id="associate">Associate</h2>
+<p>Content Rating may be provided in the MPD.</p>
 
-<p><a href="https://dash-industry-forum.github.io/docs/DASH-IF-Associate-Member-Agreement_07-2015.pdf">Membership Agreement</a></p>
+<h1 id="content-rating-schemes">Content Rating Schemes</h1>
 
-<ul>
-<li>Eligibility to participate in Working Groups
+<p>The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:</p>
 
-<ul>
-<li>Interoperability Working Group</li>
-<li>Promotion Working Group</li>
-</ul></li>
-<li>Opportunities to participate in DASH-IF marketing programs and events</li>
-<li>Discounts on promotional activities such as interoperability workshops</li>
-<li>Ability to provide feedback on certain draft deliverables</li>
-<li>Early access to Test Vectors, Test Tools, and Guidelines</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
 
-<h2 id="contributor">Contributor</h2>
+<tbody>
+<tr>
+<td><code>urn:dvb:iptv:guidance:2014</code></td>
+<td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a>, clause 9.1.2.3</td>
+<td>“urn:dvb:iptv:guidance:2014” where the id is either:<ul><li>‘G’ indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element.</li><li>‘W’ indicating watershed (safe harbour) content that is only suitable for presentation after the watershed. Guidance text may also be provided</li></td>
+</tr>
 
-<p><a href="https://dash-industry-forum.github.io/docs/DASH-IF-Contributor-Member-Agreement-Final-05-10-12.pdf">Membership Agreement</a></p>
-
-<ul>
-<li>All of the Associate benefits above +</li>
-<li>Protected by DASH-IF IPR policy</li>
-<li>Ability to vote in Working Groups</li>
-<li>Ability to chair Working Groups</li>
-<li>Ability to vote in Board elections</li>
-</ul>
-
-<h2 id="charter">Charter</h2>
-
-<p><a href="https://dash-industry-forum.github.io/docs/DASH-IF-Charter-Member-Agreement-Final-05-10-12.pdf">Membership Agreement</a></p>
-
-<ul>
-<li>All Associate and Contributor benefits +</li>
-<li>Ability to apply as Board Candidate</li>
-</ul>
-
-<p>The common IPR Policy for all membership levels can be downloaded <a href="https://dash-industry-forum.github.io/docs/DASH-IF-IPR-Policy-Appendix-B-08-14-17.pdf">here</a>.</p>
-
-<p>*Note that Associate level membership is only available to: companies whose annual revenue is less than USD$10 million, individuals, schools and non-profit organizations. Entities not falling in to one of these groups must please choose between contributor or charter level membership.</p>
-
-<p>Click <a href="mailto:dashindustry@live.com">here</a> to contact us about joining the DASH Industry Forum and submitting the forms presented above.</p>
+<tr>
+<td><code>urn:dvb:iptv:rating:2014</code></td>
+<td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a>, clause 9.1.2.3</td>
+<td>scheme where the id is a decimal number representing the minimum recommended age encoded as per ETSI EN 300 468.</td>
+</tr>
+</tbody>
+</table>
 
 
   </main>

@@ -119,6 +119,17 @@ For Representations based on ISO/IEC 14496-12 [6] a content protection scheme us
     </item>
     
     <item>
+      <title>Content Rating</title>
+      <link>https://dash-industry-forum.github.io/identifiers/content_rating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/content_rating/</guid>
+      <description>Introduction Content Rating may be provided in the MPD.
+Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
+   Identifier Reference Abstract     urn:dvb:iptv:guidance:2014 ETSI TS 103 285, clause 9.1.2.3 “urn:dvb:iptv:guidance:2014” where the id is either:‘G’ indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element.</description>
+    </item>
+    
+    <item>
       <title>Guidelines</title>
       <link>https://dash-industry-forum.github.io/guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
