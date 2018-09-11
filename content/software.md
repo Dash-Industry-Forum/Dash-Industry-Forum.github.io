@@ -59,7 +59,7 @@ Available at https://cpix-validator.azurewebsites.net/, this tool validates the 
  
 ## Sample DASH libraries
 
-* libdash – Please find the announcement of our new version of libdash at bitmovin including slides (slides). libdash implements the full MPEG-DASH standard according to ISO/IEC 23009-1:2012. It provides an object orient (OO) interface to the MPEG-DASH standard – XML-based MPD and media elements (segments) – and provides external interfaces for:
+* libdash – Please find the announcement of our new version of libdash at [Bitmovin](https://bitmovin.com) including [slides](https://de.slideshare.net/schellkenig/libdash-20). libdash implements the full MPEG-DASH standard according to ISO/IEC 23009-1:2012. It provides an object orient (OO) interface to the MPEG-DASH standard – XML-based MPD and media elements (segments) – and provides external interfaces for:
     * the DASH streaming control, i.e., the adaptation logic (download scheduler and probably other terms exist) which determines which segment to download next based on a given client context;
     * the segment parser, i.e. to handle downloaded segments (ISO base media file format, MPEG-2 transport stream) and encapsulated coding formats; and
     * the media player which is finally responsible to decode and render the media presentation.
