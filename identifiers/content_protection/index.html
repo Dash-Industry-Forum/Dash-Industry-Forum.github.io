@@ -1,0 +1,398 @@
+<head>
+  <title>!! BETA version !! | DASH Industry Forum | Catalyzing the adoption of MPEG-DASH</title>
+  <link href="/css/dashif.css" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,800,300,200,700,500" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,800,300,200,700,500" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+  <div class="container">
+    <header class="header">
+  <div class="col-4 pt-1">
+    <span class="badge badge-danger fixed-bottom"><font size="6">BETA</font></span>
+    <a href="/"><img src="/img/dashif-logo-283x100_new.jpg" class="img-fluid" alt="DASH-IF logo"></a>
+  </div>
+</header>
+
+    <nav class="navbar navbar-expand-lg navbar-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon">&nbsp;</span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav nav-menu">
+      
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/about/" title="About">About</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/academic/" title="Academic">Academic</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/clients/" title="Clients">Clients</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/contact/" title="Contact">Contact</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/guidelines/" title="Guidelines">Guidelines</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/" title="Home">Home</a>
+         </li>
+        
+      
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span>identifiers</span>
+          </a>
+          <ul class="dropdown-menu nav-sub-menu" aria-labelledby="navbarDropdownMenuLink">
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/content_protection/" title="Content Protection">Content Protection</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/introduction/" title="Introduction">Introduction</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/profiles/" title="Profiles">Profiles</a>
+            </li>
+            
+          </ul>
+         </li>
+         
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/members/" title="Members">Members</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/news/" title="News">News</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="/software/" title="Software">Software</a>
+         </li>
+        
+      
+        
+         <li class="nav-item ">
+           <a class="nav-link" href="https://testassets.dashif.org/" title="Test Assets">test assets</a>
+         </li>
+        
+      
+    </ul>
+  </div>
+</nav>
+
+  </div>
+  <nav aria-label="breadcrumb">
+  <div class="breadcrumb-nav">
+    <div class="container">
+      <div class="breadcrumb-title">Content Protection</div>
+      <ol class="breadcrumb">
+      
+
+
+
+
+
+<li class="breadcrumb-item " >
+  
+  <a  href="https://dash-industry-forum.github.io/">Home</a>
+  
+</li>
+
+
+<li class="breadcrumb-item " >
+  
+  <a  href="https://dash-industry-forum.github.io/identifiers/">Identifiers</a>
+  
+</li>
+
+
+<li class="breadcrumb-item  active"  aria-current="page">
+  
+  <span class="breadcrumb-leaf">Content Protection</span>
+  
+</li>
+
+      </ol>
+    </div>
+  </div>
+</nav>
+
+
+  <main role="main" class="container">
+    
+  
+
+<h1 id="introduction">Introduction</h1>
+
+<p>For the element ContentProtection the @schemeIdUri attribute is used to
+identify a content protection scheme (for details see ISO/IEC 23009-1
+[<a href="/identifiers/references#23009-1">1</a>], section 5.8.4.1). This attribute provide
+sufficient information, possibly in conjunction with the @value and/or extension
+attributes and elements, such as the DRM system(s), encryption algorithm(s),
+and key distribution scheme(s) employed, to enable a client to determine whether
+it can possibly play the protected content.</p>
+
+<p>For Representations based on ISO/IEC 14496-12 [<a href="/identifiers/references#14496-12">6</a>]
+a content protection scheme using the Protection System Specific Header Box
+defined in ISO/IEC 23001-7 may be identified in the ContentProtection element.
+In this case a self-assigned UUID URN as defined in RFC 4122
+[<a href="/identifiers/references#rfc4122">8</a>] indicating the UUID specified in the
+SystemId field of the Protection System Specific Header Box is used. The usage
+of the <code>@value</code> field is defined by the protection system. However, according to
+DASH-AVC/264 [<a href="/identifiers/references#dash264">3</a>], it is recommended that the <code>@value</code>
+field is the name of the company system and client version. If used, this can help
+the client to determine if the current DRM client can play the content. If used
+differently, the providers of the DRM system are encouraged to document the
+alternative usage of the <code>@value</code> field.</p>
+
+<p>The following sections collect the Generic Identifiers as well as Protection
+System Specific ones.</p>
+
+<h1 id="generic-identifiers">Generic Identifiers</h1>
+
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>urn:mpeg:dash:mp4protection:2011</code></td>
+<td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.2</td>
+<td>protection schemes identified by a the Scheme Type within the Scheme Type Box of the Protection Scheme Information Box of ISO/IEC14496-12 [<a href="/identifiers/references#14496-12">6</a>]. In this scheme, the value of the @value attribute is the 4CC contained in the Scheme Type Box, suitably escaped according to RFC 2141 and may include the version number. The 4CC and the version number, if present, is separated by a “:”. The version number is encoded as up to 8 hexadecimal digits, where the leading ‘0’s may be omitted.</td>
+</tr>
+
+<tr>
+<td><code>urn:mpeg:dash:13818:1:CA_descriptor:2011</code></td>
+<td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.2</td>
+<td>Conditional Access System used for ISO/IEC 13818-1 [<a href="/identifiers/references#mpeg2-ts">7</a>] (MPEG-2 Transport Stream). In this scheme, the value of the @value attribute is the 4-digit lower-case hexadecimal Representation of the 16-bit CA_system_ID from the CA_descriptor as defined in ISO/IEC 13818-1.</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="protection-system-specific-identifiers">Protection System-Specific Identifiers</h1>
+
+<p>The Identifier in the below table only provides the selected UUID code.
+For referencing the DRM system in the <strong>ContentProtection</strong> descriptor, the
+URI <code>urn:uuid:&lt;uuid&gt;</code> may be used where <code>&lt;uuid&gt;</code> is to be replaced with the
+UUID in the first column below.</p>
+
+<p><em>Note: DASH-IF does not define any “approved” content protection schemes.
+The table below only represents the submitted schemes by 3rd parties to DASH-IF.
+None are required or recommended by DASH-AVC/264 Implementation Guidelines.</em></p>
+
+<table>
+<thead>
+<tr>
+<th>UUID</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>5E629AF5-38DA-4063-8977-97FFBD9902D4</code></td>
+<td>Marlin Adaptive Streaming Specification – Simple Profile, V1.0 [<a href="/identifiers/references#marlin">9</a>]</td>
+<td>Marlin, see the spec for the details of what can be further specified within the <strong>ContentProtection</strong> element.</td>
+</tr>
+
+<tr>
+<td><code>adb41c24-2dbf-4a6d-958b-4457c0d27b95</code></td>
+<td>Nagra MediaAccess PRM 3.0 , documentation available under NDA [<a href="/identifiers/references#nagra">12</a>]</td>
+<td>Identifies Nagra MediaAccess PRM 3.0 and above</td>
+</tr>
+
+<tr>
+<td><code>A68129D3-575B-4F1A-9CBA-3223846CF7C3</code></td>
+<td>Cisco/NDS VideoGuard Everywhere DRM ™. Documentation is available under NDA [<a href="/identifiers/references#videoguard">13</a>]</td>
+<td>Cisco/NDS VideoGuard Everywhere DRM identification. For more information on VideoGuard Everywhere DRM go here</td>
+</tr>
+
+<tr>
+<td><code>9a04f079-9840-4286-ab92-e65be0885f95</code></td>
+<td>MPEG DASH Content Protection using Microsoft PlayReady [<a href="/identifiers/references#playready">10</a>], section 2.2.1</td>
+<td>Microsoft PlayReady</td>
+</tr>
+
+<tr>
+<td><code>9a27dd82-fde2-4725-8cbc-4234aa06ec09</code></td>
+<td>Verimatrix VCAS™ for DASH [<a href="/identifiers/references#verimatrix">11</a>]</td>
+<td>Verimatrix ViewRight Web / DASH @value= “Verimatrix VCAS for DASH, ViewRightWeb VV.vv” (VV.vv will be the version number)This is the name of the company system and client version as recommended in DASH-AVC/264. If used, this can help the client to determine if the current DRM client can play the content.</td>
+</tr>
+
+<tr>
+<td><code>F239E769-EFA3-4850-9C16-A903C6932EFB</code></td>
+<td>Please contact Adobe for more information</td>
+<td>Adobe Primetime DRM, version 4</td>
+</tr>
+
+<tr>
+<td><code>1f83e1e8-6ee9-4f0d-ba2f-5ec4e3ed1a66</code></td>
+<td>No separate and public specification is available. The UUID is a version 4 UUID as per RFC 4122 [<a href="/identifiers/references#rfc4122">8</a>]. The UUID will be made available in SecureMedia documentation shared with a partner or customer of SecureMedia. Please refer to <a href="http://www.securemedia.com/">http://www.securemedia.com/</a>.</td>
+<td>SecureMedia, ArrisThe UUID of @schemeIdURIis a version 4 UUID as per RFC 4122.@valueshall be as follows: “Arris SecureMedia version XXXXXXX”XXXXXX will be specified in documentation associated with a particular version of the product. The documentation will be shared with a partner or customer of SecureMedia. Please refer to <a href="http://www.securemedia.com/">http://www.securemedia.com/</a>.</td>
+</tr>
+
+<tr>
+<td><code>644FE7B5-260F-4FAD-949A-0762FFB054B4</code></td>
+<td>A draft version of the CMLA Technical Specification which is in process with involved adopters is not published. It’s planned to be chapter 18 of our CMLA Technical Specification upon completion and approval.Revisions of the CMLA Technical Specification become public upon CMLA approval.UUID will correlate to various related XML schema and PSSH components as well as elements of the content protection element relating to CMLA DASH mapping.</td>
+<td>CMLA (OMA DRM), for details see here <a href="http://www.cm-la.com">http://www.cm-la.com</a>.</td>
+</tr>
+
+<tr>
+<td><code>6a99532d-869f-5922-9a91-113ab7b1e2f3</code></td>
+<td>More information is available at <a href="http://www.mobitv.com/core-technologies/digital-rights-management/">http://www.mobitv.com/core-technologies/digital-rights-management/</a>.</td>
+<td>MobiTV DRM: A generic identifier for any version of MobiDRM (MobiTV DRM). The version is signaled in the pssh box.</td>
+</tr>
+
+<tr>
+<td><code>35BF197B-530E-42D7-8B65-1B4BF415070F</code></td>
+<td>Please contact DivX for specifications.</td>
+<td>DivX DRM Series 5</td>
+</tr>
+
+<tr>
+<td><code>B4413586-C58C-FFB0-94A5-D4896C1AF6C3</code></td>
+<td>VODRM documentation is available under NDA. Please contact Viaccess-Orca for more information.</td>
+<td>This UUID identifies the Viaccess-Orca DRM (VODRM).</td>
+</tr>
+
+<tr>
+<td><code>edef8ba9-79d6-4ace-a3c8-27dcd51d21ed</code></td>
+<td>For more info: <a href="http://www.widevine.com">http://www.widevine.com</a></td>
+<td>Widevine Content Protection for MPEG DASH.</td>
+</tr>
+
+<tr>
+<td><code>80a6be7e-1448-4c37-9e70-d5aebe04c8d2</code></td>
+<td>Irdeto Protection documentation available under NDA. For more info: <a href="http://www.irdeto.com">http://www.irdeto.com</a></td>
+<td>Irdeto Content Protection for DASH</td>
+</tr>
+
+<tr>
+<td><code>dcf4e3e3-62f1-5818-7ba6-0a6fe33ff3dd</code></td>
+<td>Documentation is available under NDA. For more info: <a href="http://www.digicaps.com/en/">http://www.digicaps.com/en/</a></td>
+<td>DigiCAP SmartXess for DASH @value “CA/DRM_NAME VERSION” (CA 1.0, DRM+ 2.0)</td>
+</tr>
+
+<tr>
+<td><code>45d481cb-8fe0-49c0-ada9-ab2d2455b2f2</code></td>
+<td>For more information and specification, please contact CoreTurst. The contact detail is mktall@coretrust.com</td>
+<td>CoreCrypt : CoreTrust Content Protection for MPEG-DASH</td>
+</tr>
+
+<tr>
+<td><code>616C7469-6361-7374-2D50-726F74656374</code></td>
+<td>Please contact Alticast for more information, galtiprotect_drm@alticast.com.</td>
+<td>Alticast altiProtect, more information available at <a href="http://www.alticast.com/">http://www.alticast.com/</a></td>
+</tr>
+
+<tr>
+<td><code>45d481cb-8fe0-49c0-ada9-ab2d2455b2f2</code></td>
+<td>For more information and specification, please contact CoreTurst. The contact detail is mktall@coretrust.com</td>
+<td>CoreCrypt : CoreTrust Content Protection for MPEG-DASH</td>
+</tr>
+
+<tr>
+<td><code>992c46e6-c437-4899-b6a0-50fa91ad0e39</code></td>
+<td>This UUID is a protection system specific identifier for SecureMedia SteelKnot. No separate and public specification is available. The UUID is as per RFC 4122 available at <a href="http://www.ietf.org/rfc/rfc4122.txt">http://www.ietf.org/rfc/rfc4122.txt</a> . The UUID will be made available in SecureMedia SteelKnot documentation shared with a partner or customer of SecureMedia SteelKnot. Please refer to <a href="http://www.securemedia.com/">http://www.securemedia.com/</a></td>
+<td>The UUID of the attribute, @schemeIDURI is as per RFC 4122. The attribute, @value shall be as follows: “Arris SecureMedia SteelKnot version XXXXXXX”. The exact length and syntax of the placeholder denoted by XXXXXXX will be specified in documentation associated with a particular version of the product. The documentation will be shared with a partner or customer of SecureMedia SteelKnot. Please refer to <a href="http://www.securemedia.com/">http://www.securemedia.com/</a> .</td>
+</tr>
+
+<tr>
+<td><code>1077efec-c0b2-4d02-ace3-3c1e52e2fb4b</code></td>
+<td><a href="https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html">https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html</a></td>
+<td>This identifier is to be used as the SystemID for the Common PSSH box format defined by the W3C (<a href="https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html">https://w3c.github.io/encrypted-media/format-registry/initdata/cenc.html</a>), as a preferred alternative to DRM system specific PSSH box formats. This identifier may be used in PSSH boxes and MPEG-DASH ContentProtection elements.</td>
+</tr>
+
+<tr>
+<td><code>e2719d58-a985-b3c9-781a-b030af78d30e</code></td>
+<td>DASH-IF Interoperability Points v3.4: <a href="https://dashif.org/guidelines/">https://dashif.org/guidelines/</a></td>
+<td>This identifier is meant to be used to signal availability of Clear Key content key delivery. Its use is mutually exclusive with the use of any other DRM System SystemIDs, including the Common PSSH Box Format System ID. This GUID may only be present in an MPEG-DASH ContentProtection element, and never in the media content PSSH Box.</td>
+</tr>
+
+<tr>
+<td><code>94CE86FB-07FF-4F43-ADB8-93D2FA968CA2</code></td>
+<td>Content Protection System Identifier for Apple FairPlay Streaming</td>
+<td>System ID to identify FairPlay Streaming</td>
+</tr>
+
+<tr>
+<td><code>279fe473-512c-48fe-ade8-d176fee6b40f</code></td>
+<td>Arris Titanium content protection. Documentation available under NDA. Contact multitrust.info@arris.com for further information.</td>
+<td>Arris Titanium. The UUID of @schemeiduri is a version 4 UUID as per RFC 4122. @value will be specified in documentation related to a specific version of the product. Contact multitrust.info@arris.com for further information.</td>
+</tr>
+
+<tr>
+<td><code>aa11967f-cc01-4a4a-8e99-c5d3dddfea2d</code></td>
+<td>Unitend Technologies Inc. applies this UUID to identify the Unitend DRM (UDRM). For further information, contact y.ren@unitend.com     This UUID identifies the Unitend-DRM (UDRM). More information available at <a href="http://www.unitend.com/">http://www.unitend.com/</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+  </main>
+
+  <footer class="footer">
+  <ul class="icons">
+    <li>
+      <a href="https://twitter.com/dash_if" class="icon fa-twitter">
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Dash-Industry-Forum" class="icon fa-github">
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    <li>
+      <a href="mailto:dashindustry@live.com" class="icon fa-envelope">
+        <span class="label">Email</span>
+      </a>
+    </li>
+  </ul>
+  <p>Copyright DASH Industry Forum 2012-2018</p>
+  <p>
+    <a href="#">Back to top</a>
+  </p>
+</footer>
+
+  
+  <script src="/js/dashif.min.js"></script>
+
+</body>

@@ -109,6 +109,16 @@ If you wish to send a formal liaison communication, then please contact our Liai
     </item>
     
     <item>
+      <title>Content Protection</title>
+      <link>https://dash-industry-forum.github.io/identifiers/content_protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/content_protection/</guid>
+      <description>Introduction For the element ContentProtection the @schemeIdUri attribute is used to identify a content protection scheme (for details see ISO/IEC 23009-1 [1], section 5.8.4.1). This attribute provide sufficient information, possibly in conjunction with the @value and/or extension attributes and elements, such as the DRM system(s), encryption algorithm(s), and key distribution scheme(s) employed, to enable a client to determine whether it can possibly play the protected content.
+For Representations based on ISO/IEC 14496-12 [6] a content protection scheme using the Protection System Specific Header Box defined in ISO/IEC 23001-7 may be identified in the ContentProtection element.</description>
+    </item>
+    
+    <item>
       <title>Guidelines</title>
       <link>https://dash-industry-forum.github.io/guidelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
