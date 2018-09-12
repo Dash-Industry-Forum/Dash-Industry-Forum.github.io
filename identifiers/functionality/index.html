@@ -150,7 +150,7 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title">Introduction</div>
+      <div class="breadcrumb-title">Functionality</div>
       <ol class="breadcrumb">
       
 
@@ -174,7 +174,7 @@
 
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf">Introduction</span>
+  <span class="breadcrumb-leaf">Functionality</span>
   
 </li>
 
@@ -188,69 +188,61 @@
     
   
 
-<h1 id="introduction">Introduction</h1>
+<h1 id="functionality">Functionality</h1>
 
-<p>The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH
-profiles, interoperability points, content protection metadata and other DASH
-related specific schemes. DASH-IF responsibilities include:</p>
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
 
-<ol>
-<li>hosting the online catalog on its website, listing all defined URIs along
- with a short descriptions of their schemes and names of their owners,</li>
-<li>providing a simple online mechanism to request the addition of new URIs
- and associated information, and finally</li>
-<li>managing the administration and maintenance of the online catalog.</li>
-</ol>
+<tbody>
+<tr>
+<td><code>https://dashif.org/guidelines/trickmode</code></td>
+<td>DASH-IF IOP v3.2, clause 3.2.9</td>
+<td>Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI “<a href="https://dashif.org/guidelines/trickmode”">https://dashif.org/guidelines/trickmode”</a> then the DASH client shall not select any of the contained Representations for regular playout.</td>
+</tr>
 
-<p>It is believed that maintaining such a proper online catalog helps the industry
-to increase the interoperability between various industry and consortia
-specifications, which are utilizing the MPEG-DASH standard.</p>
+<tr>
+<td><code>https://dashif.org/guidelines/AdaptationSetSwitching</code></td>
+<td>DASH-IF IOP v3.2, clause 3.8</td>
+<td>Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</td>
+</tr>
 
-<p>This website provides procedures how to request cataloging the identifier in
-the DASH Identifier Repository and it defines a set of available descriptors
-and schemes identifiers.</p>
+<tr>
+<td><code>urn:3GPP:dash:3dVideoDisplayInformation:2013</code></td>
+<td>3GPP TS 26.247, clause C.5</td>
+<td>The 3D Video Display Information description scheme may only be signalled in SupplementalProperty element with SupplementalProperty@schemeIdUri urn:3GPP:dash:3dVideoDisplayInformation:2013. When present the 3D Video Display Information description scheme shall be present on the Adaptation Set level.</td>
+</tr>
 
-<p>In order to exploit synergies, individuals and organizations are encouraged to
-check the catalogue here prior to defining new identifiers. The DASH-IF will
-do its best to support individuals and organizations in this matter.</p>
+<tr>
+<td><code>urn:dvb:dash:fontdownload:2014</code></td>
+<td>ETSI TS 103 285, clause 7.2.1</td>
+<td>A descriptor is signalling a downloadable font in accordance with the present document when it has the @schemeIdUri attribute set to “urn:dvb:dash:fontdownload:2014” and the @value attribute set to 1.</td>
+</tr>
 
-<h1 id="cataloging-procedures">Cataloging procedures</h1>
+<tr>
+<td><code>urn:dvb:dash:fallback_adaptation_set:2014</code></td>
+<td>ETSI TS 103 285</td>
+<td>If the audio codec used for main service operation does not provide sufficient capability to scale down bit rates low enough within an Adaptation Set, an additional audio Adaptation Set should be provided within the DASH presentation. Adaptation sets with the purpose of providing media streams with low bit rates for fallback operation shall be indicated with an additional Supplemental Property Descriptor.</td>
+</tr>
 
-<p>In order to add an identifier on this web page, you are encouraged to abide by
-the following terms established by the DASH-IF:</p>
+<tr>
+<td><code>urn:dvb:dash:period_continuity:2014</code></td>
+<td>ETSI TS 103 285, clause 10.5.2.3</td>
+<td>Content providers may explicitly signal that Adaptation Sets across Periods are period-continuous.</td>
+</tr>
 
-<p>The party requesting an identifier to be added to the catalogue shall:</p>
-
-<ol>
-<li>apply using the <a href="[/identifiers/registration">form and procedures supplied by DASH-IF</a>;</li>
-<li>include a description of the purpose of the proposed identifier, and
- the required technical details as specified in the application form;</li>
-<li>provide contact information describing how a complete description can be
- obtained on a non-discriminatory basis;</li>
-<li>maintain a permanent record of the application form and the notification
- received from DASH-IF.</li>
-</ol>
-
-<p>To register an identifier with this registration authority, please visit the
-<a href="/identifiers/registration">registration page</a>.</p>
-
-<h1 id="identifier-catalog">Identifier catalog</h1>
-
-<p>This catalogue is informative. The normative aspects of the identifiers are
-included the references along with the identifiers. This catalogue will be
-updated with the submission and approval of new identifiers.</p>
-
-<ul>
-<li><a href="/identifiers/profiles">Profiles, Interoperability Points and Extensions</a></li>
-<li><a href="/identifiers/protection">Content Protection</a></li>
-<li><a href="/identifiers/video-source-data">Video Source Metadata</a></li>
-<li><a href="/identifiers/audio-source-data">Audio Source Metadata</a></li>
-<li><a href="/identifiers/role-and-accessibility">Role and Accessibility</a></li>
-<li><a href="/identifiers/content-rating">Content Rating</a></li>
-<li><a href="/identifiers/event-schemes">Event Schemes</a></li>
-<li><a href="/identifiers/AAA">Authentication and Authorization</a></li>
-<li><a href="/identifiers/functionality">Functionality</a></li>
-</ul>
+<tr>
+<td><code>urn:3GPP:dash:3dVideoDisparityRange:2013</code></td>
+<td>ETSI TS 26.247, Annex C.4</td>
+<td>The 3D Video Disparity Range description scheme may only be signalled in SupplementalProperty element with SupplementalProperty@schemeIdUri set to urn:3GPP:dash:3dVideoDisparityRange:2013. When present the 3D Video Disparity Range description scheme shall be on the Adaptation Set level.</td>
+</tr>
+</tbody>
+</table>
 
 
   </main>

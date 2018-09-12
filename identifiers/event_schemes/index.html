@@ -150,7 +150,7 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title">Introduction</div>
+      <div class="breadcrumb-title">Event Schemes</div>
       <ol class="breadcrumb">
       
 
@@ -174,7 +174,7 @@
 
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf">Introduction</span>
+  <span class="breadcrumb-leaf">Event Schemes</span>
   
 </li>
 
@@ -190,67 +190,96 @@
 
 <h1 id="introduction">Introduction</h1>
 
-<p>The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH
-profiles, interoperability points, content protection metadata and other DASH
-related specific schemes. DASH-IF responsibilities include:</p>
+<p>Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.</p>
 
-<ol>
-<li>hosting the online catalog on its website, listing all defined URIs along
- with a short descriptions of their schemes and names of their owners,</li>
-<li>providing a simple online mechanism to request the addition of new URIs
- and associated information, and finally</li>
-<li>managing the administration and maintenance of the online catalog.</li>
-</ol>
-
-<p>It is believed that maintaining such a proper online catalog helps the industry
-to increase the interoperability between various industry and consortia
-specifications, which are utilizing the MPEG-DASH standard.</p>
-
-<p>This website provides procedures how to request cataloging the identifier in
-the DASH Identifier Repository and it defines a set of available descriptors
-and schemes identifiers.</p>
-
-<p>In order to exploit synergies, individuals and organizations are encouraged to
-check the catalogue here prior to defining new identifiers. The DASH-IF will
-do its best to support individuals and organizations in this matter.</p>
-
-<h1 id="cataloging-procedures">Cataloging procedures</h1>
-
-<p>In order to add an identifier on this web page, you are encouraged to abide by
-the following terms established by the DASH-IF:</p>
-
-<p>The party requesting an identifier to be added to the catalogue shall:</p>
-
-<ol>
-<li>apply using the <a href="[/identifiers/registration">form and procedures supplied by DASH-IF</a>;</li>
-<li>include a description of the purpose of the proposed identifier, and
- the required technical details as specified in the application form;</li>
-<li>provide contact information describing how a complete description can be
- obtained on a non-discriminatory basis;</li>
-<li>maintain a permanent record of the application form and the notification
- received from DASH-IF.</li>
-</ol>
-
-<p>To register an identifier with this registration authority, please visit the
-<a href="/identifiers/registration">registration page</a>.</p>
-
-<h1 id="identifier-catalog">Identifier catalog</h1>
-
-<p>This catalogue is informative. The normative aspects of the identifiers are
-included the references along with the identifiers. This catalogue will be
-updated with the submission and approval of new identifiers.</p>
+<p>Two ways of signalling events are provided, namely</p>
 
 <ul>
-<li><a href="/identifiers/profiles">Profiles, Interoperability Points and Extensions</a></li>
-<li><a href="/identifiers/protection">Content Protection</a></li>
-<li><a href="/identifiers/video-source-data">Video Source Metadata</a></li>
-<li><a href="/identifiers/audio-source-data">Audio Source Metadata</a></li>
-<li><a href="/identifiers/role-and-accessibility">Role and Accessibility</a></li>
-<li><a href="/identifiers/content-rating">Content Rating</a></li>
-<li><a href="/identifiers/event-schemes">Event Schemes</a></li>
-<li><a href="/identifiers/AAA">Authentication and Authorization</a></li>
-<li><a href="/identifiers/functionality">Functionality</a></li>
+<li><p>MPD events: Events may be signaled in the MPD. A sequence of events assigned to the media presentation time may be provided in the MPD on Period level. Events of the same type are summarized in an Event Stream that is specified by an <strong>EventStream</strong> element in a Period element.</p></li>
+
+<li><p>Inband events: Event Streams may be multiplexed in Representations. The event streams may be present in selected Representations, in one or several selected Adaptation Set only or in all Representations. An inband event stream that is present in a Representation is indicated by an <strong>InbandEventStream</strong> element.</p></li>
 </ul>
+
+<p>Appropriate schemes and identifiers are defined below.</p>
+
+<h1 id="mpd-events">MPD Events</h1>
+
+<p>The following defines a set of URIs that identify MPD events, i.e., schemes contained in the <strong>EventStream</strong> element:</p>
+
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>urn:scte:scte35:2013:xml</code></td>
+<td>see SCTE 35 2013a [5], 5.10.4 and later and SCTE 214-1 [X], section 6.7.4</td>
+<td>XML representation of SCTE 35 message</td>
+</tr>
+
+<tr>
+<td><code>https://dashif.org/identifiers/vast30</code></td>
+<td>DASH-IF IOP [15], clause 5.6</td>
+<td>Defines signaling for MPD events containing VAST3.0</td>
+</tr>
+
+<tr>
+<td><code>urn:dvb:iptv:cpm:2014</code></td>
+<td>ETSI TS 103 285, 9.1.2.1</td>
+<td>Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="dash-inband-events">DASH Inband Events</h1>
+
+<p>The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the <strong>InbandEventStream</strong> element:</p>
+
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>urn:mpeg:dash:event:2012</code></td>
+<td>ISO/IEC 23009-1 [5], 5.10.4</td>
+<td>This URI is defined to identify DASH specific events that are of relevance for the DASH client.</td>
+</tr>
+
+<tr>
+<td><code>urn:dvb:iptv:cpm:2014</code></td>
+<td>ETSI TS 103 285, 9.1.2.1</td>
+<td>Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="other-inband-events">Other Inband Events</h1>
+
+<p>The following defines a set of URIs that identify specific inband event schemes, i.e., schemes contained in the <strong>InbandEventStream</strong> element:</p>
+
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
+
+<tbody>
+</tbody>
+</table>
 
 
   </main>

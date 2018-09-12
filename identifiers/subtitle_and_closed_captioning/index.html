@@ -150,7 +150,7 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title">Introduction</div>
+      <div class="breadcrumb-title">Subtitle and Closed Captioning</div>
       <ol class="breadcrumb">
       
 
@@ -174,7 +174,7 @@
 
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf">Introduction</span>
+  <span class="breadcrumb-leaf">Subtitle and Closed Captioning</span>
   
 </li>
 
@@ -190,67 +190,29 @@
 
 <h1 id="introduction">Introduction</h1>
 
-<p>The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH
-profiles, interoperability points, content protection metadata and other DASH
-related specific schemes. DASH-IF responsibilities include:</p>
+<p>Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.</p>
 
-<ol>
-<li>hosting the online catalog on its website, listing all defined URIs along
- with a short descriptions of their schemes and names of their owners,</li>
-<li>providing a simple online mechanism to request the addition of new URIs
- and associated information, and finally</li>
-<li>managing the administration and maintenance of the online catalog.</li>
-</ol>
+<h1 id="identifiers">Identifiers</h1>
 
-<p>It is believed that maintaining such a proper online catalog helps the industry
-to increase the interoperability between various industry and consortia
-specifications, which are utilizing the MPEG-DASH standard.</p>
+<p>Signalling for the closed caption services is provided by including <strong>Accessibility</strong> descriptors. The <strong>Accessibility</strong>  descriptor is included for the <strong>AdaptationSet</strong> and all included <strong>Representations</strong> shall provide  equivalent captions. The <strong>@value</strong> attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</p>
 
-<p>This website provides procedures how to request cataloging the identifier in
-the DASH Identifier Repository and it defines a set of available descriptors
-and schemes identifiers.</p>
+<table>
+<thead>
+<tr>
+<th>Identifier</th>
+<th>Reference</th>
+<th>Abstract</th>
+</tr>
+</thead>
 
-<p>In order to exploit synergies, individuals and organizations are encouraged to
-check the catalogue here prior to defining new identifiers. The DASH-IF will
-do its best to support individuals and organizations in this matter.</p>
-
-<h1 id="cataloging-procedures">Cataloging procedures</h1>
-
-<p>In order to add an identifier on this web page, you are encouraged to abide by
-the following terms established by the DASH-IF:</p>
-
-<p>The party requesting an identifier to be added to the catalogue shall:</p>
-
-<ol>
-<li>apply using the <a href="[/identifiers/registration">form and procedures supplied by DASH-IF</a>;</li>
-<li>include a description of the purpose of the proposed identifier, and
- the required technical details as specified in the application form;</li>
-<li>provide contact information describing how a complete description can be
- obtained on a non-discriminatory basis;</li>
-<li>maintain a permanent record of the application form and the notification
- received from DASH-IF.</li>
-</ol>
-
-<p>To register an identifier with this registration authority, please visit the
-<a href="/identifiers/registration">registration page</a>.</p>
-
-<h1 id="identifier-catalog">Identifier catalog</h1>
-
-<p>This catalogue is informative. The normative aspects of the identifiers are
-included the references along with the identifiers. This catalogue will be
-updated with the submission and approval of new identifiers.</p>
-
-<ul>
-<li><a href="/identifiers/profiles">Profiles, Interoperability Points and Extensions</a></li>
-<li><a href="/identifiers/protection">Content Protection</a></li>
-<li><a href="/identifiers/video-source-data">Video Source Metadata</a></li>
-<li><a href="/identifiers/audio-source-data">Audio Source Metadata</a></li>
-<li><a href="/identifiers/role-and-accessibility">Role and Accessibility</a></li>
-<li><a href="/identifiers/content-rating">Content Rating</a></li>
-<li><a href="/identifiers/event-schemes">Event Schemes</a></li>
-<li><a href="/identifiers/AAA">Authentication and Authorization</a></li>
-<li><a href="/identifiers/functionality">Functionality</a></li>
-</ul>
+<tbody>
+<tr>
+<td><code>urn:scte:dash:cc:cea-608:2015</code></td>
+<td>DASH-IF IOP v3.3, Section 6.4.3.3</td>
+<td>Used for signaling of CEA-608 caption services. The Accessibility descriptor shall be provided with @schemeIdURI set to urn:scte:dash:cc:cea-608:2015, and an optional @value attribute to describe the captions. If the @value attribute is not present, the Representation contains a CEA-608 based closed captioning service. The options for the @value attribute is further described in the reference.</td>
+</tr>
+</tbody>
+</table>
 
 
   </main>

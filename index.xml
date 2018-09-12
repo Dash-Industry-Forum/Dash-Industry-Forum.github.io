@@ -85,6 +85,28 @@ Associate Membership Agreement
     </item>
     
     <item>
+      <title>Audio Source Metadata</title>
+      <link>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</guid>
+      <description>Introduction Audio source data may be used in order to provide details of the audio content source. In general, such characteristics of audio are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.
+In the context of DASH as specific source descriptor exists, namely AudioConfiguration identifies channel configuration signaling for Representations that contain an audio component.</description>
+    </item>
+    
+    <item>
+      <title>Authentication and Authorization</title>
+      <link>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</guid>
+      <description> Introduction Authentication and authorization may be provided in the MPD.
+Authentication Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
+   Identifier Reference Abstract     urn: see Authentication    Authorization Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
+   Identifier Reference Abstract     urn: see Authorization    </description>
+    </item>
+    
+    <item>
       <title>Clients</title>
       <link>https://dash-industry-forum.github.io/clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,6 +149,25 @@ For Representations based on ISO/IEC 14496-12 [6] a content protection scheme us
       <description>Introduction Content Rating may be provided in the MPD.
 Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
    Identifier Reference Abstract     urn:dvb:iptv:guidance:2014 ETSI TS 103 285, clause 9.1.2.3 “urn:dvb:iptv:guidance:2014” where the id is either:‘G’ indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element.</description>
+    </item>
+    
+    <item>
+      <title>Event Schemes</title>
+      <link>https://dash-industry-forum.github.io/identifiers/event_schemes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/event_schemes/</guid>
+      <description>Introduction Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.
+Two ways of signalling events are provided, namely</description>
+    </item>
+    
+    <item>
+      <title>Functionality</title>
+      <link>https://dash-industry-forum.github.io/identifiers/functionality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/functionality/</guid>
+      <description>Functionality    Identifier Reference Abstract     https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2, clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI “https://dashif.org/guidelines/trickmode” then the DASH client shall not select any of the contained Representations for regular playout.   https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2, clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
     </item>
     
     <item>
@@ -186,6 +227,28 @@ Such a profile can also be understood as permission for DASH clients that implem
     </item>
     
     <item>
+      <title>References</title>
+      <link>https://dash-industry-forum.github.io/identifiers/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/references/</guid>
+      <description>References [1] ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Cor.1 (available as w13495)
+[2] 3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
+[3] DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
+[4] ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>
+    </item>
+    
+    <item>
+      <title>Reporting Schemes</title>
+      <link>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</guid>
+      <description> Introduction Reporting scheme may be provided in the MPD.
+Reporting Schemes    Identifier Reference Abstract     urn:dvb:dash:reporting:2014 ETSI TS 103 285, clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285.   urn:3GPP:ns:PSS:DASH:QM10 3GPP TS 26.247, clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10”    </description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://dash-industry-forum.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -194,6 +257,26 @@ Such a profile can also be understood as permission for DASH clients that implem
       <description>A number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.
 Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
 The framework source code is downloadable from our Github repository at https://github.</description>
+    </item>
+    
+    <item>
+      <title>Subtitle and Closed Captioning</title>
+      <link>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</guid>
+      <description>Introduction Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.
+Identifiers Signalling for the closed caption services is provided by including Accessibility descriptors. The Accessibility descriptor is included for the AdaptationSet and all included Representations shall provide equivalent captions. The @value attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</description>
+    </item>
+    
+    <item>
+      <title>Video Source Metadata</title>
+      <link>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</guid>
+      <description>Introduction Video source data may be used in order to provide details of the video content source. In general, such characteristics of video are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.
+In the context of DASH as specific source descriptor exists, namely FramePacking used to identify the frame-packing configuration scheme employed.</description>
     </item>
     
   </channel>

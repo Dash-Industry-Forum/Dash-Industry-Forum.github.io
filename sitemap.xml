@@ -31,6 +31,14 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -49,6 +57,14 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/content_rating/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/event_schemes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/functionality/</loc>
   </url>
   
   <url>
@@ -81,12 +97,28 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/references/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</loc>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</loc>
   </url>
   
 </urlset>
