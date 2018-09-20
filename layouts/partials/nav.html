@@ -5,14 +5,14 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav nav-menu">
       {{ $currentPage := . }}
-      {{ range sort .Site.Menus.main "Title" }}
+      {{ range sort .Site.Menus.main "Weight" }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span>{{ .Name }}</span>
           </a>
           <ul class="dropdown-menu nav-sub-menu" aria-labelledby="navbarDropdownMenuLink">
-            {{ range .Children }}
+            {{ range sort .Children "Weight" }}
 	    <li>
               <a class="dropdown-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
             </li>

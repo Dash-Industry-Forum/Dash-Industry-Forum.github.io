@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "Members"
+weight: 6
 ---
 Would you like to join? If so, find out about our <a href="https://dash-industry-forum.github.io/membership/">membership levels, fees and IPR policy</a>.
 

@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "Guidelines"
+weight: 3
 ---
 
 # Completed DASH-IF Interoperability Documents

@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "Academic"
+weight: 7
 ---
 The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
 
