@@ -11,6 +11,115 @@
     
     
     <item>
+      <title>Introduction</title>
+      <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/introduction/</guid>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:
+ hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
+      <description>New identifiers can be registered at this link.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dash-industry-forum.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/about/</guid>
+      <description>In April 2012, ISO, the international standards body which had already given us the core media foundations of MPEG-2, MP3 and MP4, finally ratified the version of its next generation adaptive streaming standard: MPEG-DASH. In an industry besieged by three comparable (but incompatible) segmented formats many asked – why another? The participating companies in the MPEG-DASH standardization (including Microsoft, Apple, Netflix, Qualcomm, Ericsson, Samsung, and many others) saw a vision of interoperability and convergence required for large-scale market growth that trumped the proprietary and competing solutions.</description>
+    </item>
+    
+    <item>
+      <title>Guidelines</title>
+      <link>https://dash-industry-forum.github.io/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/guidelines/</guid>
+      <description>Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.g, request for clarifications or bugs. For this purpose, please use the Github bug tracker cited along with the documents.
+DASH-IF Interoperability Points and Extensions Latest Version:
+ Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes | (Bugtracker) | (diff to v4.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://dash-industry-forum.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/members/</guid>
+      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
+Charter Members         Contributor Members                                              Associate Members                              </description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://dash-industry-forum.github.io/academic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/academic/</guid>
+      <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
+ identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://dash-industry-forum.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/software/</guid>
+      <description>A number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.
+Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
+The framework source code is downloadable from our Github repository at https://github.</description>
+    </item>
+    
+    <item>
+      <title>Clients</title>
+      <link>https://dash-industry-forum.github.io/clients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/clients/</guid>
+      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
+ Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://dash-industry-forum.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/</guid>
+      <description>February 22, 2017 The State of MPEG-DASH 2017, streamingmediaglobal.com
+March 30, 2016 The State of MPEG-DASH 2016, streamingmedia.com
+Dec 10th, 2015 DASH-IF Content Protection Information Exchange Format (CPIX) v2.0 open for Community Review
+Sep 1st, 2015 DASH IF Interop Guidelines 3.2 released
+July 8, 2015 Hulu’s Move to DASH, streamingmediaglobal.com
+March 14, 2015 The State of MPEG-DASH 2015, streamingmedia.com
+October 2, 2014 IBC Attendees Move in Unison to the Next Big Thing, streamingmedia.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dash-industry-forum.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/contact/</guid>
+      <description>The DASH-IF mailing address is:
+3855 SW 153rd Dr.
+Beaverton, OR 97003
+USA
+For general enquiries, please use this email address:
+If you wish to send a formal liaison communication, then please contact our Liaison Officer William Frantz at</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/excellence-in-dash-award-acm-mmsys-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -66,25 +175,6 @@ Associate Membership Agreement
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://dash-industry-forum.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/about/</guid>
-      <description>In April 2012, ISO, the international standards body which had already given us the core media foundations of MPEG-2, MP3 and MP4, finally ratified the version of its next generation adaptive streaming standard: MPEG-DASH. In an industry besieged by three comparable (but incompatible) segmented formats many asked – why another? The participating companies in the MPEG-DASH standardization (including Microsoft, Apple, Netflix, Qualcomm, Ericsson, Samsung, and many others) saw a vision of interoperability and convergence required for large-scale market growth that trumped the proprietary and competing solutions.</description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://dash-industry-forum.github.io/academic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/academic/</guid>
-      <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
- identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
-    </item>
-    
-    <item>
       <title>Audio Source Metadata</title>
       <link>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,30 +194,6 @@ In the context of DASH as specific source descriptor exists, namely AudioConfigu
 Authentication Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
    Identifier Reference Abstract     urn: see Authentication    Authorization Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
    Identifier Reference Abstract     urn: see Authorization    </description>
-    </item>
-    
-    <item>
-      <title>Clients</title>
-      <link>https://dash-industry-forum.github.io/clients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/clients/</guid>
-      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
- Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://dash-industry-forum.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/contact/</guid>
-      <description>The DASH-IF mailing address is:
-3855 SW 153rd Dr.
-Beaverton, OR 97003
-USA
-For general enquiries, please use this email address:
-If you wish to send a formal liaison communication, then please contact our Liaison Officer William Frantz at</description>
     </item>
     
     <item>
@@ -171,52 +237,6 @@ Two ways of signalling events are provided, namely</description>
     </item>
     
     <item>
-      <title>Guidelines</title>
-      <link>https://dash-industry-forum.github.io/guidelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/guidelines/</guid>
-      <description>Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.g, request for clarifications or bugs. For this purpose, please use the Github bug tracker cited along with the documents.
-DASH-IF Interoperability Points and Extensions Latest Version:
- Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes | (Bugtracker) | (diff to v4.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/identifiers/introduction/</guid>
-      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:
- hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>https://dash-industry-forum.github.io/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/members/</guid>
-      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
-Charter Members         Contributor Members                                              Associate Members                              </description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://dash-industry-forum.github.io/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>February 22, 2017 The State of MPEG-DASH 2017, streamingmediaglobal.com
-March 30, 2016 The State of MPEG-DASH 2016, streamingmedia.com
-Dec 10th, 2015 DASH-IF Content Protection Information Exchange Format (CPIX) v2.0 open for Community Review
-Sep 1st, 2015 DASH IF Interop Guidelines 3.2 released
-July 8, 2015 Hulu’s Move to DASH, streamingmediaglobal.com
-March 14, 2015 The State of MPEG-DASH 2015, streamingmedia.com
-October 2, 2014 IBC Attendees Move in Unison to the Next Big Thing, streamingmedia.</description>
-    </item>
-    
-    <item>
       <title>Profiles</title>
       <link>https://dash-industry-forum.github.io/identifiers/profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -239,15 +259,6 @@ Such a profile can also be understood as permission for DASH clients that implem
     </item>
     
     <item>
-      <title>Registration</title>
-      <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
-      <description>New identifiers can be registered at this link.</description>
-    </item>
-    
-    <item>
       <title>Reporting Schemes</title>
       <link>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -255,17 +266,6 @@ Such a profile can also be understood as permission for DASH clients that implem
       <guid>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</guid>
       <description> Introduction Reporting scheme may be provided in the MPD.
 Reporting Schemes    Identifier Reference Abstract     urn:dvb:dash:reporting:2014 ETSI TS 103 285, clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285.   urn:3GPP:ns:PSS:DASH:QM10 3GPP TS 26.247, clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10”    </description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://dash-industry-forum.github.io/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/software/</guid>
-      <description>A number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.
-Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
-The framework source code is downloadable from our Github repository at https://github.</description>
     </item>
     
     <item>

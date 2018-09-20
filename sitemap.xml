@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/guidelines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/academic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/clients/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/excellence-in-dash-award-acm-mmsys-2016/</loc>
   </url>
   
@@ -23,14 +63,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/academic/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</loc>
   </url>
   
@@ -41,14 +73,6 @@
   <url>
     <loc>https://dash-industry-forum.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/clients/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/contact/</loc>
   </url>
   
   <url>
@@ -68,28 +92,12 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/guidelines/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/</loc>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/identifiers/introduction/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/members/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/news/</loc>
   </url>
   
   <url>
@@ -101,15 +109,7 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/software/</loc>
   </url>
   
   <url>

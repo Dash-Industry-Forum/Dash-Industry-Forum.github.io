@@ -11,6 +11,25 @@
     
     
     <item>
+      <title>Introduction</title>
+      <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/introduction/</guid>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:
+ hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
+      <description>New identifiers can be registered at this link.</description>
+    </item>
+    
+    <item>
       <title>Audio Source Metadata</title>
       <link>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,16 +92,6 @@ Two ways of signalling events are provided, namely</description>
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/identifiers/introduction/</guid>
-      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:
- hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
-    </item>
-    
-    <item>
       <title>Profiles</title>
       <link>https://dash-industry-forum.github.io/identifiers/profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -102,15 +111,6 @@ Such a profile can also be understood as permission for DASH clients that implem
 [2] 3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
 [3] DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
 [4] ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
-      <description>New identifiers can be registered at this link.</description>
     </item>
     
     <item>
