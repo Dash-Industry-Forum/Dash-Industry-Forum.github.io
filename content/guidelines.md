@@ -34,7 +34,7 @@ cited along with the documents.
 
 **Latest Version:**
 
-* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/Index.html)| ([PDF](https://dash-industry-forum.github.io/docs/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/cpix.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
+* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html)| ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 
 The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.
 The document provides the following extensions to v2.0:
