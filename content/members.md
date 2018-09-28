@@ -32,7 +32,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.edgeware.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Edgeware_Logo_website.png" alt="" /></a>
 <a href="http://www.elementaltechnologies.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Elemental_Logo_COLOR_PPT_website.png" alt="" />      </a>
 src="https://dash-industry-forum.github.io/img/new-ez-logo-full color with tagline.png" alt="" /></a>
- <a href="http://www.ezdrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/new-ez-logo-full color with tagline.png" alt="" />      </a>
+ <a href="http://www.ezdrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/static/img/new-ez-logo-full color with tagline.png" alt="" />      </a>
 <a href="http://www.fraunhofer.de/en.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/fraunhofer.jpg" alt="" /></a>
 <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="" /></a>
 <a href="http://www.haivision.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/haivision.jpg" alt="" /></a>
