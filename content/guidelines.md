@@ -171,7 +171,7 @@ comments have been addressed.
 * [DASH-IF position Paper: DASH-IF Position Paper: Server and Network
   Assisted DASH (SAND)](https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf) (500k PDF)
 * [DASH-IF position Paper: Proposed QoE Media Metrics standardization for
-  segmented media playback](https://dash-industry-forum.github.io/docs/proposedmediametricsforsegmentedmediadelivery-r12.pdf) (1M PDF)
+  segmented media playback](https://dash-industry-forum.github.io/docs/ProposedMediaMetricsforSegmentedMediaDelivery-r12.pdf) (1M PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
   Material](https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf) (2M PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
