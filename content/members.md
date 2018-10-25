@@ -73,7 +73,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <div class="member"><a href="https://anevia.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Anevia_logo_website.png" alt="" />    </a>
 <a href="http://www.axinom.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/axinom.jpg" alt="" />    </a>
 <a href="http://www.bitmovin.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/bitmovin_logo_website.png" alt="" />    </a>
-<a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/blob/hugo/static/img/Logotype%20Broadpeak%20rgb_website.png" alt="" /></a>
+<a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Logotype_Broadpeak_rgb_website.png" alt="" /></a>
 <a href="https://www.buydrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/BuyDRM_logo_website.png" alt="" /></a>
 <a href="http://www.cliplister.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Cliplister_logo_website.png" alt="" /></a>
 <a href="http://www.dveo.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/DVEO-Logo-2015_website.png" alt="" /></a>
