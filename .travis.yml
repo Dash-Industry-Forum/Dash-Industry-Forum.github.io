@@ -17,6 +17,14 @@ cache:
   directories:
     - "node_modules"
 
+notifications:
+  email:
+    recipients:
+      - emmanuel.thomas@tno.nl
+      - wilaw@akamai.com
+    on_success: never # default: change
+    on_failure: always # default: always
+
 deploy:
   provider: pages
   skip-cleanup: true
