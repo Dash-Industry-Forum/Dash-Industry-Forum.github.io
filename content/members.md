@@ -90,7 +90,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://nomor.de/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/nomor_logo_website_05292015.png" alt="" /></a>
 <a href="https://www.theoplayer.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/THEOplayer_Logo_website_v4.png" alt="" /></a> 
 <a href="http://www.realeyes.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/RealEyes_Logo_website_052915.png" alt="" />   </a>
-<a href="http://www.solekai.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/solekai.jpg" alt="" /></a>
+<a href="http://www.solekai.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/solekai-fairway-vertical_website.png" alt="" /></a>
 <a href="http://www.squadeo.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Squadeo-logo_website.png" alt="" /></a>
 <a href="https://www.streamone.nl/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img//StreamOne-logo-uitsn_website.png" alt="" /></a>
 <a href="http://www.streamroot.io/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/logo-streamroot_website.jpg" alt="" /></a>
