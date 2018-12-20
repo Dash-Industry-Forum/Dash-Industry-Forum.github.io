@@ -17,7 +17,7 @@ cited along with the documents.
 
 **Latest Version:**
 
-* [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-4.2.pdf)) | ([Online version](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/blob/hugo/content/DASH-IF-IOP-v4.3.mht))
+* [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-4.2.pdf)) | ([Online version](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/docs/DASH-IF-IOP-v4.3.mht))
 
 **Previous Versions:**
 
