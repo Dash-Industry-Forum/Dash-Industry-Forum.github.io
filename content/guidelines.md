@@ -106,7 +106,7 @@ Comments and bugs may be submitted through the [public github repository](https:
 
 ### Latest Version:
 
-Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)
+Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf])(https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)
 
 ### Previous Version:
 
