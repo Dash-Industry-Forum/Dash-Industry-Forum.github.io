@@ -15,7 +15,7 @@ cited along with the documents.
 
 ## DASH-IF Interoperability Points and Extensions
 
-### Scope
+**Scope**
 
 The scope of the DASH-IF InterOperability Points (IOPs) defined in this document is to provide support for high-quality video distribution for over the top services using H.264/AVC and H.265/HEVC. Both live and on-demand services are supported. The specified features enable relevant use cases including on-demand, live services, ad insertion, trick modes, seek preview, content protection and subtitling. Exten-sions for multi-channel audio and next generation audio with different codecs as well as extensions to video different codecs and Ultra High Definition are defined.
 
@@ -23,11 +23,11 @@ Any identified bugs or missing features may be submitted through the DASH-IF iss
 
 Note that version 4.3 is published as an add on to v4.2, but with the next version it is expected that a either a multipart version or a restructured version will be generated, with a major editorial updates. The new version is expected to be available by spring of 2019.
 
-### Latest Version
+**Latest Version**
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf))
 
-### Previous Versions:
+**Previous Versions**
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.1](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-diff-4.1.pdf)) | ([Online version](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.htm))
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.1: Robust Live, Seek Preview, Content Annotation, New Media Codecs and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.1-clean.pdf)
@@ -41,13 +41,13 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 
 ## DASH-IF Content Protection Information Exchange Format
 
-### Scope
+**Scope**
 
 The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.
 
-### Latest Version:
+**Latest Version:**
 
-* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html)| ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
+DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html)| ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 
 The document provides the following extensions to v2.0:
 
@@ -56,7 +56,7 @@ The document provides the following extensions to v2.0:
 * Clarifications on the usage of @label attribute
 * Typos and drawings update for finalizing the migration to HTML
 
-### Previous Versions
+**Previous Versions**
 
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
   Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
@@ -65,13 +65,13 @@ The document provides the following extensions to v2.0:
 
 ## Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0
 
-### Scope
+**Scope**
 
 The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.
 
 Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/ATSC).
 
-### Latest Version:
+**Latest Version:**
 
 Version 1.1: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf) | [diff to v1.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1-diff-v1.0.pdf))
 
@@ -88,13 +88,13 @@ This updated version adds the following aspects:
 * Update to xlink behavior in clause 5.1
 * Miscellaneous editorial updates
 
-### Previous Versions
+**Previous Versions**
 
 * [Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf)
 
 ## Guidelines for Implementation: DASH-IF SAND Interoperability
 
-### Scope
+**Scope**
 
 The scope of this document is to address interoperability aspects and deployment guidelines for Server and Network Assisted DASH (SAND). More specifically, the following aspects of SAND are covered:
 •	Modes defining subsets of SAND messages and mandatory SAND protocols to use for specific deployment environments
@@ -104,7 +104,7 @@ The scope of this document is to address interoperability aspects and deployment
 
 Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/SAND)
 
-### Latest Version:
+**Latest Version**
 
 Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf])(https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)
 
