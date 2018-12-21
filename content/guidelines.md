@@ -108,8 +108,6 @@ Comments and bugs may be submitted through the [public github repository](https:
 
 Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf])(https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)
 
-### Previous Version:
-
 
 ## DASH-IF Test cases and Vectors
 
