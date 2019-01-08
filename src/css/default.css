@@ -113,9 +113,9 @@ p {
   font-weight: 200;
 }
 
-.carousel-slide-title:hover {
-  color: yellow;
-}
+.carousel-slide-title a { text-decoration: none; }
+.carousel-slide-title a:hover {text-decoration: none;  color: yellow;}
+
 
 .carousel-caption-right {
   padding-left: 35%;
