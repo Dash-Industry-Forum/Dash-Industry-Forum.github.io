@@ -111,7 +111,10 @@ p {
   color: white;
   margin: 0px;
   font-weight: 200;
-  text-decoration: none;
+}
+
+.carousel-slide-title:hover {
+  color: yellow;
 }
 
 .carousel-caption-right {
