@@ -5,13 +5,14 @@
     {{ end }}
   </ol>
 
-  <div class="carousel-inner" onclick="location.href='{{ .link }}'">
+  <div class="carousel-inner">
     {{ range sort $.Site.Data.carousel "position" }}
      
     <div class="carousel-item {{ if eq .position 0 }}active{{ end }} carousel-slide-img" {{ if .pictureUrl }} style="background: url({{ .pictureUrl }})" {{ end }}>
       <div class="carousel-caption {{ if .pictureUrl }} carousel-caption-right {{ end }}">
-      
+        <a href="{{ .link }}">
         <div class="mt-0 carousel-slide-title">{{ .title }}</div>
+        </a>
         <p>{{ .text | markdownify }}</p>
         
       </div>
