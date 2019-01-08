@@ -111,6 +111,7 @@ p {
   color: white;
   margin: 0px;
   font-weight: 200;
+  text-decoration: none;
 }
 
 .carousel-caption-right {
