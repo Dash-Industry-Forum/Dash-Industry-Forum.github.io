@@ -91,30 +91,21 @@ p {
   margin-right: auto;
 }
 
-.carousel-slide-img {
-  height: 300px;
-  background-color: #0165FF !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-size: contain !important;
-  padding-left: 15%;
-  padding-right: 55%;
-  padding-bottom: 5%;
-  padding-top: 5%;
-  background-origin: content-box !important;
-}
-
 .carousel-slide-title {
   font-size: xx-large;
   font-family: 'Raleway', sans-serif;
-  margin-left: 1em;
-  color: white;
-  margin: 0px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
-.carousel-slide-title:hover {text-decoration: none;  color: yellow; font-weight: bold;}
+.carousel-svg {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
 
+.carousel-link:hover {
+  text-decoration: none;
+}
 
 .carousel-caption-right {
   padding-left: 35%;

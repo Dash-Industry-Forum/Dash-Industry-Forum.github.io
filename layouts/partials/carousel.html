@@ -1,4 +1,4 @@
-<div id="carouselNews" class="carousel slide" data-ride="carousel">
+<div id="carouselNews" class="carousel slide" data-ride="carousel" data-interval="4000">
   <ol class="carousel-indicators">
     {{ range sort $.Site.Data.carousel "position" }}
     <li data-target="#carouselNews" data-slide-to="{{ .position }}" class="{{ if eq .position 0 }}active{{ end }}"></li>
@@ -8,14 +8,30 @@
   <div class="carousel-inner">
     {{ range sort $.Site.Data.carousel "position" }}
      
-    <div class="carousel-item {{ if eq .position 0 }}active{{ end }} carousel-slide-img" {{ if .pictureUrl }} style="background: url({{ .pictureUrl }})" {{ end }}>
-      <div class="carousel-caption {{ if .pictureUrl }} carousel-caption-right {{ end }}">
-        <a href="{{ .link }}">
-        <div class="mt-0 carousel-slide-title">{{ .title }}</div>
+    <div class="carousel-item {{ if eq .position 0 }}active{{ end }}">
+      <svg class="carousel-svg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Carousel item">
+        <title>Carousel Item</title>
+        <a class="carousel-link" href="{{ .link }}">
+          <rect fill="#0165FF" width="100%" height="100%"/>
+          <text class="carousel-slide-title" text-anchor="middle" fill="white" dy=".3em" x="50%" y="30%">
+            {{ .title }}
+          </text>
+          {{ if .pictureUrl }}
+          <image x="0" y="40%" xlink:href="{{ .pictureUrl }}" width="100%" height="40%" preserveAspectRatio="xMidYMid meet"/>
+          {{ else }}
+          <text text-anchor="middle" fill="white" >
+            {{ range $idx, $line := split .text "\n" }}
+              <tspan y="50%" x="50%" dy="{{mul $idx 1.2}}em">{{$line}}</tspan>
+            {{ end }}
+          </text>
+          {{ end }}
         </a>
-        <p>{{ .text | markdownify }}</p>
-        
+      </svg>
+      {{ if .pictureUrl }}
+      <div class="carousel-caption d-none d-md-block">
+        {{ .text }}
       </div>
+      {{ end }}
     </div>
       
     {{ end }}
