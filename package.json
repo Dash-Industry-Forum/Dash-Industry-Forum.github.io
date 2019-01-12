@@ -9,7 +9,7 @@
   "author": "Emmanuel Thomas",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.1.2",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
