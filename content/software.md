@@ -46,7 +46,7 @@ Available at https://cpix-validator.azurewebsites.net/, this tool validates the 
 
 ## Sample players
 
-* dash.js, an open source and free MSE/EME player that also functions as the reference client for DASH IF. Sample players available at https://dashif.org/reference/players/javascript/index.html and the source code is downloadable from the Github repository at https://github.com/Dash-Industry-Forum/dash.js.
+* dash.js, an open source and free MSE/EME player that also functions as the reference client for DASH IF. The reference player is available at https://reference.dashif.org/dash.js/, additional samples at https://reference.dashif.org/dash.js/latest/samples/index.html and the source code and wiki from the Github repository at https://github.com/Dash-Industry-Forum/dash.js.
 * Shaka player, an open source player provided by Google https://shaka-player-demo.appspot.com/
 * Bitmovin player - a commercial player with a public test suite at https://bitmovin.com/demos/stream-test
 * GPAC – a DASH client is provided under both an open-source LGPL license (available at https://gpac.io.) and a commercial license (available at https://www.gpac-licensing.com).
