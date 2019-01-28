@@ -25,19 +25,19 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 
 **Latest Version**
 
-* [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf))
+* [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 **Previous Versions**
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.1](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-diff-4.1.pdf)) | ([Online version](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.htm))
-* [Guidelines for Implementation: DASH-IF Interoperability Points V4.1: Robust Live, Seek Preview, Content Annotation, New Media Codecs and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.1-clean.pdf)
-* [Guidelines for Implementation: DASH-IF Interoperability Points V4.0: UHD Video and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.0-clean.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v3.3](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.0-diff-3.3.pdf))
+* [Guidelines for Implementation: DASH-IF Interoperability Points V4.1: Robust Live, Seek Preview, Content Annotation, New Media Codecs and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.1-clean.pdf) | [License declarations](https://dashif.org/ipr-declarations/)
+* [Guidelines for Implementation: DASH-IF Interoperability Points V4.0: UHD Video and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.0-clean.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v3.3](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.0-diff-3.3.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 * [Guidelines for Implementation: DASH-IF Interoperability Points V3.3: Alignment with MPEG-DASH, Guidelines on keys and other corrections](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.3.pdf)| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v3.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.3-diff-v3.2.pdf))
 * [Guidelines for Implementation: DASH-IF Interoperability Points V3.2: Addition of Adaptation Set Switching, HTTPS Guidelines, Key Rotation and MPEG-H Audio](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.2.pdf)| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v3.1](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.2-diff-3.1.pdf))
 * [Guidelines for Implementation: DASH-IF Interoperability Points V3.1: Addition of CEA608/708, IMSC1, AC-4](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.1.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP))
-* [Guidelines for Implementation: DASH-AVC/264 Interoperability Points V3.0: DRM updates, Improved Live, Ad Insertion, Events, HEVC support, Trick Modes, CEA608/708](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.0.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP))
+* [Guidelines for Implementation: DASH-AVC/264 Interoperability Points V3.0: DRM updates, Improved Live, Ad Insertion, Events, HEVC support, Trick Modes, CEA608/708](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v3.0.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | [License declarations](https://dashif.org/ipr-declarations/)
 * [Guidelines for Implementation: DASH-AVC/264 Interoperability Points V2.0: HD and Multi-Channel Audio Extensions](https://dash-industry-forum.github.io/docs/DASH-AVC-264-v2.00-hd-mca.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP))
-* [Guidelines for Implementation: DASH-AVC/264 Interoperability Points V1.0](https://dash-industry-forum.github.io/docs/DASH-AVC-264-base-v1.03.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP))
+* [Guidelines for Implementation: DASH-AVC/264 Interoperability Points V1.0](https://dash-industry-forum.github.io/docs/DASH-AVC-264-base-v1.03.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## DASH-IF Content Protection Information Exchange Format
 
@@ -90,7 +90,7 @@ This updated version adds the following aspects:
 
 **Previous Versions**
 
-* [Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf)
+* [Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## Guidelines for Implementation: DASH-IF SAND Interoperability
 
@@ -106,7 +106,7 @@ Comments and bugs may be submitted through the [public github repository](https:
 
 **Latest Version**
 
-Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf))
+Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 
 ## DASH-IF Test cases and Vectors
@@ -150,6 +150,7 @@ comments have been addressed.
   to obtain AA Tokens but it does define the access token format for accessing
   DASH resources, hence ensuring interoperability between content providers
   and content delivery networks.
+* [License declarations](https://dashif.org/ipr-declarations/)
 
 ## DASH-IF Conformance Software
 
