@@ -6,7 +6,7 @@ before_script:
   - npm install gulp-cli
   - travis_retry sudo apt-get update -qq
   - travis_retry sudo apt-get install -y snapd
-  - sudo snap install hugo --classic
+  - sudo snap install hugo
 
 script:
  - gulp
