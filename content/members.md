@@ -45,7 +45,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://irdeto.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/irdeto.jpg" alt="" /></a>
 <a href="http://www.kaltura.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/kalturalogo.jpg" alt="" /></a>
 <a href="http://www.lg.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/logo_LG_website.png" alt="" width="193" height="150" /></a>
-<a href="http://www.maxdome.de/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Maxdome_Logo_RGB_website.png" alt="" /></a>
 <a href="http://www.nagra.com/cms/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/nagra.jpg" alt="" /></a>
 <a href="https://signup.netflix.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/netflox.jpg" alt="" /></a>
 <a href="http://www.neulion.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/NL_black_website.png" alt="" /></a>
