@@ -148,23 +148,6 @@ comments have been addressed.
 * This addition adds the following main features: Clarifies how to handle
   leap seconds and how to avoid common pitfalls
 
-## DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC) v1.0
-
-* The document for 2nd Community Review is accessible [here](https://dash-industry-forum.github.io/docs/DASH-TAC-v0.9.pdf)
-* Community review is open until March 31st, 2018. Publication is expected by Q4/2018.
-* Comments may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/TAC)
-* The scope of this document is to define a token-based access control
-  mechanism and enabling the signaling of authentication and authorization (AA)
-  protocols for DASH-based video streaming. An access token is a proof that a
-  DASH client or user of the clients have been successfully authenticated and
-  authorized, respectively, in some pre-determined AA Systems to access a
-  particular DASH resource, e.g. DASH segments or MPDs. This document remains
-  agnostic on what AA Systems and protocols are actually used for DASH clients
-  to obtain AA Tokens but it does define the access token format for accessing
-  DASH resources, hence ensuring interoperability between content providers
-  and content delivery networks.
-* [License declarations](https://dashif.org/ipr-declarations/)
-
 ## DASH-IF Conformance Software
 
 * [DASH-AVC/264 Online Conformance Tool](https://conformance.dashif.org/conformancetest.html)
