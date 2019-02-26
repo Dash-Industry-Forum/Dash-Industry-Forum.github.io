@@ -37,7 +37,7 @@ the following terms established by the DASH-IF:
 
 The party requesting an identifier to be added to the catalogue shall:
 
-  1. apply using the [form and procedures supplied by DASH-IF]([/identifiers/registration);
+  1. apply using the [form and procedures supplied by DASH-IF](/identifiers/registration)
   2. include a description of the purpose of the proposed identifier, and
      the required technical details as specified in the application form;
   3. provide contact information describing how a complete description can be
