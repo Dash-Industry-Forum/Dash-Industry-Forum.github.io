@@ -37,7 +37,7 @@ the following terms established by the DASH-IF:
 
 The party requesting an identifier to be added to the catalogue shall:
 
-  1. apply using the [form and procedures supplied by DASH-IF](identifiers/registration)
+  1. apply using the [form and procedures supplied by DASH-IF](/identifiers/registration)
   2. include a description of the purpose of the proposed identifier, and
      the required technical details as specified in the application form;
   3. provide contact information describing how a complete description can be
@@ -55,11 +55,11 @@ included the references along with the identifiers. This catalogue will be
 updated with the submission and approval of new identifiers.
 
   * [Profiles, Interoperability Points and Extensions](/identifiers/profiles)
-  * [Content Protection](/identifiers/protection)
-  * [Video Source Metadata](/identifiers/video-source-data)
-  * [Audio Source Metadata](/identifiers/audio-source-data)
-  * [Role and Accessibility](/identifiers/role-and-accessibility)
-  * [Content Rating](/identifiers/content-rating)
-  * [Event Schemes](/identifiers/event-schemes)
-  * [Authentication and Authorization](/identifiers/AAA)
+  * [Content Protection](/identifiers/content_protection)
+  * [Video Source Metadata](/identifiers/video_source_metadata)
+  * [Audio Source Metadata](/identifiers/audio_source_metadata)
+  * [Role and Accessibility](/identifiers/role_and_accessibility)
+  * [Content Rating](/identifiers/content_rating)
+  * [Event Schemes](/identifiers/event_schemes)
+  * [Authentication and Authorization](/identifiers/authentication_and_authorization)
   * [Functionality](/identifiers/functionality)
