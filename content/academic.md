@@ -9,8 +9,12 @@ The MPEG-DASH standard has raised a huge momentum within both industry and acade
  * create awareness of DASH-IF material and promote it within the academic community, and
  * solicit research within and collect results from the academic community.
 
- 
 # Current Events
+## ACM MMSys 2019
+
+Check the details [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Award-ACM-MMSys-2019).
+ 
+# Past Events
 ## IEEE ICME 2018
 
 The DASH-IF hosted the [Grand Challenge on Dynamic Adaptive Streaming over HTTP](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/DASH-Grand-Challenge-at-IEEE-ICME-2018) for the first time at [IEEE ICME 2017](http://www.icme2018.org/). The press release can be found [here](https://multimediacommunication.blogspot.com/2018/07/dash-if-awarded-grand-challenge-on.html) and the DASH-IF is pleased to announce the following winners:
@@ -28,8 +32,7 @@ The DASH-IF hosted the [Excellence in DASH Award](https://github.com/Dash-Indust
  * Savino Dambra, Giuseppe Samela, Lucile Sassatelli, Romaric Pighetti, Ramon Aparicio Pardo, Anne-Marie Pinna-Déry. Film Editing: New Levers to Improve VR Streaming. In Proceedings of the 8th ACM Multimedia Systems Conference (MMSys’18). Amsterdam, The Netherlands, June 2018
  * Simon Da Silva, Joachim Bruneau-Queyreix, Mathias Lacaud, Daniel Négru, Laurent Réveillère, MUSLIN: Achieving High, Fairly Shared QoE Through Multi-Source Live Streaming. In Proceedings of the 23rd Packet Video Workshop (PV’18). Amsterdam, The Netherlands, June 2018
 
- 
-# Past Events
+
 ## IEEE ICME 2017
 
 The DASH-IF established the [Grand Challenge on Dynamic Adaptive Streaming over HTTP](https://dash-industry-forum.github.io/icme2017grandchallenge/) for the first time at [IEEE ICME 2017](http://www.icme2017.org/). The press release can be found [here](https://multimediacommunication.blogspot.co.at/2017/07/dash-if-awarded-grand-challenge-on.html) and the DASH-IF is pleased to announce the following winners:
@@ -60,11 +63,11 @@ The DASH-IF created the [Excellence in DASH Award](https://dash-industry-forum.g
 See pictures [here](https://mmsys2016.itec.aau.at/acm-multimedia-systems-2016-nossdav-movid-and-mmve).
 
  
-## Wiki and Email List
+# Wiki and Email List
 
-For academics who want to join the DASH-IF Academic Track, please subscribe to the public email reflector. Up-to-date information as well as an Academic Event calendar is provided in our Wiki.
+For academics who want to join the DASH-IF Academic Track, please subscribe to the [public email reflector](https://lists.aau.at/mailman/listinfo/dashifat). Up-to-date information as well as an Academic Event calendar is provided in our [Wiki](https://github.com/Dash-Industry-Forum/Academic-Track/wiki).
 
  
-## Contact
+# Contact
 
-For further information please contact Christian Timmerer <christian(dot)timmerer(at)bitmovin(dot)com> and/or Ali C. Begen <acbegen(at)ieee(dot)org>.
+For further information please contact Christian Timmerer (christian.timmerer AT bitmovin.com) or Ali C. Begen (acbegen at ieee.org).
