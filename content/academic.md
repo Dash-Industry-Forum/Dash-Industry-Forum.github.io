@@ -12,7 +12,7 @@ The MPEG-DASH standard has raised a huge momentum within both industry and acade
 # Current Events
 ## ACM MMSys 2019
 
-Check the details [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Award-ACM-MMSys-2019).
+Check the details [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-and-Best-PhD-Dissertation-Awards-@-ACM-MMSys-2019).
  
 # Past Events
 ## IEEE ICME 2018
