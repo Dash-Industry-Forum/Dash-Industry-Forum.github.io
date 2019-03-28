@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "News"
+weight: 10
 ---
 February 22, 2017 <a href="http://www.streamingmediaglobal.com/Articles/ReadArticle.aspx?ArticleID=116505">The State of MPEG-DASH 2017</a>, streamingmediaglobal.com
 

@@ -9,8 +9,10 @@ title = "DASH Industry Forum"
     name = "test assets"
     url = "https://testassets.dashif.org/"
     title= "Test Assets"
+    weight= 4
   
   [[menu.main]]
     identifier = "identifiers"
     name = "identifiers"
     title= "Identifiers"
+    weight= 5

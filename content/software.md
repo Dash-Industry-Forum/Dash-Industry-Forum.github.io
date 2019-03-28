@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "Software"
+weight: 8
 ---
 
 
@@ -45,7 +46,7 @@ Available at https://cpix-validator.azurewebsites.net/, this tool validates the 
 
 ## Sample players
 
-* dash.js, an open source and free MSE/EME player that also functions as the reference client for DASH IF. Sample players available at https://dashif.org/reference/players/javascript/index.html and the source code is downloadable from the Github repository at https://github.com/Dash-Industry-Forum/dash.js.
+* dash.js, an open source and free MSE/EME player that also functions as the reference client for DASH IF. The reference player is available at https://reference.dashif.org/dash.js/, additional samples at https://reference.dashif.org/dash.js/latest/samples/index.html and the source code and wiki from the Github repository at https://github.com/Dash-Industry-Forum/dash.js.
 * Shaka player, an open source player provided by Google https://shaka-player-demo.appspot.com/
 * Bitmovin player - a commercial player with a public test suite at https://bitmovin.com/demos/stream-test
 * GPAC – a DASH client is provided under both an open-source LGPL license (available at https://gpac.io.) and a commercial license (available at https://www.gpac-licensing.com).
@@ -59,7 +60,7 @@ Available at https://cpix-validator.azurewebsites.net/, this tool validates the 
  
 ## Sample DASH libraries
 
-* libdash – Please find the announcement of our new version of libdash at bitmovin including slides (slides). libdash implements the full MPEG-DASH standard according to ISO/IEC 23009-1:2012. It provides an object orient (OO) interface to the MPEG-DASH standard – XML-based MPD and media elements (segments) – and provides external interfaces for:
+* libdash – Please find the announcement of our new version of libdash at [Bitmovin](https://bitmovin.com) including [slides](https://de.slideshare.net/schellkenig/libdash-20). libdash implements the full MPEG-DASH standard according to ISO/IEC 23009-1:2012. It provides an object orient (OO) interface to the MPEG-DASH standard – XML-based MPD and media elements (segments) – and provides external interfaces for:
     * the DASH streaming control, i.e., the adaptation logic (download scheduler and probably other terms exist) which determines which segment to download next based on a given client context;
     * the segment parser, i.e. to handle downloaded segments (ISO base media file format, MPEG-2 transport stream) and encapsulated coding formats; and
     * the media player which is finally responsible to decode and render the media presentation.

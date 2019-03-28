@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "About"
+weight: 2
 ---
 
 In April 2012, ISO, the international standards body which had already given us

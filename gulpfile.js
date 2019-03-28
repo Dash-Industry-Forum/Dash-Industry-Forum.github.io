@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
-var sourcemaps = require('gulp-sourcemaps');
 var minifyCSS = require('gulp-csso');
+var minify = require('gulp-minify');
 
 gulp.task('js', function(){
   return gulp.src([
@@ -11,9 +11,8 @@ gulp.task('js', function(){
 	  'node_modules/bootstrap/dist/js/bootstrap.min.js',
 	  'node_modules/holderjs/holder.min.js'
      ])
-    .pipe(sourcemaps.init())
-    .pipe(concat('dashif.min.js'))
-    .pipe(sourcemaps.write())
+    .pipe(concat('dashif.js'))
+    .pipe(minify())
     .pipe(gulp.dest('static/js'));
 });
 
