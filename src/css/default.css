@@ -1,9 +1,3 @@
-.header {
-  line-height: 1;
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 1em
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
   font-weight: normal;
@@ -32,6 +26,7 @@ h3 {
   line-height: 25px;
   margin-bottom: 20px;
   font-style: normal;
+  font-weight: bold;
 }
 
 h4 {
@@ -53,15 +48,35 @@ h5 {
 }
 
 .nav-menu {
-  font: 13px 'Raleway', sans-serif;
+  font: 12px 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   color: #454545 !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-sub-menu {
+  font: 11px 'Raleway', sans-serif;
+  text-transform: none;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+
+/* Remove the arrow in the dropdown menu */
+.dropdown-toggle::after {
+    display:none;
 }
 
 body {
   color: #727272;
   font-size: 16;
+}
+
+table code{
+  word-break: normal;
 }
 
 p {
@@ -76,9 +91,25 @@ p {
   margin-right: auto;
 }
 
-.carousel-slide-img {
-  max-width: 50vw;
-  max-height: 30vh;
+.carousel-slide-title {
+  font-size: xx-large;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+.carousel-svg {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.carousel-link:hover {
+  text-decoration: none;
+}
+
+.carousel-caption-right {
+  padding-left: 35%;
+  right: 10%;
 }
 
 .carousel-caption-text {
@@ -97,7 +128,7 @@ p {
   margin-bottom: 0px;
 }
 
-.breadcrumb-title, .carousel-slide-title {
+.breadcrumb-title {
   font-size: xx-large;
   font-family: 'Raleway', sans-serif;
   margin-left: 1em;

@@ -4,17 +4,26 @@ node_js:
 
 before_script:
   - npm install gulp-cli
-  - travis_wait sudo apt-get update -qq
-  - travis_wait sudo apt-get install -y snapd
-  - sudo snap install hugo --classic
+  - travis_retry sudo apt-get update -qq
+  - travis_retry sudo apt-get install -y snapd
+  - sudo snap install hugo
 
 script:
  - gulp
  - /snap/bin/hugo
+ - cp CNAME public/
 
 cache:
   directories:
     - "node_modules"
+
+notifications:
+  email:
+    recipients:
+      - emmanuel.thomas@tno.nl
+      - wilaw@akamai.com
+    on_success: never # default: change
+    on_failure: always # default: always
 
 deploy:
   provider: pages

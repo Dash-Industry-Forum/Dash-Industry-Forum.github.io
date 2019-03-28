@@ -7,7 +7,70 @@
     {{ partial "carousel.html" . }}
   </div>
   <main role="main" class="container">
-    {{ block "main" . }}{{ end }}
+    <div class="row">
+      <div class="col-sm-8">
+        <div class="row">
+          <div class="card-deck">
+            <div class="card">
+              <div class="card-body bg-light">
+                <h3 class="card-title">Guidelines</h3>
+                <p class="card-text">
+	          Find the <a href="/guidelines/">latest version</a> of DASH-IF
+                  Interoperability Guidelines, as well as the
+                  interoperability documents currently available for
+                  community review.
+                </p>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-body bg-light">
+                <h3 class="card-title">Test Vectors</h3>
+                <p class="card-text">
+                  Find the <a href="//testassets.dashif.org/">test vectors</a>
+                  corresponding to the latest DASH-IF guidelines: SD, HD,
+                  multichannel audio, HEVC, timed text, multiple periods, encryption…</p>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-body bg-light">
+                <h3 class="card-title">Software</h3>
+                <p class="card-text">
+                  Our <a href="/software/">Software section</a> contains links for
+                  our reference player implementation, as well as DASH clients,
+                  DASH libraries and sample segmenters, packagers and validators.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="card border-primary">
+            <div class="card-body">
+              <h3 class="card-title">You want to join Us?</h3>
+              <p class="card-text">
+                We're recruiting industry leaders to join us in
+                ushering MPEG DASH to the world. Contact us for more
+                information on DASH-IF membership, benefits,
+                and how you can join.
+              </p>
+              <a href="/membership/" class="btn btn-primary">Join the Forum</a>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-sm-3">
+	    <a class="btn btn-primary" href="//dashif-slack.azurewebsites.net/" role="button">Join DASH-IF on Slack</a>
+          </div>
+          <div class="col-sm-3">
+            <a href="https://twitter.com/dash_if?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count data-size="large" data-show-count="false">Follow @dash_if</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <a class="twitter-timeline" href="https://twitter.com/DASH_IF?ref_src=twsrc%5Etfw" data-tweet-limit="3" data-chrome="noheader">Tweets by DASH_IF</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </div>
   </main>
 
   {{ partial "footer.html" . }}

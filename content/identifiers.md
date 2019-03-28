@@ -1,4 +1,0 @@
----
-menu: "main"
-title: "Identifiers"
----
