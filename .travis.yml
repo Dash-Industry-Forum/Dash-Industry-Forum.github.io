@@ -11,7 +11,7 @@ before_script:
 script:
  - gulp
  - /snap/bin/hugo
- - cp CNAME public/
+ - cp CNAME public/ 2>/dev/null
 
 cache:
   directories:
