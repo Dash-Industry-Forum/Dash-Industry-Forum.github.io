@@ -9,7 +9,7 @@ The DASH-IF mailing address is:
 
 3855 SW 153rd Dr.
 
-Beaverton, OR 970033
+Beaverton, OR 9700333
 
 USA
 
