@@ -166,8 +166,9 @@ comments have been addressed.
   Assisted DASH (SAND)](https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf) (500k PDF)
 * [DASH-IF position Paper: Proposed QoE Media Metrics standardization for
   segmented media playback](https://dash-industry-forum.github.io/docs/ProposedMediaMetricsforSegmentedMediaDelivery-r12.pdf) (1M PDF)
+* [DASH-IF/DVB Report on Low-Latency Live Service with DASH](https://dash-industry-forum.github.io/docs/Report%20on%20Low%20Latency%20DASH.pdf) (2M PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
-  Material](https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf) (2M PDF)
+  Material](https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf) (600k PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
   (Streaming recording)](https://meetings.webex.com/collabs/files/playRecording?encryptedDocID=0_29A910EB09C0BAEABD833A0CEE1CE0290D4477CBA394F385C9F76F5039B186DFC9A6CA6A732232122D7A07D19C5C921D_06C635CE7312194B5999E0695FBFC56E12BE2991)
 * [Survey of European Broadcasters on MPEG-DASH](https://dash-industry-forum.github.io/docs/Survey-of-the-European-Broadcasters-on-MPEG-DASH-Whitepaper-V2.1.pdf)
