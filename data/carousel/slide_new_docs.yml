@@ -8,5 +8,6 @@ text: "
       - Addition of thumbnail tiles for visual scrubbars\n
       - Addition of VP9 video extensions to DASH-IF IOP\n
       - Token-based Access Control for DASH (TAC) v 1.0"
+pictureUrl: "img/comcast.v2.png"
 link: "/guidelines/"
 
