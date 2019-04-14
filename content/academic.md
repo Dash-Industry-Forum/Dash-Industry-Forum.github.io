@@ -19,7 +19,7 @@ Check the details [here](https://github.com/Dash-Industry-Forum/Academic-Track/w
 
 The DASH-IF sponsored the [Grand Challenge on Dynamic Adaptive Streaming over HTTP](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/DASH-Grand-Challenge-at-IEEE-ICME-2018) at IEEE ICME 2018. The press release can be found [here](https://multimediacommunication.blogspot.com/2018/07/dash-if-awarded-grand-challenge-on.html) and the DASH-IF is pleased to announce the following winners:
 
- * WINNER: “Game Theory Based Bitrate Adaptation for dash.js Reference Player” by Abdelhak Bentaleb, Ali Begen, Roger Zimmermann
+ * WINNER: “Game Theory Based Bitrate Adaptation for dash.js Reference Player” by Abdelhak Bentaleb, Ali C. Begen, Roger Zimmermann
  * RUNNER-UP: “Tile-based QoE-driven HTTP/2 Streaming System for 360 Video” by Zhimin Xu, Yixuan Ban, Kai Zhang, Lan Xie, Xinggong Zhang, Zongming Guo, Shengbin Meng, Yue Wang
 
 
