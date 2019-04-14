@@ -1,13 +1,4 @@
 position: 4
-title: "Documents for community review"
-text: "
-      - Addition of Dolby Vision to DASH-IF IOP\n
-      - Annotation and client model for content selection\n
-      - Addition for remote period timing to DASH-IF IOP\n
-      - Addition of last segment indication to DASSH-IF IOP\n
-      - Addition of thumbnail tiles for visual scrubbars\n
-      - Addition of VP9 video extensions to DASH-IF IOP\n
-      - Token-based Access Control for DASH (TAC) v 1.0"
-pictureUrl: "img/comcast.v2.png"
+text: "Documents for community review (including additions of Dolby Vision and VP9 extensions, Token-based Access Control v1.0"
+pictureUrl: "img/dashif-logo-reverse-424x150.jpg"
 link: "/guidelines/"
-
