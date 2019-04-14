@@ -1,4 +1,4 @@
-<div id="carouselNews" class="carousel slide" data-ride="carousel" data-interval="1000">
+<div id="carouselNews" class="carousel slide" data-ride="carousel" data-interval="2000">
   <ol class="carousel-indicators">
     {{ range sort $.Site.Data.carousel "position" }}
     <li data-target="#carouselNews" data-slide-to="{{ .position }}" class="{{ if eq .position 0 }}active{{ end }}"></li>
