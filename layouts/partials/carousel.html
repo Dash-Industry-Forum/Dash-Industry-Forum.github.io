@@ -7,7 +7,7 @@
   <div class="carousel-inner"> {{ range sort $.Site.Data.carousel "position" }}
     <div class="carousel-item {{ if eq .position 0 }}active{{ end }}">
       <div class="carousel-caption d-block">
-        <p style="font-size: 1.25em;"><a style="color:white;" href={{ .link }}>{{ .text }}</a></p>
+        <a style="font-size: 1.25em;color:white;" href={{ .link }}>{{ .text }}</a>
       </div>
     </div>
     {{ end }} </div>
