@@ -56,11 +56,11 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 2.2rem;
+  font-size: 2.0rem;
 }
 
 h2, .h2 {
-  font-size: 1.8rem;
+  font-size: 1.75rem;
 }
 
 h3, .h3 {
@@ -76,7 +76,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 1.0rem;
 }
 
 p {
@@ -111,31 +111,6 @@ small {
   width: 13rem;
   margin-left: auto;
   margin-right: auto;
-}
-
-.carousel-slide-title {
-  font-size: xx-large;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 400;
-}
-
-.carousel-svg {
-  top: 0;
-  left: 0;
-  width: 100%;
-}
-
-.carousel-link:hover {
-  text-decoration: none;
-}
-
-.carousel-caption-right {
-  padding-left: 35%;
-  right: 10%;
-}
-
-.carousel-caption-text {
-  font-weight: 200;
 }
 
 .breadcrumb-leaf {
