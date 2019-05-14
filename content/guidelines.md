@@ -47,17 +47,14 @@ The scope of this document is to define a Content Protection Information Exchang
 
 **Latest Version:**
 
-DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
+DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 
-The document provides the following extensions to v2.0:
-
-* Update on HLS signalization: support for separate EXT-X-KEY and EXT-X-SESSION-KEY signaling
-* Add HDS signalization support
-* Clarifications on the usage of @label attribute
-* Typos and drawings update for finalizing the migration to HTML
+The document provides the following extensions to v2.1:
+* Bug fixes on the HLS signalization support
 
 **Previous Versions**
 
+* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
   Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v1.0: [Content Protection Information
