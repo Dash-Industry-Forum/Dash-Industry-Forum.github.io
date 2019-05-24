@@ -3,6 +3,7 @@ node_js:
   - "node"
 
 before_script:
+  - npm install natives@1.1.6
   - npm install gulp-cli
   - travis_retry sudo apt-get update -qq
   - travis_retry sudo apt-get install -y snapd
