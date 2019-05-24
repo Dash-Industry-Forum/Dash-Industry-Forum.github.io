@@ -30,7 +30,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.digitalprimates.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/digital-primates.jpg" alt="" /></a>
 <a href="http://www3.ebu.ch/cms/en/home" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ebu.jpg" alt="" /></a>
 <a href="http://www.edgeware.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Edgeware_Logo_website.png" alt="" /></a>
-<a href="http://www.elementaltechnologies.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Elemental_Logo_COLOR_PPT_website.png" alt="" />      </a>
+<a href="https://www.elemental.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/AWS_Elemental_logo_H_COLOR_RGB_220_website.png" alt="" />      </a>
 <a href="https://www.ezdrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/EZDRM-logo-website.png" alt="" /></a>
 <a href="http://www.fraunhofer.de/en.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/fraunhofer.jpg" alt="" /></a>
 <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="" /></a>
