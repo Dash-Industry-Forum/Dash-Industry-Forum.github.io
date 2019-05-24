@@ -3,7 +3,7 @@ node_js:
   - "10"
 
 before_script:
-  - npm install gulp-cli@4.0
+  - npm install gulp-cli
   - travis_retry sudo apt-get update -qq
   - travis_retry sudo apt-get install -y snapd
   - sudo snap install hugo
