@@ -16,6 +16,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.microsoft.com/en-us/default.aspx" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Microsoft2.jpg" alt="" /></a>
 <a href="http://www.qualcomm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/qualcomm.jpg" alt="" /></a>
 <a href="http://www.samsung.com/us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/samsung.jpg" alt="" /></a>
+<a href="https://www.tencent.com/en-us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/tencent_logo_website.png" alt="" /></a>
 <a href="http://www.dts.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/xpe_logo_rgb_201_website.png" alt="" /></a></div>
 
 ## Contributor Members
@@ -51,7 +52,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.nokia.com/us-en/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Nokia_logo_blue_RGB_website_052915.png" alt="" /></a>
 <a href="http://www.sony.com/index.shtml" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/sony.jpg" alt="" /></a>
 <a href="http://www.technicolor.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Technicolor_logo_website.png" alt="" /></a>
-<a href="https://www.tencent.com/en-us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/tencent_logo_website.png" alt="" /></a>
 <a href="http://www.tno.nl/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/TNO_zwart_website.jpg" alt="" /></a>
 <a href="http://www.turner.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/turner_logo_website.png" alt="" /></a>
 <a href="http://www.verimatrix.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/verimatrix.jpg" alt="" /></a>
