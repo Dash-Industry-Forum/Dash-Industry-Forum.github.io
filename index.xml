@@ -86,7 +86,7 @@ The framework source code is downloadable from our Github repository at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/clients/</guid>
-      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
+      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
  Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
     </item>
     
