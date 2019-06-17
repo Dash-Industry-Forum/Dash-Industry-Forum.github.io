@@ -3,7 +3,7 @@ menu: "main"
 title: "Clients"
 weight: 9
 ---
-A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: [Aricent](#aricent-tag), [AvidBeam](#avidbeam-tag), [bitdash](#bitdash-tag), [BuyDRM](#buydrm-tag), [castlabs](#castlabs-tag), [Digital Primates](#dp-tag), [InterDigital](#inter-tag), [NexStreaming](#nex-tag), [Qualcomm](#qualcomm-tag), [RealNetworks](#helix-tag), [StreamOne](#streamone-tag) and [VisualOn](#visualon-tag). Opens-source client implementations, including dash.js, can be located in the Software tab above.
+A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: [Aricent](#aricent-tag), [AvidBeam](#avidbeam-tag), [bitdash](#bitdash-tag), [BuyDRM](#buydrm-tag), [castlabs](#castlabs-tag), [Digital Primates](#dp-tag), [InterDigital](#inter-tag), [NexStreaming](#nex-tag), [Qualcomm](#qualcomm-tag), [RealNetworks](#helix-tag), [StreamOne](#streamone-tag), [Viaccess-Orca](#viaccess-tag) and [VisualOn](#visualon-tag). Opens-source client implementations, including dash.js, can be located in the Software tab above.
 
 ---
 <a id="aricent-tag"></a>
@@ -247,6 +247,23 @@ Helix SDK is part of the Helix Media Delivery Platform from RealNetworks which h
 <img src="https://dash-industry-forum.github.io/img/StreamOne-logo-uitsn.png" alt="Streamone logo"  height="50px">
 
 StreamOne Player is a flexible high-performance html5 video player which prefers DASH, but also supports HLS and progressive streaming. It offers support for VAST/VPAID advertising, advanced analytics/events, skinning, plugins. A product overview can be supplied if required. More information and a preliminary demo are available here: https://www.streamone.nl/player
+
+---
+<a id="viaccess-tag"></a>
+<img src="https://dash-industry-forum.github.io/img/VO%20logo-HD.PNG" alt="Viaccess logo"  height="60px">
+
+Viaccess-Orca is a leading global solutions provider of OTT and TV platforms & content protection. Part of this large product portfolio, VO Player is a secure video player used by millions of users every month across the blog providing following benefits:
+* Unified experience across Android, iOS, PC, Mac, STBs, smartTVs
+* Compliance with content owner's security requirements and sports' leagues
+* Working with all major DRMs in the market and featuring forensic watermarking integration
+* Offline viewing including on PC/Mac
+* DASH, CMAF, HLS and MSS with configurable ABR stack
+* Multi-language and Audio from OTT and DVB
+* VAST, VMAP, SCTE-35 Advertising
+* Pre-integrated within many ecosystems like app vendors, origin servers, cms, drm, analytics, advertising
+* Innovative UX such as HD perception at 1Mbps, instant start-up, Low Live latency, 360 video
+ 
+[Viaccess-Orca](https://www.viaccess-orca.com/) is part of the Orange Group with more than 300 employees based in France (headquarters), Israel, Finland, US and Singapore.
 
 ---
 <a id="visualon-tag"></a>
