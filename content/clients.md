@@ -253,6 +253,7 @@ StreamOne Player is a flexible high-performance html5 video player which prefers
 <img src="https://dash-industry-forum.github.io/img/VO%20logo-HD.PNG" alt="Viaccess logo"  height="60px">
 
 Viaccess-Orca is a leading global solutions provider of OTT and TV platforms & content protection. Part of this large product portfolio, VO Player is a secure video player used by millions of users every month across the blog providing following benefits:
+
 * Unified experience across Android, iOS, PC, Mac, STBs, smartTVs
 * Compliance with content owner's security requirements and sports' leagues
 * Working with all major DRMs in the market and featuring forensic watermarking integration
