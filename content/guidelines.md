@@ -145,6 +145,8 @@ comments have been addressed.
   expected by Q3/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
+# Other Resources
+
 ## DASH-IF Conformance Software
 
 * [DASH-AVC/264 Online Conformance Tool](https://conformance.dashif.org/conformancetest.html)
