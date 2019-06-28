@@ -136,15 +136,14 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-## Leap second handling clarifications
+## Low-Latency DASH
 
-* The change request against IOP v4.1 for Community Review is accessible
-  [here](https://dash-industry-forum.github.io/docs/CR-leapseconds-community-review.pdf)
-* Community review is open until April 15th, 2018. Addition to IOP is
-  expected by Q2/2018.
-* Comments may be submitted through the [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP.)
-* This addition adds the following main features: Clarifies how to handle
-  leap seconds and how to avoid common pitfalls
+* The change request against IOP v4.3 for Community Review is accessible
+  [here](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-CR-Low-Latency-Live-Community-Review.pdf)
+* This change provides a new clause for live services that addresses specification updates as well as implementation guidelines to  support Low-Latency DASH services addressing the requirements above.
+* Community review is open until July 31st, 2019. Addition to IOP is
+  expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
 ## DASH-IF Conformance Software
 
