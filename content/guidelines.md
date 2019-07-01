@@ -145,6 +145,14 @@ comments have been addressed.
   expected by Q3/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
+## Live Media Ingest
+
+* The new draft specification is accessible
+  [here](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) and a [pdf version](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf).
+* This document specifies protocol interfaces for live ingest/egress of media content. It can be used between live ABR encoders, streaming origins, packagers and content delivery networks. It features support for redundant workflows with failover support and timed metadata.
+* Community review is open until July 31st, 2019. Publication is expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
+
 # Other Resources
 
 ## DASH-IF Conformance Software
