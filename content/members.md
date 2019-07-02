@@ -78,6 +78,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://pallycon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/InkaEntworks-Logo_website.jpg" alt="" /></a>
 <a href="http://jwplayer.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/jwplayer_website_logo.png" alt="" />    </a>
 <a href="https://www.lhsystems.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/LSYneues-logo-300x35_website.png" alt="" /></a> 
+<a href="http://www.mediaexcel.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/MediaExcel_2011%20logo_website.png" alt="" /></a>
 <a href="http://www.mediamelon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/MediaMelon_Signature_RGB_website.png" alt="" /></a> 
 <a href="http://mux.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Mux-Logo_website_v2.png" alt="" /></a> 
 <a href="http://www.nexstreaming.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/NexStreaming_website.jpg" alt="" /></a>  
