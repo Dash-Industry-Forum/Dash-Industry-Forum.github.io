@@ -37,7 +37,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="" /></a>
 <a href="http://www.haivision.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/haivision.jpg" alt="" /></a>
 <a href="http://www.harmonicinc.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/harmonic.jpg" alt="" /></a>
-<a href="http://www.huawei.com/en/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/huawei.jpg" alt="" /></a>
 <a href="http://www.hulu.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Hulu_Logo_website.png" alt="" /></a>
 <a href="http://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/intel.jpg" alt="" /></a>
 <a href="http://www.interdigital.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/interdigital.jpg" alt="" /></a>
