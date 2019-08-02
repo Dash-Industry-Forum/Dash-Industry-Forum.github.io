@@ -141,8 +141,7 @@ comments have been addressed.
 * The change request against IOP v4.3 for Community Review is accessible
   [here](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-CR-Low-Latency-Live-Community-Review.pdf)
 * This change provides a new clause for live services that addresses specification updates as well as implementation guidelines to  support Low-Latency DASH services addressing the requirements above.
-* Community review is open until July 31st, 2019. Addition to IOP is
-  expected by Q3/2019.
+* Community review is open until September 06th, 2019. Addition to IOP is expected by Q3/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
 ## Live Media Ingest
