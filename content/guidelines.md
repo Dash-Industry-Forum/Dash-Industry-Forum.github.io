@@ -157,7 +157,7 @@ comments have been addressed.
 * The change request against IOP v4.3 for Community Review is accessible
   [here](https://dashif-documents.azurewebsites.net/Events/master/event.html) and a [pdf version](https://github.com/Dash-Industry-Forum/Events/blob/master/DASH%20Event%20Metadata%20API%20ver%208.pdf).
 * For the proper usage of Events and Timed Metadata distributed in DASH Media Presentations, APIs pertaining to subscription and notification delivery are beneficially defined between the DASH client and the application consuming the Events. This document adds a client processing model for Events.
-* Community review is open until July 31st, 2019. Addition to IOP is expected by Q3/2019.
+* Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
 # Other Resources
