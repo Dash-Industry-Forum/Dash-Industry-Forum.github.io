@@ -163,7 +163,7 @@ comments have been addressed.
 ## WebIDL DASH Event Metadata API 
 
 * The change request against IOP v4.3 for Community Review is accessible
-  [here](https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.htm) and a [pdf version](https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.pdf).
+  [here](https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.htm) and a [pdf version](https://dash-industry-forum.github.io/docs/Event API-WebIDL-CR.pdf).
 * This document specifies an API that a user agent or DASH client can expose for application access to DASH events. This builds upon Media Source Extensions. The API correspond to partial interfaces with respect to the DASHEvent event target. It is meant to cover both in-band ('emsg') and MPD-carriage of events, as well as sparse timed metadata tracks.
 * Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
