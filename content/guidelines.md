@@ -139,15 +139,15 @@ comments have been addressed.
 ## Ad Insertion in DASH
 
 * The change request against IOP v4.3 for Community Review is accessible 
-  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.pdf) and [here (html)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.mht)
+  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.pdf) and [here (html)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.htm)
 * Ad Insertion is considered as one of the most important aspects in online video distribution. Also with the development of CMAF, some additional aspects are relevant, such as consistent development of Ad content, content insertion into CMAF live content, etc. This document addresses latest development in the context of Ad Insertion and maps this to DASH, among others 
-1)	Description of most relevant use cases
-2)	Ad Insertion architecture
-3)	Definition of main content requirements and recommendations
-4)	Definition of ad content requirements and recommendations
-5)	Definition of combined main and ad content
-6)	Ad specific metadata
-7)	Ad tracking
+** Description of most relevant use cases
+** Ad Insertion architecture
+** Definition of main content requirements and recommendations
+** Definition of ad content requirements and recommendations
+** Definition of combined main and ad content
+** Ad specific metadata
+** Ad tracking
 * Community review is open until September 30th, 2019. Addition to IOP is expected by Q4/2019.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/AdInsertion)
 
