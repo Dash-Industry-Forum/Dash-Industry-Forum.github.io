@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/award-will-law/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/conformance/</loc>
     <priority>0</priority>
   </url>
