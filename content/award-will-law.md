@@ -6,6 +6,11 @@ is presented to
 
 **Will Law**
 
+for continuous leadership, promotion and technical contributions for the success of DASH.
+
+Will Law from Akamai served and is serving DASH-IF in different roles since its inauguration in 2012. Among others, Will was leading the DASH-IF Promotion Working Group, acted as Vice President and President, and is still leading the dash.js project. Not only that he is leading the work, he is a significant contributor. DASH-IF would like to thank Will Law for his continous and relentless efforts to support the mission of DASH-IF, namely to promote and catalyze the adoption of MPEG-DASH and help transition it from a specification into a real business.
+
+
 The DASH IF Board
 
 September 15th, 2019.
