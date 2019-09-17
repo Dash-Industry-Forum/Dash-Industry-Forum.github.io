@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+September 15, 2019 <a href="https://dashif.org/will-law/>DASH-IF Leadership Award presented to Will Law</a>, during DASH-IF Networking Reception at IBC 2019
+
 February 22, 2017 <a href="http://www.streamingmediaglobal.com/Articles/ReadArticle.aspx?ArticleID=116505">The State of MPEG-DASH 2017</a>, streamingmediaglobal.com
 
 March 30, 2016 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-MPEG-DASH-2016-110099.aspx">The State of MPEG-DASH 2016</a>, streamingmedia.com
