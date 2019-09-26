@@ -46,7 +46,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://m2amedia.tv/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/M2A%20Logo_website.jpg" alt="" width="193" height="31" /></a>
 <a href="http://www.nagra.com/cms/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/nagra.jpg" alt="" /></a>
 <a href="https://signup.netflix.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/netflox.jpg" alt="" /></a>
-<a href="http://www.neulion.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/NL_black_website.png" alt="" /></a>
 <a href="http://www.nokia.com/us-en/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Nokia_logo_blue_RGB_website_052915.png" alt="" /></a>
 <a href="http://www.sony.com/index.shtml" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/sony.jpg" alt="" /></a>
 <a href="http://www.technicolor.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Technicolor_logo_website.png" alt="" /></a>
