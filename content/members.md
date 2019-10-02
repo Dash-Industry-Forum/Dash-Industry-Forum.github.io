@@ -55,8 +55,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://www.verizondigitalmedia.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Verizon%20logo_website.png" alt="" /></a>
 <a href="http://www.viaccess-orca.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/VO-logo_website.png" alt="" /></a>
 <a href="http://www.wowza.com/" target="_blank" rel="noopener noreferrer">    </a>
-<a href="http://www.vimond.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Vimond_logo_website.png" alt="" />   </a>
- <a href="http://www.vubiquity.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Vubiquity_web.jpg" alt="" />   </a></div>
+<a href="http://www.vubiquity.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Vubiquity_web.jpg" alt="" />   </a></div>
 
 ## Associate Members
 
