@@ -17,12 +17,12 @@ DASH-IF cordially invites you to attend its workshop on technical opportunities 
 Registration will be announced shortly.
   
 ## SCHEDULE
-*Workshop Sessions:
-**Monday, Dec 9: 1 PM- 6 PM       
-**Tuesday, Dec 10: 9 AM -1 PM
-*Networking Event: Monday, Dec 9, 6 PM- 7:30 PM
-*DASH-IF IOP Pre-Meeting: Dec 10, 2PM - 6PM
-*DASH-IF Regular Meeting: Dec 11, 9PM - DEC 12, 5PM
+* Workshop Sessions:
+** Monday, Dec 9: 1 PM- 6 PM       
+** Tuesday, Dec 10: 9 AM -1 PM
+* Networking Event: Monday, Dec 9, 6 PM- 7:30 PM
+* DASH-IF IOP Pre-Meeting: Dec 10, 2PM - 6PM
+* DASH-IF Regular Meeting: Dec 11, 9PM - DEC 12, 5PM
 
 ## LOCATION
 AWS Elemental
@@ -32,16 +32,16 @@ United States
 
 ## PROGRAM 
 The workshop consists of interactive discussions and deep dives on several enabler technologies including:
-•	New codecs (video and audio) 
-•	Content-Aware Encoding 
-•	Impact of new protocols 
-•	Ingest technologies 
-•	Low-Latency streaming challenges and opportunities 
-•	Monetization and Ad Insertion 
-•	Content Protection 
-•	Broadcast/multicast and hybrid delivery, 
-•	cloud computing, edge computing, and media on cloud,
-•	AR/VR/MR and other interactive applications
-•	Device platform diversity
+* New codecs (video and audio) 
+* Content-Aware Encoding 
+* Impact of new protocols 
+* Ingest technologies 
+* Low-Latency streaming challenges and opportunities 
+* Monetization and Ad Insertion 
+* Content Protection 
+* Broadcast/multicast and hybrid delivery, 
+* cloud computing, edge computing, and media on cloud,
+* AR/VR/MR and other interactive applications
+* Device platform diversity
 
 
