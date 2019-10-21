@@ -18,8 +18,8 @@ Registration will be announced shortly.
   
 ## SCHEDULE
 * Workshop Sessions:
-* * Monday, Dec 9: 1 PM- 6 PM       
-* * Tuesday, Dec 10: 9 AM -1 PM
+  * Monday, Dec 9: 1 PM- 6 PM       
+  * Tuesday, Dec 10: 9 AM -1 PM
 * Networking Event: Monday, Dec 9, 6 PM- 7:30 PM
 * DASH-IF IOP Pre-Meeting: Dec 10, 2PM - 6PM
 * DASH-IF Regular Meeting: Dec 11, 9PM - DEC 12, 5PM
