@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+October 21, 2019 DASH-IF announces <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> prior to its 22nd face-to-face meeting in December 2019
+
 September 15, 2019 <a href="https://dashif.org/award-will-law">DASH-IF Leadership Award presented to Will Law</a> during DASH-IF Networking Reception at IBC 2019
 
 February 22, 2017 <a href="http://www.streamingmediaglobal.com/Articles/ReadArticle.aspx?ArticleID=116505">The State of MPEG-DASH 2017</a>, streamingmediaglobal.com
