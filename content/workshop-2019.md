@@ -43,5 +43,3 @@ The workshop consists of interactive discussions and deep dives on several enabl
 * cloud computing, edge computing, and media on cloud,
 * AR/VR/MR and other interactive applications
 * Device platform diversity
-
-
