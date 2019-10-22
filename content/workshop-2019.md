@@ -14,7 +14,7 @@ The goal of the workshop is to identify the challenges and possible gaps for ful
 
 ## REGISTRATION
 DASH-IF cordially invites you to attend its workshop on technical opportunities and challenges of media streaming applications over 5G networks. 
-Registration will be announced shortly.
+Registration is possible here <a href="https://dashif5g2019.eventbrite.com>https://dashif5g2019.eventbrite.com</a>.
   
 ## SCHEDULE
 * Workshop Sessions:
