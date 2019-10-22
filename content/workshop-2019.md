@@ -33,14 +33,14 @@ United States
 ## PROGRAM 
 The workshop consists of interactive discussions and deep dives on several enabler technologies including:
 
-* New codecs (video and audio) 
-* Content-Aware Encoding 
-* Impact of new protocols 
-* Ingest technologies 
-* Low-Latency streaming challenges and opportunities 
-* Monetization and Ad Insertion 
-* Content Protection 
-* Broadcast/multicast and hybrid delivery, 
-* cloud computing, edge computing, and media on cloud,
+* New codecs (video and audio)
+* Content-Aware Encoding
+* Impact of new protocols
+* Ingest technologies
+* Low-Latency streaming challenges and opportunities
+* Monetization and Ad Insertion
+* Content Protection
+* Broadcast/multicast and hybrid delivery
+* cloud computing, edge computing, and media on cloud
 * AR/VR/MR and other interactive applications
-* Device platform diversity
+* Device platform diversity and hybrid DASH/HLS
