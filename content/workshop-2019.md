@@ -31,16 +31,22 @@ Portland, OR 97201
 United States
 
 ## PROGRAM 
-The workshop consists of interactive discussions and deep dives on several enabler technologies including:
+The workshop is setup by a couple of introductory talks and deep dives on several enabler technologies that relate to mobile distribution in general and 5G specifically.
 
-* New codecs (video and audio)
-* Content-Aware Encoding
-* Impact of new protocols
-* Ingest technologies
-* Low-Latency streaming challenges and opportunities
-* Monetization and Ad Insertion
-* Content Protection
-* Broadcast/multicast and hybrid delivery
-* cloud computing, edge computing, and media on cloud
-* AR/VR/MR and other interactive applications
-* Device platform diversity and hybrid DASH/HLS
+Introductory Talks:
+* Overview of 5G Systems and Technology (Qualcomm or someone else tbc)
+* Overview of 5G Deployments and Business Models (Operators, Analysist tbc)
+* Overview of User Studies/Analysis (Amir Gomroki, Ericsson)
+
+Deep Dive Technologies with connection to 5G (including discussion leaders, some are tbc)
+* New codecs (<a href="https://www.linkedin.com/in/thierry-fautier-4a696/"> Thierry Fautier, Harmonic</a>)
+* Content-Aware Encoding (<a href="http://reznik.org/">Yuriy Reznik, Brightcove</a>)
+* Impact of new protocols (<a ="https://www.linkedin.com/in/acbegen/">Ali Begen, Comcast tbc</a>)
+* Ingest technologies (<a ="https://www.linkedin.com/in/rufael-mekuria-652b4828/">Rufael Mekuria, Unified Streaming tbc</a> and <a href="https://www.linkedin.com/in/imedbouazizi/">Imed Bouazizi, Qualcomm</a>)
+* Low-Latency streaming challenges and opportunities (<a href="https://www.linkedin.com/in/wilaw/">Will Law, Akamai</a>)
+* Monetization and Ad Insertion (<a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava, Hulu tbc</a>)
+* Content Protection (<a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron, Nagra, tbc</a>)
+* Broadcast/multicast and hybrid delivery (<a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
+* Cloud computing, edge computing, and media on cloud (<a href="https://www.linkedin.com/in/iraj-sodagar/">Iraj Sodagar, Tencent</a> and <a href="https://www.linkedin.com/in/imedbouazizi/">Imed Bouazizi, Qualcomm</a>)
+* AR/VR/MR and other interactive applications (<a href="https://www.linkedin.com/in/thierry-fautier-4a696/"> Thierry Fautier, Harmonic tbc</a>)
+* Device platform diversity and hybrid DASH/HLS (<a href="https://www.linkedin.com/in/c%C3%A9dric-thienot-a632226">Cedric Thienot</a>, Enesys and <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
