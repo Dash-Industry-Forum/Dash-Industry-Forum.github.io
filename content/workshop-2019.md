@@ -49,4 +49,4 @@ Deep Dive Technologies with connection to 5G (including discussion leaders, some
 * Broadcast/multicast and hybrid delivery (<a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
 * Cloud computing, edge computing, and media on cloud (<a href="https://www.linkedin.com/in/iraj-sodagar/">Iraj Sodagar, Tencent</a> and <a href="https://www.linkedin.com/in/imedbouazizi/">Imed Bouazizi, Qualcomm</a>)
 * AR/VR/MR and other interactive applications (<a href="https://www.linkedin.com/in/thierry-fautier-4a696/"> Thierry Fautier, Harmonic tbc</a>)
-* Device platform diversity and hybrid DASH/HLS (<a href="https://www.linkedin.com/in/c%C3%A9dric-thienot-a632226">Cedric Thienot</a>, Enesys and <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
+* Device platform diversity and hybrid DASH/HLS (<a href="https://www.linkedin.com/in/c%C3%A9dric-thienot-a632226">Cedric Thienot, Enesys tbc</a> and <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
