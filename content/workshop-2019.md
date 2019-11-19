@@ -42,7 +42,7 @@ Introductory Talks (each 30min):
 Deep Dive Technologies with connection to 5G including discussion leaders)
 * New codecs (<a href="https://www.linkedin.com/in/thierry-fautier-4a696/">Thierry Fautier, Harmonic</a>)
 * Content-Aware Encoding (<a href="http://reznik.org/">Yuriy Reznik, Brightcove</a>)
-* Impact of new protocols (<a href="https://www.linkedin.com/in/acbegen/">Ali Begen, Comcast tbc</a>)
+* Impact of new protocols (<a href="https://www.linkedin.com/in/acbegen/">Ali Begen, Comcast</a>)
 * Ingest technologies (<a href="https://www.linkedin.com/in/rufael-mekuria-652b4828/">Rufael Mekuria, Unified Streaming</a> and <a href="https://www.linkedin.com/in/imedbouazizi/">Imed Bouazizi, Qualcomm</a>)
 * Low-Latency streaming challenges and opportunities (<a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil, Amazon Elemental</a>)
 * Ad Insertion (<a href="https://www.linkedin.com/in/iraj-sodagar/">Iraj Sodagar, Tencent</a>)
