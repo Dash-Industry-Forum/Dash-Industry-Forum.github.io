@@ -34,12 +34,14 @@ United States
 The workshop is setup by a couple of introductory talks and deep dives on several enabler technologies that relate to mobile distribution in general and 5G specifically.
 
 Introductory Talks (each 30min):
+
 * Overview of 5G Systems and Technology (<a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer, Qualcomm</a>)
 * Overview of 5G Deployments and Business Models (Operator or Analysist)
 * Overview of User Studies/Analysis (<a href="https://www.linkedin.com/in/amir-gomroki-b00608/">Amir Gomroki, Ericsson</a>)
 * Overview of latest Media Streaming Developments (<a href="https://www.linkedin.com/in/johnsimmons2/">John Simmons, Microsoft</a>)
 
 Deep Dive Technologies with connection to 5G including discussion leaders)
+
 * New codecs (<a href="https://www.linkedin.com/in/thierry-fautier-4a696/">Thierry Fautier, Harmonic</a>)
 * Content-Aware Encoding (<a href="http://reznik.org/">Yuriy Reznik, Brightcove</a>)
 * Impact of new protocols (<a href="https://www.linkedin.com/in/acbegen/">Ali Begen, Comcast</a>)
