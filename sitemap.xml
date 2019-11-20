@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/dvb-world-2020/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/excellence-in-dash-award-acm-mmsys-2016/</loc>
     <priority>0</priority>
   </url>
