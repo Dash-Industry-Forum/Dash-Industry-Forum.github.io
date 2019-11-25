@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+November 25, 2019 DASH-IF acts as <a href="https://dashif.org/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
+
 October 21, 2019 DASH-IF announces <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> in December 2019
 
 September 15, 2019 <a href="https://dashif.org/award-will-law">DASH-IF Leadership Award presented to Will Law</a> during DASH-IF Networking Reception at IBC 2019
