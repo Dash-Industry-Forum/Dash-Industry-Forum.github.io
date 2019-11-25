@@ -1,5 +1,7 @@
 
-# DASH-IF at DVB World 2020 <a href="https://www.dvbworld.org" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dvbworld2020_blue_642x428.png" alt="" /></a>
+# DASH-IF at DVB World 2020 
+
+<a href="https://www.dvbworld.org" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dvbworld2020_blue_642x428.png" alt="" /></a>
 
 DASH-IF is proud and delighted to be invited by the <a href="http://www.dvb.org">Digital Video Broadcasting (DVB)</a> project to act as a program partner of the DVB's annual flagship conference DVB World in March 2020.
 
