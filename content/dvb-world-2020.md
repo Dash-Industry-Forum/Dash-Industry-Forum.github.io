@@ -1,4 +1,7 @@
 
+<div class="member"><a href="https://dashif.org/img/2019-09-will-award-1.jpg" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/logo.jpg" alt="" /></a>
+<a href="https://dashif.org/img/2019-09-will-award-2.jpeg" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/2019-09-will-award-2.jpeg" alt="" /></a>
+<a href="https://dashif.org/img/2019-09-will-award-3.jpeg" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/2019-09-will-award-3.jpeg" alt="" /></a></div>
 
 # DASH-IF at DVB World 2020
 
