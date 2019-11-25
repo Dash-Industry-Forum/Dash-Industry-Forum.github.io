@@ -1,6 +1,4 @@
-
-<div class="member"><a href="https://dashif.org" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/logo.jpg" alt="" /></a>
-<a href="https://www.dvbworld.org" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dashif-logo-283x100_new.jpg" alt="" /></a></div>
+<a href="https://www.dvbworld.org" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dashif-logo-283x100_new.jpg" alt="" /></a>
 
 # DASH-IF at DVB World 2020
 
