@@ -32,4 +32,4 @@ The common IPR Policy for all membership levels can be downloaded [here](https:/
 
 *Note that Associate level membership is only available to: companies whose annual revenue is less than USD$10 million, individuals, schools and non-profit organizations. Entities not falling in to one of these groups must please choose between contributor or charter level membership.
 
-Click [here](mailto:dashindustry@live.com) to contact us about joining the DASH Industry Forum and submitting the forms presented above.
+Click [here](mailto:admin@dashif.org) to contact us about joining the DASH Industry Forum and submitting the forms presented above.
