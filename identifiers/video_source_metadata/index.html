@@ -205,32 +205,23 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="introduction">Introduction</h1>
-
+  <h1 id="introduction">Introduction</h1>
 <p>Video source data may be used in order to provide details of the video content source. In general, such characteristics of video are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.</p>
-
 <p>In the context of DASH as specific source descriptor exists, namely FramePacking used to identify the frame-packing configuration scheme employed. The details are provided below.</p>
-
 <p>In addition, source data properties may be expressed by one of the following two descriptor elements:</p>
-
 <ul>
-<li><p>EssentialProperty: In this case the Media Presentation author expresses that the successful processing of the descriptor is essential to properly use the information in the parent element that contains this descriptor.</p></li>
-
-<li><p>SupplementalProperty: In this case the Media Presentation author expresses that the descriptor contains supplemental information that may be used by the DASH client for optimized processing.</p></li>
+<li>
+<p>EssentialProperty: In this case the Media Presentation author expresses that the successful processing of the descriptor is essential to properly use the information in the parent element that contains this descriptor.</p>
+</li>
+<li>
+<p>SupplementalProperty: In this case the Media Presentation author expresses that the descriptor contains supplemental information that may be used by the DASH client for optimized processing.</p>
+</li>
 </ul>
-
 <p>A multitude of source properties may be expressed using these generic descriptors, some of them using the definition in ISO/IEC 23001-8 [4]. These are listed below.</p>
-
 <p>Finally, MPEG-DASH also allows to add source content descriptors to the Role descriptor. For details see below.</p>
-
 <h1 id="frame-packing">Frame Packing</h1>
-
 <p>For the element FramePacking the @schemeIdUri attribute is used to identify the frame-packing configuration scheme employed.</p>
-
 <p>The following defines a set of URIs that identify specific frame-packing arrangements, i.e. schemes contained in the FramePacking element:</p>
-
 <table>
 <thead>
 <tr>
@@ -239,14 +230,12 @@
 <th>Abstract</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>urn:mpeg:dash:14496:10:frame_packing_arrangement_type:2011</code></td>
 <td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.3</td>
 <td>For Adaptation Sets or Representations that contain a video component that conforms to ISO/IEC 14496-10, this URI is defined. The @value is the value as defined for VideoFramePackingType in ISO/IEC 23001-8 [4].</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:dash:13818:1:stereo_video_format_type:2011</code></td>
 <td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.3</td>
@@ -254,11 +243,8 @@
 </tr>
 </tbody>
 </table>
-
 <h1 id="generic-video-source-descriptors">Generic Video Source Descriptors</h1>
-
 <p>The following defines a set of URIs that identify video source descriptions to be used with the Essential Property and/or the Supplemental Property descriptor:</p>
-
 <table>
 <thead>
 <tr>
@@ -267,56 +253,47 @@
 <th>Abstract</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:ColourPrimaries</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.1</td>
 <td>Video colour primaries indicating the chromaticity coordinates of the source colour primaries.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:TransferCharacteristics</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.2</td>
 <td>Video colour transfer characteristics indicating the opto-electronic transfer characteristic of the source picture.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:MatrixCoefficients</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.3</td>
 <td>Video matrix colour coefficients describing the matrix coefficients used in deriving luma and chroma signals from the green, blue, and red primaries.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:VideoFullRangeFlag</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.3</td>
 <td>Video Full Range specifying the scaling and offset values applied in association with the Video matrix colour coefficients.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:VideoFramePackingType</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.4</td>
 <td>Video frame packing indicating the type of packing arrangement used in video frames</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:QuincunxSamplingFlag</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.4</td>
 <td>Quincunx Sampling Flag indicatomh whether a quincunx sampling structure is used in the frame packed video representation.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:mpegB:cicp:PackedContentInterpretationType</code></td>
 <td>ISO/IEC 23001-8 [<a href="/identifiers/references#23001-8">4</a>], section 7.5</td>
 <td>Interpretation of packed video frames indicating the intended interpretation of the constituent frames.</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:dash:14496:10:frame_packing_arrangement_type:2011</code></td>
 <td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.3</td>
 <td>For Adaptation Sets or Representations that contain a video component that conforms to ISO/IEC 14496-10, this URI is defined. The @value is the value as defined for VideoFramePackingType in ISO/IEC 23001-8 [4].</td>
 </tr>
-
 <tr>
 <td><code>urn:mpeg:dash:13818:1:stereo_video_format_type:2011</code></td>
 <td>ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.5.3</td>
@@ -324,11 +301,8 @@
 </tr>
 </tbody>
 </table>
-
 <h1 id="video-source-description-in-role-element">Video Source Description in Role Element</h1>
-
 <p>Scheme may also be used with the Role descriptor. The following defines a set of URIs that may be used with the Role element:</p>
-
 <table>
 <thead>
 <tr>
@@ -337,7 +311,6 @@
 <th>Abstract</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>urn:mpeg:dash:stereoid:2011</code></td>

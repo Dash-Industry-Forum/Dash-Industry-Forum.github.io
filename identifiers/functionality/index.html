@@ -205,10 +205,7 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="functionality">Functionality</h1>
-
+  <h1 id="functionality">Functionality</h1>
 <table>
 <thead>
 <tr>
@@ -217,44 +214,37 @@
 <th>Abstract</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>https://dashif.org/guidelines/trickmode</code></td>
 <td>DASH-IF IOP v3.2, clause 3.2.9</td>
-<td>Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI “<a href="https://dashif.org/guidelines/trickmode”">https://dashif.org/guidelines/trickmode”</a> then the DASH client shall not select any of the contained Representations for regular playout.</td>
+<td>Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI “https://dashif.org/guidelines/trickmode” then the DASH client shall not select any of the contained Representations for regular playout.</td>
 </tr>
-
 <tr>
 <td><code>https://dashif.org/guidelines/AdaptationSetSwitching</code></td>
 <td>DASH-IF IOP v3.2, clause 3.8</td>
 <td>Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</td>
 </tr>
-
 <tr>
 <td><code>urn:3GPP:dash:3dVideoDisplayInformation:2013</code></td>
 <td>3GPP TS 26.247, clause C.5</td>
 <td>The 3D Video Display Information description scheme may only be signalled in SupplementalProperty element with SupplementalProperty@schemeIdUri urn:3GPP:dash:3dVideoDisplayInformation:2013. When present the 3D Video Display Information description scheme shall be present on the Adaptation Set level.</td>
 </tr>
-
 <tr>
 <td><code>urn:dvb:dash:fontdownload:2014</code></td>
 <td>ETSI TS 103 285, clause 7.2.1</td>
 <td>A descriptor is signalling a downloadable font in accordance with the present document when it has the @schemeIdUri attribute set to “urn:dvb:dash:fontdownload:2014” and the @value attribute set to 1.</td>
 </tr>
-
 <tr>
 <td><code>urn:dvb:dash:fallback_adaptation_set:2014</code></td>
 <td>ETSI TS 103 285</td>
 <td>If the audio codec used for main service operation does not provide sufficient capability to scale down bit rates low enough within an Adaptation Set, an additional audio Adaptation Set should be provided within the DASH presentation. Adaptation sets with the purpose of providing media streams with low bit rates for fallback operation shall be indicated with an additional Supplemental Property Descriptor.</td>
 </tr>
-
 <tr>
 <td><code>urn:dvb:dash:period_continuity:2014</code></td>
 <td>ETSI TS 103 285, clause 10.5.2.3</td>
 <td>Content providers may explicitly signal that Adaptation Sets across Periods are period-continuous.</td>
 </tr>
-
 <tr>
 <td><code>urn:3GPP:dash:3dVideoDisparityRange:2013</code></td>
 <td>ETSI TS 26.247, Annex C.4</td>
