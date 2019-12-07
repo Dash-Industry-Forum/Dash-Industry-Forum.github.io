@@ -95,7 +95,7 @@ Aug 23, 2012 <a href="http://gpac.wp.mines-telecom.fr/2012/08/23/mpeg-dash-suppo
 
 May 6, 2012 <a href="http://blog.eltrovemo.com/711/nab-2012-ott-advancements-doubts/">NAB 2012 OTT Advancements &amp; Doubts: DASH &amp; DRMs : situation gets clearer, without Apple</a>
 
-Apr 17, 2012 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/NAB-Report-DASH-Picks-up-Steam-with-Additional-Support-82041.aspx">NAB Report: DASH Picks up Steam with Additional Support</a>, streamingmedia.com
+Apr 17, 2012 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/NAB-Report-DASH-Picks-up-Steam-with-Additional-Support-82041.aspx">NAB Report: DASH Picks up Steam with Additional Support</a>, streamingmedia.com.
 
 Apr 16, 2012 <a href="http://blogs.msdn.com/b/msmediaplatform/archive/2012/04/16/microsoft-announces-support-for-mpeg-dash-in-microsoft-media-platform.aspx">Microsoft Announces Support for MPEG-DASH in Microsoft Media Platform</a>, MSDN's blog
 
