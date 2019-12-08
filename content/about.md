@@ -193,5 +193,5 @@ Take an active part in defining, tuning, adapting and growing MPEG-DASH and
 leverage its extended features to enable new applications and business use
 cases. Make the streaming format of the future today’s format of choice.
 
-[Click here](https://dashif.org/membership/) or [email](dashindustry@live.com) us for more information on DASH-IF membership levels and
+[Click here](https://dashif.org/membership/) or [email](admin@dashif.org) us for more information on DASH-IF membership levels and
 benefits.

@@ -47,17 +47,15 @@ The scope of this document is to define a Content Protection Information Exchang
 
 **Latest Version:**
 
-DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
+DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 
-The document provides the following extensions to v2.0:
+The document provides the following extensions to v2.1:
 
-* Update on HLS signalization: support for separate EXT-X-KEY and EXT-X-SESSION-KEY signaling
-* Add HDS signalization support
-* Clarifications on the usage of @label attribute
-* Typos and drawings update for finalizing the migration to HTML
+* Bug fixes on the HLS signalization support
 
 **Previous Versions**
 
+* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
   Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v1.0: [Content Protection Information
@@ -138,15 +136,64 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-## Leap second handling clarifications
+## Updated Timing Model for v5
 
-* The change request against IOP v4.1 for Community Review is accessible
-  [here](https://dash-industry-forum.github.io/docs/CR-leapseconds-community-review.pdf)
-* Community review is open until April 15th, 2018. Addition to IOP is
-  expected by Q2/2018.
-* Comments may be submitted through the [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP.)
-* This addition adds the following main features: Clarifies how to handle
-  leap seconds and how to avoid common pitfalls
+* The change request against IOP v4.3 for Community Review is accessible 
+  [here (pdf)](https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.pdf) and [here (html)]( https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.html)
+* The purpose of this chapter is to give a holistic overview of DASH presentation timing and related segment addressing. It is not intended to provide details of the timing model and all possible uses of the attributes in MPEG-DASH. In order to achieve higher interoperability, DASH-IF’s Implementation Guidelines allow considerably limited options than the ones provided by MPEG-DASH, constraining services to a specific set of reasonably flexible behaviors that are highly interoperable with modern client platforms. This chapter covers the timing model and related segment addressing schemes for these common use-cases.
+* Please note: this Community Review is only limited to Chapter 5 of the Interoperability Guidelines, which includes the revised Timing model constraints and other interoperability constraints.  Community Review for the other portions of the Interoperability Guidelines will be available at a future time.
+* Community review is open until November 30th, 2019. Addition to IOP is expected by Q1/2020.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-TimingModel/issues/new?labels=community-review).
+
+
+## Ad Insertion in DASH
+
+* The change request against IOP v4.3 for Community Review is accessible 
+  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.pdf) and [here (html)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.htm)
+* Ad Insertion is considered as one of the most important aspects in online video distribution. Also with the development of CMAF, some additional aspects are relevant, such as consistent development of Ad content, content insertion into CMAF live content, etc. This document addresses latest development in the context of Ad Insertion and maps this to DASH, among others 
+  * Description of most relevant use cases
+  * Ad Insertion architecture
+  * Definition of main content requirements and recommendations
+  * Definition of ad content requirements and recommendations
+  * Definition of combined main and ad content
+  * Ad specific metadata
+  * Ad tracking
+* Community review is open until September 30th, 2019. Addition to IOP is expected by Q4/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/AdInsertion)
+
+## Low-Latency DASH
+
+* The change request against IOP v4.3 for Community Review is accessible
+  [here](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-CR-Low-Latency-Live-Community-Review.pdf)
+* This change provides a new clause for live services that addresses specification updates as well as implementation guidelines to  support Low-Latency DASH services addressing the requirements above.
+* Community review is open until September 06th, 2019. Addition to IOP is expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
+
+## Live Media Ingest
+
+* The new draft specification is accessible
+  [here](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) and a [pdf version](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf).
+* This document specifies protocol interfaces for live ingest/egress of media content. It can be used between live ABR encoders, streaming origins, packagers and content delivery networks. It features support for redundant workflows with failover support and timed metadata.
+* Community review is open until July 31st, 2019. Publication is expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
+
+## DASH Player’s Application Events and Timed Metadata Processing Models and APIs 
+
+* The change request against IOP v4.3 for Community Review is accessible
+  [here](https://dashif-documents.azurewebsites.net/Events/master/event.html) and a [pdf version](https://github.com/Dash-Industry-Forum/Events/blob/master/DASH%20Event%20Metadata%20API%20ver%208.pdf).
+* For the proper usage of Events and Timed Metadata distributed in DASH Media Presentations, APIs pertaining to subscription and notification delivery are beneficially defined between the DASH client and the application consuming the Events. This document adds a client processing model for Events.
+* Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
+
+## WebIDL DASH Event Metadata API 
+
+* The change request against IOP v4.3 for Community Review is accessible
+  [here](https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.htm) and a [pdf version](https://dash-industry-forum.github.io/docs/Event API-WebIDL-CR.pdf).
+* This document specifies an API that a user agent or DASH client can expose for application access to DASH events. This builds upon Media Source Extensions. The API correspond to partial interfaces with respect to the DASHEvent event target. It is meant to cover both in-band ('emsg') and MPD-carriage of events, as well as sparse timed metadata tracks.
+* Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
+
+# Other Resources
 
 ## DASH-IF Conformance Software
 
@@ -166,8 +213,9 @@ comments have been addressed.
   Assisted DASH (SAND)](https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf) (500k PDF)
 * [DASH-IF position Paper: Proposed QoE Media Metrics standardization for
   segmented media playback](https://dash-industry-forum.github.io/docs/ProposedMediaMetricsforSegmentedMediaDelivery-r12.pdf) (1M PDF)
+* [DASH-IF/DVB Report on Low-Latency Live Service with DASH](https://dash-industry-forum.github.io/docs/Report%20on%20Low%20Latency%20DASH.pdf) (2M PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
-  Material](https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf) (2M PDF)
+  Material](https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf) (600k PDF)
 * [DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
   (Streaming recording)](https://meetings.webex.com/collabs/files/playRecording?encryptedDocID=0_29A910EB09C0BAEABD833A0CEE1CE0290D4477CBA394F385C9F76F5039B186DFC9A6CA6A732232122D7A07D19C5C921D_06C635CE7312194B5999E0695FBFC56E12BE2991)
 * [Survey of European Broadcasters on MPEG-DASH](https://dash-industry-forum.github.io/docs/Survey-of-the-European-Broadcasters-on-MPEG-DASH-Whitepaper-V2.1.pdf)

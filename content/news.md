@@ -3,6 +3,12 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+November 25, 2019 DASH-IF acts as <a href="https://dashif.org/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
+
+October 21, 2019 DASH-IF announces <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> in December 2019
+
+September 15, 2019 <a href="https://dashif.org/award-will-law">DASH-IF Leadership Award presented to Will Law</a> during DASH-IF Networking Reception at IBC 2019
+
 February 22, 2017 <a href="http://www.streamingmediaglobal.com/Articles/ReadArticle.aspx?ArticleID=116505">The State of MPEG-DASH 2017</a>, streamingmediaglobal.com
 
 March 30, 2016 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/The-State-of-MPEG-DASH-2016-110099.aspx">The State of MPEG-DASH 2016</a>, streamingmedia.com
@@ -89,7 +95,7 @@ Aug 23, 2012 <a href="http://gpac.wp.mines-telecom.fr/2012/08/23/mpeg-dash-suppo
 
 May 6, 2012 <a href="http://blog.eltrovemo.com/711/nab-2012-ott-advancements-doubts/">NAB 2012 OTT Advancements &amp; Doubts: DASH &amp; DRMs : situation gets clearer, without Apple</a>
 
-Apr 17, 2012 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/NAB-Report-DASH-Picks-up-Steam-with-Additional-Support-82041.aspx">NAB Report: DASH Picks up Steam with Additional Support</a>, streamingmedia.com
+Apr 17, 2012 <a href="http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/NAB-Report-DASH-Picks-up-Steam-with-Additional-Support-82041.aspx">NAB Report: DASH Picks up Steam with Additional Support</a>, streamingmedia.com.
 
 Apr 16, 2012 <a href="http://blogs.msdn.com/b/msmediaplatform/archive/2012/04/16/microsoft-announces-support-for-mpeg-dash-in-microsoft-media-platform.aspx">Microsoft Announces Support for MPEG-DASH in Microsoft Media Platform</a>, MSDN's blog
 
