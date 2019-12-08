@@ -55,8 +55,8 @@ The scope of the DASH-IF InterOperability Points (IOPs) defined in this document
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/members/</guid>
-      <description>Would you like to join? If so, find out about our membership levels, fees and IPR policy.
-Charter Members Contributor Members Associate Members </description>
+      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
+Charter Members            Contributor Members                                Associate Members                               </description>
     </item>
     
     <item>
@@ -96,9 +96,9 @@ The framework source code is downloadable from our Github repository at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>November 25, 2019 DASH-IF acts as program partner for DVB World 2020in March 2020, Valencia, Spain.
-October 21, 2019 DASH-IF announces Open Workshop on Media Streaming meets 5Gin December 2019
-September 15, 2019 DASH-IF Leadership Award presented to Will Lawduring DASH-IF Networking Reception at IBC 2019
+      <description>November 25, 2019 DASH-IF acts as program partner for DVB World 2020 in March 2020, Valencia, Spain.
+October 21, 2019 DASH-IF announces Open Workshop on Media Streaming meets 5G in December 2019
+September 15, 2019 DASH-IF Leadership Award presented to Will Law during DASH-IF Networking Reception at IBC 2019
 February 22, 2017 The State of MPEG-DASH 2017, streamingmediaglobal.com
 March 30, 2016 The State of MPEG-DASH 2016, streamingmedia.com
 Dec 10th, 2015 DASH-IF Content Protection Information Exchange Format (CPIX) v2.</description>
@@ -161,8 +161,9 @@ Will Law from Akamai served and is serving DASH-IF in different roles since its 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/dvb-world-2020/</guid>
-      <description>DASH-IF at DVB World 2020 DASH-IF is proud and delighted to be invited by the Digital Video Broadcasting (DVB)project to act as a program partner of the DVB&#39;s annual flagship conference DVB World in March 2020.
-DASH-IF is offered to organize a 90min session on the latest technology and deployment advances of Dynamic Adaptive Streaming over HTTP (DASH). With DVB-DASH, broadcasters have a standards-based solution for OTT delivery, but the story doesn&#39;t stop there.</description>
+      <description>DASH-IF at DVB World 2020 
+DASH-IF is proud and delighted to be invited by the Digital Video Broadcasting (DVB) project to act as a program partner of the DVB&amp;rsquo;s annual flagship conference DVB World in March 2020.
+DASH-IF is offered to organize a 90min session on the latest technology and deployment advances of Dynamic Adaptive Streaming over HTTP (DASH). With DVB-DASH, broadcasters have a standards-based solution for OTT delivery, but the story doesn&amp;rsquo;t stop there.</description>
     </item>
     
     <item>
@@ -197,7 +198,7 @@ This award offers a financial prize for those papers which best meet the followi
       <guid>https://dash-industry-forum.github.io/icme2017grandchallenge/</guid>
       <description>Host organization: DASH-IF (https://dashif.org/)
 Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
-DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP). The MPEG Dynamic Adaptive Streaming over HTTP (DASH) standard enables smooth multimedia streaming towards heterogeneous devices.</description>
+DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
     </item>
     
     <item>
@@ -217,7 +218,7 @@ DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Descript
       <guid>https://dash-industry-forum.github.io/membership/</guid>
       <description>Membership in DASH-IF offers some great benefits. We have three membership levels and the benefits of each are included below:
 Associate Membership Agreement
- Eligibility to participate in Working Groups  Interoperability Working Group Promotion Working Group   Opportunities to participate in DASH-IF marketing programs and events Discounts on promotional activities such as interoperability workshops Ability to provide feedback on certain draft deliverables Early access to Test Vectors, Test Tools, and Guidelines  Contributor Membership Agreement</description>
+ Eligibility to participate in Working Groups  Interoperability Working Group Promotion Working Group  Opportunities to participate in DASH-IF marketing programs and events Discounts on promotional activities such as interoperability workshops Ability to provide feedback on certain draft deliverables Early access to Test Vectors, Test Tools, and Guidelines  Contributor Membership Agreement</description>
     </item>
     
     <item>
@@ -247,7 +248,7 @@ In the context of DASH as specific source descriptor exists, namely AudioConfigu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</guid>
-      <description>Introduction Authentication and authorization may be provided in the MPD.
+      <description> Introduction Authentication and authorization may be provided in the MPD.
 Authentication Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
    Identifier Reference Abstract     urn: see Authentication    Authorization Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
    Identifier Reference Abstract     urn: see Authorization    </description>
@@ -309,10 +310,10 @@ Such a profile can also be understood as permission for DASH clients that implem
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/references/</guid>
-      <description>References [1]	ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Cor.1 (available as w13495)
-[2]	3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
-[3]	DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
-[4]	ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>
+      <description>References [1] ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Cor.1 (available as w13495)
+[2] 3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
+[3] DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
+[4] ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>
     </item>
     
     <item>
@@ -321,7 +322,7 @@ Such a profile can also be understood as permission for DASH clients that implem
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</guid>
-      <description>Introduction Reporting scheme may be provided in the MPD.
+      <description> Introduction Reporting scheme may be provided in the MPD.
 Reporting Schemes    Identifier Reference Abstract     urn:dvb:dash:reporting:2014 ETSI TS 103 285, clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285.   urn:3GPP:ns:PSS:DASH:QM10 3GPP TS 26.247, clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10”    </description>
     </item>
     

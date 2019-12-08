@@ -205,20 +205,26 @@
 
   <main role="main" class="container">
     
-  <h1 id="introduction">Introduction</h1>
+  
+
+<h1 id="introduction">Introduction</h1>
+
 <p>Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.</p>
+
 <p>Two ways of signalling events are provided, namely</p>
+
 <ul>
-<li>
-<p>MPD events: Events may be signaled in the MPD. A sequence of events assigned to the media presentation time may be provided in the MPD on Period level. Events of the same type are summarized in an Event Stream that is specified by an <strong>EventStream</strong> element in a Period element.</p>
-</li>
-<li>
-<p>Inband events: Event Streams may be multiplexed in Representations. The event streams may be present in selected Representations, in one or several selected Adaptation Set only or in all Representations. An inband event stream that is present in a Representation is indicated by an <strong>InbandEventStream</strong> element.</p>
-</li>
+<li><p>MPD events: Events may be signaled in the MPD. A sequence of events assigned to the media presentation time may be provided in the MPD on Period level. Events of the same type are summarized in an Event Stream that is specified by an <strong>EventStream</strong> element in a Period element.</p></li>
+
+<li><p>Inband events: Event Streams may be multiplexed in Representations. The event streams may be present in selected Representations, in one or several selected Adaptation Set only or in all Representations. An inband event stream that is present in a Representation is indicated by an <strong>InbandEventStream</strong> element.</p></li>
 </ul>
+
 <p>Appropriate schemes and identifiers are defined below.</p>
+
 <h1 id="mpd-events">MPD Events</h1>
+
 <p>The following defines a set of URIs that identify MPD events, i.e., schemes contained in the <strong>EventStream</strong> element:</p>
+
 <table>
 <thead>
 <tr>
@@ -227,17 +233,20 @@
 <th>Abstract</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td><code>urn:scte:scte35:2013:xml</code></td>
 <td>see SCTE 35 2013a [5], 5.10.4 and later and SCTE 214-1 [X], section 6.7.4</td>
 <td>XML representation of SCTE 35 message</td>
 </tr>
+
 <tr>
 <td><code>https://dashif.org/identifiers/vast30</code></td>
 <td>DASH-IF IOP [15], clause 5.6</td>
 <td>Defines signaling for MPD events containing VAST3.0</td>
 </tr>
+
 <tr>
 <td><code>urn:dvb:iptv:cpm:2014</code></td>
 <td>ETSI TS 103 285, 9.1.2.1</td>
@@ -245,8 +254,11 @@
 </tr>
 </tbody>
 </table>
+
 <h1 id="dash-inband-events">DASH Inband Events</h1>
+
 <p>The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the <strong>InbandEventStream</strong> element:</p>
+
 <table>
 <thead>
 <tr>
@@ -255,12 +267,14 @@
 <th>Abstract</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-<td><code>urn:mpeg:dash:event:2012</code>|	ISO/IEC 23009-1 [5], 5.10.4</td>
+<td><code>urn:mpeg:dash:event:2012</code></td>
+<td>ISO/IEC 23009-1 [5], 5.10.4</td>
 <td>This URI is defined to identify DASH specific events that are of relevance for the DASH client.</td>
-<td></td>
 </tr>
+
 <tr>
 <td><code>urn:dvb:iptv:cpm:2014</code></td>
 <td>ETSI TS 103 285, 9.1.2.1</td>
@@ -268,8 +282,11 @@
 </tr>
 </tbody>
 </table>
+
 <h1 id="other-inband-events">Other Inband Events</h1>
+
 <p>The following defines a set of URIs that identify specific inband event schemes, i.e., schemes contained in the <strong>InbandEventStream</strong> element:</p>
+
 <table>
 <thead>
 <tr>
@@ -278,6 +295,9 @@
 <th>Abstract</th>
 </tr>
 </thead>
+
+<tbody>
+</tbody>
 </table>
 
 
