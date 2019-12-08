@@ -4,13 +4,12 @@ node_js:
 
 before_script:
   - npm install gulp-cli
-  - travis_retry sudo apt-get update -qq
-  - travis_retry sudo apt-get install -y snapd
-  - sudo snap install hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
 
 script:
  - gulp
- - /snap/bin/hugo
+ - hugo
  - cp CNAME public/ 2>/dev/null
 
 cache:
