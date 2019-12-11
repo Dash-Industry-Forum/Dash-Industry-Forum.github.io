@@ -1,0 +1,9 @@
+urn:mpeg:dash:profile:full:2011,ISO/IEC 23009-1,/identifiers/references#23009-1,section 8.2,identifier for MPEG-DASH Full profile.
+urn:mpeg:dash:profile:isoff-on-demand:2011,ISO/IEC 23009-1,/identifiers/references#23009-1,section 8.3,identifier for MPEG-DASH ISO Base media file format On Demand profile.
+urn:mpeg:dash:profile:isoff-live:2011,ISO/IEC 23009-1,/identifiers/references#23009-1,section 8.4,identifier for MPEG-DASH ISO Base media file format live profile.
+urn:mpeg:dash:profile:isoff-main:2011,ISO/IEC 23009-1,/identifiers/references#23009-1, section 8.5,identifier for MPEG-DASH ISO Base media file format main profile.
+urn:mpeg:dash:profile:mp2t-main:2011,ISO/IEC 23009-1,/identifiers/references#23009-1,section 8.6,identifier for MPEG-DASH MPEG-2 TS main profile.
+urn:mpeg:dash:profile:mp2t-simple:2011,ISO/IEC 23009-1,/identifiers/references#23009-1,section 8.7,identifier for MPEG-DASH MPEG-2 TS simple profile.
+urn:3GPP:PSS:profile:DASH10,3GPP TS26.247,/identifiers/references#ts26247,section 7.3.3,identifier for 3GP-DASH Release-10 profile.
+urn:dvb:dash:profile:dvb-dash:2014,HbbTV 2.0.1,http://www.hbbtv.org/wp-content/uploads/2015/07/HbbTV-SPEC20-00023-001-HbbTV_2.0.1_specification_for_publication_clean.pdf,,HbbTV 2.0 DASH profiles.
+urn:hbbtv:dash:profile:isoff-live:2012,HbbTV 1.5,http://www.etsi.org/deliver/etsi_ts%5C102700_102799%5C102796%5C01.02.01_60%5Cts_102796v010201p.pdf,,HbbTV 1.5 DASH profiles.

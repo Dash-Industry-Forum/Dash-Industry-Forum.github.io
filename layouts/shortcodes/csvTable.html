@@ -1,0 +1,22 @@
+<table>
+{{ $url := .Get 0 }}
+{{ $sep := "," }}
+  <thead>
+    <tr>
+      <th>Identifier</th>
+      <th>Reference</th>
+      <th>Section</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $i, $r := getCSV $sep $url }}
+    <tr>
+      <td><code>{{ index $r 0 }}</code></td>
+      <td><a href="{{ index $r 2 }}">{{ index $r 1 }}</a></td>
+      <td>{{ index $r 3 }}</td>
+      <td>{{ index $r 4 }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
