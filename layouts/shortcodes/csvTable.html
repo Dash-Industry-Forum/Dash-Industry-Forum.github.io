@@ -1,6 +1,8 @@
 <table>
-{{ $url := .Get 0 }}
-{{ $sep := "," }}
+{{ $prefix := "https://raw.githubusercontent.com/Dash-Industry-Forum/Identifiers/master/" }}
+{{ $path := .Get 0 }}
+{{ $url := print $prefix "/" $path }}
+{{ $sep := "|" }}
   <thead>
     <tr>
       <th>Identifier</th>
