@@ -21,20 +21,13 @@ Appropriate schemes and identifiers are defined below.
 
 The following defines a set of URIs that identify MPD events, i.e., schemes contained in the **EventStream** element:
 
-Identifier                        |Reference                           |Abstract
-----------------------------------|------------------------------------|----------------
-`urn:scte:scte35:2013:xml`	|see SCTE 35 2013a [5], 5.10.4 and later and SCTE 214-1 [X], section 6.7.4	| XML representation of SCTE 35 message
-`https://dashif.org/identifiers/vast30` |	DASH-IF IOP [15], clause 5.6	| Defines signaling for MPD events containing VAST3.0
-`urn:dvb:iptv:cpm:2014`	| ETSI TS 103 285, 9.1.2.1 |	Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.
+{{< csvTable "csv/event-schemes-mpd-events.csv" >}}
 
 # DASH Inband Events
 
 The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the **InbandEventStream** element:
 
-Identifier                        |Reference                           |Abstract
-----------------------------------|------------------------------------|----------------
-`urn:mpeg:dash:event:2012`|	ISO/IEC 23009-1 [5], 5.10.4 |	This URI is defined to identify DASH specific events that are of relevance for the DASH client.
-`urn:dvb:iptv:cpm:2014` |	ETSI TS 103 285, 9.1.2.1 |	Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.
+{{< csvTable "csv/event-schemes-dash-inband-events.csv" >}}
 
 # Other Inband Events
 

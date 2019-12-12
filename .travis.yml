@@ -9,7 +9,7 @@ before_script:
 
 script:
  - gulp
- - hugo
+ - hugo --ignoreCache
  - cp CNAME public/ 2>/dev/null
 
 cache:
@@ -31,5 +31,6 @@ deploy:
   keep-history: true
   on:
     branch: hugo
+    repo: Dash-Industry-Forum/Dash-Industry-Forum.github.io
   target-branch: master
   local-dir: public
