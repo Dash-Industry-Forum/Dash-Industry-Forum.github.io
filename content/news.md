@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-December 12, 2019 DASH-IF is introduced as one of EBU's technology collaboration partner in their<a href="https://tech.ebu.ch/files/live/sites/tech/files/shared/tech-i/tech-i-042.pdf"> December 2020 issue of EBU's i-tech magazine</a>. Check it out along with many other exciting news from European broadcasters.
+December 12, 2019 DASH-IF is introduced as one of EBU's technology collaboration partner in their<a href="https://tech.ebu.ch/files/live/sites/tech/files/shared/tech-i/tech-i-042.pdf"> December 2019 issue of EBU's i-tech magazine</a>. Check it out along with many other exciting news from European broadcasters.
 
 November 25, 2019 DASH-IF acts as <a href="https://dashif.org/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
 
