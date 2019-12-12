@@ -325,6 +325,18 @@ Reporting Schemes    Identifier Reference Section Comment     urn:dvb:dash:repor
     </item>
     
     <item>
+      <title>SAND</title>
+      <link>https://dash-industry-forum.github.io/identifiers/sand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/sand/</guid>
+      <description>General MPEG DASH part 5 Server And Network-assisted DASH defines messages and MPD signalling for a DASH client and a DANE (network entity) to exchange such SAND messages.
+Test vectors for SAND MPDs and messages can be fond at Test Vectors.
+The following are the identifiers defined in several specification related to SAND.
+SAND    Identifier Reference Section Comment     http://dashif.org/guidelines/sand/modes/qoe DASH-IF SAND Interoperability 4.</description>
+    </item>
+    
+    <item>
       <title>Subtitle and Closed Captioning</title>
       <link>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
