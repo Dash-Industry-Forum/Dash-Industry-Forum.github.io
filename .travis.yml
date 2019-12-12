@@ -9,7 +9,7 @@ before_script:
 
 script:
  - gulp
- - hugo
+ - hugo --ignoreCache
  - cp CNAME public/ 2>/dev/null
 
 cache:
