@@ -216,28 +216,37 @@
 <p>The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:</p>
 
 <table>
-<thead>
-<tr>
-<th>Identifier</th>
-<th>Reference</th>
-<th>Abstract</th>
-</tr>
-</thead>
 
-<tbody>
-<tr>
-<td><code>urn:dvb:iptv:guidance:2014</code></td>
-<td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a>, clause 9.1.2.3</td>
-<td>“urn:dvb:iptv:guidance:2014” where the id is either:<ul><li>‘G’ indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element.</li><li>‘W’ indicating watershed (safe harbour) content that is only suitable for presentation after the watershed. Guidance text may also be provided</li></td>
-</tr>
 
-<tr>
-<td><code>urn:dvb:iptv:rating:2014</code></td>
-<td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a>, clause 9.1.2.3</td>
-<td>scheme where the id is a decimal number representing the minimum recommended age encoded as per ETSI EN 300 468.</td>
-</tr>
-</tbody>
+
+
+  <thead>
+    <tr>
+      <th>Identifier</th>
+      <th>Reference</th>
+      <th>Section</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td><code>urn:dvb:iptv:guidance:2014</code></td>
+      <td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a></td>
+      <td>clause 9.1.2.3</td>
+      <td>Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed. Guidance text may also be provided.</td>
+    </tr>
+    
+    <tr>
+      <td><code>urn:dvb:iptv:rating:2014</code></td>
+      <td><a href="http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf">ETSI TS 103 285</a></td>
+      <td>clause 9.1.2.3</td>
+      <td>Where the id is a decimal number representing the minimum recommended age encoded as per ETSI EN 300 468.</td>
+    </tr>
+    
+  </tbody>
 </table>
+
 
 
   </main>

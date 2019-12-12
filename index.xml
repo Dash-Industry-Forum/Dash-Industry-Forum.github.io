@@ -272,7 +272,7 @@ For Representations based on ISO/IEC 14496-12 [6] a content protection scheme us
       <guid>https://dash-industry-forum.github.io/identifiers/content_rating/</guid>
       <description>Introduction Content Rating may be provided in the MPD.
 Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
-   Identifier Reference Abstract     urn:dvb:iptv:guidance:2014 ETSI TS 103 285, clause 9.1.2.3 “urn:dvb:iptv:guidance:2014” where the id is either:‘G’ indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element.</description>
+   Identifier Reference Section Comment     urn:dvb:iptv:guidance:2014 ETSI TS 103 285 clause 9.1.2.3 Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed.</description>
     </item>
     
     <item>
@@ -291,7 +291,7 @@ Two ways of signalling events are provided, namely</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/functionality/</guid>
-      <description>Functionality    Identifier Reference Abstract     https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2, clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI “https://dashif.org/guidelines/trickmode” then the DASH client shall not select any of the contained Representations for regular playout.   https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2, clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
+      <description>Functionality    Identifier Reference Section Comment     https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2 clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout.   https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2 clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
     </item>
     
     <item>
