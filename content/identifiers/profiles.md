@@ -45,10 +45,8 @@ and Extensions.
 {{< csvTable "csv/profiles-profiles.csv" >}}
 
 # Interoperability points
-
 {{< csvTable "csv/profiles-interoperability-points.csv" >}}
 
 # Extensions
-
 {{< csvTable "csv/profiles-extensions.csv" >}}
 
