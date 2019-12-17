@@ -68,7 +68,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.cliplister.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Cliplister_logo_website.png" alt="" /></a>
 <a href="https://www.epiclabs.io/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/negative-main-logotype_website2.png" alt="" /></a>
 <a href="http://www.eurofins-digitaltesting.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Eurofins-logo_website.png" alt="" /></a>
-<a href="http://www.inisoft.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Inisoft_Logo_website.png" alt="" /></a>
+<a href="http://www.inisoft.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/INISOFT_LOGO_website.png" alt="" /></a>
 <a href="http://pallycon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/InkaEntworks-Logo_website.jpg" alt="" /></a>
 <a href="http://jwplayer.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/jwplayer_website_logo.png" alt="" />    </a>
 <a href="https://www.lhsystems.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/LSYneues-logo-300x35_website.png" alt="" /></a> 
