@@ -158,7 +158,7 @@ comments have been addressed.
   * Definition of combined main and ad content
   * Ad specific metadata
   * Ad tracking
-* Community review is open until September 30th, 2019. Addition to IOP is expected by Q4/2019.
+* Community review is open until September 30th, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/AdInsertion)
 
 ## Low-Latency DASH
@@ -168,6 +168,22 @@ comments have been addressed.
 * This change provides a new clause for live services that addresses specification updates as well as implementation guidelines to  support Low-Latency DASH services addressing the requirements above.
 * Community review is open until January 31st, 2020. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
+
+## Content Protection and Security
+
+* The change request against IOP v4.3 for Community Review is accessible
+  [html](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) and [pdf] (https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.pdf)
+* Scope, Updates and Changes
+  * This document is an update to the DASH-IF IOP Guidelines version 4.3. The scope remains the same, giving guidelines for interoperable behaviors of clients in front of well formed encrypted content. This means:
+  * Updated encrypted content constraints for supporting CMAF. This includes the addition of the cbcs scheme support and recommendation for encrypting content when available both encrypted with cbcs and cenc schemes. Note that compared to DASH-IF IOP 4.3, there are no changes in the recommendations for using default_KID and pssh elements.
+  * Added discussions on compliance and robustness rules and their impact on the choices of the DRM client to instantiate.
+  * Added discussions on compliance and robustness rules and their impact on the choices of the DRM client to instantiate.
+  * Clarified periodic reauthorization mechanisms, limited now the only Period change possibility. As a consequence, key hierarchy is moved in a different section as this is used for supporting different use cases.
+  * Clarified the client reference architecture which is an MSE/EME type of player, more precisely connecting between the DASH/DASH-IF/CMAF content format specifications and W3C EME.
+  * Introduces the Interoperable license request model that describes how players take content and consume it in ways that make sense on a platform that supports EME. From the Platform capabilities discovery and DRM selection to the license request protocol, this optional request model allows a player to obtain authorization tokens that can be used for retrieving licenses and content keys from a license server for rendering content. Any processing step in the proposed model can be redefined by the application logic.
+  * Introduces DASH-IF XML schema where two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
+* Community review is open until March 31st, 2020. Addition to IOP is expected by Q2/2020.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
 ## Live Media Ingest
 
