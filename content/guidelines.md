@@ -183,7 +183,7 @@ comments have been addressed.
   * Introduces the Interoperable license request model that describes how players take content and consume it in ways that make sense on a platform that supports EME. From the Platform capabilities discovery and DRM selection to the license request protocol, this optional request model allows a player to obtain authorization tokens that can be used for retrieving licenses and content keys from a license server for rendering content. Any processing step in the proposed model can be redefined by the application logic.
   * Introduces DASH-IF XML schema where two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
 * Community review is open until March 31st, 2020. Addition to IOP is expected by Q2/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review).
 
 ## Live Media Ingest
 
