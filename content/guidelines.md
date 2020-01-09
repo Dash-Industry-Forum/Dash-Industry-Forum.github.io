@@ -172,7 +172,7 @@ comments have been addressed.
 ## Content Protection and Security
 
 * The change request against IOP v4.3 for Community Review is accessible
-  [html](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) and [pdf] (https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.pdf)
+  [html](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) and [pdf](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.pdf)
 * Scope, Updates and Changes
   * This document is an update to the DASH-IF IOP Guidelines version 4.3. The scope remains the same, giving guidelines for interoperable behaviors of clients in front of well formed encrypted content. This means:
   * Updated encrypted content constraints for supporting CMAF. This includes the addition of the cbcs scheme support and recommendation for encrypting content when available both encrypted with cbcs and cenc schemes. Note that compared to DASH-IF IOP 4.3, there are no changes in the recommendations for using default_KID and pssh elements.
