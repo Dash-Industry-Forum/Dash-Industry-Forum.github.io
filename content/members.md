@@ -24,7 +24,8 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 ## Contributor Members
 
 
-<div class="member"><a href="http://www.arrisi.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ARRIS_4c_WEB_website_052915.jpg" alt="" /></a>
+<div class="member">
+<a href="https://www.commscope.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/CommScope_positive_RGB_website.jpg" alt="" /></a>
 <a href="https://www.brightcove.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/brightcove_website.jpg" alt="" /></a> 
 <a href="http://www.cablelabs.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/CL_301_large_website_052915.png" alt="" /></a>    
 <a href="http://www.castlabs.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/castlabs-new-logo_website.png" alt="" /> </a>
