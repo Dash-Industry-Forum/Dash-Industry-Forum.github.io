@@ -127,7 +127,7 @@ This document presents the DASH-IF Live Media Ingest Protocol Specification. Two
 
 **Latest Version**
 
-[DASH-IF Live Media Ingest Protocol v1.0] (https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) ([pdf](https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
+[DASH-IF Live Media Ingest Protocol v1.0] (https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) ([pdf](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 **Comments and Bugs**
 
