@@ -119,6 +119,20 @@ Comments and bugs may be submitted through the [public github repository](https:
 
 [DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)] (https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm) ([pdf](https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
+## Live Media Ingest
+
+**Scope**
+
+This document presents the DASH-IF Live Media Ingest Protocol Specification. Two protocol interfaces are defined. The first, interface 1, CMAF ingest, is based on fragmented MPEG-4 as defined in the common media application track format (CMAF). The second interface is based on MPEG DASH and HLS as defined by ISO SC29 WG 11 and IETF. Both Interfaces use the HTTP POST Method to transmit media objects from the ingest source to the receiving entity. Examples of live streaming workflows using these protocol interfaces are also presented. The protocol interfaces also support carriage of timed metadata and timed text. Guidelines for redundancy and failover are also included.
+
+**Latest Version**
+
+[DASH-IF Live Media Ingest Protocol v1.0] (https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) ([pdf](https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
+
+**Comments and Bugs**
+
+Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
+
 
 ## DASH-IF Test cases and Vectors
 
@@ -184,14 +198,6 @@ comments have been addressed.
   * Introduces DASH-IF XML schema where two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
 * Community review is open until March 31st, 2020. Addition to IOP is expected by Q2/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review).
-
-## Live Media Ingest
-
-* The new draft specification is accessible
-  [here](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) and a [pdf version](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf).
-* This document specifies protocol interfaces for live ingest/egress of media content. It can be used between live ABR encoders, streaming origins, packagers and content delivery networks. It features support for redundant workflows with failover support and timed metadata.
-* Community review is open until July 31st, 2019. Publication is expected by Q3/2019.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
 
 ## DASH Player’s Application Events and Timed Metadata Processing Models and APIs 
 
