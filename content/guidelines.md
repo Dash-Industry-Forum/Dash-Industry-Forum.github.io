@@ -119,7 +119,7 @@ Comments and bugs may be submitted through the [public github repository](https:
 
 [DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)] (https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm) ([pdf](https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
-## Live Media Ingest
+## DASH-IF Technical Specification: Live Media Ingest
 
 **Scope**
 
