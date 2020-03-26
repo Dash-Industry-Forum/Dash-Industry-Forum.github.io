@@ -6,7 +6,7 @@ With 1,5 years of collaborative work, the DASH-IF published a technical specific
 
 
 
-The specification can be accessed through our <a href="https://dashif.org/guidelines/#dash-if-technical-specification-live-media-ingest"</a> public website under the guidelines section.
+The specification can be accessed through our <a href="https://dashif.org/guidelines/#dash-if-technical-specification-live-media-ingest"> public website under the guidelines section</a>.
 
 The specification was developed by the DASH IF Interoperability WG in the Live Media Ingest TF lead by <a href="https://www.linkedin.com/in/rufael-mekuria-652b4828/">Rufael Mekuria</a> (Unified Streaming).
 
