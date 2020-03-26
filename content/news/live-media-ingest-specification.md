@@ -10,4 +10,4 @@ The specification can be accessed through our <a href="https://dashif.org/guidel
 
 The specification was developed by the DASH IF Interoperability WG in the Live Media Ingest TF lead by <a href="https://www.linkedin.com/in/rufael-mekuria-652b4828/">Rufael Mekuria</a> (Unified Streaming).
 
-The specification was made possible by the generous contributions and support of member companies: Akamai, CenturyLink, Microsoft, Hulu, Comcast, ITV, Qualcomm, Tencent, MediaExcel, Harmonic, Unified Streaming, Sony, Arris (Interscope), Bitmovin, DSR and AWS Elemental. And individual contributions from BBC R&D and Facebook.
+The specification was made possible by the generous contributions and support of member companies: Akamai, CenturyLink, Microsoft, Hulu, Comcast, ITV, Qualcomm, Tencent, MediaExcel, Harmonic, Unified Streaming, Sony, Arris (CommScope), Bitmovin, DSR and AWS Elemental. And individual contributions from BBC R&D and Facebook.
