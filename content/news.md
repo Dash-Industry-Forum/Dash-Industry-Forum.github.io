@@ -3,9 +3,13 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-December 13, 2019 DASH-IF provides summary of <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> including presentations.
+March 26, 2020 -- DASH-IF provides <a href="https://dashif.org/dvb-world-2020">joint webinar with DVB as replacement of the DVB World Session on March 31, 2020</a>. Joining the session is free - <a href="https://zoom.us/webinar/register/WN_xWoas5ruSOyMdbJ9vyNvIQ">please register here</a>.
 
-December 12, 2019 DASH-IF is introduced as one of EBU's technology collaboration partner in their<a href="https://tech.ebu.ch/files/live/sites/tech/files/shared/tech-i/tech-i-042.pdf"> December 2019 issue of EBU's i-tech magazine</a>. Check it out along with many other exciting news from European broadcasters.
+March 23, 2020 -- <a href="https://dashif.org/news/live-media-ingest-specification">DASH-IF publishes Live Media Ingest Technical Specification</a>.
+
+December 13, 2019 -- DASH-IF provides summary of <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> including presentations.
+
+December 12, 2019 -- DASH-IF is introduced as one of EBU's technology collaboration partner in their<a href="https://tech.ebu.ch/files/live/sites/tech/files/shared/tech-i/tech-i-042.pdf"> December 2019 issue of EBU's i-tech magazine</a>. Check it out along with many other exciting news from European broadcasters.
 
 November 25, 2019 DASH-IF acts as <a href="https://dashif.org/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
 
