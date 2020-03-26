@@ -226,7 +226,7 @@ Associate Membership Agreement
       
       <guid>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</guid>
       <description>DASH-IF Publishes Live Media Ingest Technical Specification 
-With 1,5 years of collaborative work, the DASH-IF published a technical specification on live media ingest. While DASH is excellent for streaming to clients, transmitting content from a live source to an origin or packager benefits from a different approach. The live media ingest specification provides this and defines a protocol to ingest DASH and CMAF content using the HTTP POST method.</description>
+With 18 months of collaborative work, the DASH-IF published a technical specification on live media ingest. While DASH is excellent for streaming to clients, transmitting content from a live source to an origin or packager benefits from a different approach. The live media ingest specification provides this and defines a protocol to ingest DASH and CMAF content using the HTTP POST method.</description>
     </item>
     
     <item>
