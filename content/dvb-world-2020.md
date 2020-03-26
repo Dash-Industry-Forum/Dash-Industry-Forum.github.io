@@ -9,7 +9,8 @@ On March 31, 2020 at 4pm cest, the webinar <a href="https://dvb.org/webinar/webi
 
 Registration for the webinar is public and free of charge. <a href="https://zoom.us/webinar/register/WN_xWoas5ruSOyMdbJ9vyNvIQ">Please register here</a>.
 
-The following program is envisaged:
+The following program is planned:
+
 * 16:00-16:10 (10 mins)	The DASH Industry Forum, who we are and what we do – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)
 
 * 16:10-16:25 (15 mins)	Meeting live broadcast requirements – the latest on DASH low latency! – <a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (DASH-IF Leadership Award Winner, Akamai)
