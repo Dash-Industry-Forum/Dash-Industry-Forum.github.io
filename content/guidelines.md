@@ -157,20 +157,10 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-## Updated Timing Model for v5
-
-* The change request against IOP v4.3 for Community Review is accessible 
-  [here (pdf)](https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.pdf) and [here (html)]( https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.html)
-* The purpose of this chapter is to give a holistic overview of DASH presentation timing and related segment addressing. It is not intended to provide details of the timing model and all possible uses of the attributes in MPEG-DASH. In order to achieve higher interoperability, DASH-IF’s Implementation Guidelines allow considerably limited options than the ones provided by MPEG-DASH, constraining services to a specific set of reasonably flexible behaviors that are highly interoperable with modern client platforms. This chapter covers the timing model and related segment addressing schemes for these common use-cases.
-* Please note: this Community Review is only limited to Chapter 5 of the Interoperability Guidelines, which includes the revised Timing model constraints and other interoperability constraints.  Community Review for the other portions of the Interoperability Guidelines will be available at a future time.
-* Community review is open until November 30th, 2019. Addition to IOP is expected by Q1/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-TimingModel/issues/new?labels=community-review).
-
-
 ## Ad Insertion in DASH
 
 * The change request against IOP v4.3 for Community Review is accessible 
-  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.pdf) and [here (html)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r4.htm)
+  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r5.pdf)
 * Ad Insertion is considered as one of the most important aspects in online video distribution. Also with the development of CMAF, some additional aspects are relevant, such as consistent development of Ad content, content insertion into CMAF live content, etc. This document addresses latest development in the context of Ad Insertion and maps this to DASH, among others 
   * Description of most relevant use cases
   * Ad Insertion architecture
@@ -179,8 +169,17 @@ comments have been addressed.
   * Definition of combined main and ad content
   * Ad specific metadata
   * Ad tracking
-* Community review is open until September 30th, 2019. Addition to IOP is expected by Q1/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/AdInsertion)
+* Community review is open until May 15th, 2020. Addition to IOP is expected by Q2/2020.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review). 
+
+## Updated Timing Model for v5
+
+* The change request against IOP v4.3 for Community Review is accessible 
+  [here (pdf)](https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.pdf) and [here (html)]( https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.html)
+* The purpose of this chapter is to give a holistic overview of DASH presentation timing and related segment addressing. It is not intended to provide details of the timing model and all possible uses of the attributes in MPEG-DASH. In order to achieve higher interoperability, DASH-IF’s Implementation Guidelines allow considerably limited options than the ones provided by MPEG-DASH, constraining services to a specific set of reasonably flexible behaviors that are highly interoperable with modern client platforms. This chapter covers the timing model and related segment addressing schemes for these common use-cases.
+* Please note: this Community Review is only limited to Chapter 5 of the Interoperability Guidelines, which includes the revised Timing model constraints and other interoperability constraints.  Community Review for the other portions of the Interoperability Guidelines will be available at a future time.
+* Community review is open until November 30th, 2019. Addition to IOP is expected by Q1/2020.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-TimingModel/issues/new?labels=community-review).
 
 
 ## Content Protection and Security
