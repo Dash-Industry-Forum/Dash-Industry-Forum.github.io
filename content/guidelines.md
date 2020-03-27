@@ -15,19 +15,25 @@ cited along with the documents.
 
 ## DASH-IF Interoperability Points and Extensions
 
-**Scope**
+### Scope
 
-The scope of the DASH-IF InterOperability Points (IOPs) defined in this document is to provide support for high-quality video distribution for over the top services using H.264/AVC and H.265/HEVC. Both live and on-demand services are supported. The specified features enable relevant use cases including on-demand, live services, ad insertion, trick modes, seek preview, content protection and subtitling. Exten-sions for multi-channel audio and next generation audio with different codecs as well as extensions to video different codecs and Ultra High Definition are defined.
+The scope of the DASH-IF InterOperability Points (IOPs) defined in this document is to provide support for high-quality video distribution for over the top services using H.264/AVC and H.265/HEVC. Both live and on-demand services are supported. The specified features enable relevant use cases including on-demand, live services, ad insertion, trick modes, seek preview, content protection and subtitling. Extensions for multi-channel audio and next generation audio with different codecs as well as extensions to video different codecs and Ultra High Definition are defined.
 
 Any identified bugs or missing features may be submitted through the DASH-IF issue tracker at https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues.
 
-Note that version 4.3 is published as an add on to v4.2, but with the next version it is expected that a either a multipart version or a restructured version will be generated, with a major editorial updates. The new version is expected to be available by spring of 2019.
+Note that version 4.3 is published as an add on to v4.2, but with the next version it is expected that a either a multipart version or a restructured version will be generated, with a major editorial updates. The new version is expected to be available by spring of 2020.
 
-**Latest Version**
+### Latest Version
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
-**Previous Versions**
+### Agreed CRs for Next Version
+
+This clause lists a set of agreed CRs that will be added to the next revision of the IOP Guidelines.
+* [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues)
+
+
+### Previous Versions
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.pdf) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP)) | ([diff to v4.1](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-diff-4.1.pdf)) | ([Online version](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.htm))
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.1: Robust Live, Seek Preview, Content Annotation, New Media Codecs and other extensions](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.1-clean.pdf) | [License declarations](https://dashif.org/ipr-declarations/)
@@ -41,11 +47,11 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 
 ## DASH-IF Content Protection Information Exchange Format
 
-**Scope**
+### Scope**
 
 The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.
 
-**Latest Version:**
+### Latest Version
 
 DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 
@@ -53,7 +59,7 @@ The document provides the following extensions to v2.1:
 
 * Bug fixes on the HLS signalization support
 
-**Previous Versions**
+### Previous Versions
 
 * DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
@@ -63,13 +69,13 @@ The document provides the following extensions to v2.1:
 
 ## Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0
 
-**Scope**
+### Scope
 
 The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.
 
 Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/ATSC).
 
-**Latest Version:**
+### Latest Version
 
 Version 1.1: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf) | [diff to v1.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1-diff-v1.0.pdf))
 
@@ -86,13 +92,13 @@ This updated version adds the following aspects:
 * Update to xlink behavior in clause 5.1
 * Miscellaneous editorial updates
 
-**Previous Versions**
+### Previous Versions
 
 * [Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## Guidelines for Implementation: DASH-IF SAND Interoperability
 
-**Scope**
+### Scope
 
 The scope of this document is to address interoperability aspects and deployment guidelines for Server and Network Assisted DASH (SAND). More specifically, the following aspects of SAND are covered:
 •	Modes defining subsets of SAND messages and mandatory SAND protocols to use for specific deployment environments
@@ -102,41 +108,41 @@ The scope of this document is to address interoperability aspects and deployment
 
 Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/SAND)
 
-**Latest Version**
+### Latest Version
 
 Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 ([pdf](https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)
 
-**Scope**
+### Scope
 
 The scope of this document is to define a token-based access control mechanism and to enable the signaling of Authentication and Authorization (AA) protocols for DASH-based streaming. An Access Token is a proof that a DASH client or user of the client have been successfully authenticated and authorized in some pre-determined AA Systems to access a particular DASH resource, e.g. DASH segments or MPDs.
 This document defines an Access Token format for accessing DASH resources and its transport between a DASH client and a server, hence ensuring interoperability between content providers and content delivery networks. The document focuses on the signaling and exchange mechanisms to facilitate Access Token-protected requests for the delivery of MPDs, licenses, keys and segments. This document can be used in addition to the general DASH-IF Interoperability Points.
 
 Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/TAC)
 
-**Latest Version**
+### Latest Version
 
 [DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)] (https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm) ([pdf](https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## DASH-IF Technical Specification: Live Media Ingest
 
-**Scope**
+### Scope
 
 This document presents the DASH-IF Live Media Ingest Protocol Specification. Two protocol interfaces are defined. The first, interface 1, CMAF ingest, is based on fragmented MPEG-4 as defined in the common media application track format (CMAF). The second interface is based on MPEG DASH and HLS as defined by ISO SC29 WG 11 and IETF. Both Interfaces use the HTTP POST Method to transmit media objects from the ingest source to the receiving entity. Examples of live streaming workflows using these protocol interfaces are also presented. The protocol interfaces also support carriage of timed metadata and timed text. Guidelines for redundancy and failover are also included.
 
-**Latest Version**
+### Latest Version
 
 [DASH-IF Live Media Ingest Protocol v1.0] (https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) ([pdf](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
-**Comments and Bugs**
+### Comments and Bugs
 
 Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
 
 
 ## DASH-IF Test cases and Vectors
 
-* Guidelines for Implementation: [Test cases and Vectors V1.0](https://dash-industry-forum.github.io/docs/DASH-AVC-264-Test-Vectors-v1.0.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Test-Cases/issues))
+* Guidelines for Implementation: [Test cases and Vectors V1.0](https://testassets.dashif.org) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Test-Cases/issues))
 
 # DASH-IF Interoperability Documents for Community Review
 
@@ -175,13 +181,6 @@ comments have been addressed.
 * Community review is open until September 30th, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/AdInsertion)
 
-## Low-Latency DASH
-
-* The change request against IOP v4.3 for Community Review is accessible
-  [here](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-CR-Low-Latency-Live-Community-Review-Dec-2019.pdf)
-* This change provides a new clause for live services that addresses specification updates as well as implementation guidelines to  support Low-Latency DASH services addressing the requirements above.
-* Community review is open until January 31st, 2020. Addition to IOP is expected by Q1/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Live/issues/new?labels=community-review) or [public bugtracker](https://gitreports.com/issue/haudiobe/Live)
 
 ## Content Protection and Security
 
@@ -204,7 +203,7 @@ comments have been addressed.
 * The change request against IOP v4.3 for Community Review is accessible
   [here](https://dashif-documents.azurewebsites.net/Events/master/event.html) and a [pdf version](https://github.com/Dash-Industry-Forum/Events/blob/master/DASH%20Event%20Metadata%20API%20ver%208.pdf).
 * For the proper usage of Events and Timed Metadata distributed in DASH Media Presentations, APIs pertaining to subscription and notification delivery are beneficially defined between the DASH client and the application consuming the Events. This document adds a client processing model for Events.
-* Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
+* Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
 ## WebIDL DASH Event Metadata API 
@@ -212,22 +211,23 @@ comments have been addressed.
 * The change request against IOP v4.3 for Community Review is accessible
   [here](https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.htm) and a [pdf version](https://dash-industry-forum.github.io/docs/Event API-WebIDL-CR.pdf).
 * This document specifies an API that a user agent or DASH client can expose for application access to DASH events. This builds upon Media Source Extensions. The API correspond to partial interfaces with respect to the DASHEvent event target. It is meant to cover both in-band ('emsg') and MPD-carriage of events, as well as sparse timed metadata tracks.
-* Community review is open until August 31st, 2019. Addition to IOP is expected by Q3/2019.
+* Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
 # Other Resources
 
 ## DASH-IF Conformance Software
 
-* [DASH-AVC/264 Online Conformance Tool](https://conformance.dashif.org/conformancetest.html)
+* [DASH-IF Online Conformance Tool](https://conformance.dashif.org/conformancetest.html)
 * Please use the following bugtracker to submit issues with the conformance
-  software: [https://gitreports.com/issue/Dash-Industry-Forum/Conformance-Software](https://gitreports.com/issue/Dash-Industry-Forum/Conformance-Software)
-* For detailed description see here: [DASH-IF-Conformance-Software-v1.0.pdf](https://dash-industry-forum.github.io/docs/DASH-IF-Conformance-Software-v1.0.pdf)
+  software: [https://github.com/Dash-Industry-Forum/Conformance-Software/issues](https://github.com/Dash-Industry-Forum/Conformance-Software/issues)
 
 ## ISO Publicly Available Specification
 
 * [MPEG-DASH 2nd Edition Specification (ISO/IEC 23009-1:2014)](http://standards.iso.org/ittf/PubliclyAvailableStandards/c065274_ISO_IEC_23009-1_2014.zip)
-* [Summary of new features](https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf)
+  * [Summary of new features](https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf)
+  
+* [MPEG-DASH 4th Edition Specification (ISO/IEC 23009-1:2020)](http://standards.iso.org/ittf/PubliclyAvailableStandards)
 
 ## White Papers and Background
 
