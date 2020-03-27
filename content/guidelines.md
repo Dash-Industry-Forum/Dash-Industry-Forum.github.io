@@ -30,7 +30,7 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 ### Agreed CRs for Next Version
 
 This clause lists a set of agreed CRs that will be added to the next revision of the IOP Guidelines.
-* [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues)
+* [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker])(https://github.com/Dash-Industry-Forum/Live/issues)
 
 
 ### Previous Versions
@@ -47,7 +47,7 @@ This clause lists a set of agreed CRs that will be added to the next revision of
 
 ## DASH-IF Content Protection Information Exchange Format
 
-### Scope**
+### Scope
 
 The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.
 
