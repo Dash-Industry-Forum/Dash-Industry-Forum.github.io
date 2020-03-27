@@ -30,6 +30,7 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 ### Agreed CRs for Next Version
 
 This clause lists a set of agreed CRs that will be added to the next revision of the IOP Guidelines.
+
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
 
 
