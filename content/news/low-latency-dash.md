@@ -20,7 +20,7 @@ DASH-IF has also coordinated and commissioned the development of conformance and
 * <a href="https://conformance.dashif.org">The DASH-IF conformance validator</a> checks DASH Media Presentations for Low-Latency conformance.
 * <a href="http://reference.dashif.org/dash.js/">The DASH-IF reference client dash.js</a> enables playback of Low-Latency DASH-IF Media Presentations and measure the observed latency.
 
-The specification was developed by the DASH IF Interoperability WG in the Live TF lead by <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (Qualcomm), <a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil</a> (AWS Elemental) and a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (Akamai).
+The specification was developed by the DASH IF Interoperability WG in the Live TF lead by <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (Qualcomm), <a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil</a> (AWS Elemental) and <a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (Akamai).
 
 The specification was made possible by the generous contributions and support of member companies: Akamai, AWS Elemental, castLabs, Comcast, Elemental Technologies, Ericsson, Frontier Communications Harmonic, Hulu, Qualcomm Incorporated, Sony, TNO, Unified Streaming, Arris (CommScope).
 
