@@ -40,6 +40,6 @@ DASH-IF issued a second community review for the DASH-IF Ad Insertion in order t
 
 The draft Change Request can be accessed through our <a href="https://dashif.org/guidelines#ad-insertion-in-dash"> public website under the guidelines section</a>. The site also includes instructions on how to provide feedback.
 
-The draft Change Request was developed by the DASH IF Interoperability WG in the Ad Insertion TF lead by <a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava</a> (Hulu) <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (Qualcomm).
+The draft Change Request was developed by the DASH IF Interoperability WG in the Ad Insertion TF lead by <a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava</a> (Hulu) and <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (Qualcomm).
 
 The specification was made possible by the generous contributions and support of member companies: Hulu, Qualcomm, Tencent, Unified Streaming, Akamai, AWS Elemental, Comcast, Lufthansa Systems, Turner, Arris (CommScope).
