@@ -230,6 +230,16 @@ With 18 months of collaborative work, the DASH-IF published a technical specific
     
     <item>
       <title></title>
+      <link>https://dash-industry-forum.github.io/news/low-latency-dash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/low-latency-dash/</guid>
+      <description>DASH-IF publishes Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion Low-Latency DASH Modes 
+Based on a report developed jointly between DVB and DASH-IF in 2017 on Low-Latency DASH, DASH-IF developed over the last 2 years detailed requirements and recommendations for service offerings and client implementation to support consistent latency in DASH for linear TV services. The change request builds on joint work in MPEG, DASH-IF and DVB.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://dash-industry-forum.github.io/workshop-2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
