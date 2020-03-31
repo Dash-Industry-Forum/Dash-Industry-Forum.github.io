@@ -3,9 +3,9 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-March 29, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/low-latency-dash">Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion</a>.
+April 1, 2020 -- DASH-IF delivers <a href="https://dashif.org/dvb-world-2020">joint webinar with DVB - Presentations and Videos Online.
 
-March 26, 2020 -- DASH-IF provides <a href="https://dashif.org/dvb-world-2020">joint webinar with DVB as replacement of the DVB World Session on March 31, 2020</a>. Joining the session is free - <a href="https://zoom.us/webinar/register/WN_xWoas5ruSOyMdbJ9vyNvIQ">please register here</a>.
+March 29, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/low-latency-dash">Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion</a>.
 
 March 23, 2020 -- <a href="https://dashif.org/news/live-media-ingest-specification">DASH-IF publishes Live Media Ingest Technical Specification</a>.
 
