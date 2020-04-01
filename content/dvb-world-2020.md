@@ -11,18 +11,18 @@ The webinar was attended by 200 attendees. The 90min video recording is <a href=
 
 The slides in the order of the program are linked below and the time code brings you to the start of the presentation:
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=230">16:00-16:10 (10 mins)</a>	 <a href="http://dvb.org/wp-content/uploads/2020/03/DASH-IF-DVB-World-Introduction.pdf">The DASH Industry Forum, who we are and what we do</a> – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=40">16:00-16:10 (10 mins)</a>	 <a href="http://dvb.org/wp-content/uploads/2020/03/DASH-IF-DVB-World-Introduction.pdf">The DASH Industry Forum, who we are and what we do</a> – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=870">16:10-16:25 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Latest-on-DASH-low-latency.pdf">Meeting live broadcast requirements – the latest on DASH low latency!</a> – <a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (DASH-IF Leadership Award Winner, Akamai)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=689">16:10-16:25 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Latest-on-DASH-low-latency.pdf">Meeting live broadcast requirements – the latest on DASH low latency!</a> – <a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (DASH-IF Leadership Award Winner, Akamai)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=1860">16:25-16:40 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Ad-Insertion-in-Live-Content.pdf">Ad insertion in live content – pre, mid and post rolling</a> – <a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava</a> (Hulu)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=1674">16:25-16:40 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Ad-Insertion-in-Live-Content.pdf">Ad insertion in live content – pre, mid and post rolling</a> – <a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava</a> (Hulu)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=2790">16:40-16:50 (10 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/dashif-dvb-webinar_begen_2020_03-1.pdf">Bandwidth prediction for multi-bitrate streaming at low latency</a> – <a href="https://www.linkedin.com/in/acbegen/">Ali Begen</a> (Comcast)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=2608">16:40-16:50 (10 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/dashif-dvb-webinar_begen_2020_03-1.pdf">Bandwidth prediction for multi-bitrate streaming at low latency</a> – <a href="https://www.linkedin.com/in/acbegen/">Ali Begen</a> (Comcast)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=3405">16:50-17:05 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Dash-LL.pdf">Implementing DASH low latency in FFmpeg</a> – <a href="https://www.linkedin.com/in/jbkempf/">Jean-Baptiste Kempf</a> (VideoLAN)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=3225">16:50-17:05 (15 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Dash-LL.pdf">Implementing DASH low latency in FFmpeg</a> – <a href="https://www.linkedin.com/in/jbkempf/">Jean-Baptiste Kempf</a> (VideoLAN)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=3405">17:05-17:15 (10 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Managing-multi-DRM-with-DASH.pdf">Managing multi-DRM with DASH</a> – <a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron</a> (DASH-IF Content Protection and Security TF Chair, NAGRA)
+* <a href="https://youtu.be/1EwqPZF9LDk?t=3830">17:05-17:15 (10 mins)</a>	<a href="http://dvb.org/wp-content/uploads/2020/03/Managing-multi-DRM-with-DASH.pdf">Managing multi-DRM with DASH</a> – <a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron</a> (DASH-IF Content Protection and Security TF Chair, NAGRA)
 
-* <a href="https://youtu.be/1EwqPZF9LDk?t=5125">17:15-17:30 (15 mins)</a>	Q&A panel – <a href="https://www.linkedin.com/in/per-frojdh/">Per Fröjdh</a> (DASH-IF Promotion WG Chair, Ericsson) moderator
+* <a href="https://youtu.be/1EwqPZF9LDk?t=4942">17:15-17:30 (15 mins)</a>	Q&A panel – <a href="https://www.linkedin.com/in/per-frojdh/">Per Fröjdh</a> (DASH-IF Promotion WG Chair, Ericsson) moderator
 
 
