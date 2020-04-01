@@ -1,5 +1,5 @@
 
-# DVB World Online: Joint DVB/DASH-IF Webinar Online 
+# DVB World 2020: Joint DVB/DASH-IF Webinar is now online 
 
 <a href="https://dvb.org/webinar/webinar-dash-from-on-demand-to-large-scale-live-for-premium-services/" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dvbworld2020_blue_642x428.png" alt="" /></a>
  
