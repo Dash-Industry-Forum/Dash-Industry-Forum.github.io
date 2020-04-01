@@ -7,9 +7,9 @@ DASH-IF is proud and delighted having been part of a <a href="https://dvb.org/ne
 
 On March 31, 2020 at 4pm cest, the webinar <a href="https://dvb.org/webinar/webinar-dash-from-on-demand-to-large-scale-live-for-premium-services/">DASH: from on-demand to large scale live for premium services</a> was delivered. DASH-IF organized a 90min session on the latest technology and deployment advances of Dynamic Adaptive Streaming over HTTP (DASH). 
 
-The webinar was attended by 200 attendees. The 90min video recording is <a href="https://youtu.be/1EwqPZF9LDk">available on YouTube</a>. Thanks to DVB and in particular <a href="https://www.linkedin.com/in/eoghanosullivan/">Eoghan O'Sullivan</a> to make this such a great event.
+The webinar was attended by about 200 experts. The 90min video recording is <a href="https://youtu.be/1EwqPZF9LDk">available on YouTube</a>. Thanks to DVB and in particular <a href="https://www.linkedin.com/in/eoghanosullivan/">Eoghan O'Sullivan</a> to make this great event happening and successul.
 
-The slides in the order of the program are linked below and the time code brings you to the start of the presentation:
+The slides in the order of the program are linked below and the time codes brings you to the start of each presentation:
 
 * <a href="https://youtu.be/1EwqPZF9LDk?t=40">16:00-16:10 (10 mins)</a>	 <a href="http://dvb.org/wp-content/uploads/2020/03/DASH-IF-DVB-World-Introduction.pdf">The DASH Industry Forum, who we are and what we do</a> – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)
 
