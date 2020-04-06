@@ -9,6 +9,8 @@ On March 31, 2020 at 4pm cest, the webinar <a href="https://dvb.org/webinar/webi
 
 The webinar was attended by about 200 experts. The 90min video recording is <a href="https://youtu.be/1EwqPZF9LDk">available on YouTube</a>. Thanks to DVB and in particular <a href="https://www.linkedin.com/in/eoghanosullivan/">Eoghan O'Sullivan</a> to make this great event happening and successul.
 
+A great summary of the webinar is provided by <a href="https://www.linkedin.com/in/russell-trafford-jones">Russell Trafford-Jones in the <a href="https://thebroadcastknowledge.com/2020/04/06/video-dash-from-on-demand-to-large-scale-live-for-premium-services/">The Broadcast Knowledge article</a> from April 6, 2020. 
+
 The slides in the order of the program are linked below and the time codes brings you to the start of each presentation:
 
 * <a href="https://youtu.be/1EwqPZF9LDk?t=40">16:00-16:10 (10 mins)</a>	 <a href="http://dvb.org/wp-content/uploads/2020/03/DASH-IF-DVB-World-Introduction.pdf">The DASH Industry Forum, who we are and what we do</a> – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)
