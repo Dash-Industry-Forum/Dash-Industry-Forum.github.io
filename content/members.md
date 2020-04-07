@@ -68,7 +68,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.bitmovin.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/bitmovin_logo_website.png" alt="" />    </a>
 <a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dashif.org/img/Logotype_Broadpeak_rgb_website.png" alt="" /></a>
 <a href="https://www.buydrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/BuyDRM_logo_website.png" alt="" /></a>
-<a href="http://www.cliplister.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Cliplister_logo_website.png" alt="" /></a>
 <a href="https://www.epiclabs.io/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/negative-main-logotype_website2.png" alt="" /></a>
 <a href="http://www.eurofins-digitaltesting.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Eurofins-logo_website.png" alt="" /></a>
 <a href="http://www.inisoft.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/INISOFT_LOGO_website.png" alt="" /></a>
