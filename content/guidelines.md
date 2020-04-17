@@ -162,7 +162,7 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-## SPEKE/CPIX alignment
+## SPEKE-CPIX alignment
 
 * A new version 2.3 of the Content Protection Information Exchange Format (CPIX) for Community Review is accessible [here (html)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.html) [(pdf)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.pdf) [(zip)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.zip).
 * Reason for Updates
