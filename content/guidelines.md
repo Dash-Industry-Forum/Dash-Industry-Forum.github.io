@@ -59,7 +59,7 @@ The scope of this document is to define a Content Protection Information Exchang
 
 ### Latest Version
 
-DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
+DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 
 The document provides the following extensions to v2.1:
 
@@ -166,18 +166,18 @@ comments have been addressed.
 
 * A new version 2.3 of the Content Protection Information Exchange Format (CPIX) for Community Review is accessible [here (html)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.html) [(pdf)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.pdf) [(zip)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.zip).
 * Reason for Updates
-* * CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS). The SPEKE specification also extends CPIX by introducing missing elements for MSS and HLS, using the ‘speke’ custom namespace (urn:aws:amazon:com:speke). 
-* * While the SPEKE approach has worked well and allowed to create a unified ecosystem with 18 partners leveraging CPIX documents through SPEKE for DASH/HLS/MSS with multiple DRMs, it has also shown its limits, as SPEKE hasn’t followed the evolutions of CPIX which has now reached version 2.2. In the end, SPEKE is generating ecosystem fragmentation, whereas it was designed to facilitate interoperability around CPIX. It’s time to fix this situation and to allow implementers to benefit from all CPIX and SPEKE great features at the same time.
+ * CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS). The SPEKE specification also extends CPIX by introducing missing elements for MSS and HLS, using the ‘speke’ custom namespace (urn:aws:amazon:com:speke). 
+ * While the SPEKE approach has worked well and allowed to create a unified ecosystem with 18 partners leveraging CPIX documents through SPEKE for DASH/HLS/MSS with multiple DRMs, it has also shown its limits, as SPEKE hasn’t followed the evolutions of CPIX which has now reached version 2.2. In the end, SPEKE is generating ecosystem fragmentation, whereas it was designed to facilitate interoperability around CPIX. It’s time to fix this situation and to allow implementers to benefit from all CPIX and SPEKE great features at the same time.
 * Summary of changes: This update aims to align SPEKE and CPIX on the short term and to facilitate coordinated evolutions on the long term. 
-* * Clarification on the ContentKey/explicitIV element encoding
-* * Addition of the ContentKey/commonEncryptionScheme element giving the CENC protection scheme used with the content key.
-* * Addition of a section on using the same content key with different encryption schemes
-* * Addition of a CPIX/version element 
-* * Correction of XSD errors
-* * Corrections of typos and broken references
+ * Clarification on the ContentKey/explicitIV element encoding
+ * Addition of the ContentKey/commonEncryptionScheme element giving the CENC protection scheme used with the content key.
+ * Addition of a section on using the same content key with different encryption schemes
+ * Addition of a CPIX/version element 
+ * Correction of XSD errors
+ * Corrections of typos and broken references
 
-* Community review is open until May 15th, 2020. Addition to IOP is expected by Q2/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review). 
+* Community review is open until June 15th, 2020. Final publication is expected by Q2/2020.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/CPIX/issues/new?labels=community-review). 
 
 ## Ad Insertion in DASH
 
