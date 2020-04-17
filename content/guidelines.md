@@ -8,9 +8,9 @@ weight: 3
 
 DASH-IF publishes primarily three types of documents:
 
-* Completed Specifications and Guidelines: The documents below are stable and have undergone a community review.
-* Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details.
-* Position and White Papers: These documents provide background and initial studies
+* [Completed Specifications and Guidelines](#completed-DASH-IF-Interoperability-Documents): The documents below are stable and have undergone a community review.
+* [Documents for community review](#DASH-IF-Interoperability-Documents-for-Community-Review): These documents are technically solid, but public is asked for comments in order to improve details.
+* [Position and White Papers](#DASH-IF-Position-and-White-Papers): These documents provide background and initial studies
 
 # Completed DASH-IF Interoperability Documents
 
@@ -219,7 +219,7 @@ comments have been addressed.
 * Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
-## Position and White Papers
+# DASH-IF Position and White Papers
 
 * [DASH-IF position Paper: DASH-IF Position Paper: Server and Network
   Assisted DASH (SAND)](https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf) (500k PDF)
