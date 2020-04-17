@@ -4,14 +4,19 @@ title: "Guidelines"
 weight: 3
 ---
 
+# Introduction
+
+DASH-IF publishes primarily three types of documents:
+
+* Completed Specifications and Guidelines: The documents below are stable and have undergone a community review.
+* Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details.
+* Position and White Papers: These documents provide background and initial studies
+
 # Completed DASH-IF Interoperability Documents
 
 ## Disclaimer
 
-The documents below are stable and have undergone a community review. However,
-the DASH-IF welcomes feedback on these published documents, e.g, request for
-clarifications or bugs. For this purpose, please use the Github bug tracker
-cited along with the documents.
+The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.g, request for clarifications or bugs. For this purpose, please use the Github bug tracker cited along with the documents.
 
 ## DASH-IF Interoperability Points and Extensions
 
@@ -27,9 +32,9 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 
 * [Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues)) | ([diff to v4.2](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
-### Agreed CRs for Next Version
+### Agreed Additions for Next Version
 
-This clause lists a set of agreed CRs that will be added to the next revision of the IOP Guidelines.
+This clause lists a set of agreed additions that will be added to the next revision of the IOP Guidelines. They are typically documented as "Change Requests" documenting only the difference from the previous versions.
 
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
 
@@ -214,22 +219,7 @@ comments have been addressed.
 * Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
-# Other Resources
-
-## DASH-IF Conformance Software
-
-* [DASH-IF Online Conformance Tool](https://conformance.dashif.org/conformancetest.html)
-* Please use the following bugtracker to submit issues with the conformance
-  software: [https://github.com/Dash-Industry-Forum/Conformance-Software/issues](https://github.com/Dash-Industry-Forum/Conformance-Software/issues)
-
-## ISO Publicly Available Specification
-
-* [MPEG-DASH 2nd Edition Specification (ISO/IEC 23009-1:2014)](http://standards.iso.org/ittf/PubliclyAvailableStandards/c065274_ISO_IEC_23009-1_2014.zip)
-  * [Summary of new features](https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf)
-  
-* [MPEG-DASH 4th Edition Specification (ISO/IEC 23009-1:2020)](http://standards.iso.org/ittf/PubliclyAvailableStandards)
-
-## White Papers and Background
+## Position and White Papers
 
 * [DASH-IF position Paper: DASH-IF Position Paper: Server and Network
   Assisted DASH (SAND)](https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf) (500k PDF)
@@ -243,6 +233,13 @@ comments have been addressed.
 * [Survey of European Broadcasters on MPEG-DASH](https://dash-industry-forum.github.io/docs/Survey-of-the-European-Broadcasters-on-MPEG-DASH-Whitepaper-V2.1.pdf)
 * [Reinventing multimedia delivery with MPEG-DASH](http://spie.org/x648.html?product_id=897211), SPIE Applications of
   Digital Image Processing XXXIV, Sept 2011.
+  
+# ISO Publicly Available Specifications
+
+* [MPEG-DASH 2nd Edition Specification (ISO/IEC 23009-1:2014)](http://standards.iso.org/ittf/PubliclyAvailableStandards/c065274_ISO_IEC_23009-1_2014.zip)
+  * [Summary of new features](https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf)
+  
+* [MPEG-DASH 4th Edition Specification (ISO/IEC 23009-1:2020)](http://standards.iso.org/ittf/PubliclyAvailableStandards)
 * T. Stockhammer: “[Dynamic Adaptive Streaming over HTTP-Design Priciples
   and Standards](http://www.w3.org/2010/11/web-and-tv/papers/webtv2_submission_64.pdf)” In: MMSys ’11: Proceedings of the second annual ACM conference on Multimedia systems New York, NY, USA: ACM Press , Feb 2011,S. 133-144.
 
