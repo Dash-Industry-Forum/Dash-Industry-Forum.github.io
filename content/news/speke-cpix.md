@@ -10,5 +10,5 @@ During our f2f meeting in December 2019 at AWS Elemental, Portland, Oregon, DASH
 
 The specification was developed by the DASH IF Interoperability WG in the Content Protection and Security TF lead by <a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron</a> (Nagra) as well as by the work item coordinators <a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil</a> (AWS Elemental) and <a href="https://www.linkedin.com/in/michael-stattmann-a22719/">Michael Stattmann</a> (castLabs). 
 
-The specification was made possible by the generous contributions and support of member companies: Akamai, Amazon, BuyDRM, castLabs,	EZDRM, Hulu, Lufthansa Systems, Nagra	and Unified Streaming.
+The specification was made possible by the generous contributions and support of member companies: Akamai, Amazon, Axinom, BuyDRM, castLabs,	EZDRM, Hulu, Lufthansa Systems, Nagra	and Unified Streaming.
 
