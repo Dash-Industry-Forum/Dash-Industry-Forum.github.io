@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-April 17, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/cpix-speke">CPIX v2.3 for community review to address alignment between SPEKE and CPIX</a> based on broad industry support.
+April 17, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/speke-cpix">CPIX v2.3 for community review to address alignment between SPEKE and CPIX</a> based on broad industry support.
 
 April 1, 2020 -- DASH-IF delivers <a href="https://dashif.org/dvb-world-2020">joint webinar with DVB - Presentations and Videos Online</a>.
 
