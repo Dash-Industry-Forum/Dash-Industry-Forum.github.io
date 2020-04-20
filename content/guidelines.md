@@ -166,7 +166,7 @@ comments have been addressed.
 
 * The change request against IOP v4.3 for Community Review is accessible 
   [here (pdf)](https://dash-industry-forum.github.io/docs/NGA-Combined-CR-atsc_alignment_v6.pdf)
-* AC-4 and MPEG-H have diverged over time from the specifications in the DASH-IF spec for ATSC.
+* AC-4 and MPEG-H have diverged over time from the specifications in the DASH-IF spec for ATSC3.0. This change request proposes the corresponding alignment, specifically:
   * For MPEG-H: This document proposes an update to the main DASH-IF IOP such that it aligns with the IOP for ATSC 3.0. 
   * For AC-4: This document proposes an update that aligns with ATSC 3.0 IOP, and includes signalling for the advanced use cases enabled by those services.
   * For DTS: Updates to general sections in include DTS-UHD
