@@ -171,7 +171,7 @@ comments have been addressed.
   * For AC-4: This document proposes an update that aligns with ATSC 3.0 IOP, and includes signalling for the advanced use cases enabled by those services.
   * For DTS: Updates to general sections in include DTS-UHD
 * Community review is open until June 15th, 2020. Addition to IOP is expected by early Q3/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Audio/issues/new?labels=community-review). 
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Audio/issues/new?labels=community-review).
 
 ## SPEKE-CPIX alignment
 
