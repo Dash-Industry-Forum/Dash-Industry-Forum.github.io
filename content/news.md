@@ -5,21 +5,21 @@ weight: 10
 ---
 April 17, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/speke-cpix">CPIX v2.3 for community review to address alignment between SPEKE and CPIX</a> based on broad industry support.
 
-April 1, 2020 -- DASH-IF delivers <a href="https://dashif.org/dvb-world-2020">joint webinar with DVB - Presentations and Videos Online</a>.
+April 1, 2020 -- DASH-IF delivers <a href="https://dashif.org/news/dvb-world-2020">joint webinar with DVB - Presentations and Videos Online</a>.
 
 March 29, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/low-latency-dash">Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion</a>.
 
 March 23, 2020 -- <a href="https://dashif.org/news/live-media-ingest-specification">DASH-IF publishes Live Media Ingest Technical Specification</a>.
 
-December 13, 2019 -- DASH-IF provides summary of <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> including presentations.
+December 13, 2019 -- DASH-IF provides summary of <a href="https://dashif.org/news/workshop-2019">Open Workshop on Media Streaming meets 5G</a> including presentations.
 
 December 12, 2019 -- DASH-IF is introduced as one of EBU's technology collaboration partner in their<a href="https://tech.ebu.ch/files/live/sites/tech/files/shared/tech-i/tech-i-042.pdf"> December 2019 issue of EBU's i-tech magazine</a>. Check it out along with many other exciting news from European broadcasters.
 
-November 25, 2019 DASH-IF acts as <a href="https://dashif.org/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
+November 25, 2019 DASH-IF acts as <a href="https://dashif.org/news/dvb-world-2020">program partner for DVB World 2020</a> in March 2020, Valencia, Spain.
 
-October 21, 2019 DASH-IF announces <a href="https://dashif.org/workshop-2019">Open Workshop on Media Streaming meets 5G</a> in December 2019
+October 21, 2019 DASH-IF announces <a href="https://dashif.org/news/workshop-2019">Open Workshop on Media Streaming meets 5G</a> in December 2019
 
-September 15, 2019 <a href="https://dashif.org/award-will-law">DASH-IF Leadership Award presented to Will Law</a> during DASH-IF Networking Reception at IBC 2019
+September 15, 2019 <a href="https://dashif.org/news/award-will-law">DASH-IF Leadership Award presented to Will Law</a> during DASH-IF Networking Reception at IBC 2019
 
 February 22, 2017 <a href="http://www.streamingmediaglobal.com/Articles/ReadArticle.aspx?ArticleID=116505">The State of MPEG-DASH 2017</a>, streamingmediaglobal.com
 
