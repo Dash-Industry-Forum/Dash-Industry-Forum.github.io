@@ -7,10 +7,10 @@ title: "Content Protection"
 
 # Introduction
 
-For the element ContentProtection the @schemeIdUri attribute is used to
+For the element **`ContentProtection`** the `@schemeIdUri` attribute is used to
 identify a content protection scheme (for details see ISO/IEC 23009-1
 \[[1](/identifiers/references#23009-1)\], section 5.8.4.1). This attribute provide
-sufficient information, possibly in conjunction with the @value and/or extension
+sufficient information, possibly in conjunction with the `@value` and/or extension
 attributes and elements, such as the DRM system(s), encryption algorithm(s),
 and key distribution scheme(s) employed, to enable a client to determine whether
 it can possibly play the protected content.
@@ -39,7 +39,7 @@ System Specific ones.
 # Protection System-Specific Identifiers
 
 The Identifier in the below table only provides the selected UUID code.
-For referencing the DRM system in the **ContentProtection** descriptor, the
+For referencing the DRM system in the **`ContentProtection`** descriptor, the
 URI `urn:uuid:<uuid>` may be used where `<uuid>` is to be replaced with the
 UUID in the first column below.
 
