@@ -92,6 +92,16 @@ Two ways of signalling events are provided, namely</description>
     </item>
     
     <item>
+      <title>Output Protection</title>
+      <link>https://dash-industry-forum.github.io/identifiers/output_protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/output_protection/</guid>
+      <description>Introduction Output protection schemes, such as HDCP are frequently used to protect the rendered output in transit from the decoding device to the displaying device (for example, from a set-top box which is connected to a TV set using an HDMI cable). These output protection schemes and their properties are frequently a pre-requisite for the ability to present the associated Representations.
+For the element OutputProtection the @schemeIdUri attribute is used to identify an output protection scheme (for details see ISO/IEC 23009-1 [1], section 5.</description>
+    </item>
+    
+    <item>
       <title>Profiles</title>
       <link>https://dash-industry-forum.github.io/identifiers/profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,7 +117,7 @@ Such a profile can also be understood as permission for DASH clients that implem
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/references/</guid>
-      <description>References [1] ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Cor.1 (available as w13495)
+      <description>References [1] ISO/IEC 23009-1:2019/DAmd.1:2020, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, (available in MPEG w19282)
 [2] 3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
 [3] DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
 [4] ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>

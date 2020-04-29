@@ -43,37 +43,22 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/5g-workshop-2018/</loc>
+    <loc>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/award-will-law/</loc>
+    <loc>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/conformance/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/dvb-world-2020/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/excellence-in-dash-award-acm-mmsys-2016/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/excellence-in-dash-award-acm-mmsys-2017/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/icme2017grandchallenge/</loc>
     <priority>0</priority>
   </url>
   
@@ -84,6 +69,21 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/membership/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/5g-workshop-2018/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/award-will-law/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/dvb-world-2020/</loc>
     <priority>0</priority>
   </url>
   
@@ -103,8 +103,12 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/workshop-2019/</loc>
+    <loc>https://dash-industry-forum.github.io/news/workshop-2019/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/academic/</loc>
   </url>
   
   <url>
@@ -145,6 +149,10 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/output_protection/</loc>
   </url>
   
   <url>

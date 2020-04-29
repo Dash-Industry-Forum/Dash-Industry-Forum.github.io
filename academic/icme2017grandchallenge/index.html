@@ -102,6 +102,10 @@
             </li>
             
 	    <li>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
+            </li>
+            
+	    <li>
               <a class="dropdown-item" href="/identifiers/profiles/" title="Profiles">Profiles</a>
             </li>
             
@@ -179,9 +183,18 @@
 
 
 
+
+
 <li class="breadcrumb-item " >
   
   <a  href="https://dash-industry-forum.github.io/">Home</a>
+  
+</li>
+
+
+<li class="breadcrumb-item " >
+  
+  <a  href="https://dash-industry-forum.github.io/academic/">Academics</a>
   
 </li>
 
@@ -202,35 +215,71 @@
     
   
 
-<h1 id="dvb-world-2020-joint-dvb-dash-if-webinar-is-now-online">DVB World 2020: Joint DVB/DASH-IF Webinar is now online</h1>
+<p>Host organization: DASH-IF (<a href="https://dashif.org/">https://dashif.org/</a>)</p>
 
-<p><a href="https://dvb.org/webinar/webinar-dash-from-on-demand-to-large-scale-live-for-premium-services/" target="_blank" rel="noopener noreferrer"><img height="160px"  src="https://dashif.org/img/dvbworld2020_blue_642x428.png" alt="" /></a></p>
+<p>Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)</p>
 
-<p>DASH-IF is proud and delighted having been part of a <a href="https://dvb.org/news-events/webinars"> series of public and free webinars</a> organized by <a href="http://www.dvb.org">Digital Video Broadcasting (DVB) project</a>. The webinars replace DVB&rsquo;s annual flagship conference <a href="http://www.dvbworld.org">DVB World in March 2020</a> that was cancelled due to the COVID-19 situation.</p>
+<h1 id="dash-if-grand-challenge-dynamic-adaptive-streaming-over-http">DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP</h1>
 
-<p>On March 31, 2020 at 4pm cest, the webinar <a href="https://dvb.org/webinar/webinar-dash-from-on-demand-to-large-scale-live-for-premium-services/">DASH: from on-demand to large scale live for premium services</a> was delivered. DASH-IF organized a 90min session on the latest technology and deployment advances of Dynamic Adaptive Streaming over HTTP (DASH).</p>
+<h2 id="challenge-description">Challenge Description</h2>
 
-<p>The webinar was attended by about 200 experts. The 90min video recording is <a href="https://youtu.be/1EwqPZF9LDk">available on YouTube</a>. Thanks to DVB and in particular <a href="https://www.linkedin.com/in/eoghanosullivan/">Eoghan O&rsquo;Sullivan</a> to make this great event happening and successul.</p>
+<p>Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP). The MPEG Dynamic Adaptive Streaming over HTTP (DASH) standard enables smooth multimedia streaming towards heterogeneous devices.</p>
 
-<p>A great summary of the webinar is provided by <a href="https://www.linkedin.com/in/russell-trafford-jones">Russell Trafford-Jones</a> in the <a href="https://thebroadcastknowledge.com/2020/04/06/video-dash-from-on-demand-to-large-scale-live-for-premium-services/">The Broadcast Knowledge article</a> from April 6, 2020.</p>
+<p>The MPEG DASH standard provides an interoperable representation format but deliberately does not define the adaptation behavior for the client implementations, which is left open for research and industry competition. In a typical deployment, the encoding itself is optimized for the respective delivery channels but – as the content is delivered over the top without any guarantees – various issues during the streaming (e.g., high startup delay, stalls/re-buffering, high switching frequency, inefficient network utilization, unfairness to competing network traffic, etc.) may limit the Quality of Experience (QoE) as perceived by the viewers.</p>
 
-<p>The slides in the order of the program are linked below and the time codes brings you to the start of each presentation:</p>
+<p>The aim of this grand challenge is to solicit contributions addressing end-to-end delivery aspects that will help improve the QoE while optimally using the network resources at an acceptable cost. Such aspects include, but are not limited to, content preparation for adaptive streaming, delivery in the Internet and streaming client implementations.</p>
+
+<p>A special focus of 2017’s grand challenge will be related to virtual reality applications and services including 360 degree videos.</p>
+
+<h2 id="dataset-apis-library-url">Dataset/APIs/Library URL</h2>
 
 <ul>
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=40">16:00-16:10 (10 mins)</a>  <a href="http://dvb.org/wp-content/uploads/2020/03/DASH-IF-DVB-World-Introduction.pdf">The DASH Industry Forum, who we are and what we do</a> – <a href="https://www.linkedin.com/in/stockhammer">Thomas Stockhammer</a> (DASH-IF Interop WG Chair, Qualcomm)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=689">16:10-16:25 (15 mins)</a>    <a href="http://dvb.org/wp-content/uploads/2020/03/Latest-on-DASH-low-latency.pdf">Meeting live broadcast requirements – the latest on DASH low latency!</a> – <a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (DASH-IF Leadership Award Winner, Akamai)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=1674">16:25-16:40 (15 mins)</a>   <a href="http://dvb.org/wp-content/uploads/2020/03/Ad-Insertion-in-Live-Content.pdf">Ad insertion in live content – pre, mid and post rolling</a> – <a href="https://www.linkedin.com/in/zachary-cava-73a99b45/">Zachary Cava</a> (Hulu)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=2608">16:40-16:50 (10 mins)</a>   <a href="http://dvb.org/wp-content/uploads/2020/03/dashif-dvb-webinar_begen_2020_03-1.pdf">Bandwidth prediction for multi-bitrate streaming at low latency</a> – <a href="https://www.linkedin.com/in/acbegen/">Ali Begen</a> (Comcast)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=3225">16:50-17:05 (15 mins)</a>   <a href="http://dvb.org/wp-content/uploads/2020/03/Dash-LL.pdf">Implementing DASH low latency in FFmpeg</a> – <a href="https://www.linkedin.com/in/jbkempf/">Jean-Baptiste Kempf</a> (VideoLAN)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=3830">17:05-17:15 (10 mins)</a>   <a href="http://dvb.org/wp-content/uploads/2020/03/Managing-multi-DRM-with-DASH.pdf">Managing multi-DRM with DASH</a> – <a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron</a> (DASH-IF Content Protection and Security TF Chair, NAGRA)</p></li>
-
-<li><p><a href="https://youtu.be/1EwqPZF9LDk?t=4942">17:15-17:30 (15 mins)</a>   Q&amp;A panel – <a href="https://www.linkedin.com/in/per-frojdh/">Per Fröjdh</a> (DASH-IF Promotion WG Chair, Ericsson) moderator</p></li>
+<li>Software: <a href="https://dashif.org/software/">https://dashif.org/software/</a></li>
+<li>Dataset: <a href="http://testassets.dashif.org/">http://testassets.dashif.org/</a></li>
 </ul>
+
+<h2 id="evaluation-criteria">Evaluation Criteria</h2>
+
+<ul>
+<li><p>Evaluation of Streaming Performance</p>
+
+<ul>
+<li><p>Each proposal shall be evaluated according to a predefined and well-established evaluation setup as documented in the current literature. This could be done using network emulation (based on synthetic or real-world network traces) or in real-world environments. The evaluation can be done within the lab and/or crowdsourcing using objective and subjective metrics.</p></li>
+
+<li><p>The streaming performance shall be evaluated using the following metrics: initial/start-up delay, buffer underruns also known as stalls, quality switches, media throughput, network utilization, network costs, and objective (e.g., PSNR, SSIM, …) and subjective (MOS) quality scores.</p></li>
+</ul></li>
+
+<li><p>Evaluation Methodology</p>
+
+<ul>
+<li>Proposals for new evaluation methodologies to evaluate the streaming performance should contain a detailed description including dataset and source code of the methodology. This could include any new objective and subjective evaluation method in the broad area of adaptive media streaming over HTTP.</li>
+</ul></li>
+
+<li><p>Disruptive Technology</p>
+
+<ul>
+<li>Proposals for new, disruptive ways of video streaming are welcome along with proposals for content preparation, streaming, consumption, and evaluation methodologies. Such content should be made freely available for research and standardization purposes.</li>
+</ul></li>
+</ul>
+
+<h2 id="submission-guidelines">Submission Guidelines</h2>
+
+<p>Submissions of DASH implementations or evaluation methodologies should provide a detailed technical description in the form of a short paper as well as material to validate the performance of the submission (e.g., dataset and binary executable to reconstruct and measure performance). Submissions for additional content should be made along with either a streaming algorithm or an evaluation methodology.</p>
+
+<h2 id="important-dates">Important dates</h2>
+
+<ul>
+<li>Submission deadline: May 31, 2017 (via email to organizers christian.timmerer AT itec.aau.at and ali.begen AT networked.media)</li>
+<li>Notification: June 14, 2017</li>
+</ul>
+
+<h2 id="prize-information">Prize Information</h2>
+
+<p>A financial prize will be awarded to two winners selected by a judging committee. The winner will be awarded  €750 and the runner-up €250. If, in the opinion of the committee, the submissions entered are not of sufficient quality, then no awards will be given and no winner will be declared.</p>
+
+<h2 id="questions-and-requests">Questions and Requests</h2>
+
+<p>If you have any questions or requests, or need further clarifications, please contact the organizers.</p>
 
 
   </main>

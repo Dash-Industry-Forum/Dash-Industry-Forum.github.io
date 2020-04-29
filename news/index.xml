@@ -12,6 +12,42 @@
     
     <item>
       <title></title>
+      <link>https://dash-industry-forum.github.io/news/5g-workshop-2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/5g-workshop-2018/</guid>
+      <description>Video meets mobile -The 5G Opportunity Public Workshop co-sponsored by DASH-IF
+August 20, 2015 - San Diego, CA, United States
+Along with its 11th face to face meeting on August 18-20 in San Diego, the DASH Industry Forum (DASH-IF) used this opportunity to organize a workshop in order to gather experts from video distribution services, mobile operators and technology providers. With 5G on the horizon, this is an opportunity to understand some of the technical and non-technical challenges and opportunities for mobile video services.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/award-will-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/award-will-law/</guid>
+      <description>In conjunction with the Networking Reception held during IBC 2019 in Amsterdam, the DASH Industry Forum is proud to announce that the
+DASH Industry Forum Leadership Award
+is presented to
+Will Law
+for continuous leadership, promotion and technical contributions for the success of DASH.
+Will Law from Akamai served and is serving DASH-IF in different roles since its inauguration in 2012. Among others, Will was leading the DASH-IF Promotion Working Group, acted as Vice President and President, and is leading the dash.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/dvb-world-2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/dvb-world-2020/</guid>
+      <description>DVB World 2020: Joint DVB/DASH-IF Webinar is now online 
+DASH-IF is proud and delighted having been part of a series of public and free webinars organized by Digital Video Broadcasting (DVB) project. The webinars replace DVB&amp;rsquo;s annual flagship conference DVB World in March 2020 that was cancelled due to the COVID-19 situation.
+On March 31, 2020 at 4pm cest, the webinar DASH: from on-demand to large scale live for premium services was delivered.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,6 +74,17 @@ Based on a report developed jointly between DVB and DASH-IF in 2017 on Low-Laten
       <guid>https://dash-industry-forum.github.io/news/speke-cpix/</guid>
       <description>DASH-IF publishes CPIX v2.3 for community review to address alignment between SPEKE and CPIX based on broad industry support 
 DASH-IF&amp;rsquo;s CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/workshop-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/workshop-2019/</guid>
+      <description>DASH IF Workshop on Media Streaming Meets 5G Public Workshop co-sponsored by DASH-IF
+Dec 9-10, 2019 - Portland, OR, USA
+MISSION AND GOAL Along with its 21st face to face meeting on December 10-12 in Portland, OR, the DASH Industry Forum (DASH-IF) gathered experts from video distribution services, mobile operators and technology providers in order to look into 5G and Media Streaming. Around 50 experts joined and made the conference interactive and full of lively discussions.</description>
     </item>
     
   </channel>

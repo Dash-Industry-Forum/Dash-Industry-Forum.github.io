@@ -102,6 +102,10 @@
             </li>
             
 	    <li>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
+            </li>
+            
+	    <li>
               <a class="dropdown-item" href="/identifiers/profiles/" title="Profiles">Profiles</a>
             </li>
             
@@ -173,9 +177,11 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title"></div>
+      <div class="breadcrumb-title">Output Protection</div>
       <ol class="breadcrumb">
       
+
+
 
 
 
@@ -186,9 +192,16 @@
 </li>
 
 
+<li class="breadcrumb-item " >
+  
+  <a  href="https://dash-industry-forum.github.io/identifiers/">Identifiers</a>
+  
+</li>
+
+
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf"></span>
+  <span class="breadcrumb-leaf">Output Protection</span>
   
 </li>
 
@@ -202,71 +215,46 @@
     
   
 
-<p>Host organization: DASH-IF (<a href="https://dashif.org/">https://dashif.org/</a>)</p>
+<h1 id="introduction">Introduction</h1>
 
-<p>Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)</p>
+<p>Output protection schemes, such as HDCP are frequently used to protect the rendered output in transit from the decoding device to the displaying device (for example, from a set-top box which is connected to a TV set using an HDMI cable). These output protection schemes and their properties are frequently a pre-requisite for the ability to present the associated Representations.</p>
 
-<h1 id="dash-if-grand-challenge-dynamic-adaptive-streaming-over-http">DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP</h1>
+<p>For the element <strong><code>OutputProtection</code></strong> the <code>@schemeIdUri</code> attribute is used to identify an output protection scheme (for details see ISO/IEC 23009-1 [<a href="/identifiers/references#23009-1">1</a>], section 5.8.4.X).</p>
 
-<h2 id="challenge-description">Challenge Description</h2>
+<p>The following sections collect the Output Protection schemes.</p>
 
-<p>Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP). The MPEG Dynamic Adaptive Streaming over HTTP (DASH) standard enables smooth multimedia streaming towards heterogeneous devices.</p>
+<h1 id="output-protection-schemes">Output Protection schemes</h1>
 
-<p>The MPEG DASH standard provides an interoperable representation format but deliberately does not define the adaptation behavior for the client implementations, which is left open for research and industry competition. In a typical deployment, the encoding itself is optimized for the respective delivery channels but – as the content is delivered over the top without any guarantees – various issues during the streaming (e.g., high startup delay, stalls/re-buffering, high switching frequency, inefficient network utilization, unfairness to competing network traffic, etc.) may limit the Quality of Experience (QoE) as perceived by the viewers.</p>
+<p>The following table documents known output protection schemes.</p>
 
-<p>The aim of this grand challenge is to solicit contributions addressing end-to-end delivery aspects that will help improve the QoE while optimally using the network resources at an acceptable cost. Such aspects include, but are not limited to, content preparation for adaptive streaming, delivery in the Internet and streaming client implementations.</p>
+<p><em>Note: DASH-IF does not define any &ldquo;approved&rdquo; output protection schemes.
+The table below only represents the submitted schemes by 3rd parties to DASH-IF.</em></p>
 
-<p>A special focus of 2017’s grand challenge will be related to virtual reality applications and services including 360 degree videos.</p>
+<table>
 
-<h2 id="dataset-apis-library-url">Dataset/APIs/Library URL</h2>
 
-<ul>
-<li>Software: <a href="https://dashif.org/software/">https://dashif.org/software/</a></li>
-<li>Dataset: <a href="http://testassets.dashif.org/">http://testassets.dashif.org/</a></li>
-</ul>
 
-<h2 id="evaluation-criteria">Evaluation Criteria</h2>
 
-<ul>
-<li><p>Evaluation of Streaming Performance</p>
+  <thead>
+    <tr>
+      <th>Identifier</th>
+      <th>Reference</th>
+      <th>Section</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    
+    <tr>
+      <td><code>urn:mpeg:dash:output-protection:hdcp:2020</code></td>
+      <td><a href="">ISO/IEC 23009-1</a></td>
+      <td>5.8.5.X</td>
+      <td>The value provides an association between the content and the device output requirements, namely it defines the minimum HDCP version that a device output must comply with to output the associated content</td>
+    </tr>
+    
+  </tbody>
+</table>
 
-<ul>
-<li><p>Each proposal shall be evaluated according to a predefined and well-established evaluation setup as documented in the current literature. This could be done using network emulation (based on synthetic or real-world network traces) or in real-world environments. The evaluation can be done within the lab and/or crowdsourcing using objective and subjective metrics.</p></li>
-
-<li><p>The streaming performance shall be evaluated using the following metrics: initial/start-up delay, buffer underruns also known as stalls, quality switches, media throughput, network utilization, network costs, and objective (e.g., PSNR, SSIM, …) and subjective (MOS) quality scores.</p></li>
-</ul></li>
-
-<li><p>Evaluation Methodology</p>
-
-<ul>
-<li>Proposals for new evaluation methodologies to evaluate the streaming performance should contain a detailed description including dataset and source code of the methodology. This could include any new objective and subjective evaluation method in the broad area of adaptive media streaming over HTTP.</li>
-</ul></li>
-
-<li><p>Disruptive Technology</p>
-
-<ul>
-<li>Proposals for new, disruptive ways of video streaming are welcome along with proposals for content preparation, streaming, consumption, and evaluation methodologies. Such content should be made freely available for research and standardization purposes.</li>
-</ul></li>
-</ul>
-
-<h2 id="submission-guidelines">Submission Guidelines</h2>
-
-<p>Submissions of DASH implementations or evaluation methodologies should provide a detailed technical description in the form of a short paper as well as material to validate the performance of the submission (e.g., dataset and binary executable to reconstruct and measure performance). Submissions for additional content should be made along with either a streaming algorithm or an evaluation methodology.</p>
-
-<h2 id="important-dates">Important dates</h2>
-
-<ul>
-<li>Submission deadline: May 31, 2017 (via email to organizers christian.timmerer AT itec.aau.at and ali.begen AT networked.media)</li>
-<li>Notification: June 14, 2017</li>
-</ul>
-
-<h2 id="prize-information">Prize Information</h2>
-
-<p>A financial prize will be awarded to two winners selected by a judging committee. The winner will be awarded  €750 and the runner-up €250. If, in the opinion of the committee, the submissions entered are not of sufficient quality, then no awards will be given and no winner will be declared.</p>
-
-<h2 id="questions-and-requests">Questions and Requests</h2>
-
-<p>If you have any questions or requests, or need further clarifications, please contact the organizers.</p>
 
 
   </main>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academics on DASH Industry Forum</title>
+    <link>https://dash-industry-forum.github.io/academic/</link>
+    <description>Recent content in Academics on DASH Industry Forum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://dash-industry-forum.github.io/academic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</guid>
+      <description>In conjunction with ACM MMSys 2016, being held in Klagenfurt Austria, the DASH Industry Forum is proud to announce the establishment of the
+DASH Industry Forum Excellence in DASH Award
+This award offers a financial prize for those papers which best meet the following requirements:
+ Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2016 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</guid>
+      <description>In conjunction with ACM MMSys 2017, being held in Taipei, Taiwan | June 20-23, 2017, the DASH Industry Forum is proud to announce the establishment of the
+DASH Industry Forum Excellence in DASH Award
+This award offers a financial prize for those papers which best meet the following requirements:
+ Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2017 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</guid>
+      <description>Host organization: DASH-IF (https://dashif.org/)
+Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
+DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
+    </item>
+    
+  </channel>
+</rss>
