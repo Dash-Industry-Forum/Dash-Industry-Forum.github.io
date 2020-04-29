@@ -20,4 +20,4 @@ The following table documents known output protection schemes.
 *Note: DASH-IF does not define any "approved" output protection schemes.
 The table below only represents the submitted schemes by 3rd parties to DASH-IF.*
 
-{{< csvTable "csv/output-protection.csv" >}}
+{{< csvTable "csv/output_protection.csv" >}}
