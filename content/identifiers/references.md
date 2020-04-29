@@ -7,7 +7,7 @@ title: "References"
 
 # References
 
-[1]	ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Cor.1 (available as w13495)
+[1]	ISO/IEC 23009-1:2019/DAmd.1:2020, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, (available in MPEG [w19282](http://wg11.sc29.org/doc_end_user/documents/130_Alpbach/wg11/w19281.zip))
 
 [2]	3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
 
