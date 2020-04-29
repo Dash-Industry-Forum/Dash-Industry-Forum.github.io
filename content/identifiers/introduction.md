@@ -56,6 +56,7 @@ updated with the submission and approval of new identifiers.
 
   * [Profiles, Interoperability Points and Extensions](/identifiers/profiles)
   * [Content Protection](/identifiers/content_protection)
+  * [Output Protection](/identifiers/output_protection)
   * [Video Source Metadata](/identifiers/video_source_metadata)
   * [Audio Source Metadata](/identifiers/audio_source_metadata)
   * [Role and Accessibility](/identifiers/role_and_accessibility)
