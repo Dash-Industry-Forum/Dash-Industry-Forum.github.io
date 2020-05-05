@@ -9,12 +9,35 @@ The MPEG-DASH standard has raised a huge momentum within both industry and acade
  * create awareness of DASH-IF material and promote it within the academic community, and
  * solicit research within and collect results from the academic community.
 
+Further details can be found [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki).
+
 # Current Events
+## ACM MMSys 2020
+
+[ACM MMSys 2020](https://2020.acmmmsys.org/)
+
+# Past Events
 ## ACM MMSys 2019
 
-Check the details [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-and-Best-PhD-Dissertation-Awards-@-ACM-MMSys-2019).
- 
-# Past Events
+The DASH Industry Forum Excellence in DASH Award at ACM MMSys 2019 acknowledges papers substantially addressing MPEG-DASH as the presentation format and are selected for presentation at ACM MMSys 2019. Preference is given to practical enhancements and developments which can sustain future commercial usefulness of DASH. The DASH format used should conform to the DASH-IF Interoperability Points as defined by http://dashif.org/guidelines/. It is a financial prize as follows: first place – €1000; second place – €500; and third place – €250. The winners are chosen by a DASH Industry Forum appointed committee and results are final.
+
+This year's award goes to the following papers (Two first places, and one third):
+
+ * WINNER (1st place, ex-equo): "Evaluation of shared resource allocation using SAND for ABR streaming" by Stefan Pham, Patrick Heeren, Daniel Silhavy, Stefan Arbanowski & "Bandwidth prediction in low-latency chunked streaming" by Abdelhak Bentaleb, Christian Timmerer, Ali C. Begen, Roger Zimmermann
+ * RUNNER-UP (3rd place): "LIME: understanding commercial 360° live video streaming services" by Xing Liu, Bo Han, Feng Qian, Matteo Varvello
+
+Additionally, for the first time, the DASH Industry Forum (DASH-IF) awarded the best PhD dissertation on algorithms and protocols for adaptive content delivery over the internet at ACM MMSys 2019. After a public call, the DASH-IF received a good number of nominations from all around the world to pick one winner. Due to the high number and quality of nominations (and since it's the first time), the DASH-IF decided to award also the second and third best dissertation; increasing its financial prize as follows: first place – $750; second place – $500; and third place – $250. The winners are chosen by a DASH Industry Forum appointed committee and results are final.
+
+And the winners are...
+
+ * First place: Dr. Abdelhak Bentaleb (National University of Singapore) for the dissertation "Enabling Optimizations of Video Delivery in HTTP Adaptive Streaming"
+ * Second place: Dr. Jeroen van der Hooft (Ghent University), Low-Latency Delivery of Adaptive Video Streaming Services
+ * Third place: Dr. Jonathan Kua (Swinburne University of Technology), Achieving High Performance Content Streaming with Adaptive Chunklets and Active Queue Management
+
+The DASH-IF would like to congratulate all winners and hope seeing you next year at ACM MMSys 2020.
+
+Finally, the DASH-IF sponsored the ice cream social event at ACM MMSys 2019 which allowed for networking and discussions. [Here are some impressions from this unique event...](https://multimediacommunication.blogspot.com/2019/07/dash-if-sponsored-ice-cream-social.html)
+
 ## IEEE ICME 2018
 
 The DASH-IF sponsored the [Grand Challenge on Dynamic Adaptive Streaming over HTTP](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/DASH-Grand-Challenge-at-IEEE-ICME-2018) at IEEE ICME 2018. The press release can be found [here](https://multimediacommunication.blogspot.com/2018/07/dash-if-awarded-grand-challenge-on.html) and the DASH-IF is pleased to announce the following winners:
