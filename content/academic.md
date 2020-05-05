@@ -14,7 +14,7 @@ Further details can be found [here](https://github.com/Dash-Industry-Forum/Acade
 # Current Events
 ## ACM MMSys 2020
 
-[ACM MMSys 2020](https://2020.acmmmsys.org/)
+[ACM MMSys 2020](https://2020.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020)
 
 # Past Events
 ## ACM MMSys 2019
