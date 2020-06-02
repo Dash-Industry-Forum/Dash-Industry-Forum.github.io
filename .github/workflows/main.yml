@@ -1,4 +1,4 @@
-name: Publication
+name: Publication to Github Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
     branches: [ edrthomas-to-github-ci ] 
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-18.04
 
     steps:
@@ -15,7 +15,15 @@ jobs:
       run: sudo apt-get update
     - name:  Install npm
       run: sudo apt-get install npm
+    - name: Install gulp.js
+      run: npm install --global gulp-cli
     - name: Install hugo
       run: |
         wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
         sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
+    - name: Build website assets
+      run: gulp
+    - name: Compile website
+      run: hugo --ignoreCache
+    - name: Copy CNAME
+      run: CNAME public/ 2>/dev/null
