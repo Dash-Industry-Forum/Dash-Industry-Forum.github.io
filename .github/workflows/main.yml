@@ -21,6 +21,8 @@ jobs:
       run: |
         wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
         sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
+    - name: Install js dependencies
+      run: npm install
     - name: Build website assets
       run: gulp
     - name: Compile website
