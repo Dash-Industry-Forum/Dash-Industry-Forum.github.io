@@ -8,8 +8,7 @@ gulp.task('js', function(){
 	  'src/js/default.js',
 	  'node_modules/jquery/dist/jquery.slim.min.js',
 	  'node_modules/popper.js/dist/umd/popper.min.js',
-	  'node_modules/bootstrap/dist/js/bootstrap.min.js',
-	  'node_modules/holderjs/holder.min.js'
+	  'node_modules/bootstrap/dist/js/bootstrap.min.js'
      ])
     .pipe(concat('dashif.js'))
     .pipe(minify())
@@ -34,4 +33,4 @@ gulp.task('fonts', function(){
     .pipe(gulp.dest('static/fonts'));
 });
 
-gulp.task('default', [ 'js', 'css', 'fonts' ]);
+gulp.task('default', gulp.parallel([ 'js', 'css', 'fonts' ]));
