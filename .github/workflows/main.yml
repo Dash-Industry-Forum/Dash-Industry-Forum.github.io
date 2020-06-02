@@ -3,7 +3,11 @@ name: Publication to Github Pages
 on:
   push:
     #TODO: to change to hugo
-    branches: [ edrthomas-to-github-ci ] 
+    branches:
+      - edrthomas-to-github-ci 
+  pull_request:
+    branches:
+      - master
 
 jobs:
   publish:
@@ -35,3 +39,11 @@ jobs:
       run: hugo --ignoreCache
     - name: Copy CNAME
       run: cp CNAME public/ 2>/dev/null
+    - name: Deploy to GitHub Pages
+      #Note: if the repository name changes, the condition has to change 
+      if: ${{ github.repository == 'Dash-Industry-Forum/Dash-Industry-Forum.github.io' }} 
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: master  # deploying branch
