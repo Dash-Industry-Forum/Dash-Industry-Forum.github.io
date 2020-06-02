@@ -1,4 +1,4 @@
-name: Publication to Github Pages
+name: Publication to GitHub Pages
 
 on:
   push:
@@ -37,6 +37,7 @@ jobs:
     - name: Compile website
       run: hugo --ignoreCache
     - name: Copy CNAME
+      #Note: if the repository name changes, the condition has to change 
       if: ${{ github.repository == 'Dash-Industry-Forum/Dash-Industry-Forum.github.io' }} 
       run: cp CNAME public/ 2>/dev/null
     - name: Deploy to GitHub Pages
@@ -47,3 +48,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         publish_branch: master  # deploying branch
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
