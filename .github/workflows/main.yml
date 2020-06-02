@@ -1,0 +1,49 @@
+name: Publication to Github Pages
+
+on:
+  push:
+    branches:
+      - hugo
+  pull_request:
+    branches:
+      - hugo
+
+jobs:
+  publish:
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@v2
+    - name:  Update repo
+      run: sudo apt-get update
+    - name:  Configure nodejs and npm
+      run: |
+        sudo apt-get install npm nodejs
+        echo "node version:"
+        node --version
+        echo "npm version:"
+        npm --version
+    - name: Install hugo
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
+        sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
+    - name: Install js dependencies
+      run: |
+        npm install
+        echo "gulp version:"
+        gulp --version
+    - name: Build website assets
+      run: gulp
+    - name: Compile website
+      run: hugo --ignoreCache
+    - name: Copy CNAME
+      if: ${{ github.repository == 'Dash-Industry-Forum/Dash-Industry-Forum.github.io' }} 
+      run: cp CNAME public/ 2>/dev/null
+    - name: Deploy to GitHub Pages
+      #Note: if the repository name changes, the condition has to change 
+      if: ${{ github.repository == 'Dash-Industry-Forum/Dash-Industry-Forum.github.io' }} 
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: master  # deploying branch
