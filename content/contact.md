@@ -17,7 +17,7 @@ For general enquiries, please use this email address:
 
 admin@dashif.org
  
-If you wish to send a formal liaison communication, then please contact our Liaison Officer William Frantz at 
+If you wish to send a formal liaison communication, then please contact our Liaison Officer Phillip Maness at 
 
 liaison@dashif.org
 
