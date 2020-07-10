@@ -37,6 +37,7 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 This clause lists a set of agreed additions that will be added to the next revision of the IOP Guidelines. They are typically documented as "Change Requests" documenting only the difference from the previous versions.
 
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
+* [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2) ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
 
 
 ### Previous Versions
@@ -230,14 +231,6 @@ comments have been addressed.
   * Introduces DASH-IF XML schema where two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
 * Community review is open until March 31st, 2020. Addition to IOP is expected by Q2/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review).
-
-## DASH Player’s Application Events and Timed Metadata Processing Models and APIs 
-
-* The change request against IOP v4.3 for Community Review is accessible
-  [here](https://dashif-documents.azurewebsites.net/Events/master/event.html) and a [pdf version](https://github.com/Dash-Industry-Forum/Events/blob/master/DASH%20Event%20Metadata%20API%20ver%208.pdf).
-* For the proper usage of Events and Timed Metadata distributed in DASH Media Presentations, APIs pertaining to subscription and notification delivery are beneficially defined between the DASH client and the application consuming the Events. This document adds a client processing model for Events.
-* Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review) adding label "Community-Review" or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Events)
 
 ## WebIDL DASH Event Metadata API 
 
