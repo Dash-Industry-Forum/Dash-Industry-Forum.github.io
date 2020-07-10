@@ -37,7 +37,7 @@ Note that version 4.3 is published as an add on to v4.2, but with the next versi
 This clause lists a set of agreed additions that will be added to the next revision of the IOP Guidelines. They are typically documented as "Change Requests" documenting only the difference from the previous versions.
 
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
-* [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2) ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
+* [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
 
 
 ### Previous Versions
