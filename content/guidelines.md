@@ -38,7 +38,7 @@ This clause lists a set of agreed additions that will be added to the next revis
 
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
 * [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
-
+* [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3.pdf)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
 
 ### Previous Versions
 
@@ -163,16 +163,6 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-## Next Generation Audio Alignment with ATSC3.0
-
-* The change request against IOP v4.3 for Community Review is accessible 
-  [here (pdf)](https://dash-industry-forum.github.io/docs/NGA-Combined-CR-atsc_alignment_v6.pdf)
-* AC-4 and MPEG-H have diverged over time from the specifications in the DASH-IF spec for ATSC3.0. This change request proposes the corresponding alignment, specifically:
-  * For MPEG-H: This document proposes an update to the main DASH-IF IOP such that it aligns with the IOP for ATSC 3.0. 
-  * For AC-4: This document proposes an update that aligns with ATSC 3.0 IOP, and includes signalling for the advanced use cases enabled by those services.
-  * For DTS: Updates to general sections in include DTS-UHD
-* Community review is open until June 15th, 2020. Addition to IOP is expected by early Q3/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Audio/issues/new?labels=community-review).
 
 ## SPEKE-CPIX alignment
 
