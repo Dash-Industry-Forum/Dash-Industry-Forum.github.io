@@ -75,7 +75,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.mediamelon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/MediaMelon_Signature_RGB_website.png" alt="" /></a> 
 <a href="http://mux.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Mux-Logo_website_v2.png" alt="" /></a> 
 <a href="https://www.nexplayersdk.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/NexPlayer%20Logo_website.png" alt="" /></a>  
-<a href="http://nomor.de/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/nomor_logo_website_05292015.png" alt="" /></a>
 <a href="https://pearltv.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Pearl-logo_website.png" alt="" /></a>  
 <a href="https://cloud.qencode.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/qencode_logo_website.jpg" alt="" /></a>
 <a href="http://www.realeyes.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/RealEyes_Logo_website_052915.png" alt="" />   </a>
