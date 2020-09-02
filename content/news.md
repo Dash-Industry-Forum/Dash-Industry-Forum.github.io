@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+September 1, 2020 -- Our esteemed colleague Mike Dolan (Pearl TV) provides an article in the ATSC News:<a href="https://www.atsc.org/news/dash-industry-forum-continues-to-forge-adoption-with-atsc-3-0/">DASH INDUSTRY FORUM CONTINUES TO FORGE ADOPTION WITH ATSC 3.0</a> 
+
 April 17, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/speke-cpix">CPIX v2.3 for community review to address alignment between SPEKE and CPIX</a> based on broad industry support.
 
 April 1, 2020 -- DASH-IF delivers <a href="https://dashif.org/news/dvb-world-2020">joint webinar with DVB - Presentations and Videos Online</a>.
