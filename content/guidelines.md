@@ -60,14 +60,20 @@ The scope of this document is to define a Content Protection Information Exchang
 
 ### Latest Version
 
-DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
+DASH-IF Implementation Guidelines v2.3: [Content Protection Information Exchange Format (CPIX)](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.html) | ([PDF](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 
-The document provides the following extensions to v2.1:
+Changes from 2.2 are
 
-* Bug fixes on the HLS signalization support
+* Addition of the `commonEncryptionScheme` element with the CENC protection scheme value
+* Addition of the `version` element
+* Addition of a section on using the same content key with different encryption schemes
+* Clarification on the `explicitIV` element encoding
+* Typos corrections
+
 
 ### Previous Versions
 
+* DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
 * DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
   Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
