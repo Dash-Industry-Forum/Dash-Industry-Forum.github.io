@@ -1,4 +1,4 @@
-# DASH-IF receives first hand informatoin on Versatile Video Coding
+# DASH-IF receives first hand information on Versatile Video Coding
 
 -- September 11, 2020 - Elbonia, virtual --
 
