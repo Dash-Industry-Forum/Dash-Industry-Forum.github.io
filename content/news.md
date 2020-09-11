@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-September 11, 2020 -- DASH-IF receives <a href="https://dashif.org/news/vvc-yk">first hand information on Versatile Video Coding</a> from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.
+September 11, 2020 -- DASH-IF receives <a href="https://dashif.org/news/vvc-yk">first hand information on Versatile Video Coding (VVC)</a> from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.
 
 September 1, 2020 -- Our esteemed colleague Mike Dolan (Pearl TV) provides an article in the ATSC News: <a href="https://www.atsc.org/news/dash-industry-forum-continues-to-forge-adoption-with-atsc-3-0/">DASH INDUSTRY FORUM CONTINUES TO FORGE ADOPTION WITH ATSC 3.0</a> 
 
