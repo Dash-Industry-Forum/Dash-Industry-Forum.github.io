@@ -3,6 +3,7 @@
 ### Background
 
 DASH-IF recently published the following new documents:
+
 * Advanced Ad Insertion in DASH
 * DASH events and timed metadata tracks timing and processing model and client reference model
 * Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3
@@ -16,6 +17,7 @@ All documents can be accessed through our <a href="https://dashif.org/guidelines
 ### Advanced Ad Insertion in DASH
 
 DASH-IF issued a Change request on advanced ad insertion in DASH. Ad Insertion is considered as one of the most important aspects in online video distribution. Also with the development of CMAF, some additional aspects are relevant, such as consistent development of Ad content, content insertion into CMAF live content, etc. This document addresses latest development in the context of Ad Insertion and maps this to DASH, among others:
+
 * Description of most relevant use cases
 * Ad Insertion architecture
 * Definition of main content requirements and recommendations
