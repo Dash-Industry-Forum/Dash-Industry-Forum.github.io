@@ -103,6 +103,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/v5-updates/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/vvc-yk/</loc>
     <priority>0</priority>
   </url>
