@@ -37,5 +37,18 @@ The specification was made possible by the generous contributions and support of
 ### Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3
 
 ### DASH-IF implementation guidelines: content protection and security
+This document is an update to the "Content Protection and Security" section of the DASH-IF IOP Guidelines version 4.3. The scope remains the same, giving guidelines for interoperable behaviors of clients in front of well-formed encrypted content. Compared to IOP 4.3:
+
+* Updated encrypted content constraints for supporting CMAF. This includes the addition of the cbcs scheme support and recommendation for encrypting content when available using both cbcs and cenc protection schemes. 
+* Clarified periodic reauthorization mechanisms and separating the topic of key hierarchy from periodic reauthentication. The two are now separate chapters.
+
+In addition, this document:
+* Introduces an optional license request model that describes how an application can retrieve, using some simple HTTP requests, a license. It is flexible enough so that the requests can embed or not authorization tokens allowing license servers to generate the rights. Two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
+* Explains how a platform that supports EME can, from the platform capabilities discovery, DRM selection to authorization tokens acquisition, generate a license request.
+
 
 ### DASH-IF Implementation Guidelines v2.3: Content Protection Information Exchange Format (CPIX)
+CPIX continues supporting the interoperability between packager and DRM servers when it comes to the exchange of content protection information. Building on the feedback received from the Industry, CPIX has been updated for integrating required enhancements and bug corrections.
+
+* Because of CMAF support for both the CENC cenc and cbcs encryption schemes, CPIX has been updated for carrying this information attached to a Content Key. In addition guidelines have been given when using the same Content Key with different encryption schemes.
+* Some extensions defined outside of DASH-IF have been integrated in the CPIX namespace, allowing a better alignment in the Industry. A version number has, as a consequence, been added. This allows external entities to enforce using the latest version of CPIX hence deprecating their proprietary extensions.
