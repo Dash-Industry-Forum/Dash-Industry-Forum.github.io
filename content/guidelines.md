@@ -40,6 +40,7 @@ This clause lists a set of agreed additions that will be added to the next revis
 * [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
 * [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3.pdf)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
 * [DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
+* [Advanced Ad Insertion in DASH](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r7.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/AdInsertion/issues))
 
 
 ### Previous Versions
@@ -171,39 +172,6 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
-
-## SPEKE-CPIX alignment
-
-* A new version 2.3 of the Content Protection Information Exchange Format (CPIX) for Community Review is accessible [here (html)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.html) [(pdf)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.pdf) [(zip)](https://dashif-documents.azurewebsites.net/Cpix/community-review/Cpix.zip).
-* Reason for Updates
-  * CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS). The SPEKE specification also extends CPIX by introducing missing elements for MSS and HLS, using the ‘speke’ custom namespace (urn:aws:amazon:com:speke). 
-  * While the SPEKE approach has worked well and allowed to create a unified ecosystem with 18 partners leveraging CPIX documents through SPEKE for DASH/HLS/MSS with multiple DRMs, it has also shown its limits, as SPEKE hasn’t followed the evolutions of CPIX which has now reached version 2.2. In the end, SPEKE is generating ecosystem fragmentation, whereas it was designed to facilitate interoperability around CPIX. It’s time to fix this situation and to allow implementers to benefit from all CPIX and SPEKE great features at the same time.
-* Summary of changes: This update aims to align SPEKE and CPIX on the short term and to facilitate coordinated evolutions on the long term.
-  * Clarification on the ContentKey/explicitIV element encoding
-  * Addition of the ContentKey/commonEncryptionScheme element giving the CENC protection scheme used with the content key.
-  * Addition of a section on using the same content key with different encryption schemes
-  * Addition of a CPIX/version element 
-  * Correction of XSD errors
-  * Corrections of typos and broken references
-
-* Community review is open until June 15th, 2020. Final publication is expected by Q2/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/CPIX/issues/new?labels=community-review). 
-
-## Ad Insertion in DASH
-
-* The change request against IOP v4.3 for Community Review is accessible 
-  [here (pdf)](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r5.pdf)
-* Ad Insertion is considered as one of the most important aspects in online video distribution. Also with the development of CMAF, some additional aspects are relevant, such as consistent development of Ad content, content insertion into CMAF live content, etc. This document addresses latest development in the context of Ad Insertion and maps this to DASH, among others 
-  * Description of most relevant use cases
-  * Ad Insertion architecture
-  * Definition of main content requirements and recommendations
-  * Definition of ad content requirements and recommendations
-  * Definition of combined main and ad content
-  * Ad specific metadata
-  * Ad tracking
-* Community review is open until May 15th, 2020. Addition to IOP is expected by Q2/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/AdInsertion/issues/new?labels=community-review). 
-
 ## Updated Timing Model for v5
 
 * The change request against IOP v4.3 for Community Review is accessible 
@@ -212,23 +180,6 @@ comments have been addressed.
 * Please note: this Community Review is only limited to Chapter 5 of the Interoperability Guidelines, which includes the revised Timing model constraints and other interoperability constraints.  Community Review for the other portions of the Interoperability Guidelines will be available at a future time.
 * Community review is open until November 30th, 2019. Addition to IOP is expected by Q1/2020.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-TimingModel/issues/new?labels=community-review).
-
-
-## Content Protection and Security
-
-* The change request against IOP v4.3 for Community Review is accessible
-  [html](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) and [pdf](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.pdf)
-* Scope, Updates and Changes
-  * This document is an update to the DASH-IF IOP Guidelines version 4.3. The scope remains the same, giving guidelines for interoperable behaviors of clients in front of well formed encrypted content. This means:
-  * Updated encrypted content constraints for supporting CMAF. This includes the addition of the cbcs scheme support and recommendation for encrypting content when available both encrypted with cbcs and cenc schemes. Note that compared to DASH-IF IOP 4.3, there are no changes in the recommendations for using default_KID and pssh elements.
-  * Added discussions on compliance and robustness rules and their impact on the choices of the DRM client to instantiate.
-  * Added discussions on compliance and robustness rules and their impact on the choices of the DRM client to instantiate.
-  * Clarified periodic reauthorization mechanisms, limited now the only Period change possibility. As a consequence, key hierarchy is moved in a different section as this is used for supporting different use cases.
-  * Clarified the client reference architecture which is an MSE/EME type of player, more precisely connecting between the DASH/DASH-IF/CMAF content format specifications and W3C EME.
-  * Introduces the Interoperable license request model that describes how players take content and consume it in ways that make sense on a platform that supports EME. From the Platform capabilities discovery and DRM selection to the license request protocol, this optional request model allows a player to obtain authorization tokens that can be used for retrieving licenses and content keys from a license server for rendering content. Any processing step in the proposed model can be redefined by the application logic.
-  * Introduces DASH-IF XML schema where two elements are defined for supporting the license request model. These elements are namely the laurl (license acquisition server URL) and authzurl (Authorization server URL).
-* Community review is open until March 31st, 2020. Addition to IOP is expected by Q2/2020.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/new?labels=community-review).
 
 ## WebIDL DASH Event Metadata API 
 
