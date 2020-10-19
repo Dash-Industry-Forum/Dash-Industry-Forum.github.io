@@ -11,7 +11,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 
 <div class="member"><a href="http://www.akamai.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/akamai-logo_website_052915.jpg" alt="" /></a>
 <a href="http://www.comcast.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Comcast-Logo_website.jpg" alt="" /></a>
-<a href="http://www.dolby.com/us/en/index.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/dolby.jpg" alt="" /></a>
+<a href="http://www.dolby.com/us/en/index.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/DLB_Corp_rgb_blk_%401x_website.png" alt="" /></a>
 <a href="http://www.ericsson.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ericson.jpg" alt="" /></a>
 <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="" /></a>
 <a href="http://www.hulu.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Hulu_Logo_website.png" alt="" /></a>
