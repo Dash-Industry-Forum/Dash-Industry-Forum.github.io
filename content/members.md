@@ -59,7 +59,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 ## Associate Members
 
 
-<div class="member"><a href="https://anevia.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Anevia_logo_website.png" alt="" />    </a>
+<div class="member">
 <a href="https://www.ateme.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/ATEME%20logo_website.png" alt="" />    </a>
 <a href="http://www.axinom.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/axinom.jpg" alt="" />    </a>
 <a href="http://www.bitmovin.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/bitmovin_logo_website.png" alt="" />    </a>
