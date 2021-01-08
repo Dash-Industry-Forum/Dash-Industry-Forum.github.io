@@ -26,7 +26,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 
 <div class="member">
 <a href="https://www.att.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/AT%26T%20Logo_website.png" alt="" /></a>
-<a href="https://www.TechAtBloomberg.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bloomberg_website.png" alt="" /></a>
+<a href="https://www.techatbloomberg.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bloomberg_website.png" alt="" /></a>
 <a href="https://www.brightcove.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/brightcove_website.jpg" alt="" /></a> 
 <a href="https://www.bytedance.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bytedance%20Logo_website.png" alt="" /></a>
 <a href="http://www.castlabs.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/castlabs-new-logo_website.png" alt="" /> </a>
