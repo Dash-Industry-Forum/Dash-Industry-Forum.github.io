@@ -18,7 +18,7 @@ jobs:
       run: sudo apt-get update
     - name:  Configure nodejs and npm
       run: |
-        sudo apt-get install node-gyp nodejs npm 
+        sudo apt-get install nodejs-dev node-gyp nodejs npm 
         echo "node version:"
         node --version
         echo "npm version:"
