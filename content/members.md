@@ -27,6 +27,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <div class="member">
 <a href="https://www.techatbloomberg.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bloomberg_website.png" alt="" /></a>
 <a href="https://www.brightcove.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/brightcove_website.jpg" alt="" /></a> 
+<a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dashif.org/img/Logotype_Broadpeak_rgb_website.png" alt="" /></a>
 <a href="https://www.bytedance.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bytedance%20Logo_website.png" alt="" /></a>
 <a href="http://www.castlabs.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/castlabs-new-logo_website.png" alt="" /> </a>
 <a href="https://www.commscope.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/CommScope_positive_RGB_website.jpg" alt="" /></a>
@@ -63,7 +64,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://www.ateme.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/ATEME%20logo_website.png" alt="" />    </a>
 <a href="http://www.axinom.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/axinom.jpg" alt="" />    </a>
 <a href="http://www.bitmovin.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/bitmovin_logo_website.png" alt="" />    </a>
-<a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dashif.org/img/Logotype_Broadpeak_rgb_website.png" alt="" /></a>
 <a href="https://www.buydrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/BuyDRM_logo_website.png" alt="" /></a>
  <a href="https://www.contentarmor.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/ContentArmor_logo_website.png" alt="" /></a>
 <a href="http://www.digitalprimates.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/digital-primates.jpg" alt="" /></a>
