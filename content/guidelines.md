@@ -172,6 +172,14 @@ documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 
+## DASH-IF Technical Specification: Live Media Ingest version 2
+
+* A revision for community review for the Live Media Ingest specification is provided 
+  [here (html)](https://dashif-documents.azurewebsites.net/Ingest/pull/143/DASH-IF-Ingest.html)
+* Two closely related protocol interfaces are defined: CMAF Ingest (Interface-1) based on fragmented MP4 and DASH/HLS Ingest (Interface-2) based on DASH and HLS. Both interfaces use the HTTP POST (or PUT) method to transmit media objects from an ingest source to a receiving entity. These interfaces support carriage of audiovisual media, timed metadata and timed text. Examples of workflows using these interfaces are provided. In addition, guidelines for synchronization of multiple ingest sources, redundancy and failover are presented.
+* Community review is open until May 31st, 2021. Publication is expected by August 31, 2021.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues).
+
 ## Updated Timing Model for v5
 
 * The change request against IOP v4.3 for Community Review is accessible 
