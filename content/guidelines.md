@@ -38,7 +38,7 @@ This clause lists a set of agreed additions that will be added to the next revis
 
 * [Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
 * [DASH events and timed metadata tracks timing and processing model and client reference model](https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf)  | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
-* [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3, rev1.1 (clean)](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1-cl.pdf) [(revision mark)](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
+* [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
 * [DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 * [Advanced Ad Insertion in DASH](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r8.pdf)(**updated Dec 14,2020**) | ([Bugtracker](https://github.com/Dash-Industry-Forum/AdInsertion/issues))
 
@@ -171,6 +171,12 @@ submitted on the technologies itself, on specific features, etc. These
 documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
+
+## DASH-IF Technical Specification: Audio Update
+
+* A revision for community review for the Live Media Ingest specification is provided here: [Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3, rev1.1 (clean)](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1-cl.pdf) [(revision mark)](https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1.pdf) 
+* Community review is open until June 30th, 2021. Publication is expected by August 31, 2021.
+* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Audio/issues)
 
 ## DASH-IF Technical Specification: Live Media Ingest version 2
 
