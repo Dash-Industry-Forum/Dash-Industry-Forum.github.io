@@ -22,7 +22,6 @@ The following sections collect the Generic Identifiers as well as Protection Sys
 
 The identifiers in this table only provides the selected UUID code. For referencing the protection scheme in the **`ContentProtection`** descriptor, the URI `urn:uuid:<uuid>` may be used where `<uuid>` is to be replaced with the UUID in the first column of the table.
 
-*Disclaimer: DASH-IF does not define any “approved” content protection schemes. The table below only represents the submitted schemes by 3rd parties to DASH-IF. None are required or recommended by IOP Implementation Guidelines. The information provided in the table is deemed to be correct at the date of submission, DASH-IF takes no responsibility if this information is not correct or if the provided values become obsolete.*
-*Note: Submitters are encouraged to verify that the provided UUID is not already used, even if using UUID drastically limit the risk.*
+*Disclaimer: DASH-IF does not define any “approved” content protection schemes. The table below only represents the submitted schemes by 3rd parties to DASH-IF. None are required or recommended by IOP Implementation Guidelines. The provided information is deemed to be correct at the date of submission, DASH-IF takes no responsibility if this is not correct or if this becomes obsolete.*
 
 {{< csvTable "csv/content-protection-system-specific.csv" >}}
