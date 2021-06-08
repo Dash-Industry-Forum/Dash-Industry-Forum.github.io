@@ -3,6 +3,9 @@
 
 On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
 
+<div class="member"><a href="https://dashif.org/img/webRTC.jpg" target="_blank" rel="noopener noreferrer"><img height="320px"  src="https://dashif.org/img/webRTC.jpg" alt="" /></a>
+</div>
+
 ### Abstract:
 WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.  However, the use of real-time streaming for professionally-produced content is highlighting gaps in WebRTC, creating the need for industry collaboration.  This talk will explore some of these key areas and sketch out possible ways forward for the industry.
 
