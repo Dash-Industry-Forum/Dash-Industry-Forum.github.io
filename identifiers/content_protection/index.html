@@ -260,16 +260,16 @@ System Specific ones.</p>
     
     <tr>
       <td><code>urn:mpeg:dash:mp4protection:2011</code></td>
-      <td><a href="/identifiers/references#23009-1%29">ISO/IEC 23009-1</a></td>
+      <td><a href="/identifiers/references#23009-1">ISO/IEC 23009-1</a></td>
       <td>section 5.8.5.2</td>
-      <td>protection schemes identified by a the Scheme Type within the Scheme Type Box of the Protection Scheme Information Box of ISO/IEC14496-12. In this scheme, the value of the @value attribute is the 4CC contained in the Scheme Type Box, suitably escaped according to RFC 2141 and may include the version number. The 4CC and the version number, if present, is separated by a :. The version number is encoded as up to 8 hexadecimal digits, where the leading 0s may be omitted.</td>
+      <td>For Representations based on ISO/IEC 14496-12, it identifies the CENC protection scheme. The value of the @value attribute is the 4CC contained in the Scheme Type Box schm that is within Protection Scheme Information Box sinf, suitably escaped according to RFC 2141 and may include the version number. The 4CC and the version number, if present, are separated by a :. The version number is encoded as up to 8 hexadecimal digits, where the leading 0s may be omitted.</td>
     </tr>
     
     <tr>
       <td><code>urn:mpeg:dash:13818:1:CA_descriptor:2011</code></td>
       <td><a href="/identifiers/references#23009-1">ISO/IEC 23009-1</a></td>
       <td>section 5.8.5.2</td>
-      <td>Conditional Access System used for ISO/IEC 13818-1 MPEG-2 Transport Stream. In this scheme, the value of the @value attribute is the 4-digit lower-case hexadecimal Representation of the 16-bit CA_system_ID from the CA_descriptor as defined in ISO/IEC 13818-1.</td>
+      <td>For Representations based on ISO/IEC 13818-1, it identifies the Conditional Access System. The value of the @value attribute is the 4-digit lower-case hexadecimal Representation of the 16-bit CA_system_ID from the CA_descriptor.</td>
     </tr>
     
   </tbody>
@@ -475,6 +475,13 @@ None are required or recommended by DASH-AVC/264 Implementation Guidelines.</em>
       <td><a href="http://www.gospell.com">VisionCrypt</a></td>
       <td></td>
       <td>GOSPELL Digital Technology Co., Ltd. Block F10-13, F518 Idea Land, Bao Yuan Road, Bao&#39;an, 518102, ShenZhen, China, www.gospell.com. For further information, contact gosdrm@gospell.com.</td>
+    </tr>
+    
+    <tr>
+      <td><code>37c33258-7b99-4c7e-b15d-19af74482154</code></td>
+      <td><a href="https://www.commscope.com/product-type/video-processing-security-delivery-systems/content-security-services-software/conditional-access-systems/titanium-cas">Commscope Titanium V3</a></td>
+      <td></td>
+      <td>Documentation available under NDA. Contact multitrust.info@arris.com for further information. The UUID of @schemeiduri is a version 4 UUID as per RFC 4122. @value will be specified in documentation related to a specific version of the product. Contact multitrust.info@arris.com for further information.</td>
     </tr>
     
   </tbody>
