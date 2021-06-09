@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-May 28, 2021 -- As part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a <a href="https://dashif.org/news/webRTC">WebRTC-based Premium Streaming Ecosystem</a>.
+May 28, 2021 -- As part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a <a href="https://dashif.org/news/webrtc">WebRTC-based Premium Streaming Ecosystem</a>.
 
 October 6, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/v5-updates">a series of updates and extensions for the next IOP version and CPIX</a>.
 
