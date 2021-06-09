@@ -95,9 +95,9 @@ The framework source code is downloadable from our Github repository at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>October 6, 2020 &amp;ndash; DASH-IF publishes a series of updates and extensions for the next IOP version and CPIX.
-September 11, 2020 &amp;ndash; DASH-IF receives first hand information on Versatile Video Coding (VVC) from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.
-September 1, 2020 &amp;ndash; Our esteemed colleague Mike Dolan (Pearl TV) provides an article in the ATSC News: DASH INDUSTRY FORUM CONTINUES TO FORGE ADOPTION WITH ATSC 3.</description>
+      <description>May 28, 2021 &amp;ndash; As part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
+October 6, 2020 &amp;ndash; DASH-IF publishes a series of updates and extensions for the next IOP version and CPIX.
+September 11, 2020 &amp;ndash; DASH-IF receives first hand information on Versatile Video Coding (VVC) from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.</description>
     </item>
     
     <item>
@@ -284,7 +284,7 @@ Today, as part of our virtual special session series, DASH-IF received a primer 
       <guid>https://dash-industry-forum.github.io/news/webrtc/</guid>
       <description>DASH-IF discusses WebRTC-based Streaming &amp;ndash; May 28, 2021 - Elbonia, virtual &amp;ndash;
 On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
-Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.</description>
+  Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.</description>
     </item>
     
     <item>
@@ -326,8 +326,7 @@ Authentication Schemes The following defines a set of URIs that identify MPD eve
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/content_protection/</guid>
-      <description>Introduction For the element ContentProtection the @schemeIdUri attribute is used to identify a content protection scheme (for details see ISO/IEC 23009-1 [1], section 5.8.4.1). This attribute provide sufficient information, possibly in conjunction with the @value and/or extension attributes and elements, such as the DRM system(s), encryption algorithm(s), and key distribution scheme(s) employed, to enable a client to determine whether it can possibly play the protected content.
-For Representations based on ISO/IEC 14496-12 [6] a content protection scheme using the Protection System Specific Header Box defined in ISO/IEC 23001-7 may be identified in the ContentProtection element.</description>
+      <description>Introduction For the element ContentProtection, the @schemeIdUri attribute is used to identify a content protection scheme (for details see ISO/IEC 23009-1 [1], section 5.8.4.1). This attribute can provide sufficient information, possibly in conjunction with the @value and/or extension attributes and elements (such as the DRM system(s), encryption algorithm(s), and key distribution scheme(s) employed) for enabling a client to determine whether or not it can possibly play the protected content.</description>
     </item>
     
     <item>
