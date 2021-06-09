@@ -95,9 +95,9 @@ The framework source code is downloadable from our Github repository at https://
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>October 6, 2020 &amp;ndash; DASH-IF publishes a series of updates and extensions for the next IOP version and CPIX.
-September 11, 2020 &amp;ndash; DASH-IF receives first hand information on Versatile Video Coding (VVC) from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.
-September 1, 2020 &amp;ndash; Our esteemed colleague Mike Dolan (Pearl TV) provides an article in the ATSC News: DASH INDUSTRY FORUM CONTINUES TO FORGE ADOPTION WITH ATSC 3.</description>
+      <description>May 28, 2021 &amp;ndash; As part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
+October 6, 2020 &amp;ndash; DASH-IF publishes a series of updates and extensions for the next IOP version and CPIX.
+September 11, 2020 &amp;ndash; DASH-IF receives first hand information on Versatile Video Coding (VVC) from Dr. Ye-Kui Wang (ByteDance) during our virtual special sessions.</description>
     </item>
     
     <item>
@@ -274,6 +274,17 @@ DASH-IF&amp;rsquo;s CPIX 2.0 was published in September 2016. In November 2017, 
       <guid>https://dash-industry-forum.github.io/news/vvc-yk/</guid>
       <description>DASH-IF receives first hand information on Versatile Video Coding &amp;ndash; September 11, 2020 - Elbonia, virtual &amp;ndash;
 Today, as part of our virtual special session series, DASH-IF received a primer on &amp;ldquo;The high-level syntax (HLS) designs in VVC&amp;rdquo; from Dr. Ye-Kui Wang, Principal Scientist at Bytedance. During session also colleagues from our partner organizations DVB, 3GPP and CTA WAVE were invited and many joined. We had an audience of 60 people, thanks everyone for joining.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/webrtc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/webrtc/</guid>
+      <description>DASH-IF discusses WebRTC-based Streaming &amp;ndash; May 28, 2021 - Elbonia, virtual &amp;ndash;
+On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
+  Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.</description>
     </item>
     
     <item>
