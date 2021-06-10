@@ -3,7 +3,7 @@
 
 On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
 
-<div class="member"><a href="https://dash-industry-forum.github.io/img/webRTC.JPG" target="_blank" rel="noopener noreferrer"><img height="320px" src="https://dash-industry-forum.github.io/img/webRTC.JPG" alt="" /></a>
+<div class="member"><a href="https://dash-industry-forum.github.io/img/webRTC.JPG" target="_blank" rel="noopener noreferrer"><img height="480px" src="https://dash-industry-forum.github.io/img/webRTC.JPG" alt="" /></a>
 </div>
 
 ### Abstract:
