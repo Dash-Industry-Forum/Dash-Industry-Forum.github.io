@@ -63,7 +63,7 @@ The scope of this document is to define a Content Protection Information Exchang
 
 ### Latest Version
 
-DASH-IF Implementation Guidelines v2.3: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.html) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XmlSchema.zip)) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
+DASH-IF Implementation Guidelines v2.3: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.html) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.3/XmlSchema.zip)) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors)) | ([ETSI](https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf))
 
 Changes from 2.2 are
 
