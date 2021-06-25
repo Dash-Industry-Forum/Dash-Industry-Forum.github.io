@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+June 25, 2021 -- DASH-IF is is very pleased to announce that <a href="https://dashif.org/news/dashjs400/">version 4.0.0 of dash.js</a> has officially been released. As this is a major release, 4.0.0 includes a lot of new features and changes. .
+
 May 28, 2021 -- As part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a <a href="https://dashif.org/news/webrtc">WebRTC-based Premium Streaming Ecosystem</a>.
 
 October 6, 2020 -- DASH-IF publishes <a href="https://dashif.org/news/v5-updates">a series of updates and extensions for the next IOP version and CPIX</a>.
