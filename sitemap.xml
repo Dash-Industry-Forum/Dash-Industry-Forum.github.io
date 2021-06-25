@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/dashjs400/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/dvb-world-2020/</loc>
     <priority>0</priority>
   </url>
