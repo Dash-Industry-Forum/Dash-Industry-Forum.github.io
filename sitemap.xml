@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/ipr-declarations/</loc>
     <priority>0</priority>
   </url>
@@ -162,6 +167,10 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/functionality/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/guidelines/</loc>
   </url>
   
   <url>
