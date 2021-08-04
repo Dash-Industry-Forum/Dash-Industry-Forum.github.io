@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/members/</loc>
   </url>
   
@@ -59,11 +63,6 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/conformance/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
     <priority>0</priority>
   </url>
   
