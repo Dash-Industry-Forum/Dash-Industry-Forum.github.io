@@ -73,6 +73,9 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 * Community review is open until October 2nd, 2021. Publication is expected by December 31, 2021.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/IOPv5/issues/new?projects=Dash-Industry-Forum%2FIOPv5%2F7)
 
+## Rapporteurs
+[Laurent Piron (Nagra)](https://www.linkedin.com/in/laurentpiron/)
+
 # Part 7: Video
 
 ## Summary
