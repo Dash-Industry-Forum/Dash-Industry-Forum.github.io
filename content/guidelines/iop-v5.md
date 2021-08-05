@@ -69,7 +69,7 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 * [DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ## Community review
-* A community review version for part 6 is provided here: [DASH-IF Interoperability Points; Part 6: Content Protection](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOPv5.0-Part6-REVIEW-20210802.pdf) (public pdf). A members only word version is available [here](https://members.dashif.org/wg/Interoperability/document/4613).
+* A community review version for part 6 is provided here: [DASH-IF Interoperability Points; Part 6: Content Protection](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOPv5.0-Part6-REVIEW-20210805.pdf) (public pdf). A members only word version is available [here](https://members.dashif.org/wg/Interoperability/document/4613).
 * Community review is open until October 2nd, 2021. Publication is expected by December 31, 2021.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/IOPv5/issues/new?projects=Dash-Industry-Forum%2FIOPv5%2F7)
 
