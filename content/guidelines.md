@@ -2,6 +2,7 @@
 menu:
   main:
     parent: "Guidelines"
+    weight: 3
 title: "Earlier Versions"
 weight: 3
 ---
