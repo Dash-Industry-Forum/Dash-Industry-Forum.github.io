@@ -1,5 +1,7 @@
 ---
-menu: "main"
+menu:
+  main:
+    parent: "Guidelines"
 title: "IOP version 5"
 weight: 3
 ---
