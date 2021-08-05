@@ -3,7 +3,7 @@ menu:
   main:
     parent: "Guidelines"
 title: "Earlier Versions"
-weight: 2
+weight: 3
 ---
 
 # Introduction
