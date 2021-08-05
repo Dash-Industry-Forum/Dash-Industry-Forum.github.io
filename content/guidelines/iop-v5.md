@@ -22,72 +22,88 @@ With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introd
 # Part 1: Overview, architecture and interfaces
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
 
-## Earlier Versions
-under development
+## Editors
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+* Mike Dolan (Pearl TV)
+
+## History
+_under development_
 
 # Part 2: Core principles and CMAF mapping
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
 
-## Earlier Versions
-under development
+## Editors
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+
+## History
+_under development_
 
 # Part 3: On-demand services
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
 
-## Earlier Versions
-under development
+## Editors
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+
+## History
+_under development_
 
 # Part 4: Live and low-latency services
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+* [Prepublished v5 on Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
 
-## Community review
-under development
+## Documents under Community review
+_under development_
 
-## Earlier Versions
-under development
+## Editors
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+
+## History
+_under development_
 
 # Part 5: Ad Insertion and Content Replacement
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+* [Prepublished v5: Advanced Ad Insertion in DASH](https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r8.pdf)(**updated Dec 14,2020**) | ([Bugtracker](https://github.com/Dash-Industry-Forum/AdInsertion/issues))
 
-## Community review
-under development
+## Documents under Community review
+_under development_
 
-## Earlier Versions
-under development
+## Editors
+* [Zachary Cava (Disney Media)](https://www.linkedin.com/in/zachary-cava/)
+
+## History
+_under development_
 
 # Part 6: Content protection and security
 
@@ -111,66 +127,105 @@ Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidel
 # Part 7: Video
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* [Ye-Kui Wang (Bytedance)](https://www.linkedin.com/in/yekui/)
+
+## History
+_under development_
 
 # Part 8: Audio
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* Phil Maness (Xperi)
+* Richard Doherty (Dolby)
+
+## History
+_under development_
 
 # Part 9: Text
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* Mike Dolan (Pearl TV)
+
+## History
+_under development_
 
 # Part 10: Events
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* [Iraj Sodagar (Tencent)](https://www.linkedin.com/in/iraj-sodagar/)
+* Mike Dolan (Pearl TV)
+
+## History
+_under development_
 
 # Part 11: Additional Technologies
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+
+## History
+_under development_
 
 # Part 12: Conformance and Reference Tools
 
 ## Summary
-under development
+_under development_
 
-## Latest Published
-under development
+## Latest Published Specification
+_under development_
 
-## Community review
-under development
+## Documents under Community review
+_under development_
+
+## Editors
+* [Daniel Silhavy (Fraunhofer Fokus)](https://www.linkedin.com/in/daniel-silhavy-21650a129/)
+* [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+
+## History
+_under development_
 
