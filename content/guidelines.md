@@ -1,7 +1,9 @@
 ---
-menu: "main"
-title: "Guidelines"
-weight: 3
+menu:
+  main:
+    parent: "Guidelines"
+title: "Earlier Versions"
+weight: 2
 ---
 
 # Introduction
