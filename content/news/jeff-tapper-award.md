@@ -10,7 +10,7 @@ This summer, Olga Kornienko and Glenn Goldstein got together with Jeff Tapper to
 
 <img src="https://dashif.org/img/jeff-award.png" height=400>
 
-Currently the SVP Multi Platform Engineering at Viacom, Jeff Tapper has over 21 years of experience developing Internet applications for a myriad of clients, including ESPN, Major League Baseball, CNBC and Viacom. He is actively involved in the Streaming Media industry, and is a frequent speaker at NAB, IBC, Streaming Media East and West. He has authored over a dozen books on internet technologies. His technical acumen is mirrored by his friendliness and approachability, exemplified by the screenshot below in which he offers technial support for then the nascent dash.js open source project, at NAB, to a stranger, in return for a beer! It was this commitment to community that helped the open source project launch to the success that it is today. 
+Jeff Tapper has over 21 years of experience developing Internet applications for a myriad of clients, including ESPN, Major League Baseball, CNBC and Viacom. He is actively involved in the Streaming Media industry, and is a frequent speaker at NAB, IBC, Streaming Media East and West. He has authored over a dozen books on internet technologies. His technical acumen is mirrored by his friendliness and approachability, exemplified by the screenshot below in which he offers technial support for then the nascent dash.js open source project, at NAB, to a stranger, in return for a beer! It was this commitment to community that helped the open source project launch to the success that it is today. 
 
 <img src="https://dashif.org/img/jeff-screenshot.jpg" height=300>
 
