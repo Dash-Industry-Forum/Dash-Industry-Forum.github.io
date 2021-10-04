@@ -1,6 +1,5 @@
 ## Invitation to Bid: Joint Streaming Conformance Software Project
 
-<img src="https://dashif.org/img/JCSP.png" height=400>
 
 ### Overview
 
