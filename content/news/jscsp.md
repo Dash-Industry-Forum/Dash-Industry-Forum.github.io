@@ -4,9 +4,9 @@
 
 ### Overview
 
-DASH-IF (http://dashif.org ) has developed conformance software for the validation of MPEG-DASH and DASH-IF IOP content as well as conformance to DASH-IF IOP guidelines throughout the years. Other organizations including DVB, CTA WAVE, HbbTV, and Apple HLS have extended the conformance software for testing the content according to their relevant specifications. 
+DASH-IF (http://dashif.org ) has developed conformance software for the validation of MPEG-DASH and DASH-IF IOP content as well as conformance to DASH-IF IOP guidelines throughout the years. Other organizations including DVB, CTA WAVE, and HbbTV have extended the conformance software for testing the content according to their relevant specifications. 
 
-In continuation of this conformance software development, DASH-IF, DVB, CTA WAVE, HbbTV, Apple HLS, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software to achieve the followings goals:
+In continuation of this conformance software development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software to achieve the followings goals:
 1.	Establish a project management system and formal process for the documentation, contributions and code development, testing, metrics, reporting, versioning, and releases;
 2.	Develop uniform APIs to improve the development, testing, and server updates of the software;
 3.	Refactor of the current software to modularize and improve its performance, 
