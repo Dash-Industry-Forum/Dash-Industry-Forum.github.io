@@ -102,6 +102,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/jscsp/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</loc>
     <priority>0</priority>
   </url>
