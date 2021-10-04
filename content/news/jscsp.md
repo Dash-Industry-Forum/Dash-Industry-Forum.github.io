@@ -17,7 +17,7 @@ and therefore, invite the interested parties to bid on this project.
 
 ### Official Document
 
-The offical document can be downloaded here: [Invitation to Bid: Joint Streaming Conformance Software Project](https://dash-industry-forum.github.io/docs/Joint-Conformance-Software-InvitationtoBid-V1.pdf) 
+The offical document can be downloaded here: [Invitation to Bid: Joint Streaming Conformance Software Project](https://dash-industry-forum.github.io/docs/Joint-Conformance-Software-InvitationtoBid-V1.01.pdf) 
 
 ### Bidding Process
 1.	The bidder shall provide the detailed pricing and the duration for each task as well as all additional information through email to DASH-IF Administration admin@dashif.org, by 23.59 PDT on October 31, 2021. Any bid received after this deadline will not be considered.
