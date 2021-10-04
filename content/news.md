@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+Oct 04, 2021 -- In continuation of this conformance software development, DASH-IF, DVB, CTA WAVE, HbbTV, Apple HLS, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software. <a href="https://dashif.org/news/jscsp/">An joint offical bid for responses has been issued.</a>.
+
 Sept 28, 2021 -- The 2021 DASH Techncial Leadership award has been <a href="https://dashif.org/news/jeff-tapper-award/">presented to Jeff Tapper</a> for his early support and commitment to the establishment of the dash.js open source media player project. His efforts have been instrumental in the advancement of MPEG DASH as a leading streaming format.
 
 June 25, 2021 -- DASH-IF is is very pleased to announce that <a href="https://dashif.org/news/dashjs400/">version 4.0.0 of dash.js</a> has officially been released. As this is a major release, 4.0.0 includes a lot of new features and changes.
