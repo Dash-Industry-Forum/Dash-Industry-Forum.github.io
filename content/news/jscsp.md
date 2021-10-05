@@ -32,5 +32,5 @@ The offical document can be downloaded here: [Invitation to Bid: Joint Streaming
    - The CPRC may decide to implement the project in multiple phases.
    - The CPRC may decide not to award the project if reasonable bids are not received.
    - The bids are not shared with anyone outside of the CPRC or any other bidders.
-1.	The winner(s) is(are) expected to be contacted by December 15, 2021 to sign the contract(s). 
-1.	Any questions regarding the bid should be sent to DASH-IF Administration admin@dashif.org.
+5.	The winner(s) is(are) expected to be contacted by December 15, 2021 to sign the contract(s). 
+6.	Any questions regarding the bid should be sent to DASH-IF Administration admin@dashif.org.
