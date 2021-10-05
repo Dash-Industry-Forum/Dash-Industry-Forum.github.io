@@ -27,10 +27,10 @@ The offical document can be downloaded here: [Invitation to Bid: Joint Streaming
 1.	The bidder may use the suggested Annex 1 proposal structure.
 1.	The bid shall include the contact person’s email and phone number.
 1.	The Conformance Partners’ reviewing committee (CPRC) will review all the bids and decide on the project winner(s) considering the received price as well as the credentials and background of the bidders and the proposed teams for this project.
-  a.	The CPRC may choose more than one winner and breakdown the project between them
-  a.	The CPRC may decide not to award all parts of the project.
-  a.	The CPRC may decide to implement the project in multiple phases.
-  a.	The CPRC may decide not to award the project if reasonable bids are not received.
-  a.	The bids are not shared with anyone outside of the CPRC or any other bidders.
+  -	The CPRC may choose more than one winner and breakdown the project between them
+  - The CPRC may decide not to award all parts of the project.
+  - The CPRC may decide to implement the project in multiple phases.
+  - The CPRC may decide not to award the project if reasonable bids are not received.
+  - The bids are not shared with anyone outside of the CPRC or any other bidders.
 1.	The winner(s) is(are) expected to be contacted by December 15, 2021 to sign the contract(s). 
 1.	Any questions regarding the bid should be sent to DASH-IF Administration admin@dashif.org.
