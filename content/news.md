@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-Oct 04, 2021 -- In continuation of the <a href="https://conformance.dashif.org">joint DASH-IF conformance software</a> development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software. <a href="https://dashif.org/news/jscsp/">An joint official bid for responses has been issued</a>.
+Oct 04, 2021 -- In continuation of the <a href="https://conformance.dashif.org">joint DASH-IF conformance software</a> development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are awarding a contract to improve the current conformance software. <a href="https://dashif.org/news/jscsp/">An joint official bid for responses has been issued</a>.
 
 Sept 28, 2021 -- The 2021 DASH Techncial Leadership award has been <a href="https://dashif.org/news/jeff-tapper-award/">presented to Jeff Tapper</a> for his early support and commitment to the establishment of the dash.js open source media player project. His efforts have been instrumental in the advancement of MPEG DASH as a leading streaming format.
 
