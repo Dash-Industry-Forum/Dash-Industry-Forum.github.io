@@ -16,3 +16,9 @@ title = "DASH Industry Forum"
     name = "identifiers"
     title= "Identifiers"
     weight= 5
+  
+  [[menu.main]]
+    identifier = "codecs"
+    name = "codecs"
+    title= "Codecs
+    weight= 6
