@@ -1,11 +1,10 @@
 ---
 menu:
   main:
-    parent: "Guidelines"
-    weight: 3
+    parent: "guidelines"
 title: "IOP version 5 (under development)"
-weight: 3
 ---
+
 
 This page is under development.
 
