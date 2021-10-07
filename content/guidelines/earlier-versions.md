@@ -1,11 +1,10 @@
 ---
 menu:
   main:
-    parent: "Guidelines"
-    weight: 3
+    parent: "guidelines"
 title: "Earlier Versions"
-weight: 3
 ---
+
 
 # Introduction
 
