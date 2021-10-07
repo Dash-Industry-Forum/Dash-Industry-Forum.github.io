@@ -5,6 +5,12 @@ title = "DASH Industry Forum"
 [menu]
 
   [[menu.main]]
+    identifier = "guidelines"
+    name = "guidelines"
+    title= "Guidelines"
+    weight= 3
+
+  [[menu.main]]
     identifier = "test assets"
     name = "test assets"
     url = "https://testassets.dashif.org/"
