@@ -1,3 +1,12 @@
+---
+menu:
+  main:
+    parent: "tools"
+title: "Conformance Validator"
+weight: 2
+---
+
+
 Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
 
 * The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …)
