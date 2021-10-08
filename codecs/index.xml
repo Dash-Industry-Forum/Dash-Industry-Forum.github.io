@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Registration Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
+      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
+    </item>
+    
+    <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18,15 +27,6 @@
       <guid>https://dash-industry-forum.github.io/codecs/introduction/</guid>
       <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles:
  hosting the online catalog on its website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.  It is believed that maintaining such a proper online catalog helps the industry to increase the interoperability between various industry and consortia specifications, which are utilizing the MPEG-DASH and CMAF standard.</description>
-    </item>
-    
-    <item>
-      <title>Registration Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
-      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
     </item>
     
     <item>
