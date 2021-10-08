@@ -2,7 +2,7 @@
 menu:
   main:
     parent: "tools"
-title: "Validators"
+title: "Other Validators"
 weight: 5
 ---
 
