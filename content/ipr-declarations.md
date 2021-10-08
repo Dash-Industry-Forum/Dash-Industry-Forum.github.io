@@ -3,7 +3,7 @@ menu:
   main:
     parent: "guidelines"
 title: "IPR Declarations"
-weight: 1
+weight: 3
 ---
 
 # License declarations
