@@ -15,7 +15,7 @@ title = "DASH Industry Forum"
     identifier = "test assets"
     name = "test assets"
     url = "https://testassets.dashif.org/"
-    title = "Test Assets"
+    title = "Reference Tools"
     weight = 4
   
   [[menu.main]]
