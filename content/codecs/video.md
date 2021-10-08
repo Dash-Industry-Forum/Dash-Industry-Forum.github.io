@@ -2,7 +2,8 @@
 menu:
   main:
     parent: "codecs"
-title: "Video Codecs"
+title: "Video"
+weight: 3
 ---
 
 # Introduction
