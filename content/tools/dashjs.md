@@ -3,7 +3,7 @@ menu:
   main:
     parent: "tools"
 title: "dash.js Reference Client"
-weight: -1
+weight: 1
 ---
 
 # Reference client
