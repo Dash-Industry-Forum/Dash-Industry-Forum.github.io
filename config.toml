@@ -7,24 +7,24 @@ title = "DASH Industry Forum"
   [[menu.main]]
     identifier = "guidelines"
     name = "guidelines"
-    title= "Guidelines"
-    weight= 3
+    title = "Guidelines"
+    weight = 3
 
   [[menu.main]]
     identifier = "test assets"
     name = "test assets"
     url = "https://testassets.dashif.org/"
-    title= "Test Assets"
-    weight= 4
+    title = "Test Assets"
+    weight = 4
   
   [[menu.main]]
     identifier = "identifiers"
     name = "identifiers"
-    title= "Identifiers"
-    weight= 5
+    title = "Identifiers"
+    weight = 5
   
   [[menu.main]]
     identifier = "codecs"
     name = "codecs"
-    title= "Codecs
-    weight= 6
+    title = "Codecs
+    weight = 6
