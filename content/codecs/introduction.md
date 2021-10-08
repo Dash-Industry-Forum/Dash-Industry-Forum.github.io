@@ -2,8 +2,8 @@
 menu:
   main:
     parent: "codecs"
-title: "Introduction Codecs"
-weight: 3
+title: "Introduction"
+weight: 1
 ---
 
 # Introduction
