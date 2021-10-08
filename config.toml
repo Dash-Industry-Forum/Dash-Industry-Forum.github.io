@@ -7,6 +7,7 @@ title = "DASH Industry Forum"
   [[menu.main]]
     identifier = "guidelines"
     name = "guidelines"
+    url = "guidelines/earlier-versions"
     title = "Guidelines"
     weight = 3
 
@@ -20,11 +21,13 @@ title = "DASH Industry Forum"
   [[menu.main]]
     identifier = "identifiers"
     name = "identifiers"
+    url = "identifiers/Introduction"
     title = "Identifiers"
     weight = 5
   
   [[menu.main]]
     identifier = "codecs"
     name = "codecs"
+    url = "codecs/Introduction"
     title = "Codecs"
     weight = 6
