@@ -19,5 +19,15 @@
       <description>Introduction The DASH-IF provides test and reference tools.</description>
     </item>
     
+    <item>
+      <title>Conformance Validator</title>
+      <link>https://dash-industry-forum.github.io/tools/conformance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/conformance/</guid>
+      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
+ The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -57,6 +57,16 @@
     </item>
     
     <item>
+      <title>Conformance Validator</title>
+      <link>https://dash-industry-forum.github.io/tools/conformance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/conformance/</guid>
+      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
+ The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
+    </item>
+    
+    <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,16 +176,6 @@ This award offers a financial prize for those papers which best meet the followi
       <description>Host organization: DASH-IF (https://dashif.org/)
 Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
 DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dash-industry-forum.github.io/conformance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/conformance/</guid>
-      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
- The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
     </item>
     
     <item>
