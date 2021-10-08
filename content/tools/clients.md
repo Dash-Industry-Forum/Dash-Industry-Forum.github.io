@@ -1,7 +1,9 @@
 ---
-menu: "main"
+menu:
+  main:
+    parent: "tools"
 title: "Commercial Clients"
-weight: 9
+weight: 6
 ---
 A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: [Aricent](#aricent-tag), [AvidBeam](#avidbeam-tag), [bitdash](#bitdash-tag), [BuyDRM](#buydrm-tag), [castlabs](#castlabs-tag), [Digital Primates](#dp-tag), [InterDigital](#inter-tag), [NexStreaming](#nex-tag), [Qualcomm](#qualcomm-tag), [RealNetworks](#helix-tag), [StreamOne](#streamone-tag), [Viaccess-Orca](#viaccess-tag) and [VisualOn](#visualon-tag). Opens-source client implementations, including dash.js, can be located in the Software tab above.
 
