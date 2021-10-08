@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Registration Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
-      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
-    </item>
-    
-    <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,7 +21,26 @@
     </item>
     
     <item>
-      <title>Audio Codecs</title>
+      <title>Registration Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
+      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://dash-industry-forum.github.io/codecs/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
+      <description> Introduction tbd
+Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test test test test    </description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
       <link>https://dash-industry-forum.github.io/codecs/audio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -46,17 +56,7 @@ Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test audi
       
       <guid>https://dash-industry-forum.github.io/codecs/subtitles/</guid>
       <description> Introduction tbd
-Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     subtitles test test test    </description>
-    </item>
-    
-    <item>
-      <title>Video Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
-      <description> Introduction tbd
-Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test test test test    </description>
+Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test audio test test test    </description>
     </item>
     
   </channel>

@@ -15,11 +15,15 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
+    <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/codecs/registration/</loc>
+    <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
   </url>
   
   <url>
@@ -31,11 +35,27 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
+    <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/codecs/registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/ipr-declarations/</loc>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/tools/testassets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/codecs/video/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/codecs/audio/</loc>
   </url>
   
   <url>
@@ -47,15 +67,19 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/codecs/subtitles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/tools/clients/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/academic/</loc>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/members/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/clients/</loc>
   </url>
   
   <url>
@@ -78,11 +102,6 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/ipr-declarations/</loc>
     <priority>0</priority>
   </url>
   
@@ -166,10 +185,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/codecs/audio/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</loc>
   </url>
   
@@ -194,10 +209,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/identifiers/event_schemes/</loc>
   </url>
   
@@ -215,10 +226,6 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
   </url>
   
   <url>
@@ -250,19 +257,11 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/codecs/subtitles/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/tags/</loc>
   </url>
   
   <url>
     <loc>https://dash-industry-forum.github.io/tools/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/codecs/video/</loc>
   </url>
   
   <url>

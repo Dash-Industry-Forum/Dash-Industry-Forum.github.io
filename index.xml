@@ -41,21 +41,32 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
+      <title>Earlier Versions</title>
+      <link>https://dash-industry-forum.github.io/guidelines/earlier-versions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/guidelines/earlier-versions/</guid>
+      <description>Introduction DASH-IF publishes primarily three types of documents:
+ Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+    </item>
+    
+    <item>
+      <title>Introduction Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/introduction/</guid>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles:
+ hosting the online catalog on its website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.  It is believed that maintaining such a proper online catalog helps the industry to increase the interoperability between various industry and consortia specifications, which are utilizing the MPEG-DASH and CMAF standard.</description>
+    </item>
+    
+    <item>
       <title>Registration</title>
       <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
       <description>New identifiers can be registered at this link.</description>
-    </item>
-    
-    <item>
-      <title>Registration Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
-      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
     </item>
     
     <item>
@@ -78,13 +89,32 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
-      <title>Introduction Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
+      <title>IOP version 5 (under development)</title>
+      <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dash-industry-forum.github.io/codecs/introduction/</guid>
-      <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles:
- hosting the online catalog on its website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.  It is believed that maintaining such a proper online catalog helps the industry to increase the interoperability between various industry and consortia specifications, which are utilizing the MPEG-DASH and CMAF standard.</description>
+      <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
+      <description>This page is under development.
+Introduction DASH-IF publishes primarily three types of documents:
+ Published Specifications and Guidelines: The documents are stable and have undergone a community and IPR review. Community Review Documents: These documents are technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF website in order to get feedback from the industry on tools and features that are documented for improved interoperability.</description>
+    </item>
+    
+    <item>
+      <title>Registration Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
+      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
+    </item>
+    
+    <item>
+      <title>IPR Declarations</title>
+      <link>https://dash-industry-forum.github.io/ipr-declarations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/ipr-declarations/</guid>
+      <description>License declarations The DASH Industry Forum adheres to the terms of the Common Patent Policy for ITU-T/ ITU-R/ISOII EC and the Guidelines for Implementing the Common Patent Policy for ITU-TIITU-RIISO/IEC. Under these terms, all DASH IF work products are subject to a review phase before release. During this review period, member companies must declare if they hold any intellectual property that reads against the work item and the terms under which they will license this intellectual property.</description>
     </item>
     
     <item>
@@ -97,6 +127,26 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
+      <title>Video</title>
+      <link>https://dash-industry-forum.github.io/codecs/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
+      <description> Introduction tbd
+Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test test test test    </description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>https://dash-industry-forum.github.io/codecs/audio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
+      <description> Introduction tbd
+Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test audio test test test    </description>
+    </item>
+    
+    <item>
       <title>Sample Software</title>
       <link>https://dash-industry-forum.github.io/tools/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,13 +156,33 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
-      <title>Validators</title>
+      <title>Other Validators</title>
       <link>https://dash-industry-forum.github.io/tools/validators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/tools/validators/</guid>
       <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
  The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  MANIFEST Validators  ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files.</description>
+    </item>
+    
+    <item>
+      <title>Subtitles</title>
+      <link>https://dash-industry-forum.github.io/codecs/subtitles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/codecs/subtitles/</guid>
+      <description> Introduction tbd
+Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test audio test test test    </description>
+    </item>
+    
+    <item>
+      <title>Commercial Clients</title>
+      <link>https://dash-industry-forum.github.io/tools/clients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/clients/</guid>
+      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
+ Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
     </item>
     
     <item>
@@ -133,16 +203,6 @@ The framework source code is downloadable from our Github repository at https://
       <guid>https://dash-industry-forum.github.io/members/</guid>
       <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
 Charter Members            Contributor Members                                Associate Members                    </description>
-    </item>
-    
-    <item>
-      <title>Clients</title>
-      <link>https://dash-industry-forum.github.io/clients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/clients/</guid>
-      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
- Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
     </item>
     
     <item>
@@ -204,15 +264,6 @@ This award offers a financial prize for those papers which best meet the followi
       <description>Host organization: DASH-IF (https://dashif.org/)
 Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
 DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dash-industry-forum.github.io/ipr-declarations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/ipr-declarations/</guid>
-      <description>License declarations The DASH Industry Forum adheres to the terms of the Common Patent Policy for ITU-T/ ITU-R/ISOII EC and the Guidelines for Implementing the Common Patent Policy for ITU-TIITU-RIISO/IEC. Under these terms, all DASH IF work products are subject to a review phase before release. During this review period, member companies must declare if they hold any intellectual property that reads against the work item and the terms under which they will license this intellectual property.</description>
     </item>
     
     <item>
@@ -374,16 +425,6 @@ MISSION AND GOAL Along with its 21st face to face meeting on December 10-12 in P
     </item>
     
     <item>
-      <title>Audio Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/audio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
-      <description> Introduction tbd
-Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test audio test test test    </description>
-    </item>
-    
-    <item>
       <title>Audio Source Metadata</title>
       <link>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -426,16 +467,6 @@ Content Rating Schemes The following defines a set of URIs that identify MPD eve
     </item>
     
     <item>
-      <title>Earlier Versions</title>
-      <link>https://dash-industry-forum.github.io/guidelines/earlier-versions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/guidelines/earlier-versions/</guid>
-      <description>Introduction DASH-IF publishes primarily three types of documents:
- Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
-    </item>
-    
-    <item>
       <title>Event Schemes</title>
       <link>https://dash-industry-forum.github.io/identifiers/event_schemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -452,17 +483,6 @@ Two ways of signalling events are provided, namely</description>
       
       <guid>https://dash-industry-forum.github.io/identifiers/functionality/</guid>
       <description>Functionality    Identifier Reference Section Comment     https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2 clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout.   https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2 clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
-    </item>
-    
-    <item>
-      <title>IOP version 5 (under development)</title>
-      <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
-      <description>This page is under development.
-Introduction DASH-IF publishes primarily three types of documents:
- Published Specifications and Guidelines: The documents are stable and have undergone a community and IPR review. Community Review Documents: These documents are technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF website in order to get feedback from the industry on tools and features that are documented for improved interoperability.</description>
     </item>
     
     <item>
@@ -527,26 +547,6 @@ SAND    Identifier Reference Section Comment     http://dashif.org/guidelines/sa
       <guid>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</guid>
       <description>Introduction Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.
 Identifiers Signalling for the closed caption services is provided by including Accessibility descriptors. The Accessibility descriptor is included for the AdaptationSet and all included Representations shall provide equivalent captions. The @value attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</description>
-    </item>
-    
-    <item>
-      <title>Subtitles</title>
-      <link>https://dash-industry-forum.github.io/codecs/subtitles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/subtitles/</guid>
-      <description> Introduction tbd
-Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     subtitles test test test    </description>
-    </item>
-    
-    <item>
-      <title>Video Codecs</title>
-      <link>https://dash-industry-forum.github.io/codecs/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
-      <description> Introduction tbd
-Codecs    Codec Name Reference Codecs Parameter Profiles Parameter     test test test test    </description>
     </item>
     
     <item>
