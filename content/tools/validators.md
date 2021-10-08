@@ -1,3 +1,11 @@
+---
+menu:
+  main:
+    parent: "tools"
+title: "Validators"
+weight: 5
+---
+
 # Validators
 
 ## DASH-IF Validator
