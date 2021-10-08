@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>dash.js Reference Client</title>
+      <link>https://dash-industry-forum.github.io/tools/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/software/</guid>
+      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
+The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
+    </item>
+    
+    <item>
       <title>Introduction Reference Tools</title>
       <link>https://dash-industry-forum.github.io/tools/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

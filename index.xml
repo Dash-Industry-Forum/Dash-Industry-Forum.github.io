@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>dash.js Reference Client</title>
+      <link>https://dash-industry-forum.github.io/tools/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/software/</guid>
+      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
+The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -95,17 +105,6 @@ Charter Members            Contributor Members                                As
       <guid>https://dash-industry-forum.github.io/academic/</guid>
       <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
  identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://dash-industry-forum.github.io/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/software/</guid>
-      <description>A number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.
-Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
-The framework source code is downloadable from our Github repository at https://github.</description>
     </item>
     
     <item>

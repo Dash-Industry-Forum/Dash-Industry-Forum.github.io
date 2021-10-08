@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dash-industry-forum.github.io/tools/software/</loc>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/identifiers/introduction/</loc>
   </url>
   
@@ -36,10 +40,6 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/academic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/software/</loc>
   </url>
   
   <url>
