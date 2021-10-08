@@ -2,7 +2,7 @@
 menu:
   main:
     parent: "codecs"
-title: "Registration"
+title: "Registration Codecs"
 weight: 1
 ---
 
