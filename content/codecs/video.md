@@ -12,4 +12,4 @@ tbd
 
 # Codecs
 
-{{< csvTable "csv/video.csv" >}}
+{{< csvCodecs "csv/video.csv" >}}
