@@ -41,6 +41,15 @@ In addition, a number of reference and demonstration MPEG DASH players, player l
     </item>
     
     <item>
+      <title>Test Assets</title>
+      <link>https://dash-industry-forum.github.io/tools/testassets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/testassets/</guid>
+      <description>Find the test vectors corresponding to the latest DASH-IF guidelines: SD, HD, multichannel audio, HEVC, timed text, multiple periods, encryption… at https://testassets.dashif.org/.</description>
+    </item>
+    
+    <item>
       <title>Sample Software</title>
       <link>https://dash-industry-forum.github.io/tools/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
