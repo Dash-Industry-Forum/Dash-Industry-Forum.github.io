@@ -150,6 +150,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/tools/validators/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/academic/</loc>
   </url>
   

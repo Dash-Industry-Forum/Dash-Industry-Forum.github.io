@@ -40,5 +40,15 @@ In addition, a number of reference and demonstration MPEG DASH players, player l
  The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/tools/validators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/tools/validators/</guid>
+      <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
+ The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  MANIFEST Validators  ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files.</description>
+    </item>
+    
   </channel>
 </rss>
