@@ -116,16 +116,6 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
-      <title>Members</title>
-      <link>https://dash-industry-forum.github.io/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/members/</guid>
-      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
-Charter Members            Contributor Members                                Associate Members                    </description>
-    </item>
-    
-    <item>
       <title>Academic</title>
       <link>https://dash-industry-forum.github.io/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,6 +123,16 @@ Charter Members            Contributor Members                                As
       <guid>https://dash-industry-forum.github.io/academic/</guid>
       <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
  identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://dash-industry-forum.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/members/</guid>
+      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
+Charter Members            Contributor Members                                Associate Members                    </description>
     </item>
     
     <item>
