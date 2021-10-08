@@ -2,13 +2,13 @@
 menu:
   main:
     parent: "codecs"
-title: "Audio Codecs"
+title: "Audio"
+weight: 4
 ---
 
 # Introduction
 
 tbd
-
 
 # Codecs
 
