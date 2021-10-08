@@ -1,4 +1,10 @@
-
+---
+menu:
+  main:
+    parent: "guidelines"
+title: "IPR Declarations"
+weight: 1
+---
 
 # License declarations
 
