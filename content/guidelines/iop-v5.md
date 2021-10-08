@@ -3,6 +3,7 @@ menu:
   main:
     parent: "guidelines"
 title: "IOP version 5 (under development)"
+weight: 2
 ---
 
 
