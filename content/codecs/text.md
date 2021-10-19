@@ -2,7 +2,7 @@
 menu:
   main:
     parent: "codecs"
-title: "Subtitles"
+title: "Text"
 weight: 5
 ---
 
@@ -12,4 +12,4 @@ tbd
 
 # Codecs
 
-{{< csvCodecs "csv/audio.csv" >}}
+{{< csvCodecs "csv/text.csv" >}}
