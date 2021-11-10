@@ -3,7 +3,7 @@
 }
 
 .nav-menu {
-  font: 12px 'Raleway', sans-serif;
+  font: 16px 'Raleway', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   color: #454545 !important;
@@ -12,7 +12,7 @@
 }
 
 .nav-sub-menu {
-  font: 11px 'Raleway', sans-serif;
+  font: 14px 'Raleway', sans-serif;
   text-transform: none;
 }
 
