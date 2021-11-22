@@ -37,7 +37,7 @@ This cataloging includes:
       
       <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
       <description> Introduction tbd
-Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Terms Contact     test test test test test test    </description>
+Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Contact     test test test test test    </description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Terms Con
       
       <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
       <description> Introduction tbd
-Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Terms Contact     test audio test test test test test    </description>
+Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Contact     test audio test test test test    </description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Terms Con
       
       <guid>https://dash-industry-forum.github.io/codecs/text/</guid>
       <description> Introduction tbd
-Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Terms Contact     text test test test test test    </description>
+Codecs    Codec Name Specification Codecs Parameter Profiles Parameter Contact     text test test test test    </description>
     </item>
     
   </channel>
