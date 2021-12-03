@@ -94,7 +94,7 @@ _under development_
 Part 5 of DASH-IF IOP v5 provides guidelines for advertisement insertion in a MPEG CMAF based content serving workflow utilizing MPEG DASH as the delivery protocol. This part details the general architecture of an ad enabled content serving workflow along with the conditioning, packaging, and signalling requirements to enable both SSAI and SGAI insertion forms. This part defines guidelines for the creation, storage, and serving of ad content. In addition, this part provides informative references and recommendations for auxiliary content and ad systems involved in the ad insertion architecture.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part5-v5.0.0: Ad Insertion](https://dash-industry-forum.github.io/docs/DASH-IF-IOP-Part5-v5.0.0.pdf) (published Nov 29,2021) | ([Bugtracker](https://github.com/Dash-Industry-Forum/AdInsertion/issues))
+* [DASH-IF-IOP-Part5-v5.0.0: Ad Insertion](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part5-v5.0.0.pdf) (published Nov 29,2021) | ([Bugtracker](https://github.com/Dash-Industry-Forum/AdInsertion/issues))
 
 ## Documents under Community review
 _none_
