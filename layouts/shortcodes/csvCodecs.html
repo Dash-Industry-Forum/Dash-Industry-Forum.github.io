@@ -15,11 +15,11 @@
   <tbody>
     {{ range $i, $r := getCSV $sep $url }}
     <tr>
-      <td><code>{{ index $r 0 }}</code></td>
-      <td><a href="{{ index $r 2 }}">{{ index $r 1 }}</a></td>
-      <td>{{ index $r 3 }}</td>
+      <td>{{ index $r 0 }}</td>
+      <td>{{ index $r 1 }}</td>
+      <td><code>{{ index $r 2 }}</code></td>
+      <td><code>{{ index $r 3 }}</code></td>
       <td>{{ index $r 4 }}</td>
-      <td>{{ index $r 5 }}</td>
     </tr>
     {{ end }}
   </tbody>
