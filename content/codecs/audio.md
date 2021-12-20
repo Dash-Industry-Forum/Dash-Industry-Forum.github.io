@@ -8,8 +8,8 @@ weight: 4
 
 # Introduction
 
-tbd
+This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the [general introduction](https://dashif.org/codecs/introduction/).  
 
-# Codecs
+# Media Profiles for Audio Codecs
 
 {{< csvCodecs "csv/audio.csv" >}}
