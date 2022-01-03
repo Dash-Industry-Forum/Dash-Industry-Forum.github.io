@@ -144,7 +144,7 @@ CMAF Media Profiles for Video    Codec Name Specification Appropriate Codecs Par
       
       <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
       <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.
-Media Profiles for Audio Codecs    Codec Name Specification Appropriate Codecs Parameter Profiles Parameter More Information     MPEG-4 AAC Profile ISO/IEC 23000-19 clause 10.3 mp4a.40.2 caac https://www.via-corp.com/licensing/aac/   MPEG-4 HE-AAC Profile ISO/IEC 23000-19 clause 10.3 mp4a.40.5 caac https://www.</description>
+Media Profiles for Audio Codecs    Codec Name Specification Appropriate Codecs Parameter Profiles Parameter More Information     MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 caac https://www.via-corp.com/licensing/aac/   MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.5 caac https://www.</description>
     </item>
     
     <item>
