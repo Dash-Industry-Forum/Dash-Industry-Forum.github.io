@@ -120,7 +120,8 @@ Up to v4.3 any topics now covered in part 5 were included in the main IOP Guidel
 Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in MPEG CMAF format protected by MPEG CENC. As MPEG DASH is used as the delivery protocol, this part makes the links between signaling that is within content and within the MPD. In addition, to this, this part describes mechanisms for supporting key rotation. It defines the Enhanced Clear Key Content Protection (ECCP), a content protection mechanism for DASH content which provides greater protection than TLS delivery, token authentication or Clear Key used individually. It also defines the DASH-IF XML schema with elements related to content protection.
 
 ## Latest Published Specification
-* [Prepublished v5 DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
+* [DASH-IF-IOP-Part5-v5.0.0: Content protection and security](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf)
+(published Jan 04,2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ## Documents under Community review
 * none
