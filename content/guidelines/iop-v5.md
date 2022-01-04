@@ -20,6 +20,7 @@ DASH-IF publishes primarily three types of documents:
 With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale.
 
 # Part 1: Overview, architecture and interfaces
+Part 1 provides an overview of the different features in DASH-IF Interoperability Guidelines. In particular, it provides a reference architecture together with relevant interfaces and functional blocks. 
 
 ## Summary
 _under development_
@@ -32,15 +33,15 @@ _under development_
 
 ## Editors
 * [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
-* Mike Dolan (Pearl TV)
+* [Mike Dolan (Pearl TV)](https://www.linkedin.com/in/michael-dolan-50872355/)
 
 ## History
-_under development_
+* none
 
 # Part 2: Core principles and CMAF mapping
 
 ## Summary
-_under development_
+Part 2 provides the core principles of DASH including the data and timing model, as well as the mapping of CMAF data structures to DASH Media Presentations. 
 
 ## Latest Published Specification
 _under development_
@@ -57,7 +58,7 @@ _under development_
 # Part 3: On-demand services
 
 ## Summary
-_under development_
+Part 3 provides relevant requirements and recommendations when using DASH for On-Demand services. 
 
 ## Latest Published Specification
 _under development_
@@ -74,7 +75,7 @@ _under development_
 # Part 4: Live and low-latency services
 
 ## Summary
-_under development_
+Part 4 provides details on live service offerings, including low-latency services. 
 
 ## Latest Published Specification
 * [Prepublished v5 on Low-Latency Modes for DASH](https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Live/issues))
@@ -114,9 +115,7 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 * [Prepublished v5 DASH-IF implementation guidelines: content protection and security](https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ## Documents under Community review
-* A community review version for part 6 is provided here: [DASH-IF Interoperability Points; Part 6: Content Protection](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOPv5.0-Part6-REVIEW-20210805.pdf) (public pdf). A members only word version is available [here](https://members.dashif.org/wg/Interoperability/document/4613).
-* Community review is open until October 2nd, 2021. Publication is expected by December 31, 2021.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/IOPv5/issues/new?projects=Dash-Industry-Forum%2FIOPv5%2F7)
+* none
 
 ## Editors
 * [Laurent Piron (Nagra)](https://www.linkedin.com/in/laurentpiron/)
@@ -127,7 +126,7 @@ Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidel
 # Part 7: Video
 
 ## Summary
-_under development_
+Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks.
 
 ## Latest Published Specification
 _under development_
@@ -157,12 +156,12 @@ Part 8 of DASH-IOP v5 describes the audio interoperability points for the DASH-I
 * [Richard Doherty (Dolby)](https://www.linkedin.com/in/dohertyrichard/)
 
 ## History
-_under development_
+DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are not constrained to CMAF.
 
 # Part 9: Text
 
 ## Summary
-_under development_
+The present document defines the CMAF Media Profiles and the DASH signalling for text tracks, including subtitles and captions as well as open captions and subtitles in video tracks. This work was derived from IOP v4.3 but does not contain non-CMAF profiles. The use of “sidecar” files is not covered in the present document.
 
 ## Latest Published Specification
 _under development_
@@ -171,15 +170,15 @@ _under development_
 _under development_
 
 ## Editors
-* Mike Dolan (Pearl TV)
+* [Mike Dolan (Pearl TV)](https://www.linkedin.com/in/michael-dolan-50872355/)
 
 ## History
-_under development_
+DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are not constrained to CMAF.
 
 # Part 10: Events
 
 ## Summary
-_under development_
+Part 10 includes requirements and guidelines for Event stream offerings and processing.
 
 ## Latest Published Specification
 _under development_
@@ -189,7 +188,6 @@ _under development_
 
 ## Editors
 * [Iraj Sodagar (Tencent)](https://www.linkedin.com/in/iraj-sodagar/)
-* Mike Dolan (Pearl TV)
 
 ## History
 _under development_
@@ -197,7 +195,10 @@ _under development_
 # Part 11: Additional Technologies
 
 ## Summary
-_under development_
+Part 11 includes additional functionalities relevant for interoperability, among others:
+* Thumbnail tracks
+* Query and Token Mechanisms
+* Metadata Tracks
 
 ## Latest Published Specification
 _under development_
@@ -207,6 +208,7 @@ _under development_
 
 ## Editors
 * [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
+* [Nicolas Weil (AWS Elemental)](https://www.linkedin.com/in/nicolasweil/)
 
 ## History
 _under development_
@@ -214,7 +216,7 @@ _under development_
 # Part 12: Conformance and Reference Tools
 
 ## Summary
-_under development_
+Part 12 provides an overview of DASH-IF Reference and Conformance Tools. In particular the conformance software to verify service offerings, the dash.js reference client and the DASH-IF test assets are introduced.
 
 ## Latest Published Specification
 _under development_
