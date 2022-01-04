@@ -121,7 +121,7 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 
 ## Latest Published Specification
 * [DASH-IF-IOP-Part5-v5.0.0: Content protection and security](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf)
-(published Jan 04,2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
+(published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ## Documents under Community review
 * none
