@@ -173,10 +173,10 @@ DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are n
 The present document defines the CMAF Media Profiles and the DASH signalling for text tracks, including subtitles and captions as well as open captions and subtitles in video tracks. This work was derived from IOP v4.3 but does not contain non-CMAF profiles. The use of “sidecar” files is not covered in the present document. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/text/.
 
 ## Latest Published Specification
-_under development_
+* [DASH-IF-IOP-Part8-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part9-v5.0.0.pdf) (published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
-_under development_
+* none
 
 ## Editors
 * [Mike Dolan (Pearl TV)](https://www.linkedin.com/in/michael-dolan-50872355/)
