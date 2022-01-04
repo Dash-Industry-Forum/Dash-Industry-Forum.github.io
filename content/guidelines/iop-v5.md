@@ -13,6 +13,7 @@ DASH-IF publishes primarily two different types of documents:
 * Community Review Documents: These documents are technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed.
 
 With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale. The multipart set of documents is collectively called “DASH-IF Interoperability Points, V5.0” (IOP V5). Version 5 of the DASH-IF IOP is defined for usage with the MPEG DASH specification (ISO/IEC 23009-1) and further constrained to deliver media formatted according to the MPEG CMAF Specification (ISO/IEC 23000-19).  The goal of the DASH-IF IOP specifications is facilitating a common interoperability of media and media services at key points of the delivery chain from the server to the client. The following is a list of the parts of IOP V5 at the time of publication of the present document:
+
 1.	[Overview, architecture and interfaces](https://dashif.org/guidelines/iop-v5#part-1-overview-architecture-and-interfaces)
 2.	[Core principles and CMAF mapping](https://dashif.org/guidelines/iop-v5#part-2-core-principles-and-cmaf-mapping)
 3.	[On-demand services](https://dashif.org/guidelines/iop-v5#part-3-on-demand-services)
@@ -27,6 +28,7 @@ With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introd
 12.	[Conformance and reference tools](https://dashif.org/guidelines/iop-v5#part-12-conformance-and-reference-tools)
 
 DASH-IF publishes different types of documents:
+
 * Published Specifications and Guidelines: The documents are stable and have undergone a community and IPR review.
 * Community Review Documents: These documents are technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications.
 
