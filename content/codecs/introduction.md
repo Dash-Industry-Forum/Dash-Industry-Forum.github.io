@@ -42,4 +42,4 @@ This catalogue is informative. The normative aspects of the codecs are included 
 
   * [Video Codecs](/codecs/video)
   * [Audio Codecs](/codecs/audio)
-  * [Subtitles](/codecs/subtitles)
+  * [Subtitles](/codecs/text)
