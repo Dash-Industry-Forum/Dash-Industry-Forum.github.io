@@ -5,19 +5,19 @@
 {{ $sep := "|" }}
   <thead>
     <tr>
-      <th>Codec Name</th>
+      <th>CMAF Profile Parameter</th>
+      <th>Media Profile Name</th>
       <th>Specification</th>
       <th>Appropriate Codecs Parameter</th>
-      <th>Profiles Parameter</th>
       <th>More Information</th>
     </tr>
   </thead>
   <tbody>
     {{ range $i, $r := getCSV $sep $url }}
     <tr>
+      <td><code>{{ index $r 2 }}</code></td>
       <td>{{ index $r 0 }}</td>
       <td>{{ index $r 1 }}</td>
-      <td><code>{{ index $r 2 }}</code></td>
       <td><code>{{ index $r 3 }}</code></td>
       <td><a href="{{ index $r 4 }}">{{ index $r 4 }}</a></td>
     </tr>
