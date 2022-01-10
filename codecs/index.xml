@@ -56,8 +56,8 @@ Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Spe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/codecs/text/</guid>
-      <description>Introduction This page provides a summary of the registered CMAF media profiles for subtitles and text. For details on the process, please refer to the general introduction.
-Media Profiles for Subtitles and Text    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr   im1i IMSC1 Image ISO/IEC 23000-19 Annex A.</description>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for text. For details on the process, please refer to the general introduction.
+Media Profiles for Text    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr   im1i IMSC1 Image ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1i https://www.w3.org/groups/wg/timed-text/ipr   im2t IMSC1.</description>
     </item>
     
   </channel>
