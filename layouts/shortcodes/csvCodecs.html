@@ -12,6 +12,32 @@
       <th>More Information</th>
     </tr>
   </thead>
+  
+  <?php
+  // The nested array to hold all the arrays
+  $the_big_array = []; 
+
+  // Open the file for reading
+  if (($h = fopen("{$url}", "r")) !== FALSE) 
+  {
+    // Each line in the file is converted into an individual array that we call $data
+    // The items of the array are comma separated
+    while (($data = fgetcsv($h, 1000, $sep)) !== FALSE) 
+    {
+      // Each individual array is being pushed into the nested array
+      $the_big_array[] = $data;		
+    }
+
+    // Close the file
+    fclose($h);
+  }
+
+  // Display the code in a readable format
+  echo "<pre>";
+  var_dump($the_big_array);
+  echo "</pre>";
+  >
+
   <tbody>
     {{ range $i, $r := getCSV $sep $url }}
     <tr>
