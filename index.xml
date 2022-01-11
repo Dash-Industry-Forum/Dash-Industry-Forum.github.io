@@ -132,7 +132,7 @@ This cataloging includes:
       
       <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
       <description>Introduction This page provides a summary of the registered CMAF media profiles for video codecs. For details on the process, please refer to the general introduction.
-CMAF Media Profiles for Video    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     cfsd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.64001F avc3.64001F    cfhd AVC High profile ISO/IEC 23000-19 clause A.</description>
+CMAF Media Profiles for Video    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information   &amp;lt;?php // The nested array to hold all the arrays $the_big_array = []; // Open the file for reading if (($h = fopen(&#34;</description>
     </item>
     
     <item>
@@ -142,7 +142,7 @@ CMAF Media Profiles for Video    CMAF Profile Parameter Media Profile Name Speci
       
       <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
       <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.
-Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     caac MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 https://www.via-corp.com/licensing/aac/   caac MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.</description>
+Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information   &amp;lt;?php // The nested array to hold all the arrays $the_big_array = []; // Open the file for reading if (($h = fopen(&#34;</description>
     </item>
     
     <item>
@@ -171,7 +171,7 @@ Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Spe
       
       <guid>https://dash-industry-forum.github.io/codecs/text/</guid>
       <description>Introduction This page provides a summary of the registered CMAF media profiles for text. For details on the process, please refer to the general introduction.
-Media Profiles for Text    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr   im1i IMSC1 Image ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1i https://www.w3.org/groups/wg/timed-text/ipr   im2t IMSC1.</description>
+Media Profiles for Text    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information   &amp;lt;?php // The nested array to hold all the arrays $the_big_array = []; // Open the file for reading if (($h = fopen(&#34;{$url}&#34;, &#34;</description>
     </item>
     
     <item>
