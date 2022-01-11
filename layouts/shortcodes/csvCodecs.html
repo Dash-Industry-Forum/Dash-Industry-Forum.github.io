@@ -1,8 +1,31 @@
+function readCSV($file, $sep, $firstline)
+{
+  $row      = 0;
+  $csvArray = array();
+  if( ( $handle = fopen($file, "r") ) !== FALSE ) {
+    while( ( $data = fgetcsv($handle, 0, $sep) ) !== FALSE ) {
+      $num = count($data);
+      for( $c = 0; $c < $num; $c++ ) {
+        $csvArray[$row][] = $data[$c];
+      }
+      $row++;
+    }
+  }
+  if( !empty( $csvArray ) ) {
+    return array_splice($csvArray, $firstline); //cut off the first row (names of the fields)
+  } else {
+    return false;
+  }
+}
+                             
 <table>
 {{ $prefix := "https://raw.githubusercontent.com/Dash-Industry-Forum/Codecs/master/" }}
 {{ $path := .Get 0 }}
 {{ $url := print $prefix "/" $path }}
 {{ $sep := "|" }}
+
+$csvData = readCSV($url, $sep, 0); 
+  
   <thead>
     <tr>
       <th>CMAF Profile Parameter</th>
