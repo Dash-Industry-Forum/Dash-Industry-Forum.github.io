@@ -25,6 +25,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 
 
 <div class="member">
+<a href="https://appear.net/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Appear%20logo_website.png" alt="" /></a>
 <a href="https://www.techatbloomberg.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Bloomberg_website.png" alt="" /></a>
 <a href="https://www.brightcove.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/brightcove_website.jpg" alt="" /></a> 
 <a href="http://www.broadpeak.tv/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dashif.org/img/Logotype_Broadpeak_rgb_website.png" alt="" /></a>
