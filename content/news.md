@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+Mar 01, 2022 -- DASH-IF [publishes](https://dashif.org/news/webrtc-report/) a [first report on combining DASH and webRTC-based streaming](https://dashif.org/webRTC/report) Along with the report, DASH-IF also launched a [survey on potential next steps](https://forms.gle/Yy89GGeMsXYQixBZ6) - please respond by April 15, 2022.
+
 Oct 12, 2021 -- DASH-IF is proud to announce the winners of the <a href="https://dashif.org/news/dash-js-award-2021/">2021 dash.js awards</a>. The award ceremony took place during ACM MMSys'21 in Istanbul, Turkey. The award ceremony took place during <a href="https://2021.acmmmsys.org/">ACM MMSys'21 in Istanbul, Turkey</a>. Winners were shown on the <a href="https://youtu.be/r-bkzkHAp4Q">livestream</a> and received virtual congratulations alongside their monetary prizes.
 
 Oct 04, 2021 -- In continuation of the <a href="https://conformance.dashif.org">joint DASH-IF conformance software</a> development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are awarding a contract to improve the current conformance software. <a href="https://dashif.org/news/jscsp/">An joint official bid for responses has been issued</a>.
