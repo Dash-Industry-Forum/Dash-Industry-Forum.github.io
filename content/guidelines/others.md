@@ -146,7 +146,7 @@ comments have been addressed.
 
 ## DASH-IF Interoperability Specification: Watermarking
 
-* A revision for community review for the Live Media Ingest specification is provided  [here (pdf)](https://dash-industry-forum.github.io/docs/DASH-IF-IOP_OTT-Watermarking.pdf)
+* A initial version for community review for the DASH-IF IOP Watermarking specification is available [here (pdf)](https://dash-industry-forum.github.io/docs/DASH-IF-IOP_OTT-Watermarking.pdf)
 * This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system. It defines:
   * a format for a token carrying a series of A/B decision unique for every device. This token is used at the edge for delivering the right variant.
   * Metadata and mechanisms for carrying this metadata from a transcoder to the edge. This is used for synchronizing the series on the same timeline for all devices.
