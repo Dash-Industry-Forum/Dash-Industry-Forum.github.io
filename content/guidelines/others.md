@@ -24,6 +24,7 @@ The documents below are stable and have undergone a community review. However, t
 ## DASH-IF Interoperability Guidelines
 
 For DASH-IF Interoperability Guidelines, refer to
+
 * [earlier versions](https://dashif.org/guidelines/earlier-versions/)
 * [DASH-IF IOP v5](https://dashif.org/guidelines/iop-v5/)
 
