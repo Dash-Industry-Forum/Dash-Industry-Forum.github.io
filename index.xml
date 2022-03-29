@@ -165,6 +165,15 @@ Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Spe
     </item>
     
     <item>
+      <title>Special Sessions</title>
+      <link>https://dash-industry-forum.github.io/events/special-sessions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/events/special-sessions/</guid>
+      <description>Introduction In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams.</description>
+    </item>
+    
+    <item>
       <title>Other Validators</title>
       <link>https://dash-industry-forum.github.io/tools/validators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -283,15 +292,6 @@ This award offers a financial prize for those papers which best meet the followi
       <description>Host organization: DASH-IF (https://dashif.org/)
 Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
 DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dash-industry-forum.github.io/events/special-sessions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/events/special-sessions/</guid>
-      <description>Introduction In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams.</description>
     </item>
     
     <item>
