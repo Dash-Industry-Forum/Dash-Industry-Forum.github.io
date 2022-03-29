@@ -231,6 +231,15 @@ Media Profiles for Text    CMAF Profile Parameter Media Profile Name Specificati
     </item>
     
     <item>
+      <title>Supported Conferences</title>
+      <link>https://dash-industry-forum.github.io/events/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/events/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>https://dash-industry-forum.github.io/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
