@@ -114,6 +114,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/events/special-sessions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/membership/</loc>
     <priority>0</priority>
   </url>
@@ -160,11 +165,6 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/news/low-latency-dash/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dash-industry-forum.github.io/news/special-sessions/</loc>
     <priority>0</priority>
   </url>
   
@@ -228,6 +228,10 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/event_schemes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/events/</loc>
   </url>
   
   <url>
