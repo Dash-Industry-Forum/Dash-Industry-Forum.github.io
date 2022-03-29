@@ -1,3 +1,12 @@
+---
+menu:
+  main:
+    parent: "events"
+title: "Special Sessions"
+weight: 4
+---
+
+
 # Introduction
 In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams. If you are interested to give a presentation as well, please contact us.
 
