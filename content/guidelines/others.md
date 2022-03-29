@@ -150,7 +150,7 @@ comments have been addressed.
 * This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system. It defines:
   * a format for a token carrying a series of A/B decision unique for every device. This token is used at the edge for delivering the right variant.
   * Metadata and mechanisms for carrying this metadata from a transcoder to the edge. This is used for synchronizing the series on the same timeline for all devices.
-* It supports any forensic watermarking technique, any encoder and any CDN. This is the result of the work in the Content Protection and Security task force in DASH-IF and has been done in collaboration between watermarking technology providers (NAGRA, Synamedia, Verimatrix), CDN providers (Akamai, AWS) and others. 
+* It supports any forensic watermarking technique, any encoder and any CDN. This is the result of the work in the Content Protection and Security task force in DASH-IF and has been done in collaboration between watermarking technology providers (NAGRA, Synamedia, Irdeto, Verimatrix), CDN providers (Akamai, AWS) and others. 
 * Community review is open until May 31st, 2022. Publication is expected by August 31, 2022.
 * Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Watermarking/issues).
 
