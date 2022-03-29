@@ -1,7 +1,7 @@
 ---
-menu: "main"
-title: "Events"
-weight: 11
+menu: "events"
+title: "Introduction"
+weight: 1
 ---
 
 DASH-IF runs, organizes and sponsors different events:
