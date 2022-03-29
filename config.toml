@@ -31,3 +31,10 @@ title = "DASH Industry Forum"
     url = "codecs/Introduction"
     title = "Codecs"
     weight = 6
+
+  [[menu.main]]
+    identifier = "events"
+    name = "events"
+    url = "codecs/events"
+    title = "Events"
+    weight = 10
