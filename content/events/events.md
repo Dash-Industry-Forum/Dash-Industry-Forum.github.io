@@ -1,5 +1,7 @@
 ---
-menu: "events"
+menu:
+  main:
+    parent: "events"
 title: "Introduction"
 weight: 1
 ---
