@@ -51,6 +51,16 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
+      <title>Introduction</title>
+      <link>https://dash-industry-forum.github.io/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/events/events/</guid>
+      <description>DASH-IF runs, organizes and sponsors different events:
+ DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
+    </item>
+    
+    <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -267,16 +277,6 @@ Charter Members            Contributor Members                                 A
       <guid>https://dash-industry-forum.github.io/news/</guid>
       <description>Mar 01, 2022 &amp;ndash; DASH-IF publishes a first report on combining DASH and webRTC-based streaming Along with the report, DASH-IF also launched a survey on potential next steps - please respond by April 15, 2022.
 Oct 12, 2021 &amp;ndash; DASH-IF is proud to announce the winners of the 2021 dash.js awards. The award ceremony took place during ACM MMSys&amp;rsquo;21 in Istanbul, Turkey. The award ceremony took place during ACM MMSys&amp;rsquo;21 in Istanbul, Turkey.</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://dash-industry-forum.github.io/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/events/</guid>
-      <description>DASH-IF runs, organizes and sponsors different events:
- DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
     </item>
     
     <item>
