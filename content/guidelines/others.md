@@ -50,11 +50,11 @@ Changes from 2.2 are
 ### Previous Versions
 
 * DASH-IF Implementation Guidelines v2.2: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors))
-* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
+* DASH-IF Implementation Guidelines v2.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf)) | ([XSD](https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v2.0: [Content Protection Information
-  Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
+  Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/Schema-Examples-v2.01.zip))| ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX))
 * DASH-IF Implementation Guidelines v1.0: [Content Protection Information
-  Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.zip))| ([Bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/CPIX))
+  Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.pdf)| ([XML](https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.zip))| ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX))
 
 ## Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0
 
@@ -62,7 +62,7 @@ Changes from 2.2 are
 
 The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.
 
-Comments and bugs may be submitted through the [public github repository](https://gitreports.com/issue/Dash-Industry-Forum/ATSC).
+Comments and bugs may be submitted through the [public github repository](https://github.com/Dash-Industry-Forum/ATSC).
 
 ### Latest Version
 
