@@ -2,7 +2,7 @@
 menu:
   main:
     parent: "events"
-title: "Introduction"
+title: "Summary"
 weight: 1
 ---
 
