@@ -475,6 +475,7 @@ Today, as part of our virtual special session series, DASH-IF received a primer 
       
       <guid>https://dash-industry-forum.github.io/news/watermarking/</guid>
       <description>DASH-IF announces Public Community Review and Public Special Session on Watermarking support On March 23rd, 2022, DASH-IF published the DASH-IF IOP Watermarking specification is available here (pdf) for community review.
+
 This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system.</description>
     </item>
     
