@@ -2,7 +2,7 @@
 
 On March 23rd, 2022, DASH-IF published the DASH-IF IOP Watermarking specification is available [here (pdf)](https://dash-industry-forum.github.io/docs/DASH-IF-IOP_OTT-Watermarking.pdf) for community review. 
 
-![Watermarking Architecture](https://dashif.org/img/Watermarking.png "image_tooltip")
+<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP_OTT-Watermarking.pdf" target="_blank" rel="noopener noreferrer"><img height="300px"  src="https://dashif.org/img/Watermarking.png" alt="" /></a>
 
 This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system. It defines:
   * a format for a token carrying a series of A/B decision unique for every device. This token is used at the edge for delivering the right variant.
