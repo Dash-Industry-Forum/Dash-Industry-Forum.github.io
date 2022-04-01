@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/events/events/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
   </url>
   
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/events/events/</loc>
   </url>
   
   <url>
@@ -195,6 +195,11 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/news/vvc-yk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/watermarking/</loc>
     <priority>0</priority>
   </url>
   

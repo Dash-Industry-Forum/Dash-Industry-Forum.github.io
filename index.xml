@@ -51,16 +51,6 @@ The framework source code is downloadable from our Github repository at https://
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://dash-industry-forum.github.io/events/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/events/events/</guid>
-      <description>DASH-IF runs, organizes and sponsors different events:
- DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
-    </item>
-    
-    <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -88,6 +78,16 @@ This cataloging includes:
       
       <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
       <description>New identifiers can be registered at this link.</description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>https://dash-industry-forum.github.io/events/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/events/events/</guid>
+      <description>DASH-IF runs, organizes and sponsors different events:
+ DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
     </item>
     
     <item>
@@ -275,8 +275,9 @@ Charter Members            Contributor Members                                 A
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>Mar 01, 2022 &amp;ndash; DASH-IF publishes a first report on combining DASH and webRTC-based streaming Along with the report, DASH-IF also launched a survey on potential next steps - please respond by April 15, 2022.
-Oct 12, 2021 &amp;ndash; DASH-IF is proud to announce the winners of the 2021 dash.js awards. The award ceremony took place during ACM MMSys&amp;rsquo;21 in Istanbul, Turkey. The award ceremony took place during ACM MMSys&amp;rsquo;21 in Istanbul, Turkey.</description>
+      <description>Mar 23, 2022 &amp;ndash; DASH-IF publishes the DASH-IF IOP Watermarking specification for community review and announces public special session on this topic for April 13, 2022.
+Mar 01, 2022 &amp;ndash; DASH-IF publishes a first report on combining DASH and webRTC-based streaming Along with the report, DASH-IF also launched a survey on potential next steps - please respond by April 15, 2022.
+Oct 12, 2021 &amp;ndash; DASH-IF is proud to announce the winners of the 2021 dash.</description>
     </item>
     
     <item>
@@ -465,6 +466,16 @@ DASH-IF&amp;rsquo;s CPIX 2.0 was published in September 2016. In November 2017, 
       <guid>https://dash-industry-forum.github.io/news/vvc-yk/</guid>
       <description>DASH-IF receives first hand information on Versatile Video Coding &amp;ndash; September 11, 2020 - Elbonia, virtual &amp;ndash;
 Today, as part of our virtual special session series, DASH-IF received a primer on &amp;ldquo;The high-level syntax (HLS) designs in VVC&amp;rdquo; from Dr. Ye-Kui Wang, Principal Scientist at Bytedance. During session also colleagues from our partner organizations DVB, 3GPP and CTA WAVE were invited and many joined. We had an audience of 60 people, thanks everyone for joining.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/watermarking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/watermarking/</guid>
+      <description>DASH-IF announces Public Community Review and Public Special Session on Watermarking support On March 23rd, 2022, DASH-IF published the DASH-IF IOP Watermarking specification is available here (pdf) for community review.
+This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system.</description>
     </item>
     
     <item>
