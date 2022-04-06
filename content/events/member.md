@@ -2,6 +2,6 @@
 menu:
   main:
     parent: "events"
-title: "Member f2f Meetings"
+title: "Member Meetings (face-to-face)"
 weight: 3
 ---
