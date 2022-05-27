@@ -193,7 +193,7 @@ Part 10 provides authoring guidelines for MPD and inband events, and timed metad
 _under development_
 
 ## Documents under Community review
-* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOPv5.0-Part10-DRAFT-V0.95.pdf) (published May 26, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
+* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dashif.org/docs/DASH-IF-IOPv5.0-Part10-DRAFT-V0.95.pdf) (published May 26, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
 * Community review is open until July 31st, 2022. 
 
 ## Editors
