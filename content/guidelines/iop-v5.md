@@ -187,7 +187,7 @@ DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are n
 # Part 10: Events
 
 ## Summary
-Part 10 includes requirements and guidelines for Event stream offerings and processing.
+Part 10 provides authoring guidelines for MPD and inband events, and timed metadata tracks. Based on the DASH client's timing and processing model of ISO/IEC 23009-1 5th edition, this part provides authoring guidelines and best practices for using the DASH events and metadata tracks to carry application-specific sparse events through the DASH client. A few event schemes and their timing characteristics that are currently defined in some consortia specifications are also described as examples.  
 
 ## Latest Published Specification
 _under development_
