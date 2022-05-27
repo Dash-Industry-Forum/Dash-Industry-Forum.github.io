@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+Mar 26, 2022 -- DASH-IF [publishes the DASH-IF IOP Part 10  Events and timed metadata ](https://dashif.org/guidelines/iop-v5/#part-10-events) for community review.
+
 Mar 23, 2022 -- DASH-IF [publishes the DASH-IF IOP Watermarking specification](https://dashif.org/news/watermarking/) for community review and announces public special session on this topic for April 13, 2022.
 
 Mar 01, 2022 -- DASH-IF [publishes](https://dashif.org/news/webrtc-report/) a [first report on combining DASH and webRTC-based streaming](https://dashif.org/webRTC/report) Along with the report, DASH-IF also launched a [survey on potential next steps](https://forms.gle/Yy89GGeMsXYQixBZ6) - please respond by April 15, 2022.
