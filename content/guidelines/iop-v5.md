@@ -193,10 +193,12 @@ Part 10 includes requirements and guidelines for Event stream offerings and proc
 _under development_
 
 ## Documents under Community review
-_under development_
+* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOPv5.0-Part10-DRAFT-V0.95.pdf) (published May 26, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
+* Community review is open until July 31st, 2022. 
 
 ## Editors
 * [Iraj Sodagar (Tencent)](https://www.linkedin.com/in/iraj-sodagar/)
+* [Rufael Mekuria (Unified Streaming)](https://www.linkedin.com/in/rufael-mekuria-652b4828/)
 
 ## History
 _under development_
