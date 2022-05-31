@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-Mar 26, 2022 -- DASH-IF [publishes the DASH-IF IOP Part 10  Events and timed metadata ](https://dashif.org/guidelines/iop-v5/#part-10-events) for community review.
+May 26, 2022 -- DASH-IF [publishes the DASH-IF IOP Part 10  Events and timed metadata ](https://dashif.org/guidelines/iop-v5/#part-10-events) for community review.
 
 Mar 23, 2022 -- DASH-IF [publishes the DASH-IF IOP Watermarking specification](https://dashif.org/news/watermarking/) for community review and announces public special session on this topic for April 13, 2022.
 
