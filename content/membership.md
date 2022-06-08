@@ -2,7 +2,7 @@
 Membership in DASH-IF offers some great benefits. We have three membership levels and the benefits of each are included below:
 
 ## Associate
-[Membership Agreement](https://dash-industry-forum.github.io/docs/DASH IF Associate Member Agreement_06-2022.pdf)
+[Membership Agreement](https://dashif.org/docs/DASH%20IF%20Associate%20Member%20Agreement_06-2022.pdf)
 
 * Eligibility to participate in Working Groups
     * Interoperability Working Group
