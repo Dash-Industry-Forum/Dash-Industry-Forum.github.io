@@ -13,7 +13,7 @@ Membership in DASH-IF offers some great benefits. We have three membership level
 * Early access to Test Vectors, Test Tools, and Guidelines
 
 ## Contributor
-[Membership Agreement](https://dash-industry-forum.github.io/docs/DASH IF Contributor Member Agreement - Final 06-2022.pdf)
+[Membership Agreement](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/blob/6ff3a30f84cb112e77d1c5db42894b555fd1f2e6/static/docs/DASH%20IF%20Contributor%20Member%20Agreement%20-%20Final%2006-2022.pdf)
 
 * All of the Associate benefits above +
 * Protected by DASH-IF IPR policy
@@ -22,7 +22,7 @@ Membership in DASH-IF offers some great benefits. We have three membership level
 * Ability to vote in Board elections
 
 ## Charter
-[Membership Agreement](https://dash-industry-forum.github.io/docs/DASH IF Charter Member Agreement - Final 06-2022.pdf)
+[Membership Agreement](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/blob/6ff3a30f84cb112e77d1c5db42894b555fd1f2e6/static/docs/DASH%20IF%20Charter%20Member%20Agreement%20-%20Final%2006-2022.pdf)
 
 * All Associate and Contributor benefits +
 * Ability to apply as Board Candidate
