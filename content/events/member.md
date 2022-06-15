@@ -7,6 +7,7 @@ weight: 3
 ---
 
 Here is a history of DASH-IF f2f meetings since 2012.
+
 * June 23-24, 2022 - Berlin, Germany: [DASH-IF #22 together with Fraunhofer Fokus - Media Web Symposium](https://www.fokus.fraunhofer.de/en/fame/mws22)
 * December 10-12, 2019 - Portland, OR, United States: DASH-IF #21 hosted by Amazon 
 * May 20-21, 2019 - Berlin, Germany: [DASH-IF #20 together with Fraunhofer Fokus - Media Web Symposium](https://www.fokus.fraunhofer.de/en/fame/mws19)
