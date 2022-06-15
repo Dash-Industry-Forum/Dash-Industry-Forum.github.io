@@ -18,11 +18,13 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 ## April 13, 2022: Watermarking
 - Presenter: Presenters: [Gwenaël Doërr](https://www.linkedin.com/in/gdoerr/) (Synamedia), [Nicolas Weil](https://www.linkedin.com/in/nicolasweil/) (AWS), [Marcelo San Martin](https://www.linkedin.com/in/msanmartin/) (Akamai)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912655/DASH-IF.Server.Side.Watermarking.pdf)
+- Recording
 
 ## June 5, 2022: Next Steps in ATSC and DASH
 
 ### Overview and Background:
 - Presenter: [Thomas Stockhammer](https://www.linkedin.com/in/stockhammer/) (DASH-IF IOP Chair)
+- Recording
 
 ### Presentation 1: Introduction to ROUTE RFC 9223
 - Presenter: [Waqar Zia](https://www.linkedin.com/in/waqarzia/)
@@ -44,6 +46,7 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ## January 20, 2021
 ### Presentation: Modern content replacement workflows based on SCTE Specifications
+- Slides
 - Abstract: The presentation will introduce on new standards and workflows for SCTE 35, 224 and more.  We will discuss how SCTE has upgraded workflows to address modern content replacement in new media.  We will provide insight on how SCTE is addressing targeted content replacement within an OTT and or broadband distribution network.  The presentation should also help to explore how this new approach might be used in different application-based environments to create a “broadcast” quality experience for ad insertion and content replacement.
 - Speaker Bio: Gary Hughes has been a long-time member of and contributor to the SCTE’s Digital Video Subcommittee.  He is particularly active in Working Group 5 which is focused on Digital Program Insertion.  He also participates in working groups focused on Advanced Coding Technologies and MPEG-DASH, among others.  An independent consultant, media technologist, and innovator, Gary is experienced in digital media delivery, broadband IPTV, video on demand, HDTV, compression and transcoding, editing and stream manipulation.  In addition to his work with SCTE, he has participated in various standards organizations and industry groups such as DASHIF, IAB, DLNA and MPEG. His previous work includes service with industry leaders such as DTS, Switch Media, SeaChange, Motorola, Broadbus, Avid and Sarnoff. Gary holds multiple patents related to video server design, adaptive bitrate streaming, trick mode operations, splicing/ad insertion, use of scalable coding in on demand a
 Ad insertion group will discuss issues around interop/test vectors/reference clients
@@ -51,10 +54,12 @@ Ad insertion group will discuss issues around interop/test vectors/reference cli
 ## April 9, 2021
 
 ### Presentation 1: Brief Overview on CTA-5004: Common Media Client Data (CMCD)
+- Slides
 - Presenter: Will Law (Akamai)
 - Abstract: This presentation provides a brief overview on CTA-5004: Common Media Client Data (CMCD)
 
 ## Presentation 2: Use of CMCD in HTTP Adaptive Streaming: Initial Findings
+- Slides
 - Presenter: Ali C. Begen et al.
 - Abstract:  In September 2020, the Consumer Technology Association (CTA) published the CTA-5004: Common Media Client Data (CMCD) specification. Using this specification, a media client can convey certain information to the content delivery network servers with object requests. This information is useful in log association/analysis, quality of service/experience monitoring and delivery enhancements. This paper is the first step toward investigating the feasibility of CMCD in addressing one of the most common problems in the streaming domain: efficient use of shared bandwidth by multiple clients. To that effect, we implemented CMCD functions on an HTTP server and built a proof-of-concept system with CMCD-aware dash.js clients.We show that even a basic bandwidth allocation scheme enabled by CMCD reduces rebuffering rate and duration without noticeably sacrifycing the video quality.
 
