@@ -23,15 +23,19 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Overview and Background:
 - Presenter: [Thomas Stockhammer](https://www.linkedin.com/in/stockhammer/) (DASH-IF IOP Chair)
+
 ### Presentation 1: Introduction to ROUTE RFC 9223
 - Presenter: [Waqar Zia](https://www.linkedin.com/in/waqarzia/)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912514/ROUTE.Overview.pdf)
+
 ### Presentation 2: ATSC ROUTE/DASH Introduction
 - Presenter: [Michael Dolan](https://www.linkedin.com/in/michael-dolan-50872355/) (ATSC TG3-6 Chair)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912507/ATSC-ROUTE-DASH-20220603.pdf)
+
 ### Presentation 3: ROUTE/DASH/CMAF - Design options and opportunities
 - Presenter: [Thomas Stockhammer](https://www.linkedin.com/in/stockhammer/) (DASH-IF IOP Chair)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912495/DASH-IF-ROUTE-Session-Thomas.pdf)
+
 ### Presentation 4: LL-DASH over ROUTE: Implementation in GPAC
 - Presenter: [Romain Bouqueau](https://www.linkedin.com/in/rbouqueau/) (GPAC)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912491/DASH-IF.2022.LL-DASH.over.ROUTE.in.GPAC.pdf)
