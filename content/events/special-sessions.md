@@ -70,6 +70,7 @@ Usage for Adaptive Streaming: Independent evaluation of the effectiveness of app
 Integration into HTML-5, for example into hls.js based on information here: https://docs.v-nova.com/v-nova/lcevc/integrations/html5-integration
 
 ## May 28, 2021: WebRTC-based Premium Streaming Ecosystem
+- For details, please go [here](https://dashif.org/news/webrtc/)
 - Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.  However, the use of real-time streaming for professionally-produced content is highlighting gaps in WebRTC, creating the need for industry collaboration.  This talk will explore some of these key areas and sketch out possible ways forward for the industry.
 - Presenters:
   - Bill Wishon is the Chief Product Officer for Phenix Real Time Solutions, leading the company's product strategy and roadmap for real-time video streaming at scale. Bill has 20+ years of experience in the media industry working on business and technology innovation to improve the quality, scale and reliability of online video delivery. Prior to Phenix, Bill held leading technical and product roles at Akamai, Kontiki, VeriSign, LightSurf, and Adobe Systems.
@@ -119,9 +120,9 @@ Integration into HTML-5, for example into hls.js based on information here: http
 
 ## September 11, 2020
 ### Presentation: A primer to VVC with focus on High-Level Syntax
-- Presenter: Ye-Kui Wang (ByteDance), Co-Editor of VVC/H.266 Specification
+- Presenter: [Ye-Kui Wang](https://www.linkedin.com/in/yekui/) (ByteDance), Co-Editor of VVC/H.266 Specification
 - Abstract: Versatile Video Coding (VVC), a.k.a ITU-T H.266 | ISO/IEC 23090-3,  is the video coding standard that has just been finalized by the Joint Video Experts Team (JVET) of ITU-T VCEG and ISO/IEC MPEG at its 19th meeting ended on July 1st, 2020. This presentation will give a brief overview of the new video coding standard, focusing on its designs on various aspects of high-level syntax, the systems and transport interface of a video codec.
-- https://dashif.org/news/vvc-yk
+- for details please go to https://dashif.org/news/vvc-yk
 
 ## October 9, 2020
 ### Presentation: Ingest Task Force with special session
@@ -137,7 +138,3 @@ Integration into HTML-5, for example into hls.js based on information here: http
 ## November 20, 2020
 
 ### Presentation: ISO/IEC 23009-8
-
-
-
-
