@@ -34,10 +34,10 @@ DASH-IF publishes different types of documents:
 Part 1 provides an overview of the different features in DASH-IF Interoperability Guidelines. In particular, it provides a reference architecture together with relevant interfaces and functional blocks.
 
 ## Latest Published Specification
-_under development_
+* [DASH-IF-IOP-Part1-v5.0.0: Overview, Architecture and Interfaces](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part1-v5.0.0.pdf) (published Jun 23, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
-_under development_
+_none_
 
 ## Editors
 * [Thomas Stockhammer (Qualcomm)](https://www.linkedin.com/in/stockhammer/)
