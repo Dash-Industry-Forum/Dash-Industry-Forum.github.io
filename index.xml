@@ -62,6 +62,15 @@ This cataloging includes:
     </item>
     
     <item>
+      <title>IOP version 5</title>
+      <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
+      <description>Introduction With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale. The multipart set of documents is collectively called “DASH-IF Interoperability Points, V5.0” (IOP V5). Version 5 of the DASH-IF IOP is defined for usage with the MPEG DASH specification (ISO/IEC 23009-1) and further constrained to deliver media formatted according to the MPEG CMAF Specification (ISO/IEC 23000-19).</description>
+    </item>
+    
+    <item>
       <title>Other Documents</title>
       <link>https://dash-industry-forum.github.io/guidelines/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,15 +116,6 @@ This cataloging includes:
       <guid>https://dash-industry-forum.github.io/tools/conformance/</guid>
       <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
  The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
-    </item>
-    
-    <item>
-      <title>IOP version 5</title>
-      <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
-      <description>Introduction With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale. The multipart set of documents is collectively called “DASH-IF Interoperability Points, V5.0” (IOP V5). Version 5 of the DASH-IF IOP is defined for usage with the MPEG DASH specification (ISO/IEC 23009-1) and further constrained to deliver media formatted according to the MPEG CMAF Specification (ISO/IEC 23000-19).</description>
     </item>
     
     <item>
