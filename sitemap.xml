@@ -15,10 +15,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
   </url>
   
@@ -44,6 +40,10 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/tools/conformance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
   </url>
   
   <url>
