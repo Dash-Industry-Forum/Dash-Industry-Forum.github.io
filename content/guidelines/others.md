@@ -3,7 +3,7 @@ menu:
   main:
     parent: "guidelines"
 title: "Other Documents"
-weight: 1
+weight: 3
 ---
 
 
