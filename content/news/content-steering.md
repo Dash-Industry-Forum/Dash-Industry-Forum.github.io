@@ -1,4 +1,4 @@
-### DASH-IF announces Public Community Review: Candidate Technical Specifification on _Content Steering for DASH_
+### DASH-IF announces Public Community Review: Candidate Technical Specification on _Content Steering for DASH_
 
 On July 10th, 2022, DASH-IF published the DASH-IF Candidate Technical Specification on _Content Steering for DASH_ is available [here](https://dashif.org/guidelines/others#dash-if-candidate-technical-specification-content-steering-for-dash) for community review. 
 
