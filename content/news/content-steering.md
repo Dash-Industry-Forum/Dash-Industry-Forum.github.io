@@ -9,3 +9,5 @@ Content distributors often use multiple Content Delivery Networks (CDNs) to dist
 This is the result of the work in the Live and Ad Insertion task force in DASH-IF. The work is led by [Will Law](https://www.linkedin.com/in/wilaw/) from Akamai and is supported by several DASH-IF members: Akamai, Disney Streaming, Comcast, and Qualcomm. 
 
 The community review is open until September 30th, 2022. Publication is expected by December 31, 2022. Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
+
+This document is a candidate Technical Specification. DASH-IF is expecting to publish this initially, but to submit the specification to a formal specification organization. The primary choice is ETSI, for which DASH-IF has a PAS agreement.
