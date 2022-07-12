@@ -75,7 +75,7 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://pearltv.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Pearl-logo_website.png" alt="" /></a>
 <a href="https://cloud.qencode.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/qencode_logo_website.jpg" alt="" /></a>
 <a href="https://system73.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/System73_logo_website_v2.png" alt="" /></a>
-<a href="http://www.unified-streaming.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Unified-Streaming-logo_website_2018.png" alt="" /></a>
+<a href="http://www.unified-streaming.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/US-logo-black-rgb_180x.png" alt="" /></a>
 <a href="https://www.v-nova.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/V-nova_logo2020_website.png" alt="" /></a>
 <a href="http://visualon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/visualon.jpg" alt="" /></a>
 </div>
