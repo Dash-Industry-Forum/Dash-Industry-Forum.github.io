@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+July 25, 2022 -- DASH-IF confirms [Networking Reception at IBC 2022](https://dashif.org/news/ibc-2022/) at our usual location, the Heineken brewery - save the date Sep 11, 2022, 18:30 - 21:30. Registration to come soon.
+
 July 20, 2022 -- DASH-IF [publishes the DASH-IF Candidate Technical Specification on Content Steering for DASH](https://dashif.org/news/content-steering/) for community review.
 
 May 26, 2022 -- DASH-IF [publishes the DASH-IF IOP Part 10  Events and timed metadata ](https://dashif.org/guidelines/iop-v5/#part-10-events) for community review.
