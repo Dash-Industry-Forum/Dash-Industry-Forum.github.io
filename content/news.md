@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+August 16, 2022 -- [MPEG-DASH 5th edition is a Publicly Available Standard](https://dashif.org/news/5th-edition/) - enjoy reading, DASH-IF is already implementing.
+
 July 25, 2022 -- DASH-IF confirms [Networking Reception at IBC 2022](https://dashif.org/news/ibc-2022/) at our usual location, the Heineken brewery - save the date Sep 11, 2022, 18:30 - 21:30. Registration to come soon.
 
 July 20, 2022 -- DASH-IF [publishes the DASH-IF Candidate Technical Specification on Content Steering for DASH](https://dashif.org/news/content-steering/) for community review.
