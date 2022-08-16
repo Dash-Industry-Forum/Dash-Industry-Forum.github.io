@@ -144,6 +144,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/5th-edition/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/award-will-law/</loc>
     <priority>0</priority>
   </url>
