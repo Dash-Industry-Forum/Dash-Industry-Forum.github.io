@@ -42,7 +42,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.harmonicinc.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/harmonic.jpg" alt="" /></a> 
 <a href="http://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/intel.jpg" alt="" /></a>
 <a href="http://www.interdigital.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/interdigital.jpg" alt="" /></a>
-<a href="http://www.iij.ad.jp/en/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/IIJ_logo_website.png" alt="" /></a>
 <a href="http://irdeto.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/irdeto.jpg" alt="" /></a>
 <a href="http://www.lg.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/logo_LG_website.png" alt="" /></a>
 <a href="https://www.lumen.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Lumen%20logo_website.png" alt="" /></a>
