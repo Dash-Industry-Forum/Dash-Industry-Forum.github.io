@@ -680,5 +680,16 @@ Identifiers Signalling for the closed caption services is provided by including 
 In the context of DASH as specific source descriptor exists, namely FramePacking used to identify the frame-packing configuration scheme employed.</description>
     </item>
     
+    <item>
+      <title>Watermarking</title>
+      <link>https://dash-industry-forum.github.io/identifiers/watermarking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/identifiers/watermarking/</guid>
+      <description> Introduction Add a reference to the watermarking spec
+Watermarking Identifiers The following table documents registered watermarking identifiers.
+   Identifier Reference Section Comment     #identifier specification section comment   test-wm see here 18 Thank you    </description>
+    </item>
+    
   </channel>
 </rss>
