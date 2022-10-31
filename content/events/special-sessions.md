@@ -18,13 +18,8 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 ## October 21, 2022: Ad slot signalling in DASH according to DVB and SCTE
 - Presenter: Presenters: [Rufael Mekuria](https://www.linkedin.com/in/rufael-mekuria-652b4828/) (Unified Streaming), [Yasser Syed](https://www.linkedin.com/in/yasser-syed-734198/) (Comcast)
 - Abstract: Signalling of ad slots in DASH is a feature that is increasingly popular. SCTE-35 was popular n MPEG-2 TS based workflows and is increasingly used in DASH and HLS streaming to enable ad insertion and substitution. Signalling ad breaks consistently between MPEG-2 TS and streaming workflows, and for server and client side ad insertion are key to harmonize workflows and increase interoperability. To this extent, DVB developed DVB-TA suite, including a recommendation for signalling ad slots in MPEG-2 TS and  DVB-DASH, while SCTE has updated specifications of SCTE 214 and SCTE 35 to better account for usage in streaming environments. We detail some of the problems addressed in using SCTE-35 ad slot signalling in DASH in a consistent and optimized manner for different use cases, and detail some of the timing relationships between the SCTE-35 payload and the DASH signalling and the use of single vs multi period.  Last we also present some example streams available, and some of the open topics remaining in this space. 
-- Slides
+- [Slides](https://www.dashif.org/docs/DVB-special-session-presentation-draft-v3.pdf)
 - [Recording](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=23450e28e691c05da2e210a2d50bee1b)(Password: Dash2022)
-
-## April 13, 2022: Watermarking
-- Presenter: Presenters: [Gwenaël Doërr](https://www.linkedin.com/in/gdoerr/) (Synamedia), [Nicolas Weil](https://www.linkedin.com/in/nicolasweil/) (AWS), [Marcelo San Martin](https://www.linkedin.com/in/msanmartin/) (Akamai)
-- [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912655/DASH-IF.Server.Side.Watermarking.pdf)
-- Recording
 
 ## June 5, 2022: Next Steps in ATSC and DASH
 
@@ -47,6 +42,11 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 ### Presentation 4: LL-DASH over ROUTE: Implementation in GPAC
 - Presenter: [Romain Bouqueau](https://www.linkedin.com/in/rbouqueau/) (GPAC)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912491/DASH-IF.2022.LL-DASH.over.ROUTE.in.GPAC.pdf)
+
+## April 13, 2022: Watermarking
+- Presenter: Presenters: [Gwenaël Doërr](https://www.linkedin.com/in/gdoerr/) (Synamedia), [Nicolas Weil](https://www.linkedin.com/in/nicolasweil/) (AWS), [Marcelo San Martin](https://www.linkedin.com/in/msanmartin/) (Akamai)
+- [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912655/DASH-IF.Server.Side.Watermarking.pdf)
+- Recording
 
 # Special Sessions 2021
 
