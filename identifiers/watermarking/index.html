@@ -180,7 +180,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/watermarking/" title="Watermarking">Watermarking</a>
+              <a class="dropdown-item" href="/identifiers/watermarking/" title="Watermarking Vendors">Watermarking Vendors</a>
             </li>
             
 	    <li>
@@ -289,7 +289,7 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title">Watermarking</div>
+      <div class="breadcrumb-title">Watermarking Vendors</div>
       <ol class="breadcrumb">
       
 
@@ -313,7 +313,7 @@
 
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf">Watermarking</span>
+  <span class="breadcrumb-leaf">Watermarking Vendors</span>
   
 </li>
 
@@ -329,11 +329,13 @@
 
 <h1 id="introduction">Introduction</h1>
 
-<p><em>Add a reference to the watermarking spec</em></p>
+<p>Within DASH-IF watermarking guidelines [ref to add], a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim <code>wmvnd</code> that identifies this vendor as an unsigned integer with values between 0 and 255.</p>
 
-<h1 id="watermarking-identifiers">Watermarking Identifiers</h1>
+<h1 id="watermarking-vendors-identifiers">Watermarking Vendors Identifiers</h1>
 
-<p>The following table documents registered watermarking identifiers.</p>
+<p>The following table documents registered watermarking identifiers. Values between 0 and 9 are reserved for standard use. Values between 245 and 255 are reserved for private use.</p>
+
+<p><em>Disclaimer: DASH-IF does not define any “approved” watermarking technology vendor. The table below only represents the submitted identifiers by 3rd parties to DASH-IF. The provided information is deemed to be correct at the date of submission, DASH-IF takes no responsibility if this is not correct or if this becomes obsolete.</em></p>
 
 <table>
 
@@ -351,17 +353,31 @@
   <tbody>
     
     <tr>
-      <td><code>#identifier</code></td>
-      <td><a href="url">specification</a></td>
-      <td>section</td>
-      <td>comment</td>
+      <td><code>20</code></td>
+      <td><a href="https://irdeto.com/video-entertainment/forensic-watermarking/">Irdeto Tracemark</a></td>
+      <td></td>
+      <td>For further information please contact Irdeto (https://irdeto.com/contact-us/). Documentation is available under NDA.</td>
     </tr>
     
     <tr>
-      <td><code>test-wm</code></td>
-      <td><a href="http://www.example.com">see here</a></td>
-      <td>18</td>
-      <td>Thank you</td>
+      <td><code>30</code></td>
+      <td><a href="https://dtv.nagra.com/nexguard-forensic-watermarking">Nagra Nexguard Streaming</a></td>
+      <td></td>
+      <td>For further information please contact NexGuard. Documentation is available under NDA.</td>
+    </tr>
+    
+    <tr>
+      <td><code>40</code></td>
+      <td><a href="https://www.synamedia.com/product/everguard/">Everguard Watermarking</a></td>
+      <td></td>
+      <td>Everguard Watermarking is a forensic watermarking product that is part of Synamedia’s antipiracy toolsuite. Contact https://www.synamedia.com/contact for additional information. Documentation is available under NDA.</td>
+    </tr>
+    
+    <tr>
+      <td><code>50</code></td>
+      <td><a href="https://www.verimatrix.com/products/watermarking/">Verimatrix Streamkeeper Watermarking</a></td>
+      <td></td>
+      <td>For further information please contact Verimatrix (https://www.verimatrix.com/). Documentation is available under NDA.</td>
     </tr>
     
   </tbody>
