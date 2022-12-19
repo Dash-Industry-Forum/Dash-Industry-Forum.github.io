@@ -25,14 +25,12 @@ Will Law (Akamai) - Bio: https://www.linkedin.com/in/wilaw/
 
 This session dives in to both new CTA WAVE specifications - Common Media Client Data and Common Media Server Data. We examine the problems they are solving, the mechanisms by which data is transmitted and the use-cases that can be addressed by each, along with demonstrations of the standards in action. 
 
-### Invited Organizations: 
+### Participants: 
+More than 50 experts from invited organizations DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T
 
-DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T
-
-### Logistics:
-- Date/Time	Friday, December 16, 2022, 6:00 PM - 7:00 PM CET
-- WebEx (if you want to join, please contact DASH-IF)
-
+### Recording and Slides:
+- Recording link: https://dashif.my.webex.com/dashif.my/ldr.php?RCID=1027babb435257932036c4aafa039235 (Password: Dash2022)
+- Slides (tbc)
 
 ## October 21, 2022: Ad slot signalling in DASH according to DVB and SCTE
 - Presenter: Presenters: [Rufael Mekuria](https://www.linkedin.com/in/rufael-mekuria-652b4828/) (Unified Streaming), [Yasser Syed](https://www.linkedin.com/in/yasser-syed-734198/) (Comcast)
