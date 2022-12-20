@@ -30,7 +30,7 @@ More than 50 experts from invited organizations DASH-IF, DVB TM-STREAM, ATSC TG3
 
 ### Recording and Slides:
 - Recording link: https://dashif.my.webex.com/dashif.my/ldr.php?RCID=1027babb435257932036c4aafa039235 (Password: Dash2022)
-- Slides (tbc)
+- [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10271384/DASH-IF-Will-Law-CMCD-CMSD.pdf)
 
 ## October 21, 2022: Ad slot signalling in DASH according to DVB and SCTE
 - Presenter: Presenters: [Rufael Mekuria](https://www.linkedin.com/in/rufael-mekuria-652b4828/) (Unified Streaming), [Yasser Syed](https://www.linkedin.com/in/yasser-syed-734198/) (Comcast)
