@@ -29,7 +29,7 @@ This session dives in to both new CTA WAVE specifications - Common Media Client 
 More than 50 experts from invited organizations DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T
 
 ### Recording and Slides:
-- Recording link: https://dashif.my.webex.com/dashif.my/ldr.php?RCID=1027babb435257932036c4aafa039235 (Password: Dash2022)
+- [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=1027babb435257932036c4aafa039235) (Password: Dash2022)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10271384/DASH-IF-Will-Law-CMCD-CMSD.pdf)
 
 ## October 21, 2022: Ad slot signalling in DASH according to DVB and SCTE
