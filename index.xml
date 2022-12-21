@@ -380,11 +380,11 @@ Will Law from Akamai served and is serving DASH-IF in different roles since its 
     
     <item>
       <title></title>
-      <link>https://dash-industry-forum.github.io/news/content-steering/</link>
+      <link>https://dash-industry-forum.github.io/news/content-steering-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dash-industry-forum.github.io/news/content-steering/</guid>
-      <description>DASH-IF announces Public Community Review: Candidate Technical Specification on Content Steering for DASH On July 10th, 2022, DASH-IF published the DASH-IF Candidate Technical Specification on Content Steering for DASH is available here for community review.
+      <guid>https://dash-industry-forum.github.io/news/content-steering-2/</guid>
+      <description>DASH-IF announces 2nd Public Community Review: Candidate Technical Specification on Content Steering for DASH On December 21st, 2022, DASH-IF published the DASH-IF Candidate Technical Specification on Content Steering for DASH is available here for community review.
 
 Content distributors often use multiple Content Delivery Networks (CDNs) to distribute their content to the end-users. They may upload a copy of their catalogue to each CDN, or more commonly have all CDNs pull the content from a common origin.</description>
     </item>
