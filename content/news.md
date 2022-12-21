@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-December 21, 2022 -- DASH-IF announces 2nd Community Review for [Candidate Technical Specification on Content Steering for DASH](https://dashif.org/news/content-steering-2)
+December 21, 2022 -- DASH-IF announces 2nd Community Review for [Candidate Technical Specification on Content Steering for DASH](https://dashif.org/news/content-steering-2).
 
 August 23, 2022 -- Registration open for [DASH-IF Networking Reception at IBC 2022](https://dashif.org/news/ibc-2022/) at our usual location, the Heineken brewery.
 
