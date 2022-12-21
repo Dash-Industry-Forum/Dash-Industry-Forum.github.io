@@ -145,7 +145,7 @@ replaced by a full version after the commenting period has closed and the
 comments have been addressed.
 ## DASH-IF Candidate Technical Specification: Content Steering for DASH
 
-* A second version for community review for the DASH-IF Candidate Technical Specification on _Content Steering for DASH_ is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-Content-Steering-2nd-Community-Review.pdf)
+* A second version for community review for the DASH-IF Candidate Technical Specification on _Content Steering for DASH_ is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-Content-Steering-2nd-Community-Review-0.9.6.pdf)
 * Content distributors often use multiple Content Delivery Networks (CDNs) to distribute their content to the end-users. They may upload a copy of their catalogue to each CDN, or more commonly have all CDNs pull the content from a common origin. Alternate URLs are generated, one for each CDN, that point at identical content. DASH players may access alternate URLs in the event of delivery problems. Content steering describes a deterministic capability for a content distributor to switch the content source that a player uses either at start-up or midstream, by means of a remote steering service. The DASH implementation of Content Steering also supports the notion of a proxy steering server which can switch a mobile client between broadcast and unicast sources. 
 * Community review is open until Feb 15th, 2023. Publication is expected by March 31, 2023.
 * Comments may be submitted through [github](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
