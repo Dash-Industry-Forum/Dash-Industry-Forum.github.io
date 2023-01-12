@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-January 3,  2023 --[DASH-IF Appoints Olga Kornienko as its Promotion Working Group’s Chair]([https://dashif.org/news/content/news/DASH-IF_Olga_PR.pdf)).
+January 3,  2023 --[DASH-IF Appoints Olga Kornienko as its Promotion Working Group’s Chair](https://dashif.org/news/content/news/DASH-IF_Olga_PR.pdf).
 
 December 21, 2022 -- DASH-IF announces 2nd Community Review for [Candidate Technical Specification on Content Steering for DASH](https://dashif.org/news/content-steering-2).
 
