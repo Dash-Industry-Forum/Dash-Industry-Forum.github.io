@@ -27,7 +27,8 @@ The following companies have filed license declarations against DASH IF work pro
 | January 14, 2019 | Koninklijke KPN N.V. | Token-based Authorization Protocol and Authentication Scheme Signaling (TAPASS) v1.0 | [Link](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration%20Form%5B1%5D.pdf) | 
 | January 14, 2019 | Koninklijke KPN N.V. | DASH-IF Implementation Guidelines·Token-based Access Control for DASH (TAC) v1.2 | [Link](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration.pdf) |
 | October 21,2021 | Qualcomm Incorporated | DASH-IF Interoperability Points Part 5 Ad Insertion in DASH | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_Interoperability%20Points%20Part%205%20Ad%20Insertion%20in%20DASH_LOA.pdf) |
-
+| December 23, 2022 | CodeShop B.V. | DASH-IF Interoperability Points; Part 10: Events and Timed Metadata | [Link](https://dashif.org/docs/IPR-declarations/DASH%20IF%20IPR%20Exhibit-A-signed-codeshop1.pdf) |
+| January 19, 2023 | Qualcomm Incorporated | DASH-IF IOP-10 V5.0.0 (2022-12) DASH-IF Interoperability Points; Part 10: Events and Timed Metadata | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_2023-01-19_DASH-IF-IOP-10_DocuSign.pdf) |
 
 # IPR Statements
 
