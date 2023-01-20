@@ -26,7 +26,7 @@ The following companies have filed license declarations against DASH IF work pro
 | January 14, 2019 | Koninklijke KPN N.V. | DASH-IF lnteroperability Points version 4.1 CR117: Support for SAND lnteroperability | [Link#1](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration%20Form.pdf), [Link#2](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration%20Form%5B2%5D.pdf), [Link#3](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration%20Statement.pdf) | 
 | January 14, 2019 | Koninklijke KPN N.V. | Token-based Authorization Protocol and Authentication Scheme Signaling (TAPASS) v1.0 | [Link](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration%20Form%5B1%5D.pdf) | 
 | January 14, 2019 | Koninklijke KPN N.V. | DASH-IF Implementation Guidelines·Token-based Access Control for DASH (TAC) v1.2 | [Link](https://dashif.org/docs/IPR-declarations/Patent%20Statement%20%26%20Licensing%20Declaration.pdf) |
-| October 21,2021 | Qualcomm Incorporated | DASH-IF Interoperability Points Part 5 Ad Insertion in DASH | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_Interoperability Points Part 5 Ad Insertion in DASH_LOA.pdf) |
+| October 21,2021 | Qualcomm Incorporated | DASH-IF Interoperability Points Part 5 Ad Insertion in DASH | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_Interoperability%20Points%20Part%205%20Ad%20Insertion%20in%20DASH_LOA.pdf) |
 
 
 # IPR Statements
