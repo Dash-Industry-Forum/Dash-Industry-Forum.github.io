@@ -23,7 +23,7 @@ The following defines a set of URIs that are defined by ISO/IEC 23009-1:
 
 {{< csvTable "csv/event-schemes-mpeg-dash-events.csv" >}}
 
-# Industry and Consortia Defined Events
+# Consortia Defined Events
 
 The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the **InbandEventStream** element:
 
