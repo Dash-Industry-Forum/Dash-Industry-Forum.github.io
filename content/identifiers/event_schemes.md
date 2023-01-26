@@ -17,13 +17,13 @@ Two ways of signalling events are provided, namely
 
 Appropriate schemes and identifiers are defined below.
 
-# MPD Events
+# MPEG DASH Events
 
-The following defines a set of URIs that identify MPD events, i.e., schemes contained in the **EventStream** element:
+The following defines a set of URIs that are defined by ISO/IEC 23009-1:
 
-{{< csvTable "csv/event-schemes-mpd-events.csv" >}}
+{{< csvTable "csv/event-schemes-mpeg-dash-events.csv" >}}
 
-# DASH Inband Events
+# Industry and Consortia Defined Events
 
 The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the **InbandEventStream** element:
 
