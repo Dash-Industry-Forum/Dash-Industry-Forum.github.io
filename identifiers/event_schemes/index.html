@@ -341,9 +341,9 @@
 
 <p>Appropriate schemes and identifiers are defined below.</p>
 
-<h1 id="mpd-events">MPD Events</h1>
+<h1 id="mpeg-dash-events">MPEG DASH Events</h1>
 
-<p>The following defines a set of URIs that identify MPD events, i.e., schemes contained in the <strong>EventStream</strong> element:</p>
+<p>The following defines a set of URIs that are defined by ISO/IEC 23009-1:</p>
 
 <table>
 
@@ -361,31 +361,31 @@
   <tbody>
     
     <tr>
-      <td><code>urn:scte:scte35:2013:xml</code></td>
-      <td><a href="">see SCTE 35 2013a, 5.10.4 and later and SCTE 214-1</a></td>
-      <td>section 6.7.4</td>
-      <td>XML representation of SCTE 35 message</td>
+      <td><code>urn:mpeg:dash:event:2012</code></td>
+      <td><a href="">ISO/IEC 23009-1</a></td>
+      <td>5.10.4</td>
+      <td>&lt;ul&gt;&lt;li&gt;MPD validity expiration event(expiration only, with MPD patch, with complete updated MPD)&lt;/li&gt;&lt;li&gt;on-receive&lt;/li&gt;&lt;/ul&gt;</td>
     </tr>
     
     <tr>
-      <td><code>https://dashif.org/identifiers/vast30</code></td>
-      <td><a href="">DASH-IF IOP</a></td>
-      <td>clause 5.6</td>
-      <td>Defines signaling for MPD events containing VAST3.0</td>
+      <td><code>urn:mpeg:dash:event:callback:2015</code></td>
+      <td><a href="">ISO/IEC 23009-1</a></td>
+      <td>5.10.4.5.2</td>
+      <td>&lt;ul&gt;&lt;li&gt;DASH callback event&lt;/li&gt;&lt;li&gt;on-start&lt;/li&gt;&lt;/ul&gt;</td>
     </tr>
     
     <tr>
-      <td><code>urn:dvb:iptv:cpm:2014</code></td>
-      <td><a href="">ETSI TS 103 285</a></td>
-      <td>9.1.2.1</td>
-      <td>Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.</td>
+      <td><code>urn:mpeg:dash:event:ttfn:2016</code></td>
+      <td><a href="">ISO/IEC 23009-1</a></td>
+      <td>5.10.4.6</td>
+      <td>&lt;ul&gt;&lt;li&gt;Presentation termination event&lt;/li&gt;&lt;li&gt;on-start&lt;/li&gt;&lt;/ul&gt;</td>
     </tr>
     
   </tbody>
 </table>
 
 
-<h1 id="dash-inband-events">DASH Inband Events</h1>
+<h1 id="industry-and-consortia-defined-events">Industry and Consortia Defined Events</h1>
 
 <p>The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the <strong>InbandEventStream</strong> element:</p>
 
