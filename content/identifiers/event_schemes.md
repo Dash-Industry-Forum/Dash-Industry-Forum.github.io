@@ -17,21 +17,21 @@ Two ways of signalling events are provided, namely
 
 Appropriate schemes and identifiers are defined below.
 
-# MPEG DASH Events
+# MPEG DASH Event Schemes
 
-The following defines a set of URIs that are defined by ISO/IEC 23009-1:
+The following event schemes are defined by ISO/IEC 23009-1:
 
 {{< csvTable "csv/event-schemes-mpeg-dash-events.csv" >}}
 
-# Consortia Defined Events
+# Consortia Event Schemes
 
-The following defines a set of URIs that identify specific DASH inband event schemes, i.e., schemes contained in the **InbandEventStream** element:
+The following event schemes are defined by consortia:
 
 {{< csvTable "csv/event-schemes-dash-inband-events.csv" >}}
 
-# Other Inband Events
+# Other Inband Event Schemes
 
-The following defines a set of URIs that identify specific inband event schemes, i.e., schemes contained in the **InbandEventStream** element:
+The following event schemes are defined by the industry:
 
 Identifier                        |Reference                           |Abstract
 ----------------------------------|------------------------------------|----------------
