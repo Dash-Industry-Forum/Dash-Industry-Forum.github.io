@@ -173,7 +173,7 @@ DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are n
 The present document defines the CMAF Media Profiles and the DASH signalling for text tracks, including subtitles and captions as well as open captions and subtitles in video tracks. This work was derived from IOP v4.3 but does not contain non-CMAF profiles. The use of “sidecar” files is not covered in the present document. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/text/.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part8-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part9-v5.0.0.pdf) (published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+* [DASH-IF-IOP-Part9-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part9-v5.0.0.pdf) (published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
 * none
@@ -190,18 +190,17 @@ DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are n
 Part 10 provides authoring guidelines for MPD and inband events, and timed metadata tracks. Based on the DASH client's timing and processing model of ISO/IEC 23009-1 5th edition, this part provides authoring guidelines and best practices for using the DASH events and metadata tracks to carry application-specific sparse events through the DASH client. A few event schemes and their timing characteristics that are currently defined in some consortia specifications are also described as examples.  
 
 ## Latest Published Specification
-_under development_
+* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part10-v5.0.0.pdf) (published Jan 26, 2023) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events) | [IPR Declarations](https://dashif.org/ipr-declarations/)
 
 ## Documents under Community review
-* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dashif.org/docs/DASH-IF-IOPv5.0-Part10-DRAFT-V0.95.pdf) (published May 26, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Events/issues))
-* Community review is open until July 31st, 2022. 
+* none
 
 ## Editors
 * [Iraj Sodagar (Tencent)](https://www.linkedin.com/in/iraj-sodagar/)
 * [Rufael Mekuria (Unified Streaming)](https://www.linkedin.com/in/rufael-mekuria-652b4828/)
 
 ## History
-_under development_
+* [v5.0.0](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part10-v5.0.0.pdf) published on January 26, 2023.
 
 # Part 11: Additional Technologies
 
