@@ -27,7 +27,7 @@ The following event schemes are defined by ISO/IEC 23009-1:
 
 The following event schemes are defined by consortia:
 
-{{< csvTable "csv/event-schemes-dash-inband-events.csv" >}}
+{{< csvTable "csv/event-schemes-consortia.csv" >}}
 
 # Other Inband Event Schemes
 
