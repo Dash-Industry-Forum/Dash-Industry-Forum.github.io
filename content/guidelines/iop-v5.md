@@ -184,13 +184,13 @@ The present document defines the CMAF Media Profiles and the DASH signalling for
 ## History
 DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are not constrained to CMAF.
 
-# Part 10: Events
+# Part 10: Events and Timed Metadata
 
 ## Summary
 Part 10 provides authoring guidelines for MPD and inband events, and timed metadata tracks. Based on the DASH client's timing and processing model of ISO/IEC 23009-1 5th edition, this part provides authoring guidelines and best practices for using the DASH events and metadata tracks to carry application-specific sparse events through the DASH client. A few event schemes and their timing characteristics that are currently defined in some consortia specifications are also described as examples.  
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part10-v5.0.0: Text](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part10-v5.0.0.pdf) (published Jan 26, 2023) | [Bugtracker](https://github.com/Dash-Industry-Forum/Events) | [IPR Declarations](https://dashif.org/ipr-declarations/)
+* [DASH-IF-IOP-Part10-v5.0.0: Events and Timed Metadata](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part10-v5.0.0.pdf) (published Jan 26, 2023) | [Bugtracker](https://github.com/Dash-Industry-Forum/Events) | [IPR Declarations](https://dashif.org/ipr-declarations/)
 
 ## Documents under Community review
 * none
