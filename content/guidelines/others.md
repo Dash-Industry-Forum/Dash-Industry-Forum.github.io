@@ -143,6 +143,7 @@ submitted on the technologies itself, on specific features, etc. These
 documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.
+
 ## DASH-IF Candidate Technical Specification: Content Steering for DASH
 
 * A second version for community review for the DASH-IF Candidate Technical Specification on _Content Steering for DASH_ is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-Content-Steering-2nd-Community-Review-0.9.6.pdf)
@@ -150,9 +151,9 @@ comments have been addressed.
 * Community review is open until Feb 15th, 2023. Publication is expected by March 31, 2023.
 * Comments may be submitted through [github](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
 
-## DASH-IF Candidate Technical Specification: DASH-IF Forensic A/B Watermarking
+## Candidate Technical Specification: DASH-IF Forensic A/B Watermarking
 
-* A second community review for the new New Candidate Technical Specification "DASH-IF Forensic A/B Watermarking" is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.pdf)
+* A second community review for the new Candidate Technical Specification "DASH-IF Forensic A/B Watermarking" is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.pdf)
 * This second version is a significant update addressing all comments received during the initial community review.
 * Scope and Abstract:
    * The scope of this work is the definition of an architecture and an Application Programming Interface (API) for supporting A/B forensic watermarking for Over-The-Top (OTT) on content that is delivered in an Adaptive Bitrate (ABR) format. To the possible extend, the proposed solutions do not make assumptions on the ABR technology that is being used, it can be for example, DASH or HLS. A/B forensic watermarking means that at least two watermarked versions of content (variant A and variant B) are delivered up to a CDN edge server from the encoder. The edge server is responsible for delivering either the A or B variant of every segment to the device.
