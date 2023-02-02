@@ -150,15 +150,16 @@ comments have been addressed.
 * Community review is open until Feb 15th, 2023. Publication is expected by March 31, 2023.
 * Comments may be submitted through [github](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
 
-## DASH-IF Interoperability Specification: Watermarking
+## DASH-IF Candidate Technical Specification: DASH-IF Forensic A/B Watermarking
 
-* A initial version for community review for the DASH-IF IOP Watermarking specification is available [here (pdf)](https://dash-industry-forum.github.io/docs/DASH-IF-IOP_OTT-Watermarking.pdf)
-* This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system. It defines:
-  * a format for a token carrying a series of A/B decision unique for every device. This token is used at the edge for delivering the right variant.
-  * Metadata and mechanisms for carrying this metadata from a transcoder to the edge. This is used for synchronizing the series on the same timeline for all devices.
-* It supports any forensic watermarking technique, any encoder and any CDN. This is the result of the work in the Content Protection and Security task force in DASH-IF and has been done in collaboration between watermarking technology providers (NAGRA, Synamedia, Irdeto, Verimatrix), CDN providers (Akamai, AWS) and others. 
-* Community review is open until May 31st, 2022. Publication is expected by August 31, 2022.
-* Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Watermarking/issues).
+* A second community review for the new New Candidate Technical Specification "DASH-IF Forensic A/B Watermarking" is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.pdf)
+* This second version is a significant update addressing all comments received during the initial community review.
+* Scope and Abstract:
+   * The scope of this work is the definition of an architecture and an Application Programming Interface (API) for supporting A/B forensic watermarking for Over-The-Top (OTT) on content that is delivered in an Adaptive Bitrate (ABR) format. To the possible extend, the proposed solutions do not make assumptions on the ABR technology that is being used, it can be for example, DASH or HLS. A/B forensic watermarking means that at least two watermarked versions of content (variant A and variant B) are delivered up to a CDN edge server from the encoder. The edge server is responsible for delivering either the A or B variant of every segment to the device.
+   * While digital watermarking can be used for different use cases, this work will focus on forensic use cases. In this context, it is used to define the origin of content leakage. The watermarking technology modifies media content in a robust and invisible way in order to encode a unique identifier, e.g., a unique session ID. The embedded watermark provides means to identify where the media content, that has been redistributed without authorization, is coming from. In other words, the watermark is used to forensically trace the origin of content leakage.
+* This document is a candidate Technical Specification. DASH-IF is expecting to publish this initially, but to submit the specification ETSI, for which DASH-IF has a PAS agreement. It is expected that the final document will be published as an ETSI technical specification.
+* Community review is open until February 28, 2023. Publication is expected by March 31, 2023 as DASH-IF version and by June 30, 2023 as ETSI TS.
+* Comments in the community review phase may be submitted through the [github](https://github.com/Dash-Industry-Forum/Watermarking/issues).
 
 # DASH-IF Position and White Papers
 
