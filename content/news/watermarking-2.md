@@ -10,7 +10,7 @@ The scope of this work is the definition of an architecture and an Application P
 
 This document is a candidate Technical Specification. DASH-IF is expecting to publish this initially, but to submit the specification ETSI, for which DASH-IF has a PAS agreement. It is expected that the final document will be published as an ETSI technical specification.
 
-Community review is open until February 28, 2023. Publication is expected by March 31, 2023 as DASH-IF version and by June 30, 2023 as ETSI TS. The community review is open until February 28, 2023. Publication is expected by March 31, 2023 in DASH-IF and by June 30, 2023 as ETSI Technical Specification. Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Watermarking/issues).
+Community review is open until February 28, 2023. Publication is expected by March 31, 2023 as DASH-IF version and by June 30, 2023 as ETSI TS. Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Watermarking/issues).
 
 In order to support the public community, the specification will be introduced in a [public special session](https://dashif.org/events/special-sessions/#february-10-2023-dash-if-ab-watermarking) on February 10, 2023 at 9am pacific, calendar details are [here (Causeway)](https://members.dashif.org/wg/DASH/calendar/event/103/2023-02-10) and [here (github)](https://github.com/Dash-Industry-Forum/Watermarking/wiki/Special-Session-Announcement).
 
