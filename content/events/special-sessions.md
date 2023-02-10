@@ -22,6 +22,7 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 - [Gwenaël Doërr](https://www.linkedin.com/in/gdoerr/) (Synamedia)
 - [Nicolas Weil](https://www.linkedin.com/in/nicolasweil/) (AWS)
 - [Marcelo San Martin](https://www.linkedin.com/in/msanmartin/) (Akamai)
+- [Vladimir Zivkovic](https://www.linkedin.com/in/vladimirzivkovic/) (Irdeto)
 - [Laurent Piron](https://www.linkedin.com/in/laurentpiron/) (Nagra)
 
 
