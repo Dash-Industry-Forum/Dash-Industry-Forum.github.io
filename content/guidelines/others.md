@@ -153,7 +153,7 @@ comments have been addressed.
 
 ## Candidate Technical Specification: DASH-IF Forensic A/B Watermarking
 
-* A second community review for the new Candidate Technical Specification "DASH-IF Forensic A/B Watermarking" is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.pdf)
+* A second community review for the new Candidate Technical Specification "DASH-IF Forensic A/B Watermarking" is available [here (pdf)](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.1.pdf)
 * This second version is a significant update addressing all comments received during the initial community review.
 * Scope and Abstract:
    * The scope of this work is the definition of an architecture and an Application Programming Interface (API) for supporting A/B forensic watermarking for Over-The-Top (OTT) on content that is delivered in an Adaptive Bitrate (ABR) format. To the possible extend, the proposed solutions do not make assumptions on the ABR technology that is being used, it can be for example, DASH or HLS. A/B forensic watermarking means that at least two watermarked versions of content (variant A and variant B) are delivered up to a CDN edge server from the encoder. The edge server is responsible for delivering either the A or B variant of every segment to the device.
