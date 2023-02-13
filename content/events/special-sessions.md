@@ -27,14 +27,16 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 
 ### Abstract: 
-DASH-IF released a 2nd community review the “DASH-IF A/B Watermarking integration schema” guidelines. We received very constructive comments from the Industry and updated the specification where needed. Representatives from the companies involved in this work will present the problem we solve, an overview of the specifications focusing on the updates that have been made. A Proof-of-Concept will also be demonstrated.
+DASH-IF released a 2nd community review the “DASH-IF A/B Watermarking integration schema” guidelines. We received very constructive comments from the Industry and updated the specification where needed. Representatives from the companies involved in this work  presented the problem we solve, an overview of the specifications focusing on the updates that have been made. A Proof-of-Concept was also be demonstrated.
 
 ### Participants: 
 Around 50 experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T attended the meeting.
 
 ### Recording and Slides:
 - [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=ad2fc7e7106f7f45d2347bafbfb1e624) (Password: DashIF2023)
-- Slides
+- [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10720660/DASH-IF_ServerSideWM_2023.pdf)
+- DASH-IF Members can access more details [here on Causeway](https://members.dashif.org/wg/Interoperability/document/folder/48)
+
 
 # Special Sessions 2022
 
