@@ -32,10 +32,11 @@ DASH-IF released a 2nd community review the “DASH-IF A/B Watermarking integrat
 ### Participants: 
 Around 50 experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T attended the meeting.
 
-### Recording and Slides:
+### Recording, Slides and other Material:
 - [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=ad2fc7e7106f7f45d2347bafbfb1e624) (Password: DashIF2023)
 - [Slides](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10720660/DASH-IF_ServerSideWM_2023.pdf)
 - DASH-IF Members can access more details [here on Causeway](https://members.dashif.org/wg/Interoperability/document/folder/48)
+- If you participated in the event live or recording, [please provide us feedback](https://forms.gle/yR6czvUxW5Lo6rRm6)
 
 
 # Special Sessions 2022
