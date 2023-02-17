@@ -697,7 +697,7 @@ In the context of DASH as specific source descriptor exists, namely FramePacking
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/identifiers/watermarking/</guid>
-      <description>Introduction Within DASH-IF watermarking guidelines [ref to add], a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim wmvnd that identifies this vendor as an unsigned integer with values between 0 and 255.
+      <description>Introduction Within DASH-IF watermarking guideline, a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim wmvnd that identifies this vendor as an unsigned integer with values between 0 and 255.
 Watermarking Vendors Identifiers The following table documents registered watermarking identifiers. Values between 0 and 9 are reserved for standard use. Values between 245 and 255 are reserved for private use.</description>
     </item>
     
