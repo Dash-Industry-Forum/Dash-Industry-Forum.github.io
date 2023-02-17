@@ -7,7 +7,7 @@ title: "Watermarking Vendors"
 
 # Introduction
 
-Within DASH-IF watermarking guidelines [ref to add], a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim `wmvnd` that identifies this vendor as an unsigned integer with values between 0 and 255.
+Within DASH-IF watermarking [guideline](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-CTS-00XX-AB-Watermarking-0.9.1.pdf), a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim `wmvnd` that identifies this vendor as an unsigned integer with values between 0 and 255.
 
 # Watermarking Vendors Identifiers
 
