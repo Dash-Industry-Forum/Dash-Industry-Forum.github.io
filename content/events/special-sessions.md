@@ -16,6 +16,25 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2023
 
+## March 10, 2023: DASH-IF Open Source and Reference Tools: Breaking News on Live-Sim and dash.js
+
+### Presenters: 
+- [Torbjörn Einarsson](https://www.linkedin.com/in/torbjorneinarsson/)) (Eyevinn)
+- [Daniel Silhavy](https://www.linkedin.com/in/daniel-silhavy-21650a129/) (Fraunhofer Fokus)
+
+### Abstract: 
+The DASH-IF Live Simulator (livesim) is a mature tool focused on providing configurable live streams to test timing, MPD variants, multiple periods, and a lot of other features. Its sources are DASH VoD assets from which “live” segments are generated on request to simulate a wall-clock synchronized looped source. It has been extended to produce low-latency DASH, but is hard to extend further, and is thereby limited in what content it can use. It can, for example, not output 29.97frames/s or segment durations which are not integral seconds in average. DASH-IF is running a public test server on AWS, but the traffic costs have been quite high. The current livesim has been instrumental for both implementing and testing timing live stream timings for both dash.js and other players, and some streams from the public DASH-IF site are included in the standard test suite. Livesim2 is a new implementation, written from scratch in Go. It is much easier to deploy and can handle much more content.  A configurable traffic limiter that can limit traffic per IP-address/24h should provide useful to reduce traffic costs for a public server. The livesim2 GitHub repo will be become a public GitHub repo before the meeting. With livesim2 being a new project, it lacks many features compared to livesim, but also makes it possible to implement new scenarios and test cases. At this event, we will demonstrate livesim2 but also start the discussion about what features to prioritize and implement, and the possibility for financial sponsoring to make this possible. 
+ 
+dash.js is a free, open-source MPEG-DASH player by the Dash Industry Forum (DASH-IF). dash.js serves as a reference client for DASH-IF and various other organizations to test and verify features related to DASH based media streaming. Moreover, dash.js is a prominent option for a production grade player and widely used in the academic field. In this presentation, we dive into dash.js development and the main features of the player. We focus on recent additions such as Common Media Client Data (CMCD), Common Media Server Data (CMSD), Content Steering, and segment preloading to enable broadcast-broadband ad-insertion on HbbTV terminals. Moreover, we discuss upcoming additions to dash.js and how to contribute to the project.
+
+
+### Participants: 
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting.
+
+### Recording, Slides and other Material:
+- Recording link
+- Slides
+
 ## February 10, 2023: DASH-IF A/B Watermarking
 
 ### Presenters: 
