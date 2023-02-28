@@ -16,10 +16,10 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2023
 
-## March 10, 2023: DASH-IF Open Source and Reference Tools: Breaking News on Live-Sim and dash.js
+## March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js
 
 ### Presenters: 
-- [Torbjörn Einarsson](https://www.linkedin.com/in/torbjorneinarsson/)) (Eyevinn)
+- [Torbjörn Einarsson](https://www.linkedin.com/in/torbjorneinarsson/) (Eyevinn)
 - [Daniel Silhavy](https://www.linkedin.com/in/daniel-silhavy-21650a129/) (Fraunhofer Fokus)
 
 ### Abstract: 
