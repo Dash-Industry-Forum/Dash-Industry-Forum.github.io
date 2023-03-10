@@ -32,8 +32,11 @@ dash.js is a free, open-source MPEG-DASH player by the Dash Industry Forum (DASH
 Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting.
 
 ### Recording, Slides and other Material:
-- Recording link
+- Recording link (Password: DashIF2023)
 - Slides
+  - [dash.js](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10944530/dashjs_special_session.pdf)
+  - [livesim2](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10944534/livesim2_230310.pdf)
+- If you participated in the event live or recording, [please provide us feedback](https://forms.gle/S9NfS3LsK6ppcQ4FA)
 
 ## February 10, 2023: DASH-IF A/B Watermarking
 
