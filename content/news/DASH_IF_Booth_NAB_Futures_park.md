@@ -2,7 +2,7 @@
 
 -- April 5, 2023 
 
-DASH IF is  announcing today that we will be exhibiting at the 2023 NAB Show's Futures Park pavilion.  We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.  
+DASH IF announced today that we will be exhibiting at the 2023 NAB Show's Futures Park pavilion.  We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.  
 
 Please come by the booth and see what everyone is working on.  The schedule and description of demos is as follows:
 
