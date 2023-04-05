@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+April 5, 2023 -- DASH-IF announces that it will be [exhibiting at the 2023 NAB Show's Futures Park](https://dashif.org/news/DASH_IF_Booth_NAB_Futures_park).
+
 December 21, 2022 -- DASH-IF announces [2nd Community Review and public Special Session for Candidate Technical Specification: DASH-IF Forensic A/B Watermarking](https://dashif.org/news/watermarking-2).
 
 January 3,  2023 --[DASH-IF Appoints Olga Kornienko as its Promotion Working Group’s Chair](https://dashif.org/news/DASH-IF_Olga_PR.pdf).
