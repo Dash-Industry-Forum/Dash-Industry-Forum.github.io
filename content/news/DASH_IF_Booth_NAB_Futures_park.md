@@ -1,28 +1,38 @@
-# DASH-IF Booth at NAB 2023 Futures Park 
+# DASH-IF Booth at 2023 NAB Show's Futures Park 
 
--- September 11, 2020 - Elbonia, virtual --
+-- April 5, 2023 
 
-Today, as part of our virtual special session series, DASH-IF received a primer on "[The high-level syntax (HLS) designs in VVC](https://dash-industry-forum.github.io/docs/VVC%20HLS%20overview%20.pdf)" from Dr. [Ye-Kui Wang](https://www.linkedin.com/in/yekui/), Principal Scientist at [Bytedance](https://www.bytedance.com/). During session also colleagues from our partner organizations [DVB](http://www.dvb.org), [3GPP](http://www.3gpp.org) and [CTA WAVE](https://cta.tech/Resources/Standards/WAVE-Project) were invited and many joined. We had an audience of 60 people, thanks everyone for joining.
+DASH IF is  announcing today that we will be exhibiting at the 2023 NAB Show's Futures Park pavilion.  We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.  
 
-The presentation provided an overview on Versatile Video Coding (VVC) – the freshly new video coding standard. Special focus for DASH-IF were the following aspects:
+Please come by the booth and see what everyone is working on.  The schedule and description of demos is as follows:
 
-* System and transport interfaces of video codecs
-  * System diagram and protocol stack
-  * What is high-level syntax (HLS)
-  * Why HLS
+* **Sunday, April 16th – 10:00am – 2:00pm - Intel Corporation**
+   * Intel will show how AI-based video super-resolution on the latest generation of Intel® Xeon® Scalable processors can be used for real-time super-resolution up to 4Kp60 without needing a GPU accelerator.   This technology can open up new opportunities in super-resolution in live streaming and broadcasting, or on-demand super-resolution of long-tail content, resulting in lower production and distribution costs, and new revenue streams for older content.
 
-* An introduction to VVC HLS features
-  * VVC bitstream structure and NAL unit types
-  * Random access support
-  * Parameter sets, picture header, slice header
-  * POC and reference picture management
-  * Tiles, WPP, slices, subpictures
-  * Reference picture resampling (RPR)
-  * Scalability
-  * Profile, tier, level (PTL)
-  * Hypothetical reference decoder (HRD)
-  * DCI, VUI, SEI
+* **Sunday, April 16th 2:00pm – 6:00pm - Unified Streaming**
+   * Unified Streaming will be presenting on the topic of live media ingest and distributed encoder and packager synchronization following DASH-IF and MPEG-DASH part 9 
 
-The presentation was supported by great discussion. In particular, it stressed the importance of the [DASH-IF initiated work item to start looking how we can make use of the new codec features for adaptive streaming](https://dash-industry-forum.github.io/docs//Work-Item-Proposal-Streaming-Next-Gen-Codecs-r3.pdf) and in particular ensure, that first HW decoders support the functionalities such as seamless switching, content splicing or codec configuration changes. DASH-IF will continue this work as part of our regular efforts and will communicate with the VVC developing organizations to support conformance programs.
+* **Monday, April 17th 9:00am – 1:30pm - VisualOn**
+   * Remote production is coming to the next level. With the introduction of 5G, broadcasters can realize greater bandwidth, lower latency, and a defined quality of service. Meanwhile, deploying and maintaining high-quality video services can be frustrating and cumbersome. It requires significant testing and troubleshooting to discover what is causing playback issues before you can even start to debug and qualify devices and streams. <br>
+Remote Lab is a mix of software and hardware solutions designed for remote teams to easily access physical devices. It is optimized for audio, video, and multimedia applications. Within an ultra-low latency environment, Remote Lab resolves the pain points of managing disparate devices, teams, and content. Streaming service providers can ensure a consistent quality of service standard across viewing devices. 
 
-Thank you all again for joining the presentation and the great discussions. And special thanks to Ye-Kui for the informative and entertaining presentation. DASH-IF always welcomes new experts and members to join our efforts and deliverables.
+* **Monday, April 17th 1:30pm – 6:00pm - Brightcove**
+   * Content Steering is a recent addition to the MPEG DASH standard, enabling dynamic routing of streaming content between different CDNs. Already supported by DASH.js and several other players, it dramatically simplifies the design of multi-CDN delivery systems. No custom client plugins, DNS redirects, or CMS integrations are needed. <br>
+However, the deployment DASH Content Steering mechanism requires additional servers. Such servers must interact directly and frequently with streaming clients - at a TTL interval of about 100 seconds or less. The faster reaction is required, the higher the intensity of client-server exchanges. It implies a high volume of additional requests and raises questions about reliability, scalability, and operating costs.  <br>
+In this presentation, we show the design of a CDN switching system addressing this challenge. Our solution reduces the function of the content steering server to a stateless operation driven by parameters embedded in the client-server exchange. Such design enables deployment by edge functions offered by many CDNs or edge platforms. This design is economical to deploy, scales well, achieves very low delay TTLs, and is suitable for a full spectrum of multi-CDN delivery optimizations. <br>
+We show examples of load-balancing, failover, QOE/QOS-, and COGS-driven optimizations achieved with the proposed design.
+
+* **Tuesday, April 18th 9:00am – 1:30pm - EZDRM**
+  * EZDRM will be illustrating the versatility of its cloud-based security approach demonstrations or DRM protected WebRTC streaming and applications in Content Provenance and Authenticity (C2PA). <br>
+The new EZDRM WebRTC-DRM solution enables true low-latency streaming applications without compromises on the use of studio-approved DRM security. A use case will be illustrated using a local camera capture, with low-latency transmission to a standard DASH.js player extended with the EZDRM WebRTC browser component. The distribution will be protected using the EZDRM cloud service and, using standard DRM license constraints, the player screen will be blocked from unauthorized capture. <br>
+Extending the security envelope beyond media transmission, C2PA certifies the source and history of distributed media content. A companion demonstration, using image editing and verification, will show how EZDRM services enable the secure management of this provenance to protect media authors and revenue streams.
+
+* **Tuesday, April 18th 1:30pm – 6:00pm - Synamedia/Eyevinn**
+  * WebRTC is today’s de facto technologies to implement ultra-low-latency (glass-to-glass latency ranging from 0.5 to 2s) point-to-multipoint video delivery. Unfortunately, WebRTC is not compatible with DASH-based delivery systems, which are widely used to implement scalable on-demand and live streaming at regular latency (from 5 to 45s). This demo fills the gap by showing how WebRTC and regular DASH delivery can smoothly coexist into one pipeline to deliver tailored latency upon viewer’s needs. <br>
+Three novel technologies are introduced in this demo: 1/ The integration of WebRTC signaling into a DASH manifest (following recommendations from the DASH-IF Exploration Group 2022 report) to enable seamless client-side transition from WebRTC to DASH delivery. 2 / The implementation of the WHEP protocol, which is currently discussed at IETF, for a standardized WebRTC client-server signaling. 3/ A server-side adaptive bit-rate WebRTC system that lets the WebRTC gateway switch from one profile to another for clients experiencing variable network performance. <br>
+This demo is a joint work between dash.js for the client implementation, Eyevinn for the integration of WebRTC signaling in DASH manifest and the client-side WHEP endpoint, and Synamedia for the WebRTC adaptive gateway and the server-side WHEP endpoint.
+
+* **Wednesday April 19th 9:00am – 2:00pm - castLabs**
+  * Thanks to fast channel zapping, you can enjoy OTT content switching as fast as broadcast TV. Avoid buffer delay by pre-caching neighboring content including pre-fetching DRM licenses for a quick low-latency user experience. Our demo implements fast track and rendition switching. Every switch will empty the buffer and freshly reload content. All segment requests will be cache-busted so nothing should be loaded from cache. This allows for sub-second zapping, which can even achieve under 250 milliseconds (based on a viewer’s internet bandwidth).
+
+We look forward to seeing everyone at NAB 2023. 
