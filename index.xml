@@ -392,17 +392,6 @@ Scope of the specification: Content distributors often use multiple Content Deli
     
     <item>
       <title></title>
-      <link>https://dash-industry-forum.github.io/news/dash-if-booth-nab-futures-park/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dash-industry-forum.github.io/news/dash-if-booth-nab-futures-park/</guid>
-      <description>DASH-IF Booth at 2023 NAB Show&amp;rsquo;s Futures Park &amp;ndash; April 5, 2023
-DASH IF announced today that we will be exhibiting at the 2023 NAB Show&amp;rsquo;s Futures Park pavilion. We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.
-Please come by the booth and see what everyone is working on. The schedule and description of demos is as follows:</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://dash-industry-forum.github.io/news/dash-js-award-2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -482,6 +471,17 @@ With 18 months of collaborative work, the DASH-IF published a technical specific
       <guid>https://dash-industry-forum.github.io/news/low-latency-dash/</guid>
       <description>DASH-IF publishes Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion Low-Latency DASH Modes 
 Based on a report developed jointly between DVB and DASH-IF in 2017 on Low-Latency DASH, DASH-IF developed over the last 2 years detailed requirements and recommendations for service offerings and client implementation to support consistent latency in DASH for linear TV services. The change request builds on joint work in MPEG, DASH-IF and DVB.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dash-industry-forum.github.io/news/nab-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dash-industry-forum.github.io/news/nab-2023/</guid>
+      <description>DASH-IF Booth at 2023 NAB Show&amp;rsquo;s Futures Park &amp;ndash; April 5, 2023
+DASH IF announced today that we will be exhibiting at the 2023 NAB Show&amp;rsquo;s Futures Park pavilion. We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.
+Please come by the booth and see what everyone is working on. The schedule and description of demos is as follows:</description>
     </item>
     
     <item>

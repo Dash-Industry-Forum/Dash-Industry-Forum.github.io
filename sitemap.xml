@@ -159,11 +159,6 @@
   </url>
   
   <url>
-    <loc>https://dash-industry-forum.github.io/news/dash-if-booth-nab-futures-park/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dash-industry-forum.github.io/news/dash-js-award-2021/</loc>
     <priority>0</priority>
   </url>
@@ -200,6 +195,11 @@
   
   <url>
     <loc>https://dash-industry-forum.github.io/news/low-latency-dash/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dash-industry-forum.github.io/news/nab-2023/</loc>
     <priority>0</priority>
   </url>
   
