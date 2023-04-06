@@ -4,7 +4,7 @@ title: "News"
 weight: 10
 ---
 
-April 5, 2023 -- DASH-IF announces that it will be [exhibiting at the 2023 NAB Show's Futures Park](https://dashif.org/news/DASH-IF-Booth-NAB-Futures-park).
+April 5, 2023 -- DASH-IF announces that it will be [exhibiting at the 2023 NAB Show's Futures Park](https://dashif.org/news/nab-2023).
 
 January 3,  2023 --[DASH-IF Appoints Olga Kornienko as its Promotion Working Group’s Chair](https://dashif.org/news/DASH-IF_Olga_PR.pdf).
 
