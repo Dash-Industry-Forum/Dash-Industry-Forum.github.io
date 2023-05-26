@@ -33,7 +33,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.castlabs.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/castlabs-new-logo_website.png" alt="" /> </a>
 <a href="https://www.commscope.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/CommScope_positive_RGB_website.jpg" alt="" /></a>
 <a href="http://www3.ebu.ch/cms/en/home" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ebu.jpg" alt="" /></a>
-<a href="http://www.eurofins-digitaltesting.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Eurofins-logo_website.png" alt="" /></a>
 <a href="https://www.ezdrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/EZDRM-logo-website.png" alt="" /></a>
 <a href="http://www.fraunhofer.de/en.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/fraunhofer.jpg" alt="" /></a>
 <a href="http://www.haivision.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/haivision.jpg" alt="" /></a>
