@@ -29,6 +29,7 @@ The following companies have filed license declarations against DASH IF work pro
 | October 21,2021 | Qualcomm Incorporated | DASH-IF Interoperability Points Part 5 Ad Insertion in DASH | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_Interoperability%20Points%20Part%205%20Ad%20Insertion%20in%20DASH_LOA.pdf) |
 | December 23, 2022 | CodeShop B.V. | DASH-IF Interoperability Points; Part 10: Events and Timed Metadata | [Link](https://dashif.org/docs/IPR-declarations/DASH%20IF%20IPR%20Exhibit-A-signed-codeshop1.pdf) |
 | January 19, 2023 | Qualcomm Incorporated | DASH-IF IOP-10 V5.0.0 (2022-12) DASH-IF Interoperability Points; Part 10: Events and Timed Metadata | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_2023-01-19_DASH-IF-IOP-10_DocuSign.pdf) |
+| June 8, 2023 | Qualcomm Incorporated | Content Steering for DASH | [Link](https://dashif.org/docs/IPR-declarations/DASH-IF_2023-06-08_DASH-IF_CTS00XX_V0.9.8_(2023-05)_DocuSign-3.pdf) |
 
 # IPR Statements
 
