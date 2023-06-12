@@ -47,7 +47,8 @@ In addition, in case of any identified issues or bugs, please file issues here: 
 
 ### Latest Version
 
-* [DASH-IF Candidate Technical Specification 002: DASH-IF Forensic A/B Watermarking v1.0.0](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11724675/DASH-IF-CTS-001-1.0.0.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
+* [DASH-IF Candidate Technical Specification 002: DASH-IF Forensic A/B Watermarking v1.0.0](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11725062/DASH-IF-CTS-002v1.0.0-AB-Watermarking.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
+
 
 
 ## DASH-IF Candidate Technical Specification: Content Steering for DASH
