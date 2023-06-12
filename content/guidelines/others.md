@@ -36,8 +36,7 @@ Content distributors often use multiple Content Delivery Networks (CDNs) to dist
 
 ### Disclaimer
 
-This document is a candidate Technical Specification. DASH-IF is to publishing this initially, but the document has been submitted to ETSI and ETSI is asked to publish this document under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf
-Note that the ETSI specification may be different, addressing editorial updates.
+This document is a candidate Technical Specification. DASH-IF is to publishing this initially, but the document has been submitted to ETSI and ETSI is asked to publish this document under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf. Note that the ETSI specification may be different, addressing editorial updates.
 In addition, in case of any identified issues or bugs, please file issues here: https://github.com/Dash-Industry-Forum/Content-Steering/issues.
 
 ### Latest Version
