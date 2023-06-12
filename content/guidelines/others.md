@@ -28,6 +28,23 @@ For DASH-IF Interoperability Guidelines, refer to
 * [earlier versions](https://dashif.org/guidelines/earlier-versions/)
 * [DASH-IF IOP v5](https://dashif.org/guidelines/iop-v5/)
 
+## DASH-IF Candidate Technical Specification: Content Steering for DASH
+
+### Scope
+
+Content distributors often use multiple Content Delivery Networks (CDNs) to distribute their content to the end-users. They may upload a copy of their catalogue to each CDN, or more commonly have all CDNs pull the content from a common origin. Alternate URLs are generated, one for each CDN, that point at identical content. DASH players may access alternate URLs in the event of delivery problems. Content steering describes a deterministic capability for a content distributor to switch the content source that a player uses either at start-up or midstream, by means of a remote steering service. 
+
+### Disclaimer
+
+This document is a candidate Technical Specification. DASH-IF is to publishing this initially, but the document has been submitted to ETSI and ETSI is asked to publish this document under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf
+Note that the ETSI specification may be different, addressing editorial updates.
+In addition, in case of any identified issues or bugs, please file issues here: https://github.com/Dash-Industry-Forum/Content-Steering/issues.
+
+### Latest Version
+
+* [DASH-IF Candidate Technical Specification 001: Content Steering for DASH v1.0.0](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11722876/DASH-IF-CTS-001-1.0.0.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
+
+
 ## DASH-IF Content Protection Information Exchange Format
 
 ### Scope
