@@ -1,4 +1,4 @@
-### DASH-IF Publishes Forensic A/B Watermarking Specification and submits for ETSI Publication
+### DASH-IF Publishes Forensic A/B Watermarking Specification and submits for ETSI Publication as ETSI TS 104 002
 
 #### Introduction.
 In June 2023, DASH-IF published The DASH-IF A/B Watermarking specification DASH-IF web site: https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-ab-watermarking. An overiew of the specification is provided.
