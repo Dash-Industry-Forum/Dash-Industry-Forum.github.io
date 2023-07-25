@@ -4,7 +4,7 @@ title: "News"
 weight: 10
 ---
 
-July 25, 2023 -- ### DASH-IF Publishes [Forensic A/B Watermarking Specification](https://dashif.org/news/watermarking-final) and submits for ETSI Publication as ETSI TS 104 002.
+July 25, 2023 -- ### DASH-IF Publishes [Forensic A/B Watermarking Specification](https://dashif.org/news/watermarking-final) and submits for ETSI Publication as TS 104 002.
 
 April 5, 2023 -- DASH-IF announces that it will be [exhibiting at the 2023 NAB Show's Futures Park](https://dashif.org/news/nab-2023).
 
