@@ -346,15 +346,15 @@ Server-side A/B watermarking for OTT is an end-to-end delivery architecture that
 
 <p>On the one hand, the transcoder embarks a watermarking component, such as the Watermark Pre Processor (WMP) defined in [UHDSpec], to generate the A and B Variants for each representation of the transcoded ABR video streams fed to the Packager. As a result, the Packager/Origin can deliver either the A Variant or the B Variant of any segment requested by the CDN. On the other hand, the client is making requests for ABR segments together with a watermark token that contains a unique identifier. When the request reaches the CDN, a logic present at the edge of the CDN:
 1. derives a watermark bit position, typically based on the filename of the ABR segment;
-1. lookup the value of the bit in the identifier present in the token at the watermark bit position;
-1. delivers either the A or the B Variant of the requested segment, possibly with an upstream request to the Origin, based on binary value obtained in the previous step.</p>
+2. lookup the value of the bit in the identifier present in the token at the watermark bit position;
+3. delivers either the A or the B Variant of the requested segment, possibly with an upstream request to the Origin, based on binary value obtained in the previous step.</p>
 
 <p>Such a mechanism preserves the caching capabilities of the CDN even if those are hampered due to the need to deliver both A and B Variants.This generic blueprint does not make any assumption on the ABR technology being used and can be applied both for HLS and DASH distribution.
 In practice, the deployment of A/B watermarking requires several integration points, either explicit or implicit. For instance, the edge logic that derives a watermark bit position routinely involves parsing the segment filename to extract a numeral element (time, counter, etc) and quantizing it. This requires specific adaptations to cope with ad-hoc naming conventions of different Packager vendors.</p>
 
 <h4 id="work-in-dash-if">Work in DASH-IF</h4>
 
-<p>The Content Protection and Security Task Force of DASH IF has been working for the last XXX years on standardizing several interfaces of the video delivery pipeline to facilitate the deployment of A/B watermarking systems. This working group gathers world-renowned experts from watermarking technology vendors, CDN providers, and Packager suppliers.
+<p>The Content Protection and Security Task Force of DASH IF has been working for the last 2 years on standardizing several interfaces of the video delivery pipeline to facilitate the deployment of A/B watermarking systems. This working group gathers world-renowned experts from watermarking technology vendors, CDN providers, and Packager suppliers.
 A salient aspect of DASH IF A/B Watermarking Specification is to delegate the watermark bit position assignment logic to the WMP and to cascade this information throughout the delivery architecture down to the edge of the CDN thanks to a dedicated auxiliary metadata channel (WMPaceInfo). As a result, the system no longer has any dependency on any file naming conventions. The Packager is however required to respect some rules for its packetization process in order to propagate consistent metadata.
 Besides this fundamental principle, DASH IF specification also defines:
 - several transport mechanism to convey the auxiliary metadata WMPaceInfo at different steps of the content delivery pipeline;
