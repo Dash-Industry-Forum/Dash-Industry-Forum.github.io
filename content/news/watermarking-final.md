@@ -46,13 +46,16 @@ Under the PAS (Publicly Available Specification) agreement with ETSI, this speci
 
 #### Impacts for the industry
 For NAGRA
->Pirates will seek out vulnerable content irrespective of its type or source. NexGuard Streaming widely deployed for many years for VoD and live use cases, is happy to provide a DASH-IF compliant version, for either video watermark and/or audio watermark. It has already been tested with several global CDN services.
+
+"Pirates will seek out vulnerable content irrespective of its type or source. NexGuard Streaming widely deployed for many years for VoD and live use cases, is happy to provide a DASH-IF compliant version, for either video watermark and/or audio watermark. It has already been tested with several global CDN services."
 
 For Synamedia
->Synamedia is thrilled that active collaboration between industry peers has eventually led to the emergence of a common A/B watermarking blueprint. This specification removes several friction points and can only help accelerate the adoption of watermarking across Live and VOD OTT services. We look forward to deploying our unique ContentArmor solution in our customers’ video services at a faster pace.
+
+"Synamedia is thrilled that active collaboration between industry peers has eventually led to the emergence of a common A/B watermarking blueprint. This specification removes several friction points and can only help accelerate the adoption of watermarking across Live and VOD OTT services. We look forward to deploying our unique ContentArmor solution in our customers’ video services at a faster pace."
 
 For Irdeto
->At Irdeto, we are committed to supporting standards that foster an open, thriving, and secure streaming ecosystem. By establishing a common framework and unlocking the proprietary solutions in today’s marketplace, the DASH-IF A/B watermarking wpecification empowers video streaming players with a wider choice in their watermarking solutions while at the same time streamlining the implementation process. The collaborative effort of our partners and competitors in publishing the specification is a significant step forward and highlights the industry's commitment to tackling piracy collectively. We keenly look forward to deploying Irdeto TraceMark forensic watermarking in our customers' workflows and leveraging this specification to its full potential.
+
+"At Irdeto, we are committed to supporting standards that foster an open, thriving, and secure streaming ecosystem. By establishing a common framework and unlocking the proprietary solutions in today’s marketplace, the DASH-IF A/B watermarking wpecification empowers video streaming players with a wider choice in their watermarking solutions while at the same time streamlining the implementation process. The collaborative effort of our partners and competitors in publishing the specification is a significant step forward and highlights the industry's commitment to tackling piracy collectively. We keenly look forward to deploying Irdeto TraceMark forensic watermarking in our customers' workflows and leveraging this specification to its full potential."
 
 #### References
 The DASH-IF A/B watermarking specification is published [here](https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-a-b-watermarking).
