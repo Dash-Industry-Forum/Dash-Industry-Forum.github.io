@@ -179,6 +179,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/ibc-2023/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/jeff-tapper-award/</loc>
     <priority>0</priority>
   </url>
