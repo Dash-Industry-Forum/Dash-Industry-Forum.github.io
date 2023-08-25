@@ -8,6 +8,7 @@ weight: 2
 
 Here is a list of DASH-IF Social Events over last years. You will also find the sponsors of the events.
 
+* September 17, 2023: [DASH-IF at IBC 2023](https://DASH-IF-IBC2023-Reception.eventbrite.com)
 * September 11, 2022: [DASH-IF at IBC 2022](https://dashifnetworking2022.eventbrite.com)
 * September 15, 2019: [DASH-IF at IBC 2019](https://www.eventbrite.com/e/dash-industy-forum-ibc-2019-networking-reception-and-party-tickets-64970573735)
 * April 10, 2019: [DASH-IF at NAB 2019](https://www.eventbrite.com/e/dash-industy-forum-nab-2019-networking-reception-and-party-tickets-57780672547)
