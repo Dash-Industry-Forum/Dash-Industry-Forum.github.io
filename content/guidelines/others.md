@@ -28,7 +28,7 @@ For DASH-IF Interoperability Guidelines, refer to
 * [earlier versions](https://dashif.org/guidelines/earlier-versions/)
 * [DASH-IF IOP v5](https://dashif.org/guidelines/iop-v5/)
 
-## DASH-IF Candidate Technical Specification: DASH-IF Forensic A/B Watermarking
+## DASH-IF Technical Specification (ETSI TS 104 002): DASH-IF Forensic A/B Watermarking 
 
 ### Scope
 
@@ -47,7 +47,7 @@ In addition, in case of any identified issues or bugs, please file issues here: 
 
 ### Latest Version
 
-* [DASH-IF Candidate Technical Specification 002: DASH-IF Forensic A/B Watermarking v1.0.0](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11725062/DASH-IF-CTS-002v1.0.0-AB-Watermarking.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
+* [ETSI TS 104 720: DASH-IF Forensic A/B Watermarking v1.1.1](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11725062/DASH-IF-CTS-002v1.0.0-AB-Watermarking.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
 
 
 
