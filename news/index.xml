@@ -209,8 +209,8 @@ This second version is a significant update addressing all comments received dur
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dash-industry-forum.github.io/news/watermarking-final/</guid>
-      <description>DASH-IF Publishes Forensic A/B Watermarking Specification and Submits it for ETSI Publication Introduction. In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available here.
-Motivation Over-The-Top (OTT) distribution has fundamentally offset the trust model by popularizing open devices. This evolution has motivated an appetite for watermarking solutions operating on the server side to avoid embarking security-sensitive logics in the consumers’ devices. Server-side A/B forensic watermarking has been around for several years but requires the collaboration of several stakeholders.</description>
+      <description>DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002 Introduction. In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available here. On August 28, 2023, this specification has been published by ETSI under DASH-IF&amp;rsquo;s PAS (Publicly Available Specification) agreement with ETSI as ETSI TS 104 002.
+Motivation Over-The-Top (OTT) distribution has fundamentally offset the trust model by popularizing open devices. This evolution has motivated an appetite for watermarking solutions operating on the server side to avoid embarking security-sensitive logics in the consumers’ devices.</description>
     </item>
     
     <item>
