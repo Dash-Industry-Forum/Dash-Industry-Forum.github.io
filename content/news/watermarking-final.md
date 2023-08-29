@@ -1,7 +1,7 @@
-### DASH-IF Publishes Forensic A/B Watermarking Specification and Submits it for ETSI Publication
+### DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002
 
 #### Introduction.
-In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available [here](https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-a-b-watermarking).
+In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available [here](https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-a-b-watermarking). On August 28, 2023, this specification has been published by ETSI under DASH-IF's PAS (Publicly Available Specification) agreement with ETSI as [ETSI TS 104 002](https://www.etsi.org/deliver/etsi_ts/104000_104099/104002/01.01.01_60/ts_104002v010101p.pdf).
 
 #### Motivation
 Over-The-Top (OTT) distribution has fundamentally offset the trust model by popularizing open devices. This evolution has motivated an appetite for watermarking solutions operating on the server side to avoid embarking security-sensitive logics in the consumers’ devices. Server-side A/B forensic watermarking has been around for several years but requires the collaboration of several stakeholders. Encoder, packager, CDN, watermarking vendors have to work hand in hand to successfully deploy such a solution. Providing a common architecture, ensuring that integration is done once and then deployment gets simplified, is therefore key to nurture widespread adoption of such security solutions.
@@ -42,7 +42,7 @@ On top of standardizing all these interfaces, DASH-IF specification also enables
 [DASH.js](https://dashif.org/tools/dashjs/) has to retrieve a watermarking token and then provide it with every request to the CDN. If watermarking is enabled for the content that is being consumed, then the absence of the token in the request is an error case.
 
 #### ETSI publication
-Under the PAS (Publicly Available Specification) agreement with ETSI, this specification has been submitted and has been assigned the number TS 104 002. It is expected that the specification is available [here](https://www.etsi.org/deliver/etsi_ts/104000_104099/104002/01.01.01_60/) by the end of August 2023.
+Under the PAS (Publicly Available Specification) agreement with ETSI, this specification has been published as [ETSI TS 104 002](https://www.etsi.org/deliver/etsi_ts/104000_104099/104002/01.01.01_60/ts_104002v010101p.pdf) on August 28, 2023.
 
 #### Impacts for the industry
 For NAGRA
@@ -58,4 +58,5 @@ For Irdeto
 "At Irdeto, we are committed to supporting standards that foster an open, thriving, and secure streaming ecosystem. By establishing a common framework and unlocking the proprietary solutions in today’s marketplace, the DASH-IF A/B watermarking wpecification empowers video streaming players with a wider choice in their watermarking solutions while at the same time streamlining the implementation process. The collaborative effort of our partners and competitors in publishing the specification is a significant step forward and highlights the industry's commitment to tackling piracy collectively. We keenly look forward to deploying Irdeto TraceMark forensic watermarking in our customers' workflows and leveraging this specification to its full potential."
 
 #### References
-The DASH-IF A/B watermarking specification is published [here](https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-a-b-watermarking).
+The DASH-IF A/B watermarking specification is published [here](https://dashif.org/guidelines/others/#dash-if-candidate-technical-specification-dash-if-forensic-a-b-watermarking) and [ETSI TS 104 002](https://www.etsi.org/deliver/etsi_ts/104000_104099/104002/01.01.01_60/ts_104002v010101p.pdf) can also be accessed.
+
