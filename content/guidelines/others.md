@@ -38,16 +38,12 @@ While digital watermarking can be used for different use cases, this work will f
  
 
 ### Disclaimer
-
-This document is a candidate Technical Specification. DASH-IF is publishing this specification initially, but the document has been submitted to ETSI and ETSI is asked to publish this document under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf.
-
-Note that the ETSI specification may be different, addressing editorial updates.
+ETSI published this specification under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf.
 
 In addition, in case of any identified issues or bugs, please file issues here: https://github.com/Dash-Industry-Forum/Watermarking/issues.
 
 ### Latest Version
-
-* [ETSI TS 104 720: DASH-IF Forensic A/B Watermarking v1.1.1](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/11725062/DASH-IF-CTS-002v1.0.0-AB-Watermarking.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
+* [ETSI TS 104 720: DASH-IF Forensic A/B Watermarking v1.1.1](https://www.etsi.org/deliver/etsi_ts/104000_104099/104002/01.01.01_60/ts_104002v010101p.pdf) ([IPR Declarations](https://dashif.org/ipr-declarations/))
 
 
 
