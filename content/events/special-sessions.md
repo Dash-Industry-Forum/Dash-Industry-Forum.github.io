@@ -16,6 +16,24 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2023
 
+## December 1, 2023: Media Over QUIC (MOQ)
+
+### Presenters: 
+- [Will Law](https://www.linkedin.com/in/wilaw/)(Akamai) 
+- [Ali C. Begen](https://www.linkedin.com/in/acbegen/) (Comcast)
+
+### Abstract: 
+This talk is an introduction to Media over QUIC (MoQ). We’ll examine why a new protocol is needed to leverage the benefits of QUIC, what is motivating the switch to pub/sub, the architectural layering of MoQ Transport and Streaming Formats, and a brief look at catalogs and the MoQT Object model.  We’ll conclude with demonstrations of MoQ implementations and a view into the current development schedule.
+
+### Participants: 
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting. If you are interested to join the meeting, please contact us.
+
+### Recording, Slides and other Material (to be completed):
+- Recording link
+- Slides
+- If you participated in the event live or recording, please provide us feedback
+
+
 ## March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js
 
 ### Presenters: 
