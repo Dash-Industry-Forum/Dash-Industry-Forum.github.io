@@ -4,6 +4,8 @@ title: "News"
 weight: 10
 ---
 
+November 2, 2023 -- DASH-IF is joining the [Second Open Source Media Application Reference Tools (OSMART-2) workshop](https://dashif.org/news/osmart-2) in December 2023.
+
 August 28, 2023 -- DASH-IF Publishes [Forensic A/B Watermarking Specification](https://dashif.org/news/watermarking-final) as ETSI TS 104 002.
 
 August 23, 2023 -- Registration open for [IBC 2023 DASH IF Networking Reception](https://dashif.org/news/ibc-2023/) at the best venue in town, the Heineken brewery.  
