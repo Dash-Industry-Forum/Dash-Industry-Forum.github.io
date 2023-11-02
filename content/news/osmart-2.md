@@ -1,7 +1,5 @@
 **DASH-IF is joining the Second Open Source Media Application Reference Tools (OSMART-2) workshop**
 
-06-07.12.23 - OSMART Workshop #2
-OPEN-SOURCE MEDIA APPLICATION REFERENCE TOOLS
 This online workshop, the second in the series, is organized by the DVB Project and 5G-MAG in collaboration with several other organizations. It is open to anyone with an interest in open-source reference tools for use in the context of media applications. DASH-IF is joining the workshop and will provide 3 presentations on dash.js, DASH-IF Livesim and JCCP.
 
 You can find a summary of last year’s OSMART Workshop #1 [here](https://www.5g-mag.com/post/09-05-22-osmart-workshop) - together with the slides that were presented.
