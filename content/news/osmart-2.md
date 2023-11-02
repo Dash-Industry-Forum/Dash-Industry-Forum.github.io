@@ -5,6 +5,7 @@ This online workshop, the second in the series, is organized by the DVB Project 
 You can find a summary of last year’s OSMART Workshop #1 [here](https://www.5g-mag.com/post/09-05-22-osmart-workshop) - together with the slides that were presented.
 
 This year’s workshop will run across two days:
+
 - Wednesday 6 December, 16:00-18:00 CET – quickfire presentations on project roadmaps and deliverables
 - Thursday 7 December, 16:00-18:00 CET – structured discussion to highlight synergies across the projects presented the previous day and agreement on some next steps
 
