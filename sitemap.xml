@@ -209,6 +209,11 @@
   </url>
   
   <url>
+    <loc>https://dash-industry-forum.github.io/news/osmart-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dash-industry-forum.github.io/news/speke-cpix/</loc>
     <priority>0</priority>
   </url>
