@@ -26,12 +26,13 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 This talk is an introduction to Media over QUIC (MoQ). We’ll examine why a new protocol is needed to leverage the benefits of QUIC, what is motivating the switch to pub/sub, the architectural layering of MoQ Transport and Streaming Formats, and a brief look at catalogs and the MoQT Object model.  We’ll conclude with demonstrations of MoQ implementations and a view into the current development schedule.
 
 ### Participants: 
-Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting. If you are interested to join the meeting, please contact us.
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T were invited to the meeting. Over more than 100 people participated. Thank you!
 
 ### Recording, Slides and other Material (to be completed):
-- Recording link
-- Slides
-- If you participated in the event live or recording, please provide us feedback
+- [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=67bd2dc1c66e6e4133a24986e601d32f) (Password: DashIf2023).
+- Slides from [Will Law](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13530147/Media-over-QUIC-Will-Law.pdf) and Ali C. Begen
+- If you participated in the event live or recording, please provide us [feedback](https://forms.gle/MyPV2QtntYVuLU6t9) including options for potential work in DASH-IF.
+
 
 
 ## March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js
