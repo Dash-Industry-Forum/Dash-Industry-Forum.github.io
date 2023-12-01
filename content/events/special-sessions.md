@@ -30,10 +30,8 @@ Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6,
 
 ### Recording, Slides and other Material (to be completed):
 - [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=67bd2dc1c66e6e4133a24986e601d32f) (Password: DashIf2023).
-- Slides from [Will Law](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13530147/Media-over-QUIC-Will-Law.pdf) and Ali C. Begen
+- Slides from [Will Law](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13530147/Media-over-QUIC-Will-Law.pdf) and [Ali C. Begen](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13531331/MOQ_2023_12.pdf)
 - If you participated in the event live or recording, please provide us [feedback](https://forms.gle/MyPV2QtntYVuLU6t9) including options for potential work in DASH-IF.
-
-
 
 ## March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js
 
