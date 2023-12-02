@@ -19,8 +19,8 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 ## December 1, 2023: Media Over QUIC (MOQ)
 
 ### Presenters: 
-- [Will Law](https://www.linkedin.com/in/wilaw/)(Akamai) 
-- [Ali C. Begen](https://www.linkedin.com/in/acbegen/) (Comcast)
+- [Will Law](https://www.linkedin.com/in/wilaw/) (Akamai) 
+- [Ali C. Begen](https://www.linkedin.com/in/acbegen/) (Ozyegin University)
 
 ### Abstract: 
 This talk is an introduction to Media over QUIC (MoQ). We’ll examine why a new protocol is needed to leverage the benefits of QUIC, what is motivating the switch to pub/sub, the architectural layering of MoQ Transport and Streaming Formats, and a brief look at catalogs and the MoQT Object model.  We’ll conclude with demonstrations of MoQ implementations and a view into the current development schedule.
