@@ -2,6 +2,8 @@
 
 <img src="https://dashif.org/img/JCCP.png" width="600">
 
+December 15, 2023
+
 Content conformance is the key to interoperability and gaining optimal coverage across a wide set of heterogeneous devices and platforms. The joint project undertaken over the past two years has improved the tool, making it more reliable and accessible. 
 
 The Joint Content Conformance Project (JCCP) aims to to improve and refactor the current code base of the Conformance Validator [1].  It was funded by DASH-IF along with the DVB Project, the Consumer Technology Association® WAVE (Web Application Video Ecosystem) Project, the HbbTV Association, and ATSC
