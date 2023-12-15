@@ -45,13 +45,9 @@ In the scope of the JCCP project, various goals were achieved:
 
 ## Quotes
 
-Iraj Sodagar (Tencent America, DASH-IF President):
+Iraj Sodagar (Tencent America, DASH-IF President): The conformance validator software has been a very popular tool for validating the conformance of generated content to various media streaming standards and consortia specs. This project signifies a substantial enhancement over its predecessor, rendering the software more amenable to further developments. Moreover, it serves as a testament to the collaborative capacity of consortia in open-source projects for the benefit of the industry as a whole.
 
-The conformance validator software has been a very popular tool for validating the conformance of generated content to various media streaming standards and consortia specs. This project signifies a substantial enhancement over its predecessor, rendering the software more amenable to further developments. Moreover, it serves as a testament to the collaborative capacity of consortia in open-source projects for the benefit of the industry as a whole.
-
-Daniel Silhavy (Fraunhofer FOKUS):
-
-The Conformance Validator is a very valuable tool in the context of dash.js development. Often, we are faced with situations in which users create invalid DASH streams that result in issues or cause side effects during playback with dash.js. Having the opportunity to validate these streams in the Conformance Validator and highlighting potential errors in the content itself helps us to distinguish between real bugs in the player and issues caused by invalid content.
+Daniel Silhavy (Fraunhofer FOKUS): The Conformance Validator is a very valuable tool in the context of dash.js development. Often, we are faced with situations in which users create invalid DASH streams that result in issues or cause side effects during playback with dash.js. Having the opportunity to validate these streams in the Conformance Validator and highlighting potential errors in the content itself helps us to distinguish between real bugs in the player and issues caused by invalid content.
 
 ## References
 
