@@ -25,8 +25,8 @@ jobs:
         npm --version
     - name: Install hugo
       run: |
-        wget https://github.com/gohugoio/hugo/releases/download/v0.59.1/hugo_0.59.1_Linux-64bit.deb
-        sudo dpkg -i hugo_0.59.1_Linux-64bit.deb
+        wget https://github.com/gohugoio/hugo/releases/download/v0.121.1/hugo_0.121.1_linux-amd64.deb
+        sudo dpkg -i hugo_0.121.1_linux-amd64.deb
     - name: Install js dependencies
       run: |
         npm install
