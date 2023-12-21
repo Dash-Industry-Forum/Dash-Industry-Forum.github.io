@@ -47,7 +47,7 @@
       <link>https://dash-industry-forum.github.io/identifiers/content_rating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/identifiers/content_rating/</guid>
-      <description>Introduction Content Rating may be provided in the MPD.&#xA;Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:&#xA;Identifier Reference Section Comment urn:dvb:iptv:guidance:2014 http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf clause 9.1.2.3 Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed.</description>
+      <description>Introduction Content Rating may be provided in the MPD.&#xA;Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:&#xA;Identifier Reference Section Comment urn:dvb:iptv:guidance:2014 ETSI TS 103 285 clause 9.1.2.3 Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed.</description>
     </item>
     <item>
       <title>Event Schemes</title>
@@ -61,7 +61,7 @@
       <link>https://dash-industry-forum.github.io/identifiers/functionality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/identifiers/functionality/</guid>
-      <description>Functionality Identifier Reference Section Comment https://dashif.org/guidelines/trickmode clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout. https://dashif.org/guidelines/AdaptationSetSwitching clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective. urn:3GPP:dash:3dVideoDisplayInformation:2013 clause C.</description>
+      <description>Functionality Identifier Reference Section Comment https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2 clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout. https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2 clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
     </item>
     <item>
       <title>Output Protection</title>
@@ -89,14 +89,14 @@
       <link>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</guid>
-      <description>Introduction Reporting scheme may be provided in the MPD.&#xA;Reporting Schemes Identifier Reference Section Comment urn:dvb:dash:reporting:2014 clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285. urn:3GPP:ns:PSS:DASH:QM10 clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10” </description>
+      <description>Introduction Reporting scheme may be provided in the MPD.&#xA;Reporting Schemes Identifier Reference Section Comment urn:dvb:dash:reporting:2014 ETSI TS 103 285 clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285. urn:3GPP:ns:PSS:DASH:QM10 3GPP TS 26.247 clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10” </description>
     </item>
     <item>
       <title>SAND</title>
       <link>https://dash-industry-forum.github.io/identifiers/sand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/identifiers/sand/</guid>
-      <description>General MPEG DASH part 5 Server And Network-assisted DASH defines messages and MPD signalling for a DASH client and a DANE (network entity) to exchange such SAND messages.&#xA;Test vectors for SAND MPDs and messages can be fond at Test Vectors.&#xA;The following are the identifiers defined in several specification related to SAND.&#xA;SAND Identifier Reference Section Comment http://dashif.org/guidelines/sand/modes/qoe https://dashif.org/guidelines/#guidelines-for-implementation-dash-if-sand-interoperability 4. Capability Exchange http://dashif.org/guidelines/sand/modes/pc https://dashif.org/guidelines/#guidelines-for-implementation-dash-if-sand-interoperability 4. Capability Exchange http://dashif.org/guidelines/sand/modes/na https://dashif.org/guidelines/#guidelines-for-implementation-dash-if-sand-interoperability 4.</description>
+      <description>General MPEG DASH part 5 Server And Network-assisted DASH defines messages and MPD signalling for a DASH client and a DANE (network entity) to exchange such SAND messages.&#xA;Test vectors for SAND MPDs and messages can be fond at Test Vectors.&#xA;The following are the identifiers defined in several specification related to SAND.&#xA;SAND Identifier Reference Section Comment http://dashif.org/guidelines/sand/modes/qoe DASH-IF SAND Interoperability 4. Capability Exchange http://dashif.org/guidelines/sand/modes/pc DASH-IF SAND Interoperability 4. Capability Exchange http://dashif.</description>
     </item>
     <item>
       <title>Subtitle and Closed Captioning</title>
