@@ -360,63 +360,63 @@
     
     <tr>
       <td><code>urn:aomedia:cmaf:id3          </code></td>
-      <td> AOMedia Carriage of ID3 Timed Metadata      </td>
+      <td> https://aomediacodec.github.io/id3-emsg/                                                    </td>
       <td>         </td>
       <td> ID3V2 metadata. Value is a URI defining the sematic. Inband event. Message_data contains ID3 version 2.4 data. Presentation time can not go beyond the CMAF fragment boundary. No explicit dispatch mode fis defined.</td>
     </tr>
     
     <tr>
       <td><code>tag:atsc.org,2016:event       </code></td>
-      <td> DASH-IF Interoperability Point for ATSC 3.0 </td>
+      <td> https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf                                    </td>
       <td> 5.6.3   </td>
       <td> ATSC Stream table update. @value shall be set to stu.  Inband event. Not clear what is carried in message_data. No explicit dispatch mode is defined. An ATSC 3.0 application may use its application events and subscribe to a specific event by (SchemeIdURI, value) pair. However, the dispatch model of events is not specified in the ATSC 3.0 DASH client processing model.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:cpm:2014         </code></td>
-      <td> ETSI TS 103 285 V1.3.1                      </td>
+      <td> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </td>
       <td> 9.1.2.1 </td>
       <td> TV-Anytime Content Programm Metadata. It provides content identifiers and basic metadata relating to the current programme. MPD or inband event. 1.	The event duration indicates the minimum validity duration of the metadata. The event with the latest presentation time takes precedence among events with overlapping durations. The event payload carries the TV-Anytime element. No explicit dispatch mode for the above event is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:rating:2014      </code></td>
-      <td> ETSI TS 103 285 V1.3.1                      </td>
+      <td> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </td>
       <td> 9.1.2.3 </td>
       <td> Parental rating. Id carries the minimum age. MPD or inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:guidance:2014    </code></td>
-      <td> ETSI TS 103 285 V1.3.1                      </td>
+      <td> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </td>
       <td> 9.1.2.3 </td>
       <td>	Parental rating. Id carries the rating. Id carries the rating. MPD or inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:dash:radiovis:2016    </code></td>
-      <td> ETSI TS 103 285 V1.3.1                      </td>
+      <td> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </td>
       <td> 9.1.2.3 </td>
       <td>	Hybrid radio slide show of text or iamges. @value shall be set to 1, 2, or 3. Inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:xml      </code></td>
-      <td> SCTE 214-1                                  </td>
+      <td> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </td>
       <td> 6.7.2   </td>
       <td> XML representation of SCTE 35 message. MPD event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. The use of this scheme is discouraged.</td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:xml&#43;bin  </code></td>
-      <td> SCTE 214-1                                  </td>
+      <td> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </td>
       <td> 6.7.2   </td>
       <td> XML representation of SCTE 35 message in binary form. MPD event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. The most used event scheme.  </td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:bin      </code></td>
-      <td> SCTE 214-1                                  </td>
+      <td> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </td>
       <td> 6.7.3   </td>
       <td> binary representation of SCTE 35 message in emsg box. It is defined in 214-3, but being moved in 214-1. Inband event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. </td>
     </tr>
