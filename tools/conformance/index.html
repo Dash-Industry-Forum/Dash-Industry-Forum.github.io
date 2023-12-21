@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -326,14 +326,12 @@
   <main role="main" class="container">
     
   <p>Available at <a href="https://conformance.dashif.org">https://conformance.dashif.org</a>, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):</p>
-
 <ul>
 <li>The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …)</li>
 <li>Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…).</li>
 <li>Cross-representation checks (Segment/subsegment alignment, bitstream switching).</li>
 <li>Whether there are missing segments.</li>
 </ul>
-
 <p>The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</p>
 
 

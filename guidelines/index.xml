@@ -6,38 +6,27 @@
     <description>Recent content in Guidelines on DASH Industry Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://dash-industry-forum.github.io/guidelines/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://dash-industry-forum.github.io/guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IOP version 5</title>
       <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
       <description>Introduction With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale. The multipart set of documents is collectively called “DASH-IF Interoperability Points, V5.0” (IOP V5). Version 5 of the DASH-IF IOP is defined for usage with the MPEG DASH specification (ISO/IEC 23009-1) and further constrained to deliver media formatted according to the MPEG CMAF Specification (ISO/IEC 23000-19).</description>
     </item>
-    
     <item>
       <title>Earlier Versions</title>
       <link>https://dash-industry-forum.github.io/guidelines/earlier-versions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/earlier-versions/</guid>
-      <description>Introduction DASH-IF publishes primarily three types of documents:
- Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+      <description>Introduction DASH-IF publishes primarily three types of documents:&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.</description>
     </item>
-    
     <item>
       <title>Other Documents</title>
       <link>https://dash-industry-forum.github.io/guidelines/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/others/</guid>
-      <description>Introduction Beyond the DASH-IF Interoperability Guidelines, DASH-IF also publishes specifications and reports. Those are collected in this clause.
- Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+      <description>Introduction Beyond the DASH-IF Interoperability Guidelines, DASH-IF also publishes specifications and reports. Those are collected in this clause.&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
     </item>
-    
   </channel>
 </rss>

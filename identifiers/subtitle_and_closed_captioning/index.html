@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -325,16 +325,10 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="introduction">Introduction</h1>
-
+  <h1 id="introduction">Introduction</h1>
 <p>Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.</p>
-
 <h1 id="identifiers">Identifiers</h1>
-
 <p>Signalling for the closed caption services is provided by including <strong>Accessibility</strong> descriptors. The <strong>Accessibility</strong>  descriptor is included for the <strong>AdaptationSet</strong> and all included <strong>Representations</strong> shall provide  equivalent captions. The <strong>@value</strong> attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</p>
-
 <table>
 
 
@@ -352,7 +346,7 @@
     
     <tr>
       <td><code>urn:scte:dash:cc:cea-608:2015</code></td>
-      <td><a href=""></a></td>
+      <td><a href="">DASH-IF IOP v3.3</a></td>
       <td>Section 6.4.3.3</td>
       <td>Used for signaling of CEA-608 caption services. The Accessibility descriptor shall be provided with @schemeIdURI set to urn:scte:dash:cc:cea-608:2015, and an optional @value attribute to describe the captions. If the @value attribute is not present, the Representation contains a CEA-608 based closed captioning service. The options for the @value attribute is further described in the reference.</td>
     </tr>

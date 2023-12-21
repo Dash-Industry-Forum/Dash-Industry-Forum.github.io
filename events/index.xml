@@ -6,65 +6,48 @@
     <description>Recent content in Events on DASH Industry Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://dash-industry-forum.github.io/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://dash-industry-forum.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summary</title>
       <link>https://dash-industry-forum.github.io/events/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/events/</guid>
-      <description>DASH-IF runs, organizes and sponsors different events:
- DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
+      <description>DASH-IF runs, organizes and sponsors different events:&#xA;DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events) If you are interested in organizing an event, please contact DASH-IF.</description>
     </item>
-    
     <item>
       <title>Social Events</title>
       <link>https://dash-industry-forum.github.io/events/social-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/social-events/</guid>
-      <description>Here is a list of DASH-IF Social Events over last years. You will also find the sponsors of the events.
- September 17, 2023: DASH-IF at IBC 2023 September 11, 2022: DASH-IF at IBC 2022 September 15, 2019: DASH-IF at IBC 2019 April 10, 2019: DASH-IF at NAB 2019 September 16, 2018: DASH-IF at IBC 2018 April 11, 2018: DASH-IF at NAB 2018 September 17, 2017: DASH-IF at IBC 2017 together with VR-IF April 26, 2017: DASH-IF at NAB 2017 September 11, 2016: DASH-IF at IBC 2016 April 20, 2016: DASH-IF at NAB 2016 together with UltraHD Forum September 14, 2014: DASH-IF at IBC 2014 September 13, 2013: DASH-IF at IBC 2013  </description>
+      <description>Here is a list of DASH-IF Social Events over last years. You will also find the sponsors of the events.&#xA;September 17, 2023: DASH-IF at IBC 2023 September 11, 2022: DASH-IF at IBC 2022 September 15, 2019: DASH-IF at IBC 2019 April 10, 2019: DASH-IF at NAB 2019 September 16, 2018: DASH-IF at IBC 2018 April 11, 2018: DASH-IF at NAB 2018 September 17, 2017: DASH-IF at IBC 2017 together with VR-IF April 26, 2017: DASH-IF at NAB 2017 September 11, 2016: DASH-IF at IBC 2016 April 20, 2016: DASH-IF at NAB 2016 together with UltraHD Forum September 14, 2014: DASH-IF at IBC 2014 September 13, 2013: DASH-IF at IBC 2013 </description>
     </item>
-    
     <item>
       <title>Member Meetings (face-to-face)</title>
       <link>https://dash-industry-forum.github.io/events/member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/member/</guid>
-      <description> Upcoming Meetings  June 15-16, 2023 - Berlin, Germany: DASH-IF #23 together with Fraunhofer Fokus - Media Web Symposium  History of DASH-IF f2f meetings since 2012.  June 23-24, 2022 - Berlin, Germany: DASH-IF #22 together with Fraunhofer Fokus - Media Web Symposium December 10-12, 2019 - Portland, OR, United States: DASH-IF #21 hosted by Amazon May 20-21, 2019 - Berlin, Germany: DASH-IF #20 together with Fraunhofer Fokus - Media Web Symposium December , 2018 - San Diego, CA, United States: DASH-IF #19 hosted by Sony May 17-18, 2018 - Berlin, Germany: DASH-IF #18 together with Fraunhofer Fokus - Media Web Symposium November 29-December 1, 2017 - San Diego, CA, US: DASH-IF #17 hosted by Qualcomm May 18-19, 2017 - Berlin, Germany: DASH-IF #16 together with Fraunhofer Fokus - Media Web Symposium DASH-IF #15 December, 2016 - San Francisco, CA, United States: DASH-IF #14 hosted by Adobe August , 2016 - New York City, NY, US: DASH-IF #13 hosted by Comcast May 18-20, 2016 - Munich, Germany: DASH-IF #12 hosted by Maxdome DASH-IF #11 August 18-20, 2015 - San Diego, CA, US: DASH-IF #10 hosted by Qualcomm March 16-17, 2015 - Geneva, Switzerland: DASH-IF #9 hosted by the EBU December 3-5, 2014 - Westminster, CO, United States: DASH-IF #8 hosted by CableLabs August 11-12, 2014 - San Francisco, CA, United States: DASH-IF #7 hosted by Adobe March 24-25, 2014 - Geneva, Switzerland: DASH-IF #6 hosted by the EBU November 20-22, 2013 - San Diego, CA, US: DASH-IF #5 hosted by Qualcomm July 16-17, 2013 - San Jose, CA, US: DASH-IF #4 hosted by Adobe DASH-IF #3 DASH-IF #2 DASH-IF #1  </description>
+      <description>Upcoming Meetings June 15-16, 2023 - Berlin, Germany: DASH-IF #23 together with Fraunhofer Fokus - Media Web Symposium History of DASH-IF f2f meetings since 2012. June 23-24, 2022 - Berlin, Germany: DASH-IF #22 together with Fraunhofer Fokus - Media Web Symposium December 10-12, 2019 - Portland, OR, United States: DASH-IF #21 hosted by Amazon May 20-21, 2019 - Berlin, Germany: DASH-IF #20 together with Fraunhofer Fokus - Media Web Symposium December , 2018 - San Diego, CA, United States: DASH-IF #19 hosted by Sony May 17-18, 2018 - Berlin, Germany: DASH-IF #18 together with Fraunhofer Fokus - Media Web Symposium November 29-December 1, 2017 - San Diego, CA, US: DASH-IF #17 hosted by Qualcomm May 18-19, 2017 - Berlin, Germany: DASH-IF #16 together with Fraunhofer Fokus - Media Web Symposium DASH-IF #15 December, 2016 - San Francisco, CA, United States: DASH-IF #14 hosted by Adobe August , 2016 - New York City, NY, US: DASH-IF #13 hosted by Comcast May 18-20, 2016 - Munich, Germany: DASH-IF #12 hosted by Maxdome DASH-IF #11 August 18-20, 2015 - San Diego, CA, US: DASH-IF #10 hosted by Qualcomm March 16-17, 2015 - Geneva, Switzerland: DASH-IF #9 hosted by the EBU December 3-5, 2014 - Westminster, CO, United States: DASH-IF #8 hosted by CableLabs August 11-12, 2014 - San Francisco, CA, United States: DASH-IF #7 hosted by Adobe March 24-25, 2014 - Geneva, Switzerland: DASH-IF #6 hosted by the EBU November 20-22, 2013 - San Diego, CA, US: DASH-IF #5 hosted by Qualcomm July 16-17, 2013 - San Jose, CA, US: DASH-IF #4 hosted by Adobe DASH-IF #3 DASH-IF #2 DASH-IF #1 </description>
     </item>
-    
     <item>
       <title>Special Sessions</title>
       <link>https://dash-industry-forum.github.io/events/special-sessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/special-sessions/</guid>
       <description>Introduction In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams.</description>
     </item>
-    
     <item>
       <title>Workshops</title>
       <link>https://dash-industry-forum.github.io/events/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/workshops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Supported Conferences</title>
       <link>https://dash-industry-forum.github.io/events/conferences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/conferences/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

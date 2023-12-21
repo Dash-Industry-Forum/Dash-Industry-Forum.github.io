@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -325,30 +325,21 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="validators">Validators</h1>
-
+  <h1 id="validators">Validators</h1>
 <h2 id="dash-if-validator">DASH-IF Validator</h2>
-
 <p>Available at <a href="https://conformance.dashif.org/">https://conformance.dashif.org/</a>, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):</p>
-
 <ul>
 <li>The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …)</li>
 <li>Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…).</li>
 <li>Cross-representation checks (Segment/subsegment alignment, bitstream switching).</li>
 <li>Whether there are missing segments.</li>
 </ul>
-
 <h2 id="manifest-validators">MANIFEST Validators</h2>
-
 <ul>
 <li>ITEC– available at <a href="https://www-itec.uni-klu.ac.at/dash/?page_id=605">https://www-itec.uni-klu.ac.at/dash/?page_id=605</a>, the validator offers the possibility to validate DASH manifest files. This can either be done via file upload, URL or direct input of the description. Furthermore, the validator checks not only schema compliance but also semantic compliance of a description as specified in the corresponding parts of the standard.</li>
 <li><a href="https://github.com/Eyevinn/dash-validator-js">https://github.com/Eyevinn/dash-validator-js</a> – a JavaScript-based manifest validator from the Eyevinn Technology Open Source Software Center</li>
 </ul>
-
 <h2 id="cpix-document-validator">CPIX document validator</h2>
-
 <p>Available at <a href="https://cpix-validator.azurewebsites.net/">https://cpix-validator.azurewebsites.net/</a>, this tool validates the conformance of XML documents to the Content Protection Information Exchange (CPIX) specification.</p>
 
 

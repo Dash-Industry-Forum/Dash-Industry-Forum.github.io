@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -325,44 +325,27 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="introduction">Introduction</h1>
-
+  <h1 id="introduction">Introduction</h1>
 <p>DASH-IF publishes primarily three types of documents:</p>
-
 <ul>
 <li><a href="#completed-DASH-IF-Interoperability-Documents">Completed Specifications and Guidelines</a>: The documents below are stable and have undergone a community review.</li>
 <li><a href="#DASH-IF-Interoperability-Documents-for-Community-Review">Documents for community review</a>: These documents are technically solid, but public is asked for comments in order to improve details.</li>
 <li><a href="#DASH-IF-Position-and-White-Papers">Position and White Papers</a>: These documents provide background and initial studies</li>
 </ul>
-
 <h1 id="completed-dash-if-interoperability-documents">Completed DASH-IF Interoperability Documents</h1>
-
 <h2 id="disclaimer">Disclaimer</h2>
-
 <p>The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.g, request for clarifications or bugs. For this purpose, please use the Github bug tracker cited along with the documents.</p>
-
 <h2 id="dash-if-interoperability-points-and-extensions">DASH-IF Interoperability Points and Extensions</h2>
-
 <h3 id="scope">Scope</h3>
-
 <p>The scope of the DASH-IF InterOperability Points (IOPs) defined in this document is to provide support for high-quality video distribution for over the top services using H.264/AVC and H.265/HEVC. Both live and on-demand services are supported. The specified features enable relevant use cases including on-demand, live services, ad insertion, trick modes, seek preview, content protection and subtitling. Extensions for multi-channel audio and next generation audio with different codecs as well as extensions to video different codecs and Ultra High Definition are defined.</p>
-
 <p>Any identified bugs or missing features may be submitted through the DASH-IF issue tracker at <a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues</a>.</p>
-
 <p>Note that version 4.3 is published as an add on to v4.2, but with the next version it is expected that a either a multipart version or a restructured version will be generated, with a major editorial updates. The new version is expected to be available by spring of 2020.</p>
-
 <h3 id="latest-version">Latest Version</h3>
-
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3.pdf">Guidelines for Implementation: DASH-IF Interoperability Points V4.3: On-Demand and Mixed Services, HDR Dynamic Metadata and other Improvements</a> | (<a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">Bugtracker</a>) | (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.3-diff-v4.2.pdf">diff to v4.2</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></li>
 </ul>
-
 <h3 id="agreed-additions-for-next-version">Agreed Additions for Next Version</h3>
-
 <p>This clause lists a set of agreed additions that will be added to the next revision of the IOP Guidelines. They are typically documented as &ldquo;Change Requests&rdquo; documenting only the difference from the previous versions.</p>
-
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/CR-Low-Latency-Live-r8.pdf">Low-Latency Modes for DASH</a> | (<a href="https://github.com/Dash-Industry-Forum/Live/issues">Bugtracker</a>)</li>
 <li><a href="https://dash-industry-forum.github.io/docs/EventTimedMetadataProcessing-v1.0.2.pdf">DASH events and timed metadata tracks timing and processing model and client reference model</a>  | (<a href="https://github.com/Dash-Industry-Forum/Events/issues">Bugtracker</a>)</li>
@@ -370,9 +353,7 @@
 <li><a href="https://dashif-documents.azurewebsites.net/Guidelines-Security/master/Guidelines-Security.html">DASH-IF implementation guidelines: content protection and security</a> | (<a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">Bugtracker</a>)</li>
 <li><a href="https://dash-industry-forum.github.io/docs/CR-Ad-Insertion-r8.pdf">Advanced Ad Insertion in DASH</a>(<strong>updated Dec 14,2020</strong>) | (<a href="https://github.com/Dash-Industry-Forum/AdInsertion/issues">Bugtracker</a>)</li>
 </ul>
-
 <h3 id="previous-versions">Previous Versions</h3>
-
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.pdf">Guidelines for Implementation: DASH-IF Interoperability Points V4.2: Multiple Clarifications and Bug fixes</a> | (<a href="https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP">Bugtracker</a>) | (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-diff-4.1.pdf">diff to v4.1</a>) | (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.2-clean.htm">Online version</a>)</li>
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-v4.1-clean.pdf">Guidelines for Implementation: DASH-IF Interoperability Points V4.1: Robust Live, Seek Preview, Content Annotation, New Media Codecs and other extensions</a> | <a href="https://dashif.org/ipr-declarations/">License declarations</a></li>
@@ -384,19 +365,12 @@
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-AVC-264-v2.00-hd-mca.pdf">Guidelines for Implementation: DASH-AVC/264 Interoperability Points V2.0: HD and Multi-Channel Audio Extensions</a> | (<a href="https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP">Bugtracker</a>)</li>
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-AVC-264-base-v1.03.pdf">Guidelines for Implementation: DASH-AVC/264 Interoperability Points V1.0</a> | (<a href="https://gitreports.com/issue/Dash-Industry-Forum/DASH-IF-IOP">Bugtracker</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></li>
 </ul>
-
 <h2 id="dash-if-content-protection-information-exchange-format">DASH-IF Content Protection Information Exchange Format</h2>
-
 <h3 id="scope-1">Scope</h3>
-
 <p>The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.</p>
-
 <h3 id="latest-version-1">Latest Version</h3>
-
 <p>DASH-IF Implementation Guidelines v2.3: <a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/XmlSchema.zip">XSD</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.pdf">PDF</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>) | (<a href="https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf">ETSI</a>)</p>
-
 <p>Changes from 2.2 are</p>
-
 <ul>
 <li>Addition of the <code>commonEncryptionScheme</code> element with the CENC protection scheme value</li>
 <li>Addition of the <code>version</code> element</li>
@@ -404,9 +378,7 @@
 <li>Clarification on the <code>explicitIV</code> element encoding</li>
 <li>Typos corrections</li>
 </ul>
-
 <h3 id="previous-versions-1">Previous Versions</h3>
-
 <ul>
 <li>DASH-IF Implementation Guidelines v2.2: <a href="https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf">PDF</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip">XSD</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>)</li>
 <li>DASH-IF Implementation Guidelines v2.1: <a href="https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf">PDF</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip">XSD</a>) | (<a href="https://gitreports.com/issue/Dash-Industry-Forum/CPIX">Bugtracker</a>)</li>
@@ -415,21 +387,13 @@ Exchange Format (CPIX)</a>| (<a href="https://dash-industry-forum.github.io/docs
 <li>DASH-IF Implementation Guidelines v1.0: <a href="https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.pdf">Content Protection Information
 Exchange Format (CPIX)</a>| (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v1.0.zip">XML</a>)| (<a href="https://gitreports.com/issue/Dash-Industry-Forum/CPIX">Bugtracker</a>)</li>
 </ul>
-
-<h2 id="guidelines-for-implementation-dash-if-interoperability-point-for-atsc-3-0">Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0</h2>
-
+<h2 id="guidelines-for-implementation-dash-if-interoperability-point-for-atsc-30">Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0</h2>
 <h3 id="scope-2">Scope</h3>
-
 <p>The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.</p>
-
 <p>Comments and bugs may be submitted through the <a href="https://gitreports.com/issue/Dash-Industry-Forum/ATSC">public github repository</a>.</p>
-
 <h3 id="latest-version-2">Latest Version</h3>
-
 <p>Version 1.1: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf">pdf</a> | <a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1-diff-v1.0.pdf">diff to v1.0</a>)</p>
-
 <p>This updated version adds the following aspects:</p>
-
 <ul>
 <li>Update of references to refer to the latest correct versions</li>
 <li>Clarification on track selection in clause 3.3 and addition of a new clause 2.7.5</li>
@@ -442,66 +406,40 @@ Exchange Format (CPIX)</a>| (<a href="https://dash-industry-forum.github.io/docs
 <li>Update to xlink behavior in clause 5.1</li>
 <li>Miscellaneous editorial updates</li>
 </ul>
-
 <h3 id="previous-versions-2">Previous Versions</h3>
-
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf">Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0</a> | <a href="https://dashif.org/ipr-declarations/">License declarations</a></li>
 </ul>
-
 <h2 id="guidelines-for-implementation-dash-if-sand-interoperability">Guidelines for Implementation: DASH-IF SAND Interoperability</h2>
-
 <h3 id="scope-3">Scope</h3>
-
 <p>The scope of this document is to address interoperability aspects and deployment guidelines for Server and Network Assisted DASH (SAND). More specifically, the following aspects of SAND are covered:
-•   Modes defining subsets of SAND messages and mandatory SAND protocols to use for specific deployment environments
-•   Capability exchange procedures for DASH clients and DANEs
-•   Security guidelines for SAND messages delivery
-•   Procedures on DANE discovery for SAND</p>
-
+•	Modes defining subsets of SAND messages and mandatory SAND protocols to use for specific deployment environments
+•	Capability exchange procedures for DASH clients and DANEs
+•	Security guidelines for SAND messages delivery
+•	Procedures on DANE discovery for SAND</p>
 <p>Comments and bugs may be submitted through the <a href="https://gitreports.com/issue/Dash-Industry-Forum/SAND">public github repository</a></p>
-
 <h3 id="latest-version-3">Latest Version</h3>
-
 <p>Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
-
 <h2 id="dash-if-implementation-guidelines-token-based-access-control-for-dash-tac">DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)</h2>
-
 <h3 id="scope-4">Scope</h3>
-
 <p>The scope of this document is to define a token-based access control mechanism and to enable the signaling of Authentication and Authorization (AA) protocols for DASH-based streaming. An Access Token is a proof that a DASH client or user of the client have been successfully authenticated and authorized in some pre-determined AA Systems to access a particular DASH resource, e.g. DASH segments or MPDs.
 This document defines an Access Token format for accessing DASH resources and its transport between a DASH client and a server, hence ensuring interoperability between content providers and content delivery networks. The document focuses on the signaling and exchange mechanisms to facilitate Access Token-protected requests for the delivery of MPDs, licenses, keys and segments. This document can be used in addition to the general DASH-IF Interoperability Points.</p>
-
 <p>Comments and bugs may be submitted through the <a href="https://gitreports.com/issue/Dash-Industry-Forum/TAC">public github repository</a></p>
-
 <h3 id="latest-version-4">Latest Version</h3>
-
-<p><a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm">DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)</a> (<a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
-
+<p>[DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)] (<a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm">https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm</a>) (<a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
 <h2 id="dash-if-technical-specification-live-media-ingest">DASH-IF Technical Specification: Live Media Ingest</h2>
-
 <h3 id="scope-5">Scope</h3>
-
 <p>This document presents the DASH-IF Live Media Ingest Protocol Specification. Two protocol interfaces are defined. The first, interface 1, CMAF ingest, is based on fragmented MPEG-4 as defined in the common media application track format (CMAF). The second interface is based on MPEG DASH and HLS as defined by ISO SC29 WG 11 and IETF. Both Interfaces use the HTTP POST Method to transmit media objects from the ingest source to the receiving entity. Examples of live streaming workflows using these protocol interfaces are also presented. The protocol interfaces also support carriage of timed metadata and timed text. Guidelines for redundancy and failover are also included.</p>
-
 <h3 id="latest-version-5">Latest Version</h3>
-
-<p><a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html">DASH-IF Live Media Ingest Protocol v1.0</a> (<a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
-
+<p>[DASH-IF Live Media Ingest Protocol v1.0] (<a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html">https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html</a>) (<a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
 <h3 id="comments-and-bugs">Comments and Bugs</h3>
-
 <p>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Ingest/issues">github</a> or <a href="https://gitreports.com/issue/Dash-Industry-Forum/Ingest">public bugtracker</a></p>
-
 <h2 id="dash-if-test-cases-and-vectors">DASH-IF Test cases and Vectors</h2>
-
 <ul>
 <li>Guidelines for Implementation: <a href="https://testassets.dashif.org">Test cases and Vectors V1.0</a> | (<a href="https://github.com/Dash-Industry-Forum/Test-Cases/issues">Bugtracker</a>)</li>
 </ul>
-
 <h1 id="dash-if-interoperability-documents-for-community-review">DASH-IF Interoperability Documents for Community Review</h1>
-
 <h2 id="general">General</h2>
-
 <p>Community Review documents are published on the DASH-IF website in order to
 get feedback from the industry on tools and features that are documented for
 improved interoperability. For each of the documents, comments may be
@@ -509,17 +447,13 @@ submitted on the technologies itself, on specific features, etc. These
 documents are only published temporarily for community review and will be
 replaced by a full version after the commenting period has closed and the
 comments have been addressed.</p>
-
 <h2 id="dash-if-technical-specification-audio-update">DASH-IF Technical Specification: Audio Update</h2>
-
 <ul>
 <li>A revision for community review for the Live Media Ingest specification is provided here: <a href="https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1-cl.pdf">Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3, rev1.1 (clean)</a> <a href="https://dash-industry-forum.github.io/docs/Audio%20Amendment%20to%20DASH%20IOP%204.3%20-%201.1.pdf">(revision mark)</a></li>
 <li>Community review is open until June 30th, 2021. Publication is expected by August 31, 2021.</li>
 <li>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Audio/issues">github</a></li>
 </ul>
-
 <h2 id="dash-if-technical-specification-live-media-ingest-version-2">DASH-IF Technical Specification: Live Media Ingest version 2</h2>
-
 <ul>
 <li>A revision for community review for the Live Media Ingest specification is provided
 <a href="https://dashif-documents.azurewebsites.net/Ingest/pull/143/DASH-IF-Ingest.html">here (html)</a></li>
@@ -527,9 +461,7 @@ comments have been addressed.</p>
 <li>Community review is open until May 31st, 2021. Publication is expected by August 31, 2021.</li>
 <li>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Ingest/issues">github</a>.</li>
 </ul>
-
 <h2 id="updated-timing-model-for-v5">Updated Timing Model for v5</h2>
-
 <ul>
 <li>The change request against IOP v4.3 for Community Review is accessible
 <a href="https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.pdf">here (pdf)</a> and <a href="https://dashif-documents.azurewebsites.net/Guidelines-TimingModel/master/Guidelines-TimingModel.html">here (html)</a></li>
@@ -538,19 +470,15 @@ comments have been addressed.</p>
 <li>Community review is open until November 30th, 2019. Addition to IOP is expected by Q1/2020.</li>
 <li>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Guidelines-TimingModel/issues/new?labels=community-review">github</a>.</li>
 </ul>
-
 <h2 id="webidl-dash-event-metadata-api">WebIDL DASH Event Metadata API</h2>
-
 <ul>
 <li>The change request against IOP v4.3 for Community Review is accessible
-<a href="https://dash-industry-forum.github.io/docs/Event API-WebIDL-r1.htm">here</a> and a <a href="https://dash-industry-forum.github.io/docs/Event API-WebIDL-CR.pdf">pdf version</a>.</li>
-<li>This document specifies an API that a user agent or DASH client can expose for application access to DASH events. This builds upon Media Source Extensions. The API correspond to partial interfaces with respect to the DASHEvent event target. It is meant to cover both in-band (&lsquo;emsg&rsquo;) and MPD-carriage of events, as well as sparse timed metadata tracks.</li>
+[here](<a href="https://dash-industry-forum.github.io/docs/Event">https://dash-industry-forum.github.io/docs/Event</a> API-WebIDL-r1.htm) and a [pdf version](<a href="https://dash-industry-forum.github.io/docs/Event">https://dash-industry-forum.github.io/docs/Event</a> API-WebIDL-CR.pdf).</li>
+<li>This document specifies an API that a user agent or DASH client can expose for application access to DASH events. This builds upon Media Source Extensions. The API correspond to partial interfaces with respect to the DASHEvent event target. It is meant to cover both in-band (&rsquo;emsg&rsquo;) and MPD-carriage of events, as well as sparse timed metadata tracks.</li>
 <li>Community review is open until August 31st, 2019. Addition to IOP is expected by Q1/2020.</li>
 <li>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Events/issues/new?labels=community-review">github</a> adding label &ldquo;Community-Review&rdquo; or <a href="https://gitreports.com/issue/Dash-Industry-Forum/Events">public bugtracker</a></li>
 </ul>
-
 <h1 id="dash-if-position-and-white-papers">DASH-IF Position and White Papers</h1>
-
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf">DASH-IF position Paper: DASH-IF Position Paper: Server and Network
 Assisted DASH (SAND)</a> (500k PDF)</li>
@@ -563,24 +491,23 @@ Material</a> (600k PDF)</li>
 (Streaming recording)</a></li>
 <li><a href="https://dash-industry-forum.github.io/docs/Survey-of-the-European-Broadcasters-on-MPEG-DASH-Whitepaper-V2.1.pdf">Survey of European Broadcasters on MPEG-DASH</a></li>
 <li><a href="http://spie.org/x648.html?product_id=897211">Reinventing multimedia delivery with MPEG-DASH</a>, SPIE Applications of
-Digital Image Processing XXXIV, Sept 2011.
-<br /></li>
+Digital Image Processing XXXIV, Sept 2011.</li>
 </ul>
-
 <h1 id="iso-publicly-available-specifications">ISO Publicly Available Specifications</h1>
-
 <ul>
-<li><p><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards/c065274_ISO_IEC_23009-1_2014.zip">MPEG-DASH 2nd Edition Specification (ISO/IEC 23009-1:2014)</a></p>
-
+<li>
+<p><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards/c065274_ISO_IEC_23009-1_2014.zip">MPEG-DASH 2nd Edition Specification (ISO/IEC 23009-1:2014)</a></p>
 <ul>
-<li><a href="https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf">Summary of new features</a>
-<br /></li>
-</ul></li>
-
-<li><p><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards">MPEG-DASH 4th Edition Specification (ISO/IEC 23009-1:2020)</a></p></li>
-
-<li><p>T. Stockhammer: “<a href="http://www.w3.org/2010/11/web-and-tv/papers/webtv2_submission_64.pdf">Dynamic Adaptive Streaming over HTTP-Design Priciples
-and Standards</a>” In: MMSys ’11: Proceedings of the second annual ACM conference on Multimedia systems New York, NY, USA: ACM Press , Feb 2011,S. 133-144.</p></li>
+<li><a href="https://dash-industry-forum.github.io/docs/WhatsnewInMPEG-DASH2ndEdition.pdf">Summary of new features</a></li>
+</ul>
+</li>
+<li>
+<p><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards">MPEG-DASH 4th Edition Specification (ISO/IEC 23009-1:2020)</a></p>
+</li>
+<li>
+<p>T. Stockhammer: “<a href="http://www.w3.org/2010/11/web-and-tv/papers/webtv2_submission_64.pdf">Dynamic Adaptive Streaming over HTTP-Design Priciples
+and Standards</a>” In: MMSys ’11: Proceedings of the second annual ACM conference on Multimedia systems New York, NY, USA: ACM Press , Feb 2011,S. 133-144.</p>
+</li>
 </ul>
 
 

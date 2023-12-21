@@ -1,362 +1,169 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dash-industry-forum.github.io/identifiers/introduction/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/introduction/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/dashjs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/conformance/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/registration/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/social-events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/ipr-declarations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/member/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/others/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/testassets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/video/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/audio/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/sample/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/special-sessions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/validators/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/text/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/workshops/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/clients/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/conferences/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/academic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/members/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/membership/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/5g-workshop-2018/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/5th-edition/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/award-will-law/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/content-steering-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/dash-js-award-2021/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/dashjs400/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/dvb-world-2020/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/ibc-2022/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/ibc-2023/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/jccp-completion/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/jeff-tapper-award/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/jscsp/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/low-latency-dash/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/nab-2023/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/osmart-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/speke-cpix/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/v5-updates/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/vvc-yk/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/watermarking-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/watermarking-final/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/watermarking/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/webrtc-report/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/webrtc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/workshop-2019/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/academic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/codecs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/content_protection/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/content_rating/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/event_schemes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/functionality/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/output_protection/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/profiles/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/references/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/sand/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/watermarking/</loc>
   </url>
-  
 </urlset>

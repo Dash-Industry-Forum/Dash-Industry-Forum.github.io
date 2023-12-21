@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -325,82 +325,55 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="introduction">Introduction</h1>
-
+  <h1 id="introduction">Introduction</h1>
 <p>In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams. If you are interested to give a presentation as well, please contact us.</p>
-
 <ul>
 <li><a href="#special-sessions-2023">Special Sessions 2023</a></li>
 <li><a href="#special-sessions-2022">Special Sessions 2022</a></li>
 <li><a href="#special-sessions-2021">Special Sessions 2021</a></li>
 <li><a href="#special-sessions-2020">Special Sessions 2020</a></li>
 </ul>
-
 <h1 id="special-sessions-2023">Special Sessions 2023</h1>
-
 <h2 id="december-1-2023-media-over-quic-moq">December 1, 2023: Media Over QUIC (MOQ)</h2>
-
 <h3 id="presenters">Presenters:</h3>
-
 <ul>
 <li><a href="https://www.linkedin.com/in/wilaw/">Will Law</a> (Akamai)</li>
 <li><a href="https://www.linkedin.com/in/acbegen/">Ali C. Begen</a> (Ozyegin University)</li>
 </ul>
-
 <h3 id="abstract">Abstract:</h3>
-
 <p>This talk is an introduction to Media over QUIC (MoQ). We’ll examine why a new protocol is needed to leverage the benefits of QUIC, what is motivating the switch to pub/sub, the architectural layering of MoQ Transport and Streaming Formats, and a brief look at catalogs and the MoQT Object model.  We’ll conclude with demonstrations of MoQ implementations and a view into the current development schedule.</p>
-
 <h3 id="participants">Participants:</h3>
-
 <p>Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT &amp; CD-T were invited to the meeting. Over more than 100 people participated. Thank you!</p>
-
 <h3 id="recording-slides-and-other-material-to-be-completed">Recording, Slides and other Material (to be completed):</h3>
-
 <ul>
 <li><a href="https://dashif.my.webex.com/dashif.my/ldr.php?RCID=67bd2dc1c66e6e4133a24986e601d32f">Recording link</a> (Password: DashIf2023).</li>
 <li>Slides from <a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13530147/Media-over-QUIC-Will-Law.pdf">Will Law</a> and <a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13531331/MOQ_2023_12.pdf">Ali C. Begen</a></li>
 <li>If you participated in the event live or recording, please provide us <a href="https://forms.gle/MyPV2QtntYVuLU6t9">feedback</a> including options for potential work in DASH-IF.</li>
 </ul>
-
-<h2 id="march-10-2023-dash-if-open-source-and-reference-tools-breaking-news-on-live-sim-and-dash-js">March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js</h2>
-
+<h2 id="march-10-2023-dash-if-open-source-and-reference-tools---breaking-news-on-live-sim-and-dashjs">March 10, 2023: DASH-IF Open Source and Reference Tools - Breaking News on Live-Sim and dash.js</h2>
 <h3 id="presenters-1">Presenters:</h3>
-
 <ul>
 <li><a href="https://www.linkedin.com/in/torbjorneinarsson/">Torbjörn Einarsson</a> (Eyevinn)</li>
 <li><a href="https://www.linkedin.com/in/daniel-silhavy-21650a129/">Daniel Silhavy</a> (Fraunhofer Fokus)</li>
 </ul>
-
 <h3 id="abstract-1">Abstract:</h3>
-
 <p>The DASH-IF Live Simulator (livesim) is a mature tool focused on providing configurable live streams to test timing, MPD variants, multiple periods, and a lot of other features. Its sources are DASH VoD assets from which “live” segments are generated on request to simulate a wall-clock synchronized looped source. It has been extended to produce low-latency DASH, but is hard to extend further, and is thereby limited in what content it can use. It can, for example, not output 29.97frames/s or segment durations which are not integral seconds in average. DASH-IF is running a public test server on AWS, but the traffic costs have been quite high. The current livesim has been instrumental for both implementing and testing timing live stream timings for both dash.js and other players, and some streams from the public DASH-IF site are included in the standard test suite. Livesim2 is a new implementation, written from scratch in Go. It is much easier to deploy and can handle much more content.  A configurable traffic limiter that can limit traffic per IP-address/24h should provide useful to reduce traffic costs for a public server. The livesim2 GitHub repo will be become a public GitHub repo before the meeting. With livesim2 being a new project, it lacks many features compared to livesim, but also makes it possible to implement new scenarios and test cases. At this event, we will demonstrate livesim2 but also start the discussion about what features to prioritize and implement, and the possibility for financial sponsoring to make this possible.</p>
-
 <p>dash.js is a free, open-source MPEG-DASH player by the Dash Industry Forum (DASH-IF). dash.js serves as a reference client for DASH-IF and various other organizations to test and verify features related to DASH based media streaming. Moreover, dash.js is a prominent option for a production grade player and widely used in the academic field. In this presentation, we dive into dash.js development and the main features of the player. We focus on recent additions such as Common Media Client Data (CMCD), Common Media Server Data (CMSD), Content Steering, and segment preloading to enable broadcast-broadband ad-insertion on HbbTV terminals. Moreover, we discuss upcoming additions to dash.js and how to contribute to the project.</p>
-
 <h3 id="participants-1">Participants:</h3>
-
 <p>Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT &amp; CD-T are invited to the meeting.</p>
-
 <h3 id="recording-slides-and-other-material">Recording, Slides and other Material:</h3>
-
 <ul>
 <li><a href="https://dashif.my.webex.com/dashif.my/ldr.php?RCID=99a7e8a47712e0a5c5d06e22283c9db2">Recording link</a> (Password: Dashif2023)</li>
 <li>Slides
-
 <ul>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10944530/dashjs_special_session.pdf">dash.js</a></li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10944534/livesim2_230310.pdf">livesim2</a></li>
-</ul></li>
+</ul>
+</li>
 <li>If you participated in the event live or recording, <a href="https://forms.gle/S9NfS3LsK6ppcQ4FA">please provide us feedback</a></li>
 </ul>
-
-<h2 id="february-10-2023-dash-if-a-b-watermarking">February 10, 2023: DASH-IF A/B Watermarking</h2>
-
+<h2 id="february-10-2023-dash-if-ab-watermarking">February 10, 2023: DASH-IF A/B Watermarking</h2>
 <h3 id="presenters-2">Presenters:</h3>
-
 <ul>
 <li><a href="https://www.linkedin.com/in/gdoerr/">Gwenaël Doërr</a> (Synamedia)</li>
 <li><a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil</a> (AWS)</li>
@@ -408,257 +381,182 @@
 <li><a href="https://www.linkedin.com/in/vladimirzivkovic/">Vladimir Zivkovic</a> (Irdeto)</li>
 <li><a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron</a> (Nagra)</li>
 </ul>
-
 <h3 id="abstract-2">Abstract:</h3>
-
 <p>DASH-IF released a 2nd community review the “DASH-IF A/B Watermarking integration schema” guidelines. We received very constructive comments from the Industry and updated the specification where needed. Representatives from the companies involved in this work  presented the problem we solve, an overview of the specifications focusing on the updates that have been made. A Proof-of-Concept was also be demonstrated.</p>
-
 <h3 id="participants-2">Participants:</h3>
-
 <p>Around 50 experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT &amp; CD-T attended the meeting.</p>
-
 <h3 id="recording-slides-and-other-material-1">Recording, Slides and other Material:</h3>
-
 <ul>
 <li><a href="https://dashif.my.webex.com/dashif.my/ldr.php?RCID=ad2fc7e7106f7f45d2347bafbfb1e624">Recording link</a> (Password: DashIF2023)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10720660/DASH-IF_ServerSideWM_2023.pdf">Slides</a></li>
 <li>DASH-IF Members can access more details <a href="https://members.dashif.org/wg/Interoperability/document/folder/48">here on Causeway</a></li>
 <li>If you participated in the event live or recording, <a href="https://forms.gle/yR6czvUxW5Lo6rRm6">please provide us feedback</a></li>
 </ul>
-
 <h1 id="special-sessions-2022">Special Sessions 2022</h1>
-
-<h2 id="december-16-2022-cmcd-and-cmsd-what-why-and-how">December 16, 2022: CMCD and CMSD – what, why and how?</h2>
-
+<h2 id="december-16-2022-cmcd-and-cmsd--what-why-and-how">December 16, 2022: CMCD and CMSD – what, why and how?</h2>
 <h3 id="presenter">Presenter:</h3>
-
 <p>Will Law (Akamai) - Bio: <a href="https://www.linkedin.com/in/wilaw/">https://www.linkedin.com/in/wilaw/</a></p>
-
 <h3 id="abstract-3">Abstract:</h3>
-
 <p>This session dives in to both new CTA WAVE specifications - Common Media Client Data and Common Media Server Data. We examine the problems they are solving, the mechanisms by which data is transmitted and the use-cases that can be addressed by each, along with demonstrations of the standards in action.</p>
-
 <h3 id="participants-3">Participants:</h3>
-
 <p>More than 50 experts from invited organizations DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT &amp; CD-T</p>
-
 <h3 id="recording-and-slides">Recording and Slides:</h3>
-
 <ul>
 <li><a href="https://dashif.my.webex.com/dashif.my/ldr.php?RCID=1027babb435257932036c4aafa039235">Recording link</a> (Password: Dash2022)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/10271384/DASH-IF-Will-Law-CMCD-CMSD.pdf">Slides</a></li>
 </ul>
-
 <h2 id="october-21-2022-ad-slot-signalling-in-dash-according-to-dvb-and-scte">October 21, 2022: Ad slot signalling in DASH according to DVB and SCTE</h2>
-
 <ul>
 <li>Presenter: Presenters: <a href="https://www.linkedin.com/in/rufael-mekuria-652b4828/">Rufael Mekuria</a> (Unified Streaming), <a href="https://www.linkedin.com/in/yasser-syed-734198/">Yasser Syed</a> (Comcast)</li>
 <li>Abstract: Signalling of ad slots in DASH is a feature that is increasingly popular. SCTE-35 was popular n MPEG-2 TS based workflows and is increasingly used in DASH and HLS streaming to enable ad insertion and substitution. Signalling ad breaks consistently between MPEG-2 TS and streaming workflows, and for server and client side ad insertion are key to harmonize workflows and increase interoperability. To this extent, DVB developed DVB-TA suite, including a recommendation for signalling ad slots in MPEG-2 TS and  DVB-DASH, while SCTE has updated specifications of SCTE 214 and SCTE 35 to better account for usage in streaming environments. We detail some of the problems addressed in using SCTE-35 ad slot signalling in DASH in a consistent and optimized manner for different use cases, and detail some of the timing relationships between the SCTE-35 payload and the DASH signalling and the use of single vs multi period.  Last we also present some example streams available, and some of the open topics remaining in this space.</li>
 <li><a href="https://www.dashif.org/docs/DVB-special-session-presentation-draft-v3.pdf">Slides</a></li>
 <li><a href="https://dashif.my.webex.com/dashif.my/ldr.php?RCID=23450e28e691c05da2e210a2d50bee1b">Recording</a> (Password: Dash2022)</li>
 </ul>
-
 <h2 id="june-5-2022-next-steps-in-atsc-and-dash">June 5, 2022: Next Steps in ATSC and DASH</h2>
-
 <h3 id="overview-and-background">Overview and Background:</h3>
-
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (DASH-IF IOP Chair)</li>
 <li>Recording</li>
 </ul>
-
 <h3 id="presentation-1-introduction-to-route-rfc-9223">Presentation 1: Introduction to ROUTE RFC 9223</h3>
-
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/waqarzia/">Waqar Zia</a></li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912514/ROUTE.Overview.pdf">Slides</a></li>
 </ul>
-
-<h3 id="presentation-2-atsc-route-dash-introduction">Presentation 2: ATSC ROUTE/DASH Introduction</h3>
-
+<h3 id="presentation-2-atsc-routedash-introduction">Presentation 2: ATSC ROUTE/DASH Introduction</h3>
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/michael-dolan-50872355/">Michael Dolan</a> (ATSC TG3-6 Chair)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912507/ATSC-ROUTE-DASH-20220603.pdf">Slides</a></li>
 </ul>
-
-<h3 id="presentation-3-route-dash-cmaf-design-options-and-opportunities">Presentation 3: ROUTE/DASH/CMAF - Design options and opportunities</h3>
-
+<h3 id="presentation-3-routedashcmaf---design-options-and-opportunities">Presentation 3: ROUTE/DASH/CMAF - Design options and opportunities</h3>
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/stockhammer/">Thomas Stockhammer</a> (DASH-IF IOP Chair)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912495/DASH-IF-ROUTE-Session-Thomas.pdf">Slides</a></li>
 </ul>
-
 <h3 id="presentation-4-ll-dash-over-route-implementation-in-gpac">Presentation 4: LL-DASH over ROUTE: Implementation in GPAC</h3>
-
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/rbouqueau/">Romain Bouqueau</a> (GPAC)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912491/DASH-IF.2022.LL-DASH.over.ROUTE.in.GPAC.pdf">Slides</a></li>
 </ul>
-
 <h2 id="april-13-2022-watermarking">April 13, 2022: Watermarking</h2>
-
 <ul>
 <li>Presenter: Presenters: <a href="https://www.linkedin.com/in/gdoerr/">Gwenaël Doërr</a> (Synamedia), <a href="https://www.linkedin.com/in/nicolasweil/">Nicolas Weil</a> (AWS), <a href="https://www.linkedin.com/in/msanmartin/">Marcelo San Martin</a> (Akamai)</li>
 <li><a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/8912655/DASH-IF.Server.Side.Watermarking.pdf">Slides</a></li>
 <li>Recording</li>
 </ul>
-
 <h1 id="special-sessions-2021">Special Sessions 2021</h1>
-
 <h2 id="january-20-2021">January 20, 2021</h2>
-
 <h3 id="presentation-modern-content-replacement-workflows-based-on-scte-specifications">Presentation: Modern content replacement workflows based on SCTE Specifications</h3>
-
 <ul>
 <li>Slides</li>
 <li>Abstract: The presentation will introduce on new standards and workflows for SCTE 35, 224 and more.  We will discuss how SCTE has upgraded workflows to address modern content replacement in new media.  We will provide insight on how SCTE is addressing targeted content replacement within an OTT and or broadband distribution network.  The presentation should also help to explore how this new approach might be used in different application-based environments to create a “broadcast” quality experience for ad insertion and content replacement.</li>
 <li>Speaker Bio: Gary Hughes has been a long-time member of and contributor to the SCTE’s Digital Video Subcommittee.  He is particularly active in Working Group 5 which is focused on Digital Program Insertion.  He also participates in working groups focused on Advanced Coding Technologies and MPEG-DASH, among others.  An independent consultant, media technologist, and innovator, Gary is experienced in digital media delivery, broadband IPTV, video on demand, HDTV, compression and transcoding, editing and stream manipulation.  In addition to his work with SCTE, he has participated in various standards organizations and industry groups such as DASHIF, IAB, DLNA and MPEG. His previous work includes service with industry leaders such as DTS, Switch Media, SeaChange, Motorola, Broadbus, Avid and Sarnoff. Gary holds multiple patents related to video server design, adaptive bitrate streaming, trick mode operations, splicing/ad insertion, use of scalable coding in on demand a
 Ad insertion group will discuss issues around interop/test vectors/reference clients</li>
 </ul>
-
 <h2 id="april-9-2021">April 9, 2021</h2>
-
 <h3 id="presentation-1-brief-overview-on-cta-5004-common-media-client-data-cmcd">Presentation 1: Brief Overview on CTA-5004: Common Media Client Data (CMCD)</h3>
-
 <ul>
 <li>Slides</li>
 <li>Presenter: Will Law (Akamai)</li>
 <li>Abstract: This presentation provides a brief overview on CTA-5004: Common Media Client Data (CMCD)</li>
 </ul>
-
 <h2 id="presentation-2-use-of-cmcd-in-http-adaptive-streaming-initial-findings">Presentation 2: Use of CMCD in HTTP Adaptive Streaming: Initial Findings</h2>
-
 <ul>
 <li>Slides</li>
 <li>Presenter: Ali C. Begen et al.</li>
 <li>Abstract:  In September 2020, the Consumer Technology Association (CTA) published the CTA-5004: Common Media Client Data (CMCD) specification. Using this specification, a media client can convey certain information to the content delivery network servers with object requests. This information is useful in log association/analysis, quality of service/experience monitoring and delivery enhancements. This paper is the first step toward investigating the feasibility of CMCD in addressing one of the most common problems in the streaming domain: efficient use of shared bandwidth by multiple clients. To that effect, we implemented CMCD functions on an HTTP server and built a proof-of-concept system with CMCD-aware dash.js clients.We show that even a basic bandwidth allocation scheme enabled by CMCD reduces rebuffering rate and duration without noticeably sacrifycing the video quality.</li>
 </ul>
-
-<h2 id="presentation-3-lc-evc-principles-and-application-to-adaptive-streaming-and-the-web-part-1-v-nova-part-2-streaming-media">Presentation 3 LC-EVC - Principles and Application to Adaptive Streaming and the Web (part 1 V-Nova) (part 2 Streaming Media)</h2>
-
+<h2 id="presentation-3-lc-evc---principles-and-application-to-adaptive-streaming-and-the-web-part-1-v-nova-part-2-streaming-media">Presentation 3 LC-EVC - Principles and Application to Adaptive Streaming and the Web (part 1 V-Nova) (part 2 Streaming Media)</h2>
 <ul>
 <li>Presenter: Simone Ferrara (V-Nova), Fabio Murra (V-Nova), Guendalina Cobianchi (V-Nova), Jan Ozer (Streaming Media)</li>
 <li>Abstract: ISO/IEC 23094-2 – Low Complexity Enhancement Video Coding (LCEVC) is in the final development stages in ISO. LCEVC is fundamentally different to other compression standards by virtue of being a complement to all video codecs, existing and forthcoming. This presentation will provide an overview of the principles of LC-EVC as well as two aspects related to DASH-IF efforts
 Usage for Adaptive Streaming: Independent evaluation of the effectiveness of applying LCEVC enhancement in adaptive streaming use cases from a forthcoming report conducted by Streaming Media’s analyst Jan Ozer show improved QoE, compatibility with DASH and HLS as well as reduced costs due to CDN optimization
 Integration into HTML-5, for example into hls.js based on information here: <a href="https://docs.v-nova.com/v-nova/lcevc/integrations/html5-integration">https://docs.v-nova.com/v-nova/lcevc/integrations/html5-integration</a></li>
 </ul>
-
 <h2 id="may-28-2021-webrtc-based-premium-streaming-ecosystem">May 28, 2021: WebRTC-based Premium Streaming Ecosystem</h2>
-
 <ul>
 <li>For details, please go <a href="https://dashif.org/news/webrtc/">here</a></li>
 <li>Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.  However, the use of real-time streaming for professionally-produced content is highlighting gaps in WebRTC, creating the need for industry collaboration.  This talk will explore some of these key areas and sketch out possible ways forward for the industry.</li>
 <li>Presenters:
-
 <ul>
 <li>Bill Wishon is the Chief Product Officer for Phenix Real Time Solutions, leading the company&rsquo;s product strategy and roadmap for real-time video streaming at scale. Bill has 20+ years of experience in the media industry working on business and technology innovation to improve the quality, scale and reliability of online video delivery. Prior to Phenix, Bill held leading technical and product roles at Akamai, Kontiki, VeriSign, LightSurf, and Adobe Systems.</li>
 <li>Ofer Shem Tov is a distinguished video architect in Verizon Media Platform, working on the latest video streaming technologies. Ofer was the development leader for VocalTec’s Internet Phone that started the VoIP revolution in 1995. Ofer later co-founded RayV that developed efficient P2P based video broadcasting and was acquired by Yahoo in 2014.</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h1 id="special-sessions-2020">Special Sessions 2020</h1>
-
 <h2 id="may-22-2020-dash-over-srt">May 22, 2020: DASH over SRT</h2>
-
 <ul>
 <li>Title: DASH over SRT, by Haivision (Recording pwd: DashIf2020)</li>
 <li><a href="https://members.dashif.org/wg/DASH/document/4455">https://members.dashif.org/wg/DASH/document/4455</a></li>
 </ul>
-
 <h2 id="june-5-2020">June 5, 2020</h2>
-
-<h3 id="presentation-1-a-advertising-working-group-ad-monitoring-end-to-end">Presentation 1: A advertising  Working Group: Ad monitoring End to End</h3>
-
+<h3 id="presentation-1-a-advertising--working-group-ad-monitoring-end-to-end">Presentation 1: A advertising  Working Group: Ad monitoring End to End</h3>
 <ul>
 <li>Presenter: Mourad Kioumgi, Sky</li>
 </ul>
-
 <h3 id="presentation-2-a-new-approach-to-drm">Presentation 2: A new approach to DRM</h3>
-
 <ul>
 <li>Title: A new approach to DRM</li>
 <li>Presenter: Sander Saares, Axinom</li>
 </ul>
-
 <h2 id="june-19-2020">June 19, 2020</h2>
-
 <h3 id="presentation-1-haptics-media-in-dash">Presentation 1: Haptics Media in DASH</h3>
-
 <ul>
 <li>Presenter: Yeshwant Muthusamy, Chris Ullrich</li>
 </ul>
-
 <h3 id="presentation-2-5g-media-streaming-status-update">Presentation 2: 5G Media Streaming Status Update</h3>
-
 <ul>
 <li>Presenter: Thomas Stockhammer</li>
 </ul>
-
 <h2 id="july-17-2020-video-hrd-conformance-and-dash">July 17, 2020: Video HRD conformance and DASH</h2>
-
 <ul>
 <li>Presenter: Yuriy Reznik</li>
 </ul>
-
 <h2 id="july-31-2020">July 31, 2020</h2>
-
 <h3 id="presentation-1-an-overview-of-the-high-efficiency-streaming-protocol">Presentation 1: An overview of the High Efficiency Streaming Protocol</h3>
-
 <ul>
 <li>Presenter: Pieter-Jan Speelmans</li>
 <li>Abstract: With HESP, a new streaming protocol standard is becoming available. It&rsquo;s focussed on delivering media with ultra low latency, ultra fast zapping with low bandwidth at scale. In this talk, we&rsquo;ll provide some insights in the why and how of HESP and the compatibility profile for other streaming protocols such as MPEG-DASH and HLS.</li>
 </ul>
-
 <h3 id="presentation-2-w3c-datacue-api-introduction">Presentation 2: W3C DataCue API Introduction</h3>
-
 <ul>
 <li>Presenter: Chris Needham (BBC, co-chair W3C Media &amp; Entertainment Interest Group)</li>
 <li>Abstract: DataCue is a proposed W3C API to support media-timed events in HTML, which is being developed in collaboration with the DASH-IF Event TF. I&rsquo;ll give an introduction to the API, covering the use cases, history, and API design, and how it can be used to deliver DASH emsg and MPD events to web applications.</li>
 </ul>
-
 <h2 id="august-14-2020">August 14, 2020</h2>
-
 <h3 id="presentation-mpeg-network-based-media-processing-and-5g-media-edge-processing">Presentation: MPEG Network-Based Media Processing and 5G Media Edge Processing</h3>
-
 <ul>
 <li>Presenter: Iraj Sodagar</li>
 <li>Abstract: This talk provides a quick overview of MPEG’s NBMP standard, as well as 3GPP’s activities on 5G media processing on edge. It covers the NBMP standard and its current status, including its recent activities on media workflow splits and split-rendering. It also covers various ongoing 3GPP SA4 study items on network media processing and edge processing.</li>
 </ul>
-
 <h2 id="september-11-2020">September 11, 2020</h2>
-
 <h3 id="presentation-a-primer-to-vvc-with-focus-on-high-level-syntax">Presentation: A primer to VVC with focus on High-Level Syntax</h3>
-
 <ul>
 <li>Presenter: <a href="https://www.linkedin.com/in/yekui/">Ye-Kui Wang</a> (ByteDance), Co-Editor of VVC/H.266 Specification</li>
 <li>Abstract: Versatile Video Coding (VVC), a.k.a ITU-T H.266 | ISO/IEC 23090-3,  is the video coding standard that has just been finalized by the Joint Video Experts Team (JVET) of ITU-T VCEG and ISO/IEC MPEG at its 19th meeting ended on July 1st, 2020. This presentation will give a brief overview of the new video coding standard, focusing on its designs on various aspects of high-level syntax, the systems and transport interface of a video codec.</li>
 <li>for details please go to <a href="https://dashif.org/news/vvc-yk">https://dashif.org/news/vvc-yk</a></li>
 </ul>
-
 <h2 id="october-9-2020">October 9, 2020</h2>
-
 <h3 id="presentation-ingest-task-force-with-special-session">Presentation: Ingest Task Force with special session</h3>
-
 <ul>
 <li>Presentation: Ali Begen
-
 <ul>
 <li>Slides</li>
 <li>LoL video presentation: <a href="https://www.youtube.com/watch?v=9xU582WomTg">https://www.youtube.com/watch?v=9xU582WomTg</a></li>
 <li>John Bartos/Twitch evaluation video: <a href="https://www.youtube.com/watch?v=rcXFVDotpy4">https://www.youtube.com/watch?v=rcXFVDotpy4</a></li>
 <li>LoL+ paper: Under review, email acbegen if interested</li>
-</ul></li>
+</ul>
+</li>
 <li>Presentation Theo
-
 <ul>
 <li>(slides)</li>
 <li>Player discussion</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="november-20-2020">November 20, 2020</h2>
-
-<h3 id="presentation-iso-iec-23009-8">Presentation: ISO/IEC 23009-8</h3>
+<h3 id="presentation-isoiec-23009-8">Presentation: ISO/IEC 23009-8</h3>
 
 
   </main>

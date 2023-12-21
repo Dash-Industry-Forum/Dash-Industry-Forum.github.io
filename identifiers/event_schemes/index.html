@@ -128,10 +128,6 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
-            </li>
-            
-	    <li>
               <a class="dropdown-item" href="/identifiers/audio_source_metadata/" title="Audio Source Metadata">Audio Source Metadata</a>
             </li>
             
@@ -156,7 +152,7 @@
             </li>
             
 	    <li>
-              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
+              <a class="dropdown-item" href="/identifiers/output_protection/" title="Output Protection">Output Protection</a>
             </li>
             
 	    <li>
@@ -177,6 +173,10 @@
             
 	    <li>
               <a class="dropdown-item" href="/identifiers/subtitle_and_closed_captioning/" title="Subtitle and Closed Captioning">Subtitle and Closed Captioning</a>
+            </li>
+            
+	    <li>
+              <a class="dropdown-item" href="/identifiers/video_source_metadata/" title="Video Source Metadata">Video Source Metadata</a>
             </li>
             
 	    <li>
@@ -325,26 +325,20 @@
 
   <main role="main" class="container">
     
-  
-
-<h1 id="introduction">Introduction</h1>
-
+  <h1 id="introduction">Introduction</h1>
 <p>Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.</p>
-
 <p>Two ways of signalling events are provided, namely</p>
-
 <ul>
-<li><p>MPD events: Events may be signaled in the MPD. A sequence of events assigned to the media presentation time may be provided in the MPD on Period level. Events of the same type are summarized in an Event Stream that is specified by an <strong>EventStream</strong> element in a Period element.</p></li>
-
-<li><p>Inband events: Event Streams may be multiplexed in Representations. The event streams may be present in selected Representations, in one or several selected Adaptation Set only or in all Representations. An inband event stream that is present in a Representation is indicated by an <strong>InbandEventStream</strong> element.</p></li>
+<li>
+<p>MPD events: Events may be signaled in the MPD. A sequence of events assigned to the media presentation time may be provided in the MPD on Period level. Events of the same type are summarized in an Event Stream that is specified by an <strong>EventStream</strong> element in a Period element.</p>
+</li>
+<li>
+<p>Inband events: Event Streams may be multiplexed in Representations. The event streams may be present in selected Representations, in one or several selected Adaptation Set only or in all Representations. An inband event stream that is present in a Representation is indicated by an <strong>InbandEventStream</strong> element.</p>
+</li>
 </ul>
-
 <p>Appropriate schemes and identifiers are defined below.</p>
-
 <h1 id="mpeg-dash-event-schemes">MPEG DASH Event Schemes</h1>
-
 <p>The following event schemes are defined by ISO/IEC 23009-1:</p>
-
 <table>
 
 
@@ -362,21 +356,21 @@
     
     <tr>
       <td><code>urn:mpeg:dash:event:2012          </code></td>
-      <td><a href="#ZgotmplZ"> https://dashif.org/identifiers/references#23009-1 </a></td>
+      <td><a href="#ZgotmplZ"> ISO/IEC 23009-1 </a></td>
       <td> 5.10.4     </td>
       <td> MPD validity expiration event(expiration only, with MPD patch, with complete updated MPD). Inband event. on-receive mode.</td>
     </tr>
     
     <tr>
       <td><code>urn:mpeg:dash:event:callback:2015 </code></td>
-      <td><a href="#ZgotmplZ"> https://dashif.org/identifiers/references#23009-1 </a></td>
+      <td><a href="#ZgotmplZ"> ISO/IEC 23009-1 </a></td>
       <td> 5.10.4.5.2 </td>
       <td> DASH callback event. MPD or inband event. on-start mode.</td>
     </tr>
     
     <tr>
       <td><code>urn:mpeg:dash:event:ttfn:2016     </code></td>
-      <td><a href="#ZgotmplZ"> https://dashif.org/identifiers/references#23009-1 </a></td>
+      <td><a href="#ZgotmplZ"> ISO/IEC 23009-1 </a></td>
       <td> 5.10.4.6   </td>
       <td> Presentation termination event. MPD or inband event. on-start mode.</td>
     </tr>
@@ -384,11 +378,8 @@
   </tbody>
 </table>
 
-
 <h1 id="consortia-event-schemes">Consortia Event Schemes</h1>
-
 <p>The following event schemes are defined by consortia:</p>
-
 <table>
 
 
@@ -406,63 +397,63 @@
     
     <tr>
       <td><code>urn:aomedia:cmaf:id3          </code></td>
-      <td><a href="#ZgotmplZ"> https://aomediacodec.github.io/id3-emsg/                                                    </a></td>
+      <td><a href="#ZgotmplZ"> AOMedia Carriage of ID3 Timed Metadata      </a></td>
       <td>         </td>
       <td> ID3V2 metadata. Value is a URI defining the sematic. Inband event. Message_data contains ID3 version 2.4 data. Presentation time can not go beyond the CMAF fragment boundary. No explicit dispatch mode fis defined.</td>
     </tr>
     
     <tr>
       <td><code>tag:atsc.org,2016:event       </code></td>
-      <td><a href="#ZgotmplZ"> https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf                                    </a></td>
+      <td><a href="#ZgotmplZ"> DASH-IF Interoperability Point for ATSC 3.0 </a></td>
       <td> 5.6.3   </td>
       <td> ATSC Stream table update. @value shall be set to stu.  Inband event. Not clear what is carried in message_data. No explicit dispatch mode is defined. An ATSC 3.0 application may use its application events and subscribe to a specific event by (SchemeIdURI, value) pair. However, the dispatch model of events is not specified in the ATSC 3.0 DASH client processing model.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:cpm:2014         </code></td>
-      <td><a href="#ZgotmplZ"> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </a></td>
+      <td><a href="#ZgotmplZ"> ETSI TS 103 285 V1.3.1                      </a></td>
       <td> 9.1.2.1 </td>
       <td> TV-Anytime Content Programm Metadata. It provides content identifiers and basic metadata relating to the current programme. MPD or inband event. 1.	The event duration indicates the minimum validity duration of the metadata. The event with the latest presentation time takes precedence among events with overlapping durations. The event payload carries the TV-Anytime element. No explicit dispatch mode for the above event is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:rating:2014      </code></td>
-      <td><a href="#ZgotmplZ"> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </a></td>
+      <td><a href="#ZgotmplZ"> ETSI TS 103 285 V1.3.1                      </a></td>
       <td> 9.1.2.3 </td>
       <td> Parental rating. Id carries the minimum age. MPD or inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:iptv:guidance:2014    </code></td>
-      <td><a href="#ZgotmplZ"> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </a></td>
+      <td><a href="#ZgotmplZ"> ETSI TS 103 285 V1.3.1                      </a></td>
       <td> 9.1.2.3 </td>
       <td>	Parental rating. Id carries the rating. Id carries the rating. MPD or inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:dvb:dash:radiovis:2016    </code></td>
-      <td><a href="#ZgotmplZ"> https://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.03.01_60/ts_103285v010301p.pdf </a></td>
+      <td><a href="#ZgotmplZ"> ETSI TS 103 285 V1.3.1                      </a></td>
       <td> 9.1.2.3 </td>
       <td>	Hybrid radio slide show of text or iamges. @value shall be set to 1, 2, or 3. Inband event.	No explicit dispatch mode is defined.</td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:xml      </code></td>
-      <td><a href="#ZgotmplZ"> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </a></td>
+      <td><a href="#ZgotmplZ"> SCTE 214-1                                  </a></td>
       <td> 6.7.2   </td>
       <td> XML representation of SCTE 35 message. MPD event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. The use of this scheme is discouraged.</td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:xml&#43;bin  </code></td>
-      <td><a href="#ZgotmplZ"> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </a></td>
+      <td><a href="#ZgotmplZ"> SCTE 214-1                                  </a></td>
       <td> 6.7.2   </td>
       <td> XML representation of SCTE 35 message in binary form. MPD event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. The most used event scheme.  </td>
     </tr>
     
     <tr>
       <td><code>urn:scte:scte35:2013:bin      </code></td>
-      <td><a href="#ZgotmplZ"> https://www.scte.org/documents/5085/SCTE_214-1_2022.pdf                                     </a></td>
+      <td><a href="#ZgotmplZ"> SCTE 214-1                                  </a></td>
       <td> 6.7.3   </td>
       <td> binary representation of SCTE 35 message in emsg box. It is defined in 214-3, but being moved in 214-1. Inband event. The event duration is bounded by the period that contains it. Use of essential property if the client is required to process events. Event@messageData is not used. on-receive mode. </td>
     </tr>
@@ -470,11 +461,8 @@
   </tbody>
 </table>
 
-
 <h1 id="other-inband-event-schemes">Other Inband Event Schemes</h1>
-
 <p>The following event schemes are defined by the industry:</p>
-
 <table>
 <thead>
 <tr>
@@ -483,9 +471,6 @@
 <th>Abstract</th>
 </tr>
 </thead>
-
-<tbody>
-</tbody>
 </table>
 
 

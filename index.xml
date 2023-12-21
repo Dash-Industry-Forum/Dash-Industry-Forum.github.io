@@ -6,754 +6,510 @@
     <description>Recent content in Home on DASH Industry Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://dash-industry-forum.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://dash-industry-forum.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
       <link>https://dash-industry-forum.github.io/identifiers/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/introduction/</guid>
-      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:
- hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of identifiers for MPEG-DASH profiles, interoperability points, content protection metadata and other DASH related specific schemes. DASH-IF responsibilities include:&#xA;hosting the online catalog on its website, listing all defined URIs along with a short descriptions of their schemes and names of their owners, providing a simple online mechanism to request the addition of new URIs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
     </item>
-    
     <item>
       <title>Introduction Reference Tools</title>
       <link>https://dash-industry-forum.github.io/tools/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/introduction/</guid>
-      <description>Introduction The DASH-IF provides test and reference tools.
-In addition, a number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.</description>
+      <description>Introduction The DASH-IF provides test and reference tools.&#xA;In addition, a number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.</description>
     </item>
-    
     <item>
       <title>dash.js Reference Client</title>
       <link>https://dash-industry-forum.github.io/tools/dashjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/dashjs/</guid>
-      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
-The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
+      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/&#xA;The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
     </item>
-    
     <item>
       <title>Introduction Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/codecs/introduction/</guid>
-      <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles and that are registered by the MP4 Registration authority as brands.
-This cataloging includes:
- hosting the online catalog on our website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles and that are registered by the MP4 Registration authority as brands.&#xA;This cataloging includes:&#xA;hosting the online catalog on our website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
     </item>
-    
     <item>
       <title>IOP version 5</title>
       <link>https://dash-industry-forum.github.io/guidelines/iop-v5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/iop-v5/</guid>
       <description>Introduction With version 5 of DASH-IF Interoperability Guidelines, DASH-IF decided to introduce different parts that each address specific aspects of DASH-based service delivery. Each part is developed and updated within its own timescale. The multipart set of documents is collectively called “DASH-IF Interoperability Points, V5.0” (IOP V5). Version 5 of the DASH-IF IOP is defined for usage with the MPEG DASH specification (ISO/IEC 23009-1) and further constrained to deliver media formatted according to the MPEG CMAF Specification (ISO/IEC 23000-19).</description>
     </item>
-    
     <item>
       <title>Registration</title>
       <link>https://dash-industry-forum.github.io/identifiers/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/registration/</guid>
       <description>New identifiers can be registered at this link.</description>
     </item>
-    
     <item>
       <title>Summary</title>
       <link>https://dash-industry-forum.github.io/events/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/events/</guid>
-      <description>DASH-IF runs, organizes and sponsors different events:
- DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events)  If you are interested in organizing an event, please contact DASH-IF.</description>
+      <description>DASH-IF runs, organizes and sponsors different events:&#xA;DASH-IF Social Events at IBC and NAB DASH-IF face-to-face member meetings DASH-IF organized workshops DASH-IF supported events (conferences, symposia) DASH-IF Special Sessions (Online Events) If you are interested in organizing an event, please contact DASH-IF.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://dash-industry-forum.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/about/</guid>
       <description>In April 2012, ISO, the international standards body which had already given us the core media foundations of MPEG-2, MP3 and MP4, finally ratified the version of its next generation adaptive streaming standard: MPEG-DASH. In an industry besieged by three comparable (but incompatible) segmented formats many asked – why another? The participating companies in the MPEG-DASH standardization (including Microsoft, Apple, Netflix, Qualcomm, Ericsson, Samsung, and many others) saw a vision of interoperability and convergence required for large-scale market growth that trumped the proprietary and competing solutions.</description>
     </item>
-    
     <item>
       <title>Conformance Validator</title>
       <link>https://dash-industry-forum.github.io/tools/conformance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/conformance/</guid>
-      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
- The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
+      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):&#xA;The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments. The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
     </item>
-    
     <item>
       <title>Earlier Versions</title>
       <link>https://dash-industry-forum.github.io/guidelines/earlier-versions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/earlier-versions/</guid>
-      <description>Introduction DASH-IF publishes primarily three types of documents:
- Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+      <description>Introduction DASH-IF publishes primarily three types of documents:&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.</description>
     </item>
-    
     <item>
       <title>Registration Codecs</title>
       <link>https://dash-industry-forum.github.io/codecs/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
       <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
     </item>
-    
     <item>
       <title>Social Events</title>
       <link>https://dash-industry-forum.github.io/events/social-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/social-events/</guid>
-      <description>Here is a list of DASH-IF Social Events over last years. You will also find the sponsors of the events.
- September 17, 2023: DASH-IF at IBC 2023 September 11, 2022: DASH-IF at IBC 2022 September 15, 2019: DASH-IF at IBC 2019 April 10, 2019: DASH-IF at NAB 2019 September 16, 2018: DASH-IF at IBC 2018 April 11, 2018: DASH-IF at NAB 2018 September 17, 2017: DASH-IF at IBC 2017 together with VR-IF April 26, 2017: DASH-IF at NAB 2017 September 11, 2016: DASH-IF at IBC 2016 April 20, 2016: DASH-IF at NAB 2016 together with UltraHD Forum September 14, 2014: DASH-IF at IBC 2014 September 13, 2013: DASH-IF at IBC 2013  </description>
+      <description>Here is a list of DASH-IF Social Events over last years. You will also find the sponsors of the events.&#xA;September 17, 2023: DASH-IF at IBC 2023 September 11, 2022: DASH-IF at IBC 2022 September 15, 2019: DASH-IF at IBC 2019 April 10, 2019: DASH-IF at NAB 2019 September 16, 2018: DASH-IF at IBC 2018 April 11, 2018: DASH-IF at NAB 2018 September 17, 2017: DASH-IF at IBC 2017 together with VR-IF April 26, 2017: DASH-IF at NAB 2017 September 11, 2016: DASH-IF at IBC 2016 April 20, 2016: DASH-IF at NAB 2016 together with UltraHD Forum September 14, 2014: DASH-IF at IBC 2014 September 13, 2013: DASH-IF at IBC 2013 </description>
     </item>
-    
     <item>
       <title>IPR Declarations</title>
       <link>https://dash-industry-forum.github.io/ipr-declarations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/ipr-declarations/</guid>
       <description>License declarations The DASH Industry Forum adheres to the terms of the Common Patent Policy for ITU-T/ ITU-R/ISOII EC and the Guidelines for Implementing the Common Patent Policy for ITU-TIITU-RIISO/IEC. Under these terms, all DASH IF work products are subject to a review phase before release. During this review period, member companies must declare if they hold any intellectual property that reads against the work item and the terms under which they will license this intellectual property.</description>
     </item>
-    
     <item>
       <title>Member Meetings (face-to-face)</title>
       <link>https://dash-industry-forum.github.io/events/member/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/member/</guid>
-      <description> Upcoming Meetings  June 15-16, 2023 - Berlin, Germany: DASH-IF #23 together with Fraunhofer Fokus - Media Web Symposium  History of DASH-IF f2f meetings since 2012.  June 23-24, 2022 - Berlin, Germany: DASH-IF #22 together with Fraunhofer Fokus - Media Web Symposium December 10-12, 2019 - Portland, OR, United States: DASH-IF #21 hosted by Amazon May 20-21, 2019 - Berlin, Germany: DASH-IF #20 together with Fraunhofer Fokus - Media Web Symposium December , 2018 - San Diego, CA, United States: DASH-IF #19 hosted by Sony May 17-18, 2018 - Berlin, Germany: DASH-IF #18 together with Fraunhofer Fokus - Media Web Symposium November 29-December 1, 2017 - San Diego, CA, US: DASH-IF #17 hosted by Qualcomm May 18-19, 2017 - Berlin, Germany: DASH-IF #16 together with Fraunhofer Fokus - Media Web Symposium DASH-IF #15 December, 2016 - San Francisco, CA, United States: DASH-IF #14 hosted by Adobe August , 2016 - New York City, NY, US: DASH-IF #13 hosted by Comcast May 18-20, 2016 - Munich, Germany: DASH-IF #12 hosted by Maxdome DASH-IF #11 August 18-20, 2015 - San Diego, CA, US: DASH-IF #10 hosted by Qualcomm March 16-17, 2015 - Geneva, Switzerland: DASH-IF #9 hosted by the EBU December 3-5, 2014 - Westminster, CO, United States: DASH-IF #8 hosted by CableLabs August 11-12, 2014 - San Francisco, CA, United States: DASH-IF #7 hosted by Adobe March 24-25, 2014 - Geneva, Switzerland: DASH-IF #6 hosted by the EBU November 20-22, 2013 - San Diego, CA, US: DASH-IF #5 hosted by Qualcomm July 16-17, 2013 - San Jose, CA, US: DASH-IF #4 hosted by Adobe DASH-IF #3 DASH-IF #2 DASH-IF #1  </description>
+      <description>Upcoming Meetings June 15-16, 2023 - Berlin, Germany: DASH-IF #23 together with Fraunhofer Fokus - Media Web Symposium History of DASH-IF f2f meetings since 2012. June 23-24, 2022 - Berlin, Germany: DASH-IF #22 together with Fraunhofer Fokus - Media Web Symposium December 10-12, 2019 - Portland, OR, United States: DASH-IF #21 hosted by Amazon May 20-21, 2019 - Berlin, Germany: DASH-IF #20 together with Fraunhofer Fokus - Media Web Symposium December , 2018 - San Diego, CA, United States: DASH-IF #19 hosted by Sony May 17-18, 2018 - Berlin, Germany: DASH-IF #18 together with Fraunhofer Fokus - Media Web Symposium November 29-December 1, 2017 - San Diego, CA, US: DASH-IF #17 hosted by Qualcomm May 18-19, 2017 - Berlin, Germany: DASH-IF #16 together with Fraunhofer Fokus - Media Web Symposium DASH-IF #15 December, 2016 - San Francisco, CA, United States: DASH-IF #14 hosted by Adobe August , 2016 - New York City, NY, US: DASH-IF #13 hosted by Comcast May 18-20, 2016 - Munich, Germany: DASH-IF #12 hosted by Maxdome DASH-IF #11 August 18-20, 2015 - San Diego, CA, US: DASH-IF #10 hosted by Qualcomm March 16-17, 2015 - Geneva, Switzerland: DASH-IF #9 hosted by the EBU December 3-5, 2014 - Westminster, CO, United States: DASH-IF #8 hosted by CableLabs August 11-12, 2014 - San Francisco, CA, United States: DASH-IF #7 hosted by Adobe March 24-25, 2014 - Geneva, Switzerland: DASH-IF #6 hosted by the EBU November 20-22, 2013 - San Diego, CA, US: DASH-IF #5 hosted by Qualcomm July 16-17, 2013 - San Jose, CA, US: DASH-IF #4 hosted by Adobe DASH-IF #3 DASH-IF #2 DASH-IF #1 </description>
     </item>
-    
     <item>
       <title>Other Documents</title>
       <link>https://dash-industry-forum.github.io/guidelines/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/guidelines/others/</guid>
-      <description>Introduction Beyond the DASH-IF Interoperability Guidelines, DASH-IF also publishes specifications and reports. Those are collected in this clause.
- Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies  Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+      <description>Introduction Beyond the DASH-IF Interoperability Guidelines, DASH-IF also publishes specifications and reports. Those are collected in this clause.&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
     </item>
-    
     <item>
       <title>Test Assets</title>
       <link>https://dash-industry-forum.github.io/tools/testassets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/testassets/</guid>
       <description>Find the test vectors corresponding to the latest DASH-IF guidelines: SD, HD, multichannel audio, HEVC, timed text, multiple periods, encryption… at https://testassets.dashif.org/.</description>
     </item>
-    
     <item>
       <title>Video</title>
       <link>https://dash-industry-forum.github.io/codecs/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
-      <description>Introduction This page provides a summary of the registered CMAF media profiles for video codecs. For details on the process, please refer to the general introduction.
-CMAF Media Profiles for Video    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     cfsd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.64001F avc3.64001F    cfhd AVC High profile ISO/IEC 23000-19 clause A.</description>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for video codecs. For details on the process, please refer to the general introduction.&#xA;CMAF Media Profiles for Video CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information cfsd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.64001F avc3.64001F cfhd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.640028 avc3.640028 cfhd AVC High profile ISO/IEC 23000-19 clause A.</description>
     </item>
-    
     <item>
       <title>Audio</title>
       <link>https://dash-industry-forum.github.io/codecs/audio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
-      <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.
-Media Profiles for Audio Codecs    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     caac MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 https://www.via-corp.com/licensing/aac/   caac MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.</description>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.&#xA;Media Profiles for Audio Codecs CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information caac MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.5 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC v2 Profile ISO/IEC 23000-19 Annex A.</description>
     </item>
-    
     <item>
       <title>Sample Software</title>
       <link>https://dash-industry-forum.github.io/tools/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/sample/</guid>
-      <description>Sample Software Sample Segmenters and Packagers  Shaka Packager is a media packaging tool and development framework for VOD and Live adaptive streaming media, supporting Common Encryption for Widevine and other DRM Systems. More details at https://github.com/google/shaka-packager . MP4BOX – A sample DASH segmenter is provided in MP4Box as part of GPAC, available at https://gpac.io. The segmenter is capable of producing media files conformant to various DASH profiles, along with their corresponding MPD.</description>
+      <description>Sample Software Sample Segmenters and Packagers Shaka Packager is a media packaging tool and development framework for VOD and Live adaptive streaming media, supporting Common Encryption for Widevine and other DRM Systems. More details at https://github.com/google/shaka-packager . MP4BOX – A sample DASH segmenter is provided in MP4Box as part of GPAC, available at https://gpac.io. The segmenter is capable of producing media files conformant to various DASH profiles, along with their corresponding MPD.</description>
     </item>
-    
     <item>
       <title>Special Sessions</title>
       <link>https://dash-industry-forum.github.io/events/special-sessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/special-sessions/</guid>
       <description>Introduction In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams.</description>
     </item>
-    
     <item>
       <title>Other Validators</title>
       <link>https://dash-industry-forum.github.io/tools/validators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/validators/</guid>
-      <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
- The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  MANIFEST Validators  ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files.</description>
+      <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):&#xA;The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments. MANIFEST Validators ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files. This can either be done via file upload, URL or direct input of the description.</description>
     </item>
-    
     <item>
       <title>Text</title>
       <link>https://dash-industry-forum.github.io/codecs/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/codecs/text/</guid>
-      <description>Introduction This page provides a summary of the registered CMAF media profiles for text. For details on the process, please refer to the general introduction.
-Media Profiles for Text    CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information     im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr   im1i IMSC1 Image ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1i https://www.w3.org/groups/wg/timed-text/ipr   im2t IMSC1.</description>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for text. For details on the process, please refer to the general introduction.&#xA;Media Profiles for Text CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr im1i IMSC1 Image ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1i https://www.w3.org/groups/wg/timed-text/ipr im2t IMSC1.1 Text ISO/IEC 23000-19 Annex L stpp.ttml.im2t https://www.w3.org/groups/wg/timed-text/ipr im2i IMSC1.1 Image ISO/IEC 23000-19 Annex L stpp.</description>
     </item>
-    
     <item>
       <title>Workshops</title>
       <link>https://dash-industry-forum.github.io/events/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/workshops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Commercial Clients</title>
       <link>https://dash-industry-forum.github.io/tools/clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/clients/</guid>
-      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
- Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
+      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.&#xA;Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
     </item>
-    
     <item>
       <title>Supported Conferences</title>
       <link>https://dash-industry-forum.github.io/events/conferences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/events/conferences/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Academic</title>
       <link>https://dash-industry-forum.github.io/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/academic/</guid>
-      <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:
- identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
+      <description>The MPEG-DASH standard has raised a huge momentum within both industry and academia. The DASH-IF provides – among others – interoperability guidelines and test vectors, and closes the gap enabling interoperable deployments. In recent years, we have seen a tremendous amount of research papers addressing various issues in and around DASH, and thus, the DASH-IF established an academic track to:&#xA;identify research communities working in the area of DASH, create awareness of DASH-IF material and promote it within the academic community, and solicit research within and collect results from the academic community.</description>
     </item>
-    
     <item>
       <title>Members</title>
       <link>https://dash-industry-forum.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/members/</guid>
-      <description> Would you like to join? If so, find out about our membership levels, fees and IPR policy.
-Charter Members            Contributor Members                             Associate Members                 </description>
+      <description>Would you like to join? If so, find out about our membership levels, fees and IPR policy.&#xA;Charter Members Contributor Members Associate Members </description>
     </item>
-    
     <item>
       <title>News</title>
       <link>https://dash-industry-forum.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/</guid>
-      <description>December 15, 2023 &amp;ndash; The Joint Content Conformance Project (JCCP) announces the completion of its open-source media streaming conformance project.
-November 2, 2023 &amp;ndash; DASH-IF is joining the Second Open Source Media Application Reference Tools (OSMART-2) workshop in December 2023.
-August 28, 2023 &amp;ndash; DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002.
-August 23, 2023 &amp;ndash; Registration open for IBC 2023 DASH IF Networking Reception at the best venue in town, the Heineken brewery.</description>
+      <description>December 15, 2023 &amp;ndash; The Joint Content Conformance Project (JCCP) announces the completion of its open-source media streaming conformance project.&#xA;November 2, 2023 &amp;ndash; DASH-IF is joining the Second Open Source Media Application Reference Tools (OSMART-2) workshop in December 2023.&#xA;August 28, 2023 &amp;ndash; DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002.&#xA;August 23, 2023 &amp;ndash; Registration open for IBC 2023 DASH IF Networking Reception at the best venue in town, the Heineken brewery.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://dash-industry-forum.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/contact/</guid>
-      <description>The DASH-IF mailing address is:
-3855 SW 153rd Dr.
-Beaverton, OR 97003
-USA
-For general enquiries, please use this email address:
-admin@dashif.org
-If you wish to send a formal liaison communication, then please contact our Liaison Officer Phillip Maness at
-liaison@dashif.org</description>
+      <description>The DASH-IF mailing address is:&#xA;3855 SW 153rd Dr.&#xA;Beaverton, OR 97003&#xA;USA&#xA;For general enquiries, please use this email address:&#xA;admin@dashif.org&#xA;If you wish to send a formal liaison communication, then please contact our Liaison Officer Phillip Maness at&#xA;liaison@dashif.org</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2016/</guid>
-      <description>In conjunction with ACM MMSys 2016, being held in Klagenfurt Austria, the DASH Industry Forum is proud to announce the establishment of the
-DASH Industry Forum Excellence in DASH Award
-This award offers a financial prize for those papers which best meet the following requirements:
- Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2016 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
+      <description>In conjunction with ACM MMSys 2016, being held in Klagenfurt Austria, the DASH Industry Forum is proud to announce the establishment of the&#xA;DASH Industry Forum Excellence in DASH Award&#xA;This award offers a financial prize for those papers which best meet the following requirements:&#xA;Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2016 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</guid>
-      <description>In conjunction with ACM MMSys 2017, being held in Taipei, Taiwan | June 20-23, 2017, the DASH Industry Forum is proud to announce the establishment of the
-DASH Industry Forum Excellence in DASH Award
-This award offers a financial prize for those papers which best meet the following requirements:
- Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2017 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
+      <description>In conjunction with ACM MMSys 2017, being held in Taipei, Taiwan | June 20-23, 2017, the DASH Industry Forum is proud to announce the establishment of the&#xA;DASH Industry Forum Excellence in DASH Award&#xA;This award offers a financial prize for those papers which best meet the following requirements:&#xA;Paper must substantially address MPEG DASH as the presentation format Paper must be selected for presentation at ACM MMSys 2017 Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</guid>
-      <description>Host organization: DASH-IF (https://dashif.org/)
-Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)
-DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP).</description>
+      <description>Host organization: DASH-IF (https://dashif.org/)&#xA;Coordinator Contacts: Christian Timmerer, Chair of DASH-IF Academic Track (christian.timmerer@itec.aau.at) Ali C. Begen (ali.begen@networked.media)&#xA;DASH-IF Grand Challenge: Dynamic Adaptive Streaming over HTTP Challenge Description Real-time entertainment services such as streaming video and audio are currently accounting for more than 70% of the Internet traffic during peak hours. Interestingly, these services are all delivered over-the-top (OTT) of the existing networking infrastructure using the Hypertext Transfer Protocol (HTTP). The MPEG Dynamic Adaptive Streaming over HTTP (DASH) standard enables smooth multimedia streaming towards heterogeneous devices.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/membership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/membership/</guid>
-      <description>Membership in DASH-IF offers some great benefits. We have three membership levels and the benefits of each are included below:
-Associate Membership Agreement
- Eligibility to participate in Working Groups  Interoperability Working Group Promotion Working Group  Opportunities to participate in DASH-IF marketing programs and events Discounts on promotional activities such as interoperability workshops Ability to provide feedback on certain draft deliverables Early access to Test Vectors, Test Tools, and Guidelines  Contributor Membership Agreement</description>
+      <description>Membership in DASH-IF offers some great benefits. We have three membership levels and the benefits of each are included below:&#xA;Associate Membership Agreement&#xA;Eligibility to participate in Working Groups Interoperability Working Group Promotion Working Group Opportunities to participate in DASH-IF marketing programs and events Discounts on promotional activities such as interoperability workshops Ability to provide feedback on certain draft deliverables Early access to Test Vectors, Test Tools, and Guidelines Contributor Membership Agreement</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/5g-workshop-2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/5g-workshop-2018/</guid>
-      <description>Video meets mobile -The 5G Opportunity Public Workshop co-sponsored by DASH-IF
-August 20, 2015 - San Diego, CA, United States
-Along with its 11th face to face meeting on August 18-20 in San Diego, the DASH Industry Forum (DASH-IF) used this opportunity to organize a workshop in order to gather experts from video distribution services, mobile operators and technology providers. With 5G on the horizon, this is an opportunity to understand some of the technical and non-technical challenges and opportunities for mobile video services.</description>
+      <description>Video meets mobile -The 5G Opportunity Public Workshop co-sponsored by DASH-IF&#xA;August 20, 2015 - San Diego, CA, United States&#xA;Along with its 11th face to face meeting on August 18-20 in San Diego, the DASH Industry Forum (DASH-IF) used this opportunity to organize a workshop in order to gather experts from video distribution services, mobile operators and technology providers. With 5G on the horizon, this is an opportunity to understand some of the technical and non-technical challenges and opportunities for mobile video services.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/5th-edition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/5th-edition/</guid>
-      <description>MPEG-DASH 5th edition is a Publicly Available Standard For your information, the 5th edition of MPEG-DASH part 1, meanwhile a 330 page document and officially referenced as ISO/IEC 23009-1:2022, has been published by ISO earlier this week as part of their Publicly Available Standards here: https://standards.iso.org/ittf/PubliclyAvailableStandards/c083314_ISO_IEC%2023009-1_2022(en).zip - and the schemas and examples are available here: https://standards.iso.org/iso-iec/23009/-1/ed-5/en/.
-The fifth edition adds: - DASH profiles for Common Media Application Format (CMAF); - The concept Resynchronization in order to identify stream access points in Segments; - MPD patching to support explicit MPD updates; - Client processing model for Event Streams and Timed Metadata tracks ; - Extensions to content protection and device output protection security; - bug fixes, clarifications and further minor improvements.</description>
+      <description>MPEG-DASH 5th edition is a Publicly Available Standard For your information, the 5th edition of MPEG-DASH part 1, meanwhile a 330 page document and officially referenced as ISO/IEC 23009-1:2022, has been published by ISO earlier this week as part of their Publicly Available Standards here: https://standards.iso.org/ittf/PubliclyAvailableStandards/c083314_ISO_IEC%2023009-1_2022(en).zip - and the schemas and examples are available here: https://standards.iso.org/iso-iec/23009/-1/ed-5/en/.&#xA;The fifth edition adds:&#xA;DASH profiles for Common Media Application Format (CMAF); The concept Resynchronization in order to identify stream access points in Segments; MPD patching to support explicit MPD updates; Client processing model for Event Streams and Timed Metadata tracks ; Extensions to content protection and device output protection security; bug fixes, clarifications and further minor improvements.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/award-will-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/award-will-law/</guid>
-      <description>In conjunction with the Networking Reception held during IBC 2019 in Amsterdam, the DASH Industry Forum is proud to announce that the
-DASH Industry Forum Leadership Award
-is presented to
-Will Law
-for continuous leadership, promotion and technical contributions for the success of DASH.
-Will Law from Akamai served and is serving DASH-IF in different roles since its inauguration in 2012. Among others, Will was leading the DASH-IF Promotion Working Group, acted as Vice President and President, and is leading the dash.</description>
+      <description>In conjunction with the Networking Reception held during IBC 2019 in Amsterdam, the DASH Industry Forum is proud to announce that the&#xA;DASH Industry Forum Leadership Award&#xA;is presented to&#xA;Will Law&#xA;for continuous leadership, promotion and technical contributions for the success of DASH.&#xA;Will Law from Akamai served and is serving DASH-IF in different roles since its inauguration in 2012. Among others, Will was leading the DASH-IF Promotion Working Group, acted as Vice President and President, and is leading the dash.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/content-steering-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/content-steering-2/</guid>
-      <description>DASH-IF announces 2nd Community Review: Candidate Technical Specification on Content Steering for DASH On December 21st, 2022, DASH-IF published the DASH-IF Candidate Technical Specification on Content Steering for DASH is available here for a 2nd community review. After receiving excellent feedback from the community for the first review, the spec was updated within DASH-IF.
-
-Scope of the specification: Content distributors often use multiple Content Delivery Networks (CDNs) to distribute their content to the end-users.</description>
+      <description>DASH-IF announces 2nd Community Review: Candidate Technical Specification on Content Steering for DASH On December 21st, 2022, DASH-IF published the DASH-IF Candidate Technical Specification on Content Steering for DASH is available here for a 2nd community review. After receiving excellent feedback from the community for the first review, the spec was updated within DASH-IF.&#xA;Scope of the specification: Content distributors often use multiple Content Delivery Networks (CDNs) to distribute their content to the end-users.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/dash-js-award-2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/dash-js-award-2021/</guid>
-      <description>dash.js awards 2021 DASH-IF at ACM MMSys&amp;rsquo;21 The DASH Industry Forum (DASH-IF) is proud to announce the winners of the 2021 dash.js awards. The award ceremony took place during ACM MMSys&amp;rsquo;21 in Istanbul, Turkey. Winners were shown on the livestream and received virtual congratulations alongside their monetary prizes.
-Awards and Winners 1st place (USD 750): Bertrand Berthelot: For contributing various major features and improvements to the player and being the most active member in the dash.</description>
+      <description>dash.js awards 2021 DASH-IF at ACM MMSys&#39;21 The DASH Industry Forum (DASH-IF) is proud to announce the winners of the 2021 dash.js awards. The award ceremony took place during ACM MMSys&#39;21 in Istanbul, Turkey. Winners were shown on the livestream and received virtual congratulations alongside their monetary prizes.&#xA;Awards and Winners 1st place (USD 750): Bertrand Berthelot: For contributing various major features and improvements to the player and being the most active member in the dash.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/dashjs400/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/dashjs400/</guid>
       <description>dash.js v4.0.0 released DASH-IF is is very pleased to announce that version 4.0.0 of dash.js has officially been released. As this is a major release, 4.0.0 includes a lot of new features and changes. Please find below the relevant information and related links. DASH-IF we will have a special DASH-IF dash.js call on July 20th where we present the new features and changes of dash.js 4.0.0. We will also use this call to discuss the priorities for the upcoming dash.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/dvb-world-2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/dvb-world-2020/</guid>
-      <description>DVB World 2020: Joint DVB/DASH-IF Webinar is now online 
-DASH-IF is proud and delighted having been part of a series of public and free webinars organized by Digital Video Broadcasting (DVB) project. The webinars replace DVB&amp;rsquo;s annual flagship conference DVB World in March 2020 that was cancelled due to the COVID-19 situation.
-On March 31, 2020 at 4pm cest, the webinar DASH: from on-demand to large scale live for premium services was delivered.</description>
+      <description>DVB World 2020: Joint DVB/DASH-IF Webinar is now online DASH-IF is proud and delighted having been part of a series of public and free webinars organized by Digital Video Broadcasting (DVB) project. The webinars replace DVB&amp;rsquo;s annual flagship conference DVB World in March 2020 that was cancelled due to the COVID-19 situation.&#xA;On March 31, 2020 at 4pm cest, the webinar DASH: from on-demand to large scale live for premium services was delivered.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/ibc-2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/ibc-2022/</guid>
-      <description>DASH Industry Forum IBC Networking Reception
-Sunday, September 11th from 18:30 to 21:30 (CET)
-Koelship Room - Heineken Experience
-The DASH Industry Forum invites you to an evening of networking during the upcoming IBC show in Amsterdam. We hope to reunite in person with many of you after two years of virtual meetings, online workshops and social draught. During the reception, you will enjoy hors d’oeuvres and an open bar at the Heineken Experience, while mingling with executives, architects and engineers from leading entertainment technology companies.</description>
+      <description>DASH Industry Forum IBC Networking Reception&#xA;Sunday, September 11th from 18:30 to 21:30 (CET)&#xA;Koelship Room - Heineken Experience&#xA;The DASH Industry Forum invites you to an evening of networking during the upcoming IBC show in Amsterdam. We hope to reunite in person with many of you after two years of virtual meetings, online workshops and social draught. During the reception, you will enjoy hors d’oeuvres and an open bar at the Heineken Experience, while mingling with executives, architects and engineers from leading entertainment technology companies.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/ibc-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/ibc-2023/</guid>
-      <description>DASH Industry Forum IBC Networking Reception
-Sunday, September 17th from 18:30 to 21:30 (CET)
-Koelship Room - Heineken Experience
-The DASH Industry Forum invites you to an evening of networking during the upcoming IBC show in Amsterdam. We hope to reunite in person with many of you after two years of virtual meetings, online workshops and social draught. During the reception, you will enjoy hors d’oeuvres and an open bar at the Heineken Experience, while mingling with executives, architects and engineers from leading entertainment technology companies.</description>
+      <description>DASH Industry Forum IBC Networking Reception&#xA;Sunday, September 17th from 18:30 to 21:30 (CET)&#xA;Koelship Room - Heineken Experience&#xA;The DASH Industry Forum invites you to an evening of networking during the upcoming IBC show in Amsterdam. We hope to reunite in person with many of you after two years of virtual meetings, online workshops and social draught. During the reception, you will enjoy hors d’oeuvres and an open bar at the Heineken Experience, while mingling with executives, architects and engineers from leading entertainment technology companies.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/jccp-completion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/jccp-completion/</guid>
-      <description>The Joint Content Conformance Project (JCCP) announces the completion of its open-source media streaming conformance project December 15, 2023
-Content conformance is the key to interoperability and gaining optimal coverage across a wide set of heterogeneous devices and platforms. The joint project undertaken over the past two years has improved the tool, making it more reliable and accessible.
-The Joint Content Conformance Project (JCCP) aims to to improve and refactor the current code base of the Conformance Validator [1].</description>
+      <description>The Joint Content Conformance Project (JCCP) announces the completion of its open-source media streaming conformance project December 15, 2023&#xA;Content conformance is the key to interoperability and gaining optimal coverage across a wide set of heterogeneous devices and platforms. The joint project undertaken over the past two years has improved the tool, making it more reliable and accessible.&#xA;The Joint Content Conformance Project (JCCP) aims to to improve and refactor the current code base of the Conformance Validator [1].</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/jeff-tapper-award/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/jeff-tapper-award/</guid>
-      <description>DASH Technical Leadership Award 2021 The DASH Industry Forum is pleased to announce that the 2021 DASH Technical Leadership Award has been presented to
-Jeff Tapper for his early support and commitment to the establishment of the dash.js open-source media player project. His efforts have been instrumental in the advancement of MPEG DASH as a leading streaming format.
-This summer, Olga Kornienko and Glenn Goldstein got together with Jeff Tapper to present him a plaque from the DASH Industry Forum to recognize his leadership and inspired work on the dash.</description>
+      <description>DASH Technical Leadership Award 2021 The DASH Industry Forum is pleased to announce that the 2021 DASH Technical Leadership Award has been presented to&#xA;Jeff Tapper for his early support and commitment to the establishment of the dash.js open-source media player project. His efforts have been instrumental in the advancement of MPEG DASH as a leading streaming format.&#xA;This summer, Olga Kornienko and Glenn Goldstein got together with Jeff Tapper to present him a plaque from the DASH Industry Forum to recognize his leadership and inspired work on the dash.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/jscsp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/jscsp/</guid>
-      <description>Invitation to Bid: Joint Streaming Conformance Software Project Overview DASH-IF (http://dashif.org ) has developed conformance software for the validation of MPEG-DASH and DASH-IF IOP content as well as conformance to DASH-IF IOP guidelines throughout the years. Other organizations including DVB, CTA WAVE, and HbbTV have extended the conformance software for testing the content according to their relevant specifications.
-In continuation of this conformance software development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software to achieve the followings goals:</description>
+      <description>Invitation to Bid: Joint Streaming Conformance Software Project Overview DASH-IF (http://dashif.org ) has developed conformance software for the validation of MPEG-DASH and DASH-IF IOP content as well as conformance to DASH-IF IOP guidelines throughout the years. Other organizations including DVB, CTA WAVE, and HbbTV have extended the conformance software for testing the content according to their relevant specifications.&#xA;In continuation of this conformance software development, DASH-IF, DVB, CTA WAVE, HbbTV, and ATSC (the “Conformance Partners”) are interested to award a contract to improve the current conformance software to achieve the followings goals:</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/live-media-ingest-specification/</guid>
-      <description>DASH-IF Publishes Live Media Ingest Technical Specification 
-With 18 months of collaborative work, the DASH-IF published a technical specification on live media ingest. While DASH is excellent for streaming to clients, transmitting content from a live source to an origin or packager benefits from a different approach. The live media ingest specification provides this and defines a protocol to ingest DASH and CMAF content using the HTTP POST method.</description>
+      <description>DASH-IF Publishes Live Media Ingest Technical Specification With 18 months of collaborative work, the DASH-IF published a technical specification on live media ingest. While DASH is excellent for streaming to clients, transmitting content from a live source to an origin or packager benefits from a different approach. The live media ingest specification provides this and defines a protocol to ingest DASH and CMAF content using the HTTP POST method. The specification can be used in streaming workflows that combine live sources, such as encoders, with recipient servers.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/low-latency-dash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/low-latency-dash/</guid>
-      <description>DASH-IF publishes Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion Low-Latency DASH Modes 
-Based on a report developed jointly between DVB and DASH-IF in 2017 on Low-Latency DASH, DASH-IF developed over the last 2 years detailed requirements and recommendations for service offerings and client implementation to support consistent latency in DASH for linear TV services. The change request builds on joint work in MPEG, DASH-IF and DVB.</description>
+      <description>DASH-IF publishes Low-Latency DASH extensions and 2nd Community Review for DASH-IF Ad Insertion Low-Latency DASH Modes Based on a report developed jointly between DVB and DASH-IF in 2017 on Low-Latency DASH, DASH-IF developed over the last 2 years detailed requirements and recommendations for service offerings and client implementation to support consistent latency in DASH for linear TV services. The change request builds on joint work in MPEG, DASH-IF and DVB. In particular, the use of CMAF chunks, HTTP chunked transfer, consistent MPD signaling as well as requirements and implementation guidelines for DASH clients enables low-latency services.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/nab-2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/nab-2023/</guid>
-      <description>DASH-IF Booth at 2023 NAB Show&amp;rsquo;s Futures Park &amp;ndash; April 5, 2023
-DASH IF announced today that we will be exhibiting at the 2023 NAB Show&amp;rsquo;s Futures Park pavilion. We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.
-Please come by the booth and see what everyone is working on. The schedule and description of demos is as follows:</description>
+      <description>DASH-IF Booth at 2023 NAB Show&amp;rsquo;s Futures Park &amp;ndash; April 5, 2023&#xA;DASH IF announced today that we will be exhibiting at the 2023 NAB Show&amp;rsquo;s Futures Park pavilion. We will have a booth, W4111, where DASH IF member companies will be showcasing their research and developement projects.&#xA;Please come by the booth and see what everyone is working on. The schedule and description of demos is as follows:&#xA;Sunday, April 16th – 10:00am – 2:00pm - Intel Corporation</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/osmart-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/osmart-2/</guid>
-      <description>DASH-IF is joining the Second Open Source Media Application Reference Tools (OSMART-2) workshop
-This online workshop, the second in the series, is organized by the DVB Project and 5G-MAG in collaboration with several other organizations. It is open to anyone with an interest in open-source reference tools for use in the context of media applications. DASH-IF is joining the workshop and will provide 3 presentations on dash.js, DASH-IF Livesim and JCCP.</description>
+      <description>DASH-IF is joining the Second Open Source Media Application Reference Tools (OSMART-2) workshop&#xA;This online workshop, the second in the series, is organized by the DVB Project and 5G-MAG in collaboration with several other organizations. It is open to anyone with an interest in open-source reference tools for use in the context of media applications. DASH-IF is joining the workshop and will provide 3 presentations on dash.js, DASH-IF Livesim and JCCP.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/speke-cpix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/speke-cpix/</guid>
-      <description>DASH-IF publishes CPIX v2.3 for community review to address alignment between SPEKE and CPIX based on broad industry support 
-DASH-IF&amp;rsquo;s CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS).</description>
+      <description>DASH-IF publishes CPIX v2.3 for community review to address alignment between SPEKE and CPIX based on broad industry support DASH-IF&amp;rsquo;s CPIX 2.0 was published in September 2016. In November 2017, AWS Elemental released the first version of SPEKE, which is both a CPIX 2.0 profile, an API specification to transport CPIX documents and a set of deployment guidelines (for Content Key Encryption) – working with both on-premises equipment and cloud environments (AWS).</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/v5-updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/v5-updates/</guid>
-      <description>DASH-IF publishes a series of updates for next version of IOP Guidelines and for CPIX Background DASH-IF recently published the following new documents:
- Advanced Ad Insertion in DASH DASH events and timed metadata tracks timing and processing model and client reference model Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3 DASH-IF implementation guidelines: content protection and security DASH-IF Implementation Guidelines v2.3: Content Protection Information Exchange Format (CPIX)  The former four documents will be rolled into a new version of the DASH-IF IOP guidelines version 5.</description>
+      <description>DASH-IF publishes a series of updates for next version of IOP Guidelines and for CPIX Background DASH-IF recently published the following new documents:&#xA;Advanced Ad Insertion in DASH DASH events and timed metadata tracks timing and processing model and client reference model Audio Amendment to Guidelines for Implementation: DASH-IF Interoperability Points, Version 4.3 DASH-IF implementation guidelines: content protection and security DASH-IF Implementation Guidelines v2.3: Content Protection Information Exchange Format (CPIX) The former four documents will be rolled into a new version of the DASH-IF IOP guidelines version 5.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/vvc-yk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/vvc-yk/</guid>
-      <description>DASH-IF receives first hand information on Versatile Video Coding &amp;ndash; September 11, 2020 - Elbonia, virtual &amp;ndash;
-Today, as part of our virtual special session series, DASH-IF received a primer on &amp;ldquo;The high-level syntax (HLS) designs in VVC&amp;rdquo; from Dr. Ye-Kui Wang, Principal Scientist at Bytedance. During session also colleagues from our partner organizations DVB, 3GPP and CTA WAVE were invited and many joined. We had an audience of 60 people, thanks everyone for joining.</description>
+      <description>DASH-IF receives first hand information on Versatile Video Coding &amp;ndash; September 11, 2020 - Elbonia, virtual &amp;ndash;&#xA;Today, as part of our virtual special session series, DASH-IF received a primer on &amp;ldquo;The high-level syntax (HLS) designs in VVC&amp;rdquo; from Dr. Ye-Kui Wang, Principal Scientist at Bytedance. During session also colleagues from our partner organizations DVB, 3GPP and CTA WAVE were invited and many joined. We had an audience of 60 people, thanks everyone for joining.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/watermarking-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/watermarking-2/</guid>
-      <description>2nd Community Review and public Special Session for Candidate Technical Specification: DASH-IF Forensic A/B Watermarking On February 2nd, 2023, DASH-IF published the 2nd Community Review for the new Candidate Technical Specification: DASH-IF Forensic A/B Watermarking. The details of the community review are available here and the published document is available here (pdf) .
-
-This second version is a significant update addressing all comments received during the initial community review.</description>
+      <description>2nd Community Review and public Special Session for Candidate Technical Specification: DASH-IF Forensic A/B Watermarking On February 2nd, 2023, DASH-IF published the 2nd Community Review for the new Candidate Technical Specification: DASH-IF Forensic A/B Watermarking. The details of the community review are available here and the published document is available here (pdf) .&#xA;This second version is a significant update addressing all comments received during the initial community review.&#xA;The scope of this work is the definition of an architecture and an Application Programming Interface (API) for supporting A/B forensic watermarking for Over-The-Top (OTT) on content that is delivered in an Adaptive Bitrate (ABR) format.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/watermarking-final/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/watermarking-final/</guid>
-      <description>DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002 Introduction. In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available here. On August 28, 2023, this specification has been published by ETSI under DASH-IF&amp;rsquo;s PAS (Publicly Available Specification) agreement with ETSI as ETSI TS 104 002.
-Motivation Over-The-Top (OTT) distribution has fundamentally offset the trust model by popularizing open devices. This evolution has motivated an appetite for watermarking solutions operating on the server side to avoid embarking security-sensitive logics in the consumers’ devices.</description>
+      <description>DASH-IF Publishes Forensic A/B Watermarking Specification as ETSI TS 104 002 Introduction. In June 2023, DASH-IF published The DASH-IF A/B watermarking specification that is now available here. On August 28, 2023, this specification has been published by ETSI under DASH-IF&amp;rsquo;s PAS (Publicly Available Specification) agreement with ETSI as ETSI TS 104 002.&#xA;Motivation Over-The-Top (OTT) distribution has fundamentally offset the trust model by popularizing open devices. This evolution has motivated an appetite for watermarking solutions operating on the server side to avoid embarking security-sensitive logics in the consumers’ devices.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/watermarking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/watermarking/</guid>
-      <description>DASH-IF announces Public Community Review and Public Special Session on Watermarking support On March 23rd, 2022, DASH-IF published the DASH-IF IOP Watermarking specification is available here (pdf) for community review.
-
-This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system.</description>
+      <description>DASH-IF announces Public Community Review and Public Special Session on Watermarking support On March 23rd, 2022, DASH-IF published the DASH-IF IOP Watermarking specification is available here (pdf) for community review.&#xA;This document is about so-called A/B watermarking techniques for ABR content where a series of A and B variants of segments are consumed by devices. It introduces an end-to-end architecture supporting service-side forensic watermarking when delivered on an OTT system. It defines:</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/webrtc-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/webrtc-report/</guid>
       <description>DASH-IF publishes first report on WebRTC-based Streaming - Survey open On March 1st, 2022, DASH-IF published a first report on combining DASH and webRTC-based streaming. This report describes use cases made possible by integrating WebRTC Streaming into the DASH workflows as well as the technical considerations that should be taken into account in order to achieve successful integration. The document is primarily informative and information-collecting. It serves as a preparation and guidance for future technical work in the context of DASH and webRTC-based Streaming.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/webrtc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/webrtc/</guid>
-      <description>DASH-IF discusses WebRTC-based Streaming &amp;ndash; May 28, 2021 - Elbonia, virtual &amp;ndash;
-On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.
-  Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.</description>
+      <description>DASH-IF discusses WebRTC-based Streaming &amp;ndash; May 28, 2021 - Elbonia, virtual &amp;ndash;&#xA;On May 28 this year, as part of our virtual special session series, DASH-IF invited the colleagues from Verizon Media and Phenix Real Time Solutions to provide as an overview on a WebRTC-based Premium Streaming Ecosystem.&#xA;Abstract: WebRTC is the foundational technology for real-time streaming online and as such has widespread support across browsers. It is used widely across many applications.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://dash-industry-forum.github.io/news/workshop-2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/news/workshop-2019/</guid>
-      <description>DASH IF Workshop on Media Streaming Meets 5G Public Workshop co-sponsored by DASH-IF
-Dec 9-10, 2019 - Portland, OR, USA
-MISSION AND GOAL Along with its 21st face to face meeting on December 10-12 in Portland, OR, the DASH Industry Forum (DASH-IF) gathered experts from video distribution services, mobile operators and technology providers in order to look into 5G and Media Streaming. Around 50 experts joined and made the conference interactive and full of lively discussions.</description>
+      <description>DASH IF Workshop on Media Streaming Meets 5G Public Workshop co-sponsored by DASH-IF&#xA;Dec 9-10, 2019 - Portland, OR, USA&#xA;MISSION AND GOAL Along with its 21st face to face meeting on December 10-12 in Portland, OR, the DASH Industry Forum (DASH-IF) gathered experts from video distribution services, mobile operators and technology providers in order to look into 5G and Media Streaming. Around 50 experts joined and made the conference interactive and full of lively discussions.</description>
     </item>
-    
     <item>
       <title>Audio Source Metadata</title>
       <link>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/audio_source_metadata/</guid>
-      <description>Introduction Audio source data may be used in order to provide details of the audio content source. In general, such characteristics of audio are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.
-In the context of DASH as specific source descriptor exists, namely AudioConfiguration identifies channel configuration signaling for Representations that contain an audio component.</description>
+      <description>Introduction Audio source data may be used in order to provide details of the audio content source. In general, such characteristics of audio are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.&#xA;In the context of DASH as specific source descriptor exists, namely AudioConfiguration identifies channel configuration signaling for Representations that contain an audio component.</description>
     </item>
-    
     <item>
       <title>Authentication and Authorization</title>
       <link>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</guid>
-      <description> Introduction Authentication and authorization may be provided in the MPD.
-Authentication Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
-   Identifier Reference Abstract     urn: see Authentication    Authorization Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
-   Identifier Reference Abstract     urn: see Authorization    </description>
+      <description>Introduction Authentication and authorization may be provided in the MPD.&#xA;Authentication Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:&#xA;Identifier Reference Abstract urn: see Authentication Authorization Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:&#xA;Identifier Reference Abstract urn: see Authorization </description>
     </item>
-    
     <item>
       <title>Content Protection</title>
       <link>https://dash-industry-forum.github.io/identifiers/content_protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/content_protection/</guid>
-      <description>Introduction For the element ContentProtection, the @schemeIdUri attribute is used to identify a content protection scheme (for details see ISO/IEC 23009-1 [1], section 5.8.4.1). This attribute can provide sufficient information, possibly in conjunction with the @value and/or extension attributes and elements (such as the DRM system(s), encryption algorithm(s), and key distribution scheme(s) employed) for enabling a client to determine whether or not it can possibly play the protected content.</description>
+      <description>Introduction For the element ContentProtection, the @schemeIdUri attribute is used to identify a content protection scheme (for details see ISO/IEC 23009-1 [1], section 5.8.4.1). This attribute can provide sufficient information, possibly in conjunction with the @value and/or extension attributes and elements (such as the DRM system(s), encryption algorithm(s), and key distribution scheme(s) employed) for enabling a client to determine whether or not it can possibly play the protected content.&#xA;For Representations based on ISO/IEC 14496-12 [6], content protection schemes (or DRM systems) may be identified with ContentProtection elements.</description>
     </item>
-    
     <item>
       <title>Content Rating</title>
       <link>https://dash-industry-forum.github.io/identifiers/content_rating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/content_rating/</guid>
-      <description>Introduction Content Rating may be provided in the MPD.
-Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:
-   Identifier Reference Section Comment     urn:dvb:iptv:guidance:2014 http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf clause 9.1.2.3 Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed.</description>
+      <description>Introduction Content Rating may be provided in the MPD.&#xA;Content Rating Schemes The following defines a set of URIs that identify MPD events, i.e., schemes contained in the EventStream element:&#xA;Identifier Reference Section Comment urn:dvb:iptv:guidance:2014 ETSI TS 103 285 clause 9.1.2.3 Where the id is either: G indicating that guidance text relating to the content is provided in the ExplanatoryText element within the ParentalGuidance element or W indicating watershed (safe harbour) content that is only suitable for presentation after the watershed.</description>
     </item>
-    
     <item>
       <title>Event Schemes</title>
       <link>https://dash-industry-forum.github.io/identifiers/event_schemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/event_schemes/</guid>
-      <description>Introduction Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.
-Two ways of signalling events are provided, namely</description>
+      <description>Introduction Events may be provided in the MPD or within a Representation in order to signal aperiodic information to the DASH client or to an application. Events are timed, i.e. each event starts at a specific media presentation time and typically has a duration. To classify events a proper scheme identifier identifies the application such that the DASH client can forward the event to the proper application.&#xA;Two ways of signalling events are provided, namely</description>
     </item>
-    
     <item>
       <title>Functionality</title>
       <link>https://dash-industry-forum.github.io/identifiers/functionality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/functionality/</guid>
-      <description>Functionality    Identifier Reference Section Comment     https://dashif.org/guidelines/trickmode  clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout.   https://dashif.org/guidelines/AdaptationSetSwitching  clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
+      <description>Functionality Identifier Reference Section Comment https://dashif.org/guidelines/trickmode DASH-IF IOP v3.2 clause 3.2.9 Defines a trick mode Adaptation Set. If an Adaptation Set in annotated with the EssentialProperty descriptor with URI https://dashif.org/guidelines/trickmode then the DASH client shall not select any of the contained Representations for regular playout. https://dashif.org/guidelines/AdaptationSetSwitching DASH-IF IOP v3.2 clause 3.8 Defines signaling that switching from one Adaptation Set to another Adaptation Set may be possible in a seamless manner from a content and timeline perspective.</description>
     </item>
-    
     <item>
       <title>Output Protection</title>
       <link>https://dash-industry-forum.github.io/identifiers/output_protection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/output_protection/</guid>
-      <description>Introduction Output protection schemes, such as HDCP are frequently used to protect the rendered output in transit from the decoding device to the displaying device (for example, from a set-top box which is connected to a TV set using an HDMI cable). These output protection schemes and their properties are frequently a pre-requisite for the ability to present the associated Representations.
-For the element OutputProtection the @schemeIdUri attribute is used to identify an output protection scheme (for details see ISO/IEC 23009-1 [1], section 5.</description>
+      <description>Introduction Output protection schemes, such as HDCP are frequently used to protect the rendered output in transit from the decoding device to the displaying device (for example, from a set-top box which is connected to a TV set using an HDMI cable). These output protection schemes and their properties are frequently a pre-requisite for the ability to present the associated Representations.&#xA;For the element OutputProtection the @schemeIdUri attribute is used to identify an output protection scheme (for details see ISO/IEC 23009-1 [1], section 5.</description>
     </item>
-    
     <item>
       <title>Profiles</title>
       <link>https://dash-industry-forum.github.io/identifiers/profiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/profiles/</guid>
-      <description>General MPEG DASH defines formats for MPDs and segments. In addition MPEG provides the ability to further restrict the applied formats by the definition of Profiles as defined on section 8 of ISO/IEC 23009-1 [1]. Profiles of DASH are defined to enable interoperability and the signaling of the use of features. Profiles are signaled in the @profiles parameter which may be present on different levels of the MPD.
-Such a profile can also be understood as permission for DASH clients that implement the features required by the profile to process the Media Presentation (MPD document and Segments).</description>
+      <description>General MPEG DASH defines formats for MPDs and segments. In addition MPEG provides the ability to further restrict the applied formats by the definition of Profiles as defined on section 8 of ISO/IEC 23009-1 [1]. Profiles of DASH are defined to enable interoperability and the signaling of the use of features. Profiles are signaled in the @profiles parameter which may be present on different levels of the MPD.&#xA;Such a profile can also be understood as permission for DASH clients that implement the features required by the profile to process the Media Presentation (MPD document and Segments).</description>
     </item>
-    
     <item>
       <title>References</title>
       <link>https://dash-industry-forum.github.io/identifiers/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/references/</guid>
-      <description>References [1] ISO/IEC 23009-1:2022, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats
-[2] 3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org
-[3] DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013
-[4] ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points</description>
+      <description>References [1]&#x9;ISO/IEC 23009-1:2022, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats&#xA;[2]&#x9;3GPP TS26.247, Transparent end-to-end Packet-switched Streaming Service (PSS); Progressive Download and Dynamic Adaptive Streaming over HTTP (3GP-DASH), available at http://www.3gpp.org&#xA;[3]&#x9;DASH-IF Guidelines for Implementation: DASH264/AVC Interoperability Points, v2.0, Aug. 2013&#xA;[4]&#x9;ISO/IEC 23001-8, Information technology – MPEG systems technologies –– Part 8: Coding-independent code points&#xA;[5]&#x9;ISO/IEC 23009-1:2012, Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats, Draft Amd.</description>
     </item>
-    
     <item>
       <title>Reporting Schemes</title>
       <link>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/reporting_schemes/</guid>
-      <description> Introduction Reporting scheme may be provided in the MPD.
-Reporting Schemes    Identifier Reference Section Comment     urn:dvb:dash:reporting:2014  clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285.   urn:3GPP:ns:PSS:DASH:QM10  clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10”    </description>
+      <description>Introduction Reporting scheme may be provided in the MPD.&#xA;Reporting Schemes Identifier Reference Section Comment urn:dvb:dash:reporting:2014 ETSI TS 103 285 clause 10.12.3 The DVB Metric reporting mechanism defined by TS 103 285. urn:3GPP:ns:PSS:DASH:QM10 3GPP TS 26.247 clause 10.5 This section specifies a 3GP-DASH quality reporting scheme. The quality reporting scheme is signaled using in the Reporting element in the Metrics element. The URN to be used for the Reporting@schemeIdUri shall be “urn:3GPP:ns:PSS:DASH:QM10” </description>
     </item>
-    
     <item>
       <title>SAND</title>
       <link>https://dash-industry-forum.github.io/identifiers/sand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/sand/</guid>
-      <description>General MPEG DASH part 5 Server And Network-assisted DASH defines messages and MPD signalling for a DASH client and a DANE (network entity) to exchange such SAND messages.
-Test vectors for SAND MPDs and messages can be fond at Test Vectors.
-The following are the identifiers defined in several specification related to SAND.
-SAND    Identifier Reference Section Comment     http://dashif.org/guidelines/sand/modes/qoe https://dashif.org/guidelines/#guidelines-for-implementation-dash-if-sand-interoperability 4. Capability Exchange    http://dashif.</description>
+      <description>General MPEG DASH part 5 Server And Network-assisted DASH defines messages and MPD signalling for a DASH client and a DANE (network entity) to exchange such SAND messages.&#xA;Test vectors for SAND MPDs and messages can be fond at Test Vectors.&#xA;The following are the identifiers defined in several specification related to SAND.&#xA;SAND Identifier Reference Section Comment http://dashif.org/guidelines/sand/modes/qoe DASH-IF SAND Interoperability 4. Capability Exchange http://dashif.org/guidelines/sand/modes/pc DASH-IF SAND Interoperability 4. Capability Exchange http://dashif.</description>
     </item>
-    
     <item>
       <title>Subtitle and Closed Captioning</title>
       <link>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/subtitle_and_closed_captioning/</guid>
-      <description>Introduction Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.
-Identifiers Signalling for the closed caption services is provided by including Accessibility descriptors. The Accessibility descriptor is included for the AdaptationSet and all included Representations shall provide equivalent captions. The @value attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</description>
+      <description>Introduction Beyond regular audio and video support, TV programs typically also require support for auxiliary components such as subtitles and closed captioning, often due to regulatory requirements. DASH-IF IOP provides tools to addresses these requirements. We collect them here.&#xA;Identifiers Signalling for the closed caption services is provided by including Accessibility descriptors. The Accessibility descriptor is included for the AdaptationSet and all included Representations shall provide equivalent captions. The @value attribute of each descriptor can be either list of languages or a complete map of services (or CC channels, in CEA-608 terminology).</description>
     </item>
-    
     <item>
       <title>Video Source Metadata</title>
       <link>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/video_source_metadata/</guid>
-      <description>Introduction Video source data may be used in order to provide details of the video content source. In general, such characteristics of video are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.
-In the context of DASH as specific source descriptor exists, namely FramePacking used to identify the frame-packing configuration scheme employed.</description>
+      <description>Introduction Video source data may be used in order to provide details of the video content source. In general, such characteristics of video are logically independent of the compression format. In the context of DASH they are typically used in order to select a proper Adaptation Set. This section focuses on source format description.&#xA;In the context of DASH as specific source descriptor exists, namely FramePacking used to identify the frame-packing configuration scheme employed.</description>
     </item>
-    
     <item>
       <title>Watermarking Vendors</title>
       <link>https://dash-industry-forum.github.io/identifiers/watermarking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/identifiers/watermarking/</guid>
-      <description>Introduction Within DASH-IF watermarking guideline, a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim wmvnd that identifies this vendor as an unsigned integer with values between 0 and 255.
-Watermarking Vendors Identifiers The following table documents registered watermarking identifiers. Values between 0 and 9 are reserved for standard use. Values between 245 and 255 are reserved for private use.</description>
+      <description>Introduction Within DASH-IF watermarking guideline, a watermakring token is defined. This token contains some data that are specific to a watermarking technology vendor. it therefore carries a claim wmvnd that identifies this vendor as an unsigned integer with values between 0 and 255.&#xA;Watermarking Vendors Identifiers The following table documents registered watermarking identifiers. Values between 0 and 9 are reserved for standard use. Values between 245 and 255 are reserved for private use.</description>
     </item>
-    
   </channel>
 </rss>

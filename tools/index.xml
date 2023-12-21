@@ -6,77 +6,55 @@
     <description>Recent content in Tools on DASH Industry Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://dash-industry-forum.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://dash-industry-forum.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction Reference Tools</title>
       <link>https://dash-industry-forum.github.io/tools/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/introduction/</guid>
-      <description>Introduction The DASH-IF provides test and reference tools.
-In addition, a number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.</description>
+      <description>Introduction The DASH-IF provides test and reference tools.&#xA;In addition, a number of reference and demonstration MPEG DASH players, player libraries and packagers are publicly available.</description>
     </item>
-    
     <item>
       <title>dash.js Reference Client</title>
       <link>https://dash-industry-forum.github.io/tools/dashjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/dashjs/</guid>
-      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/
-The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
+      <description>Reference client The first DASH IF Reference Player is written using Javascript. It works in any HTML5 browser which supports the MediaSource Extensions and Encrypted Media Extensions. The latest released player version as well as all archived player versions are mounted at https://reference.dashif.org/dash.js/&#xA;The framework source code is downloadable from our Github repository at https://github.com/Dash-Industry-Forum/dash.js. The BSD-3 License allows you to freely download and use the software, in whole or in part, for personal, company internal, or commercial purposes.</description>
     </item>
-    
     <item>
       <title>Conformance Validator</title>
       <link>https://dash-industry-forum.github.io/tools/conformance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/conformance/</guid>
-      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
- The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
+      <description>Available at https://conformance.dashif.org, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):&#xA;The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments. The validation software was recently updated to allow validation against DASH IF, DVB, HbbTV and CMAF profiles.</description>
     </item>
-    
     <item>
       <title>Test Assets</title>
       <link>https://dash-industry-forum.github.io/tools/testassets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/testassets/</guid>
       <description>Find the test vectors corresponding to the latest DASH-IF guidelines: SD, HD, multichannel audio, HEVC, timed text, multiple periods, encryption… at https://testassets.dashif.org/.</description>
     </item>
-    
     <item>
       <title>Sample Software</title>
       <link>https://dash-industry-forum.github.io/tools/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/sample/</guid>
-      <description>Sample Software Sample Segmenters and Packagers  Shaka Packager is a media packaging tool and development framework for VOD and Live adaptive streaming media, supporting Common Encryption for Widevine and other DRM Systems. More details at https://github.com/google/shaka-packager . MP4BOX – A sample DASH segmenter is provided in MP4Box as part of GPAC, available at https://gpac.io. The segmenter is capable of producing media files conformant to various DASH profiles, along with their corresponding MPD.</description>
+      <description>Sample Software Sample Segmenters and Packagers Shaka Packager is a media packaging tool and development framework for VOD and Live adaptive streaming media, supporting Common Encryption for Widevine and other DRM Systems. More details at https://github.com/google/shaka-packager . MP4BOX – A sample DASH segmenter is provided in MP4Box as part of GPAC, available at https://gpac.io. The segmenter is capable of producing media files conformant to various DASH profiles, along with their corresponding MPD.</description>
     </item>
-    
     <item>
       <title>Other Validators</title>
       <link>https://dash-industry-forum.github.io/tools/validators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/validators/</guid>
-      <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):
- The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments.  MANIFEST Validators  ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files.</description>
+      <description>Validators DASH-IF Validator Available at https://conformance.dashif.org/, the validator/conformance software validates DASH content (MPD and segments based on ISO-BMFF):&#xA;The timing embedded in each representation is correct or not (segment index ‘sidx’, ‘tfdt’, …) Mandatory DASH parameters are properly encoded (SAP, fragment offsets,…). Cross-representation checks (Segment/subsegment alignment, bitstream switching). Whether there are missing segments. MANIFEST Validators ITEC– available at https://www-itec.uni-klu.ac.at/dash/?page_id=605, the validator offers the possibility to validate DASH manifest files. This can either be done via file upload, URL or direct input of the description.</description>
     </item>
-    
     <item>
       <title>Commercial Clients</title>
       <link>https://dash-industry-forum.github.io/tools/clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://dash-industry-forum.github.io/tools/clients/</guid>
-      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.
- Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
+      <description>A wide variety of commercial client and player component software is already available for the playback of MPEG-DASH. This page details the client software available today from DASH Industry Forum members: Aricent, AvidBeam, bitdash, BuyDRM, castlabs, Digital Primates, InterDigital, NexStreaming, Qualcomm, RealNetworks, StreamOne, Viaccess-Orca and VisualOn. Opens-source client implementations, including dash.js, can be located in the Software tab above.&#xA;Aricent has developed a feature-rich DASH Streaming player that supports the delivery of MPEG-DASH (Dynamic Adaptive Streaming over HTTP).</description>
     </item>
-    
   </channel>
 </rss>
