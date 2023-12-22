@@ -23,6 +23,8 @@ The following event schemes are defined by ISO/IEC 23009-1:
 
 {{< csvTable "csv/event-schemes-mpeg-dash-events.csv" >}}
 
+{{< csvTable "csv/profiles-profiles.csv" >}}
+
 # Consortia Event Schemes
 
 The following event schemes are defined by consortia:
