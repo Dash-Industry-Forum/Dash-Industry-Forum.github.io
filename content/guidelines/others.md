@@ -71,7 +71,7 @@ The scope of this document is to define a Content Protection Information Exchang
 
 ### Latest Version
 
-* DASH-IF Implementation Guidelines v2.3.1: [Content Protection Information Exchange Format (CPIX)](https://dash-industry-forum.github.io/docs/master/Cpix.html) | ([XSD](https://dash-industry-forum.github.io/docs/master/XmlSchema.zip)) | ([PDF](https://dash-industry-forum.github.io/docs/master/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors)) | 
+* DASH-IF Implementation Guidelines v2.3.1: [Content Protection Information Exchange Format (CPIX)](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.html) | ([CPIX 2.3.1 XmlSchema.zip](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13752029/CPIX.2.3.1.XmlSchema.zip)) | ([PDF](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors)) | 
 * Note that the guidelines v2.3 are published as ([ETSI TS 103799v1.1.1](https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf)), version 2.3.1 will not be published by ETSI, but a version 2.4 is under preparation for ETSI publication.
 
 Changes in 2.3.1 from 2.3 are
