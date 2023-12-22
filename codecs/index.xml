@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codecs on DASH Industry Forum</title>
+    <link>https://dash-industry-forum.github.io/codecs/</link>
+    <description>Recent content in Codecs on DASH Industry Forum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://dash-industry-forum.github.io/codecs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/codecs/introduction/</guid>
+      <description>Introduction The DASH-IF hosts and manages an online cataloging of codecs for MPEG-DASH that are based on CMAF media profiles and that are registered by the MP4 Registration authority as brands.&#xA;This cataloging includes:&#xA;hosting the online catalog on our website, listing defined media profiles along with a short descriptions of relevant DASH MPD parameters, providing a simple online mechanism to request the addition of new codecs and associated information, and finally managing the administration and maintenance of the online catalog.</description>
+    </item>
+    <item>
+      <title>Registration Codecs</title>
+      <link>https://dash-industry-forum.github.io/codecs/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/codecs/registration/</guid>
+      <description>New codecs can be registered at this link by either submitting a pull request or a new issue.</description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>https://dash-industry-forum.github.io/codecs/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/codecs/video/</guid>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for video codecs. For details on the process, please refer to the general introduction.&#xA;CMAF Media Profiles for Video CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information cfsd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.64001F avc3.64001F cfhd AVC High profile ISO/IEC 23000-19 clause A.2 avc1.640028 avc3.640028 cfhd AVC High profile ISO/IEC 23000-19 clause A.</description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>https://dash-industry-forum.github.io/codecs/audio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/codecs/audio/</guid>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.&#xA;Media Profiles for Audio Codecs CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information caac MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.5 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC v2 Profile ISO/IEC 23000-19 Annex A.</description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>https://dash-industry-forum.github.io/codecs/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/codecs/text/</guid>
+      <description>Introduction This page provides a summary of the registered CMAF media profiles for text. For details on the process, please refer to the general introduction.&#xA;Media Profiles for Text CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information im1t IMSC1 Text ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1t https://www.w3.org/groups/wg/timed-text/ipr im1i IMSC1 Image ISO/IEC 23000-19 Annex A.4 stpp.ttml.im1i https://www.w3.org/groups/wg/timed-text/ipr im2t IMSC1.1 Text ISO/IEC 23000-19 Annex L stpp.ttml.im2t https://www.w3.org/groups/wg/timed-text/ipr im2i IMSC1.1 Image ISO/IEC 23000-19 Annex L stpp.</description>
+    </item>
+  </channel>
+</rss>
