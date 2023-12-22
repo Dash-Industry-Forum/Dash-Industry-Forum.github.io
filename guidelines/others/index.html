@@ -366,17 +366,24 @@ In addition, in case of any identified issues or bugs, please file issues here: 
 <h3 id="scope-2">Scope</h3>
 <p>The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.</p>
 <h3 id="latest-version-2">Latest Version</h3>
-<p>DASH-IF Implementation Guidelines v2.3: <a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/XmlSchema.zip">XSD</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.pdf">PDF</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>) | (<a href="https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf">ETSI</a>)</p>
-<p>Changes from 2.2 are</p>
 <ul>
-<li>Addition of the <code>commonEncryptionScheme</code> element with the CENC protection scheme value</li>
-<li>Addition of the <code>version</code> element</li>
-<li>Addition of a section on using the same content key with different encryption schemes</li>
-<li>Clarification on the <code>explicitIV</code> element encoding</li>
-<li>Typos corrections</li>
+<li>DASH-IF Implementation Guidelines v2.3.1: <a href="https://dash-industry-forum.github.io/docs/master/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/master/XmlSchema.zip">XSD</a>) | (<a href="https://dash-industry-forum.github.io/docs/master/Cpix.pdf">PDF</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>) |</li>
+<li>Note that the guidelines v2.3 are published as (<a href="https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf">ETSI TS 103799v1.1.1</a>), version 2.3.1 will not be published by ETSI, but a version 2.4 is under preparation for ETSI publication.</li>
+</ul>
+<p>Changes in 2.3.1 from 2.3 are</p>
+<ul>
+<li>Clarified that key ids shall be UUID as described in ISO/IEC 23001-7 (added a constraint)</li>
+<li>Corrected a bug on <code>@periodId</code> that shall be a <code>XS:REFID</code></li>
+<li>Clarification on the <code>@explicitIV</code> attribute under the <code>ContentKey</code> element encoding</li>
+<li>Taking into account the scenario described in Clause 9 of <a href="https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.html#biblio-dashif-iopv5p6">DASHIF-IOPv5p6</a> for key rotation, clarification for the PSSH and ContentProtectionData content under DRMSystem. A clause is also added on this topic.</li>
+<li>Clean-up the Use Cases and Requirements clause (removed the electronic sell through use csae)</li>
+<li>Updated references</li>
+<li>Addition of the <code>@version</code> attribute under the CPIX element</li>
+<li>Addition of a clause on using the same content key with different encryption schemes</li>
 </ul>
 <h3 id="previous-versions">Previous Versions</h3>
 <ul>
+<li>DASH-IF Implementation Guidelines v2.3: <a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/XmlSchema.zip">XSD</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.3/Cpix.pdf">PDF</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>) | (<a href="https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf">ETSI</a>)</li>
 <li>DASH-IF Implementation Guidelines v2.2: <a href="https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.2/Cpix.pdf">PDF</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.2/XSD.zip">XSD</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX/issues">Bugtracker</a>) | (<a href="https://github.com/Dash-Industry-Forum/cpix-test-vectors">Test vectors</a>)</li>
 <li>DASH-IF Implementation Guidelines v2.1: <a href="https://dash-industry-forum.github.io/docs/CPIX2.1/HTML/Index.html">Content Protection Information Exchange Format (CPIX)</a> | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.1/PDF/Index.pdf">PDF</a>) | (<a href="https://dash-industry-forum.github.io/docs/CPIX2.1/XSD/cpix.zip">XSD</a>) | (<a href="https://github.com/Dash-Industry-Forum/CPIX">Bugtracker</a>)</li>
 <li>DASH-IF Implementation Guidelines v2.0: <a href="https://dash-industry-forum.github.io/docs/DASH-IF-CPIX-v2-0.pdf">Content Protection Information
