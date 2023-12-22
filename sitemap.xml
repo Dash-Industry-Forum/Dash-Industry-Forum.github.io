@@ -8,8 +8,6 @@
   </url><url>
     <loc>https://dash-industry-forum.github.io/tools/dashjs/</loc>
   </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/introduction/</loc>
-  </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/iop-v5/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/registration/</loc>
@@ -22,8 +20,6 @@
   </url><url>
     <loc>https://dash-industry-forum.github.io/guidelines/earlier-versions/</loc>
   </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/registration/</loc>
-  </url><url>
     <loc>https://dash-industry-forum.github.io/events/social-events/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/ipr-declarations/</loc>
@@ -34,17 +30,11 @@
   </url><url>
     <loc>https://dash-industry-forum.github.io/tools/testassets/</loc>
   </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/video/</loc>
-  </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/audio/</loc>
-  </url><url>
     <loc>https://dash-industry-forum.github.io/tools/sample/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/events/special-sessions/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/tools/validators/</loc>
-  </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/text/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/events/workshops/</loc>
   </url><url>
@@ -65,6 +55,8 @@
     <loc>https://dash-industry-forum.github.io/academic/excellence-in-dash-award-acm-mmsys-2017/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/academic/icme2017grandchallenge/</loc>
+  </url><url>
+    <loc>https://dash-industry-forum.github.io/codecs/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/membership/</loc>
   </url><url>
@@ -125,8 +117,6 @@
     <loc>https://dash-industry-forum.github.io/identifiers/authentication_and_authorization/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/categories/</loc>
-  </url><url>
-    <loc>https://dash-industry-forum.github.io/codecs/</loc>
   </url><url>
     <loc>https://dash-industry-forum.github.io/identifiers/content_protection/</loc>
   </url><url>
