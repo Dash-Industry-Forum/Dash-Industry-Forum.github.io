@@ -36,7 +36,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://www.ezdrm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/EZDRM-logo-website.png" alt="" /></a>
 <a href="http://www.fraunhofer.de/en.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/fraunhofer.jpg" alt="" /></a>
 <a href="https://www.gl-systemhaus.de/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/gl-logo-md_website.png" alt="" /></a>
-<a href="http://www.haivision.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/haivision.jpg" alt="" /></a>
 <a href="http://www.harmonicinc.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/harmonic.jpg" alt="" /></a> 
 <a href="http://www.interdigital.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/interdigital.jpg" alt="" /></a>
 <a href="http://irdeto.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/irdeto.jpg" alt="" /></a>
@@ -72,6 +71,5 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://system73.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/System73_logo_website_v2.png" alt="" /></a>
 <a href="http://www.unified-streaming.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/US-logo-black-rgb_180x.png" alt="" /></a>
 <a href="https://www.v-nova.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/V-nova_logo2020_website.png" alt="" /></a>
-<a href="http://visualon.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/visualon.jpg" alt="" /></a>
 </div>
 
