@@ -3,9 +3,8 @@ menu: "main"
 title: "Members"
 weight: 7
 ---
+
 Would you like to join? If so, find out about our <a href="https://dash-industry-forum.github.io/membership/">membership levels, fees and IPR policy</a>.
-
-
 
 ## Charter Members
 
@@ -22,7 +21,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="http://www.dts.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/xpe_logo_rgb_201_website.png" alt="Xperi" /></a></div>
 
 ## Contributor Members
-
 
 <div class="member">
 <a href="http://www.akamai.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/akamai-logo_website_052915.jpg" alt="" /></a>
@@ -54,7 +52,6 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 <a href="https://www.wowza.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Wowza_website_logo.png" alt="" /></a></div>
 
 ## Associate Members
-
 
 <div class="member">
 <a href="https://www.ateme.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Ateme%20Logo_classic_180x.png" alt="" />    </a>
