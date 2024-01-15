@@ -2,6 +2,11 @@ baseURL = "https://dash-industry-forum.github.io/"
 languageCode = "en-us"
 title = "DASH Industry Forum"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
