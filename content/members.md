@@ -10,16 +10,16 @@ Would you like to join? If so, find out about our <a href="https://dash-industry
 ## Charter Members
 
 <div class="member"><a href="http://www.comcast.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Comcast-Logo_website.jpg" alt="" /></a>
-<a href="http://www.dolby.com/us/en/index.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/DLB_Corp_rgb_blk_%401x_website.png" alt="" /></a>
-<a href="https://www.elemental.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/AWS_Elemental_logo_H_COLOR_RGB_220_website.png" alt="" />      </a>
-<a href="http://www.ericsson.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ericson.jpg" alt="" /></a>
-<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="" /></a>
-<a href="http://www.hulu.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Hulu_Logo_website.png" alt="" /></a>
-<a href="http://www.microsoft.com/en-us/default.aspx" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Microsoft2.jpg" alt="" /></a>
-<a href="http://www.qualcomm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Qualcomm_logo_website.png" alt="" /></a>
-<a href="http://www.samsung.com/us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/samsung.jpg" alt="" /></a>
-<a href="https://www.tencent.com/en-us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/tencent_logo_website.png" alt="" /></a>
-<a href="http://www.dts.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/xpe_logo_rgb_201_website.png" alt="" /></a></div>
+<a href="http://www.dolby.com/us/en/index.html" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/DLB_Corp_rgb_blk_%401x_website.png" alt="Dolby" /></a>
+<a href="https://www.elemental.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/AWS_Elemental_logo_H_COLOR_RGB_220_website.png" alt="AWS Elemental" />      </a>
+<a href="http://www.ericsson.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/ericson.jpg" alt="Ericsson" /></a>
+<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Google_logo_website.png" alt="Google" /></a>
+<a href="http://www.hulu.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Hulu_Logo_website.png" alt="Hulu" /></a>
+<a href="http://www.microsoft.com/en-us/default.aspx" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/Microsoft2.jpg" alt="Microsoft" /></a>
+<a href="http://www.qualcomm.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/Qualcomm_logo_website.png" alt="Qualcomm" /></a>
+<a href="http://www.samsung.com/us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/samsung.jpg" alt="Samsung" /></a>
+<a href="https://www.tencent.com/en-us/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://raw.githubusercontent.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/hugo/static/img/tencent_logo_website.png" alt="Tencent" /></a>
+<a href="http://www.dts.com/" target="_blank" rel="noopener noreferrer"><img height="120px"  src="https://dash-industry-forum.github.io/img/xpe_logo_rgb_201_website.png" alt="Xperi" /></a></div>
 
 ## Contributor Members
 
