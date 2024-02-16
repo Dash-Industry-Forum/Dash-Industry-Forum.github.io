@@ -22,11 +22,11 @@
       <description>Introduction DASH-IF publishes primarily three types of documents:&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review. However, the DASH-IF welcomes feedback on these published documents, e.</description>
     </item>
     <item>
-      <title>Other Documents</title>
-      <link>https://dash-industry-forum.github.io/guidelines/others/</link>
+      <title>Specifications</title>
+      <link>https://dash-industry-forum.github.io/guidelines/specifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dash-industry-forum.github.io/guidelines/others/</guid>
-      <description>Introduction Beyond the DASH-IF Interoperability Guidelines, DASH-IF also publishes specifications and reports. Those are collected in this clause.&#xA;Completed Specifications and Guidelines: The documents below are stable and have undergone a community review. Documents for community review: These documents are technically solid, but public is asked for comments in order to improve details. Position and White Papers: These documents provide background and initial studies Completed DASH-IF Interoperability Documents Disclaimer The documents below are stable and have undergone a community review.</description>
+      <guid>https://dash-industry-forum.github.io/guidelines/specifications/</guid>
+      <description>Introduction DASH-IF has a Publicly Available Specifications (PAS) agreement with the European Telecommunications Standards Institute (ETSI) to publish DASH-IF documents as ETSI specifications. In the process of publishing through ETSI, DASH-IF still provides early drafts of the candidate specifications and runs community reviews and draft publications of candidate specifications. Also, DASH-IF collects errata or smaller updates to ETSI specifications that are then rolled into a new version of an ETSI specification at appropriate time.</description>
     </item>
   </channel>
 </rss>
