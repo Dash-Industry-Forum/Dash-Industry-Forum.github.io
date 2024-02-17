@@ -28,5 +28,12 @@
       <guid>https://dash-industry-forum.github.io/guidelines/specifications/</guid>
       <description>Introduction DASH-IF has a Publicly Available Specifications (PAS) agreement with the European Telecommunications Standards Institute (ETSI) to publish DASH-IF documents as ETSI specifications. In the process of publishing through ETSI, DASH-IF still provides early drafts of the candidate specifications and runs community reviews and draft publications of candidate specifications. Also, DASH-IF collects errata or smaller updates to ETSI specifications that are then rolled into a new version of an ETSI specification at appropriate time.</description>
     </item>
+    <item>
+      <title>Other Publications and Position Papers</title>
+      <link>https://dash-industry-forum.github.io/guidelines/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/guidelines/others/</guid>
+      <description>Introduction On top of DASH-IF Interop Guidelines as well as ETSI specifications, DASH also has published a set of other publications guidelines.&#xA;Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 Scope The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.&#xA;Comments and bugs may be submitted through the public github repository.</description>
+    </item>
   </channel>
 </rss>

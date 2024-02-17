@@ -293,7 +293,7 @@
   <nav aria-label="breadcrumb">
   <div class="breadcrumb-nav">
     <div class="container">
-      <div class="breadcrumb-title"></div>
+      <div class="breadcrumb-title">Other Publications and Position Papers</div>
       <ol class="breadcrumb">
       
 
@@ -310,14 +310,14 @@
 
 <li class="breadcrumb-item " >
   
-  <a  href="https://dash-industry-forum.github.io/academic/">Academics</a>
+  <a  href="https://dash-industry-forum.github.io/guidelines/">Guidelines</a>
   
 </li>
 
 
 <li class="breadcrumb-item  active"  aria-current="page">
   
-  <span class="breadcrumb-leaf"></span>
+  <span class="breadcrumb-leaf">Other Publications and Position Papers</span>
   
 </li>
 
@@ -329,30 +329,79 @@
 
   <main role="main" class="container">
     
-  <p>In conjunction with ACM MMSys 2017, being held in Taipei, Taiwan | June 20-23, 2017, the DASH Industry Forum is proud to announce the establishment of the</p>
-<p><strong>DASH Industry Forum Excellence in DASH Award</strong></p>
-<p>This award offers a financial prize for those papers which best meet the following requirements:</p>
+  <h1 id="introduction">Introduction</h1>
+<p>On top of <a href="../iop-v5">DASH-IF Interop Guidelines</a> as well as <a href="../specifications">ETSI specifications</a>, DASH also has published a set of other publications guidelines.</p>
+<h1 id="guidelines-for-implementation-dash-if-interoperability-point-for-atsc-30">Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0</h1>
+<h2 id="scope">Scope</h2>
+<p>The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.</p>
+<p>Comments and bugs may be submitted through the <a href="https://github.com/Dash-Industry-Forum/ATSC">public github repository</a>.</p>
+<h2 id="latest-version">Latest Version</h2>
+<p>Version 1.1: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf">pdf</a> | <a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.1-diff-v1.0.pdf">diff to v1.0</a>)</p>
+<p>This updated version adds the following aspects:</p>
 <ul>
-<li>Paper must substantially address MPEG DASH as the presentation format</li>
-<li>Paper must be selected for presentation at ACM MMSys 2017</li>
-<li>Preference given to practical enhancements and developments which can sustain future commercial usefulness of DASH.</li>
-<li>DASH format used should conform to the DASH IF Interoperability Points as defined by <a href="https://dashif.org/guidelines/">https://dashif.org/guidelines/</a></li>
+<li>Update of references to refer to the latest correct versions</li>
+<li>Clarification on track selection in clause 3.3 and addition of a new clause 2.7.5</li>
+<li>Addition of a placeholder for a non-real time profile in clause 1.3</li>
+<li>Updates to the ROUTE protocol constraints when used with $TIME$ in clause 2.2</li>
+<li>Clarification on the usage of @r=-1 with the Segment timeline in clause 3.1.</li>
+<li>Reference to DASH-IF IOP for joining, initial buffering and playout in clause 4.</li>
+<li>Addition of High Dynamic Range (HDR) video in clause 3.3.</li>
+<li>Clarification on ATSC events and DASH events in clause 6.3</li>
+<li>Update to xlink behavior in clause 5.1</li>
+<li>Miscellaneous editorial updates</li>
 </ul>
-<p>Three levels of prize are awarded:</p>
+<h2 id="previous-versions">Previous Versions</h2>
 <ul>
-<li>First place – €1000</li>
-<li>Second place – €500</li>
-<li>Third place – €250</li>
+<li><a href="https://dash-industry-forum.github.io/docs/DASH-IF-IOP-for-ATSC3-0-v1.0.pdf">Version 1.0: Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0</a> | <a href="https://dashif.org/ipr-declarations/">License declarations</a></li>
 </ul>
-<p>Terms:</p>
+<h1 id="guidelines-for-implementation-dash-if-sand-interoperability">Guidelines for Implementation: DASH-IF SAND Interoperability</h1>
+<h2 id="scope-1">Scope</h2>
+<p>The scope of this document is to address interoperability aspects and deployment guidelines for Server and Network Assisted DASH (SAND). More specifically, the following aspects of SAND are covered:
+•	Modes defining subsets of SAND messages and mandatory SAND protocols to use for specific deployment environments
+•	Capability exchange procedures for DASH clients and DANEs
+•	Security guidelines for SAND messages delivery
+•	Procedures on DANE discovery for SAND</p>
+<p>Comments and bugs may be submitted through the <a href="https://gitreports.com/issue/Dash-Industry-Forum/SAND">public github repository</a></p>
+<h2 id="latest-version-1">Latest Version</h2>
+<p>Guidelines for Implementation: DASH-IF SAND Interoperability Version 1.0 (<a href="https://dash-industry-forum.github.io/docs/DASH-IF-SAND-IOP-v1.0.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
+<h1 id="dash-if-implementation-guidelines-token-based-access-control-for-dash-tac">DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)</h1>
+<h2 id="scope-2">Scope</h2>
+<p>The scope of this document is to define a token-based access control mechanism and to enable the signaling of Authentication and Authorization (AA) protocols for DASH-based streaming. An Access Token is a proof that a DASH client or user of the client have been successfully authenticated and authorized in some pre-determined AA Systems to access a particular DASH resource, e.g. DASH segments or MPDs.
+This document defines an Access Token format for accessing DASH resources and its transport between a DASH client and a server, hence ensuring interoperability between content providers and content delivery networks. The document focuses on the signaling and exchange mechanisms to facilitate Access Token-protected requests for the delivery of MPDs, licenses, keys and segments. This document can be used in addition to the general DASH-IF Interoperability Points.</p>
+<p>Comments and bugs may be submitted through the <a href="https://gitreports.com/issue/Dash-Industry-Forum/TAC">public github repository</a></p>
+<h2 id="latest-version-2">Latest Version</h2>
+<p>[DASH-IF Implementation Guidelines: Token-based Access Control for DASH (TAC)] (<a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm">https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.htm</a>) (<a href="https://dash-industry-forum.github.io/docs/DASH-TAC-v1.0.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
+<h1 id="dash-if-technical-specification-live-media-ingest">DASH-IF Technical Specification: Live Media Ingest</h1>
+<h2 id="scope-3">Scope</h2>
+<p>This document presents the DASH-IF Live Media Ingest Protocol Specification. Two protocol interfaces are defined. The first, interface 1, CMAF ingest, is based on fragmented MPEG-4 as defined in the common media application track format (CMAF). The second interface is based on MPEG DASH and HLS as defined by ISO SC29 WG 11 and IETF. Both Interfaces use the HTTP POST Method to transmit media objects from the ingest source to the receiving entity. Examples of live streaming workflows using these protocol interfaces are also presented. The protocol interfaces also support carriage of timed metadata and timed text. Guidelines for redundancy and failover are also included.</p>
+<h2 id="latest-version-3">Latest Version</h2>
+<p>[DASH-IF Live Media Ingest Protocol v1.0] (<a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html">https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html</a>) (<a href="https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf">pdf</a>) | <a href="https://dashif.org/ipr-declarations/">License declarations</a></p>
+<h2 id="comments-and-bugs">Comments and Bugs</h2>
+<p>Comments may be submitted through the <a href="https://github.com/Dash-Industry-Forum/Ingest/issues">github</a> or <a href="https://gitreports.com/issue/Dash-Industry-Forum/Ingest">public bugtracker</a></p>
+<h1 id="dash-if-test-cases-and-vectors">DASH-IF Test cases and Vectors</h1>
 <ul>
-<li>Winners are chosen by a DASH Industry Forum appointed committee and results are final.</li>
-<li>If papers of sufficient quality are not received, then some or all of the awards may not be granted.</li>
-<li>The competition is open to any individual, commercial or academic institution. No preference is given to DASH IF members and membership is not required in order to participate in the competition.</li>
+<li>Guidelines for Implementation: <a href="https://testassets.dashif.org">Test cases and Vectors V1.0</a> | (<a href="https://github.com/Dash-Industry-Forum/Test-Cases/issues">Bugtracker</a>)</li>
 </ul>
-<p>How to enter: in order for your paper to be considered for the competition, please check the checkbox labelled “DASH Award” on the submission page and your paper will be forwarded to the DASH IF for review.</p>
-<p>The DASH IF Board</p>
-<p>November 1st, 2016.</p>
+<h1 id="dash-if-position-and-white-papers">DASH-IF Position and White Papers</h1>
+<ul>
+<li><a href="https://dash-industry-forum.github.io/docs/SAND-Whitepaper-Dec13-final.pdf">DASH-IF position Paper: DASH-IF Position Paper: Server and Network
+Assisted DASH (SAND)</a> (500k PDF)</li>
+<li><a href="https://dash-industry-forum.github.io/docs/ProposedMediaMetricsforSegmentedMediaDelivery-r12.pdf">DASH-IF position Paper: Proposed QoE Media Metrics standardization for
+segmented media playback</a> (1M PDF)</li>
+<li><a href="https://dash-industry-forum.github.io/docs/Report%20on%20Low%20Latency%20DASH.pdf">DASH-IF/DVB Report on Low-Latency Live Service with DASH</a> (2M PDF)</li>
+<li><a href="https://dash-industry-forum.github.io/docs/DASH264-v1.5.pdf">DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
+Material</a> (600k PDF)</li>
+<li><a href="https://meetings.webex.com/collabs/files/playRecording?encryptedDocID=0_29A910EB09C0BAEABD833A0CEE1CE0290D4477CBA394F385C9F76F5039B186DFC9A6CA6A732232122D7A07D19C5C921D_06C635CE7312194B5999E0695FBFC56E12BE2991">DASH-AVC/264: A Baseline Implementation for MPEG-DASH Press Conference
+(Streaming recording)</a></li>
+<li><a href="https://dash-industry-forum.github.io/docs/Survey-of-the-European-Broadcasters-on-MPEG-DASH-Whitepaper-V2.1.pdf">Survey of European Broadcasters on MPEG-DASH</a></li>
+<li><a href="http://spie.org/x648.html?product_id=897211">Reinventing multimedia delivery with MPEG-DASH</a>, SPIE Applications of Digital Image Processing XXXIV, Sept 2011.</li>
+</ul>
+<h1 id="iso-publicly-available-specifications">ISO Publicly Available Specifications</h1>
+<ul>
+<li><a href="http://standards.iso.org/ittf/PubliclyAvailableStandards">MPEG-DASH 5th Edition Specification (ISO/IEC 23009-1:2023)</a></li>
+<li>T. Stockhammer: “<a href="http://www.w3.org/2010/11/web-and-tv/papers/webtv2_submission_64.pdf">Dynamic Adaptive Streaming over HTTP-Design Principles and Standards</a>” In: MMSys ’11: Proceedings of the second annual ACM conference on Multimedia systems New York, NY, USA: ACM Press , Feb 2011,S. 133-144.</li>
+<li>T. Stockhammer: &ldquo;<a href="https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/14318163/DASH-Tutorial-MHV-2022.pdf">MPEG-DASH Tutorial at Mile High Video 2022</a>&rdquo;</li>
+</ul>
 
 
   </main>

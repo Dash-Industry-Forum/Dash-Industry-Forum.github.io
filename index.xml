@@ -134,6 +134,13 @@
       <description>Introduction This page provides a summary of the registered CMAF media profiles for audio codecs. For details on the process, please refer to the general introduction.&#xA;Media Profiles for Audio Codecs CMAF Profile Parameter Media Profile Name Specification Appropriate Codecs Parameter More Information caac MPEG-4 AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.2 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC Profile ISO/IEC 23000-19 Annex A.3 mp4a.40.5 https://www.via-corp.com/licensing/aac/ caac MPEG-4 HE-AAC v2 Profile ISO/IEC 23000-19 Annex A.</description>
     </item>
     <item>
+      <title>Other Publications and Position Papers</title>
+      <link>https://dash-industry-forum.github.io/guidelines/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/guidelines/others/</guid>
+      <description>Introduction On top of DASH-IF Interop Guidelines as well as ETSI specifications, DASH also has published a set of other publications guidelines.&#xA;Guidelines for Implementation: DASH-IF Interoperability Point for ATSC 3.0 Scope The scope of this document is to provide a DASH interoperability point that is based on DASH-IF-IOPs and provides extensions to address use cases and requirements of ATSC 3.0.&#xA;Comments and bugs may be submitted through the public github repository.</description>
+    </item>
+    <item>
       <title>Sample Software</title>
       <link>https://dash-industry-forum.github.io/tools/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
