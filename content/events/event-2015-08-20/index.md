@@ -50,7 +50,7 @@ The session will contain two talks on 5G definition, timelines, objectives and r
    </td>
    <td>Qualcomm
    </td>
-   <td>Introduction to 5G
+   <td>[Introduction to 5G](./1a-2015.08.20_5G-for-DASH-IF-v2.pdf)
    </td>
    <td>Confirmed
    </td>
@@ -62,7 +62,7 @@ The session will contain two talks on 5G definition, timelines, objectives and r
    </td>
    <td>Ericsson
    </td>
-   <td>5G Vision
+   <td>[5G Vision](./1b-Ericsson-Ali-Khayrallah-Aug-2015.pdf)
    </td>
    <td>Confirmed
    </td>
@@ -114,7 +114,7 @@ This session will provide overviews of current mobile video services and viewing
    </td>
    <td>Huawei
    </td>
-   <td>Challenges and Opportunities in Mobile Video Delivery
+   <td>[Challenges and Opportunities in Mobile Video Delivery](2a-Mobile-Content-Delivery-Challenge-and-Opportunities_For-5G-Video.pdf)
    </td>
    <td>confirmed
    </td>
@@ -126,7 +126,7 @@ This session will provide overviews of current mobile video services and viewing
    </td>
    <td>Adobe
    </td>
-   <td>Monetization Opportunities for OTT Video
+   <td>[Monetization Opportunities for OTT Video](./2b-Streeter_MonetizationMobileVideo_August2012-5.pdf)
    </td>
    <td>confirmed
    </td>
@@ -138,7 +138,7 @@ This session will provide overviews of current mobile video services and viewing
    </td>
    <td>Conviva
    </td>
-   <td>Video Streaming Viewing Experience on Mobile Platform
+   <td>[Video Streaming Viewing Experience on Mobile Platform](./2c-Qualcomm_Conviva_Mobile-v1.pdf)
    </td>
    <td>confirmed
    </td>
@@ -150,7 +150,7 @@ This session will provide overviews of current mobile video services and viewing
    </td>
    <td>MediaMelon
    </td>
-   <td>Mobile Video as of Today and in the future
+   <td>[Mobile Video as of Today and in the future](./2d-MediaMelon_DASH_deck_Thomas.pdf)
    </td>
    <td>confirmed
    </td>
@@ -190,7 +190,7 @@ Mobile video has been on the industry’s mind for decades but has had a number 
    </td>
    <td>Netflix
    </td>
-   <td>Challenges for on-demand video distribution on Mobile Networks
+   <td>[Challenges for on-demand video distribution on Mobile Networks](./3a-On-demand-video-over-Mobile-Networks.pdf
    </td>
    <td>confirmed
    </td>
@@ -202,7 +202,7 @@ Mobile video has been on the industry’s mind for decades but has had a number 
    </td>
    <td>Neulion, co-CTO
    </td>
-   <td>Interactivity on Mobile Video
+   <td>[Interactivity on Mobile Video](./3b-EGrab-NeuLion_5G_Workshop_Aug2015.pdf)
    </td>
    <td>confirmed
    </td>
@@ -214,7 +214,7 @@ Mobile video has been on the industry’s mind for decades but has had a number 
    </td>
    <td>Akamai
    </td>
-   <td>Content Delivery to Mobile Devices – data from a worldwide CDN
+   <td>Content Delivery to Mobile Devices – data from a worldwide CDN](./3c-Content-Delivery-to-Mobile-Devices-%C2%AD-data-from-a-worldwide-CDN.pdf)
    </td>
    <td>confirmed
    </td>
@@ -222,11 +222,19 @@ Mobile video has been on the industry’s mind for decades but has had a number 
   <tr>
    <td><strong>4</strong>
    </td>
-   <td>Amit
+   <td>n.a.
    </td>
-   <td>Facebook
+   <td>CableLabs
    </td>
-   <td>Tbd
+   <td>[Multicast](./3d-2015-CableLabs-IP-Multicast-16x9-mdw-v1.9-dash-if-public.pdf)
+   </td>
+   <td>Open
+   </td>   
+    <td>Chris Caviogli
+   </td>
+   <td>Intel
+   </td>
+   <td>[Video meets 5G](./3e-Video-meets-5G.pdf)
    </td>
    <td>Open
    </td>
@@ -260,7 +268,7 @@ The panel will be an open discussion on how new video formats such as Ultra HD w
    </td>
    <td>David Price, VP business development
    </td>
-   <td>Ericsson
+   <td>[Ericsson](./4a-Harmonic-5G-Video.pdf)
    </td>
    <td>confirmed
    </td>
@@ -270,7 +278,7 @@ The panel will be an open discussion on how new video formats such as Ultra HD w
    </td>
    <td>Richard Doherty, standards manager 
    </td>
-   <td>Dolby
+   <td>[Dolby](./4b-Dolby_5G_Intro.pdf)
    </td>
    <td>confirmed
    </td>
@@ -280,7 +288,7 @@ The panel will be an open discussion on how new video formats such as Ultra HD w
    </td>
    <td>Aytac Biber, product manager
    </td>
-   <td>Qualcomm
+   <td>[Qualcomm](./4c-Qualcomm-5g-video-v2.pdf)
    </td>
    <td>confirmed
    </td>
@@ -290,7 +298,7 @@ The panel will be an open discussion on how new video formats such as Ultra HD w
    </td>
    <td>Mark Watson, head of standards
    </td>
-   <td>Netflix
+   <td>[Netflix](./4d-Netflix-New-formats-and-mobile.pdf)
    </td>
    <td>confirmed
    </td>
@@ -344,7 +352,7 @@ This session will talk about latest advances and technologies in the mobile cont
    </td>
    <td>Akamai
    </td>
-   <td>New efforts underway at Akamai to improve content distribution over cellular networks
+   <td>[New efforts underway at Akamai to improve content distribution over cellular networks](./5a-Akamai-and-Mobile-Delivery.pdf)
    </td>
    <td>Confirmed
    </td>
@@ -368,7 +376,7 @@ This session will talk about latest advances and technologies in the mobile cont
    </td>
    <td>Qualcomm
    </td>
-   <td>ATSC3.0
+   <td>[ATSC3.0](./5c-ATSC-3.0-and-Broadcaster-Direction-082115.pdf)
    </td>
    <td>Confirmed
    </td>
@@ -380,7 +388,7 @@ This session will talk about latest advances and technologies in the mobile cont
    </td>
    <td>Microsoft
    </td>
-   <td>Azure Cloud Service Delivery
+   <td>[Azure Cloud Service Delivery](./5d-Azure-Media-Service-Cloud-Video-Delivery.pdf
    </td>
    <td>confirmed
    </td>
@@ -434,7 +442,7 @@ What are the relevant SDO and consortia doing now and what are their plans for f
    </td>
    <td>Qualcomm
    </td>
-   <td>Tbd (W3C/ATSC/IETF)
+   <td>[(W3C/ATSC/IETF)](./6a-W3C-ATSC-and-DASH-Streaming-Media.pdf)
    </td>
    <td>confirmed
    </td>
@@ -446,7 +454,7 @@ What are the relevant SDO and consortia doing now and what are their plans for f
    </td>
    <td>Samsung
    </td>
-   <td>Tbd (IETF/MPEG/3GPP)
+   <td>[IETF/MPEG/3GPP](./6b-IETF_Media_Activities.pdf)
    </td>
    <td>confirmed
    </td>
@@ -458,7 +466,7 @@ What are the relevant SDO and consortia doing now and what are their plans for f
    </td>
    <td>Ericsson
    </td>
-   <td>Tbd (3GPP/MPEG)
+   <td>[(3GPP/MPEG)](./6c-MPEG-Video-and-File-Formats.pdf)
    </td>
    <td>confirmed
    </td>
@@ -470,7 +478,7 @@ What are the relevant SDO and consortia doing now and what are their plans for f
    </td>
    <td>Huawei
    </td>
-   <td>Mobile Edge Computing: unleashing the value chain
+   <td>[Mobile Edge Computing: unleashing the value chain](./6d-Mobile-Edge-Computing-Unleashing-the-value-chain.pdf)
    </td>
    <td>confirmed
    </td>
@@ -482,7 +490,7 @@ What are the relevant SDO and consortia doing now and what are their plans for f
    </td>
    <td>Qualcomm
    </td>
-   <td>3GPP-based content delivery
+   <td>[3GPP-based content delivery](./6e-3GPP-Content.pdf)
    </td>
    <td>confirmed
    </td>
@@ -548,7 +556,7 @@ The session will cover new and emerging technologies with high potential impact 
    </td>
    <td>Fraunhofer/HHI
    </td>
-   <td>Ultra-Low Delay Video: Towards Tactile Internet
+   <td>[Ultra-Low Delay Video: Towards Tactile Internet](./7c-HHI_5GVideoTalk.pdf)
    </td>
    <td>confirmed
    </td>
@@ -560,7 +568,7 @@ The session will cover new and emerging technologies with high potential impact 
    </td>
    <td>Microsoft
    </td>
-   <td>Advances in mobile internet security
+   <td>[Advances in mobile internet security](./7d-Content-Protection-and-Security-Considerations-for-5G-Networks.pdf)
    </td>
    <td>confirmed
    </td>
