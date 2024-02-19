@@ -1,11 +1,3 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # **Introduction**
 
 The DASH Industry Forum (DASH-IF) will have  its 11<sup>th</sup> face to face meeting on August 18-20 in San Diego and would like to use this opportunity to organize a workshop to gather together experts from video distribution services, mobile operators and technology providers.
@@ -17,57 +9,9 @@ Experts from different fields will discuss during two days on new opportunities 
 
 # **Logistics**
 
-**Meeting Location:             	**
-
-·         **Qualcomm Incorporated (Building AZ – Letters won’t appear on building)**
-
-
-        `o`    10145 Pacific Heights Blvd.
-
-
-        `o`    San Diego, California 92121
-
-
-        `o`    United States
-
+** Meeting Location:  **Qualcomm Incorporated (Building AZ – Letters won’t appear on building)**
  
-
-**Meeting Dates:       	**        	August 20-21, 2015
-
-**Daily Start/End Time:         	**August 20<sup>th</sup>, Thursday / Start:  2:00pm / End:  7:30pm
-
-                                            	August 20<sup>th</sup> Social event starting at 7:45pm at Karl-Strauss
-
-
-            August 21<sup>st</sup>, Friday / Start:  9:00am / End:  2:00pm
-
-**Special Note:**                      	An MPEG DASH adhoc meeting will be held August 17-18, 2015.
-
-
-            Also, a DASH-IF Meeting will be held August 18-20, 2015.
-
-
-                Should you be interested in attending either or both, please contact the Meeting contact.        	
-
-**Meeting Contact:               	**Thomas Stockhammer
-
-                                            	tsto@qti.qualcomm.com
-
-                                            	+49 172 5702667
-
-**Registration Contact:**        	Lana Edwards
-
-                                            	lanae@qti.qualcomm.com
-
-                                            	+1 (858) 651-5152
-
-**Meeting Registration**
-
-Please register through Eventbrite by July 31, 2015, at the latest: [ https://www.eventbrite.com/e/workshop-video-meets-mobile-the-5g-opportunity-tickets-17733547518](https://www.eventbrite.com/e/workshop-video-meets-mobile-the-5g-opportunity-tickets-17733547518)
-
-**Instructions for Presenters**
-
-At this point in time we expect that presenters bring their own laptop for presentations. Should you have any issues with this, please let us know. I will ask the presenters to use Webex for sharing. A dedicated laptop may be setup.
+** Meeting Dates: **August 20-21, 2015
 
 
 # **Program**
@@ -78,14 +22,11 @@ At this point in time we expect that presenters bring their own laptop for prese
 
 ### **14:00   Welcome and Roll Call**
 
-            	Session Chair: Thomas Stockhammer (Qualcomm), Director Technical Standards
+Session Chair: Thomas Stockhammer (Qualcomm), Director Technical Standards
 
 
 ### **14:15   Introduction to 5G**
-
-
-    Session Chair: Thomas Stockhammer (Qualcomm), Director Technical Standards (may be \
- replaced by someone else)
+Session Chair: Thomas Stockhammer (Qualcomm), Director Technical Standards
 
 The session will contain two talks on 5G definition, timelines, objectives and relevant aspects for content distribution. The session will be tutorial and provide the basic ideas on 5G. Speakers are involved in the early definition of 5G and will provide an overview.
 
@@ -147,7 +88,7 @@ The session will contain two talks on 5G definition, timelines, objectives and r
 
 ### **15:15   Mobile Video today and in the future**
 
-            	Session Chair: Xin Wang, Huawei, Head of Multimedia Systems, Corporate Research
+Session Chair: Xin Wang, Huawei, Head of Multimedia Systems, Corporate Research
 
 The session will be a series of talks followed with a short Q&A and panel discussion.
 
@@ -223,7 +164,7 @@ This session will provide overviews of current mobile video services and viewing
 
 ### **16:45   Content and Service Providers view on Mobile Video**
 
-            	Session Chair: David Price, Ericsson, VP business development
+Session Chair: David Price, Ericsson, VP business development
 
 The session will be a series of talks followed with a short Q&A and panel discussion.
 
@@ -299,7 +240,7 @@ The session is planned for 75 minutes.
 
 ### **18:00   New Formats and their consequences for mobile ecosystem**
 
-            	Session Chair: Thierry Fautier, President of Ultra HD Forum, VP Video Strategy at Harmonic
+Session Chair: Thierry Fautier, President of Ultra HD Forum, VP Video Strategy at Harmonic
 
 The panel will be an open discussion on how new video formats such as Ultra HD will impact the 5G Video ecosystem, on existing devices and applications (streaming to phones & tablets) but also upcoming devices and applications such as virtual reality video.
 
@@ -377,7 +318,7 @@ Location: Karl-Strauss Brewery, Sorrento Valley
 
 ### **08:30   Mobile Content Distribution**
 
-            	Session Chair: Imed Bouazizi, Samsung
+Session Chair: Imed Bouazizi, Samsung
 
 The session will be a series of talks followed with a short Q&A and panel discussion.
 
@@ -467,7 +408,7 @@ Mobility CTO Group
 
 ### **09:45   Status Standardization Activities Streaming Media**
 
-            	Session Chair: Iraj Sodagar, Microsoft, President of DASH-IF
+Session Chair: Iraj Sodagar, Microsoft, President of DASH-IF
 
 The panel will be a series of short talks followed with Q&A and panel discussion.
 
@@ -557,7 +498,7 @@ The session is planned for 75 minutes.
 
 ### **11:15   New Technologies and Enablers**
 
-            	Session Chair: Yuriy Reznik, InterDigital, Director
+Session Chair: Yuriy Reznik, InterDigital, Director
 
 The session will be a series of talks followed with a short Q&A and panel discussion.
 
@@ -633,32 +574,17 @@ The session is planned for 75 minutes.
 
 ### **12:30   Closing Plenary: Standardization Needs and Next Steps**
 
-            	Session Chair: Thomas Stockhammer (Qualcomm Incorporated)
+Session Chair: Thomas Stockhammer (Qualcomm Incorporated)
 
 The session will be a panel discussion.
 
 The session will summarize the workshop and identify next steps. Some aspects that may be discussed:
-
--          Are standards necessary at all and what aspects should be the focus towards?
-
--          What organizations may matter and what aspects should they deal with?
-
--          How can standards keep track with innovation?
-
--          How can 5G and OTT video be better connected?
-
--          What is the role of industry consortia such as DASH-IF, ETSI MEC, UHD Forum, etc.?
-
--          What are the next steps and opportunities:
-
-
-        `o`   Mobile World Congress
-
-
-        `o`   MPEG#113 Workshop
-
-
-        `o`   Other events
+* Are standards necessary at all and what aspects should be the focus towards?
+* What organizations may matter and what aspects should they deal with?
+* How can standards keep track with innovation?
+* How can 5G and OTT video be better connected?
+* What is the role of industry consortia such as DASH-IF, ETSI MEC, UHD Forum, etc.?
+* What are the next steps and opportunities?
 
 Panelists will be decided at the workshop.
 
