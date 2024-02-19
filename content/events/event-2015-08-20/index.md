@@ -11,7 +11,7 @@ Experts from different fields will discuss during two days on new opportunities 
 
 * Meeting Location:  **Qualcomm Incorporated (Building AZ – Letters won’t appear on building)**
 * Meeting Dates: **August 20-21, 2015**
-* [Attendee List</a><a href="./Attendee-List.pdf) 
+* [Attendee List](./Attendee-List.pdf) 
 
 # **Program**
 
