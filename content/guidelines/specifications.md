@@ -42,7 +42,7 @@ Content distributors often use multiple Content Delivery Networks (CDNs) to dist
 ## Disclaimer
 ETSI published this specification under the Publicly Available Specifications (PAS) agreement. For details on the PAS process, please refer to ETSI PAS Process Guide: https://www.etsi.org/images/files/ETSI_PAS_Process_Guide.pdf.
 
-In addition, in case of any identified issues or bugs, please file issues here: [https://github.com/Dash-Industry-Forum/Watermarking/issues](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
+In addition, in case of any identified issues or bugs, please file issues here: [https://github.com/Dash-Industry-Forum/Content-Steering/issues](https://github.com/Dash-Industry-Forum/Content-Steering/issues).
 
 ## Latest Version
 
