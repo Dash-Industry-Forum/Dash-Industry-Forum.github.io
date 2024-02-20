@@ -1,11 +1,10 @@
 # **Introduction**
 
-The DASH Industry Forum (DASH-IF) will have  its 11<sup>th</sup> face to face meeting on August 18-20 in San Diego and would like to use this opportunity to organize a workshop to gather together experts from video distribution services, mobile operators and technology providers.
+The DASH Industry Forum (DASH-IF) held its 11<sup>th</sup> face to face meeting on August 18-20, 2015, in San Diego used this opportunity to organize a workshop to gather together experts from video distribution services, mobile operators and technology providers.
 
-We believe that with 5G on the horizon, this is an opportunity to understand some of the technical and non-technical challenges and opportunities for mobile video services. Such information gathering should allow companies and standardization organizations to focus on relevant enablers in order to create revenue-generating and interoperable video services, anticipating that video already is and will be to an increasing degree the majority of the traffic in mobile networks.
+With 5G on the horizon, this was an opportunity to understand some of the technical and non-technical challenges and opportunities for mobile video services. This information gathering allowed companies and standardization organizations to focus on relevant enablers in order to create revenue-generating and interoperable video services, anticipating that video already is and will be to an increasing degree the majority of the traffic in mobile networks.
 
-Experts from different fields will discuss during two days on new opportunities and challenges.
-
+Experts from different fields discussed during two days on new opportunities and challenges.
 
 # **Logistics**
 
