@@ -317,6 +317,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://dash-industry-forum.github.io/news/ingest-v1-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/news/ingest-v1-2/</guid>
+      <description>DASH-IF publishes Live Media Ingest version 1.2 On February 28th, 2024, DASH-IF published version 1.2 of the DASH-IF Technical Specification: Live Media Ingest. Generally, the document presents the DASH-IF Live Media Ingest Protocol Specification. Two protocol interfaces are defined. The first, interface 1, CMAF ingest, is based on fragmented MPEG-4 as defined in the common media application track format (CMAF). The second interface is based on MPEG DASH and HLS as defined by ISO SC29 WG 11 and IETF.</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://dash-industry-forum.github.io/news/jccp-completion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/news/jccp-completion/</guid>
