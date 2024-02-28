@@ -85,8 +85,8 @@ Comments may be submitted through the [github](https://github.com/Dash-Industry-
 
 ## Earlier Version
 
-* DASH-IF Live Media Ingest Protocol v1.0
-* DASH-IF Live Media Ingest Protocol v1.1
+* DASH-IF Live Media Ingest Protocol v1.0 (Sep 2021)
+* DASH-IF Live Media Ingest Protocol v1.1 (March 2022)
 
 # DASH-IF Test cases and Vectors
 
