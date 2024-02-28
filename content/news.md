@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+February 28, 2024 -- DASH-IF publishes [Live Media Ingest version 1.2](https://dashif.org/news/ingest-v1-2)
+
 December 15, 2023 -- The Joint Content Conformance Project (JCCP)  announces the [completion of its open-source media streaming conformance project](https://dashif.org/news/jccp-completion).
 
 November 2, 2023 -- DASH-IF is joining the [Second Open Source Media Application Reference Tools (OSMART-2) workshop](https://dashif.org/news/osmart-2) in December 2023.
