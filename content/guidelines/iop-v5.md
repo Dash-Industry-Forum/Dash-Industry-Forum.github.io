@@ -155,7 +155,7 @@ _under development_
 Part 8 of DASH-IOP v5 describes the audio interoperability points for the DASH-IF ecosystem. Audio coding profiles, ISOBMFF packaging and MPD parameters are defined for these points of interoperability. Also defined is the application of audio Preselections as applied to object-based audio. Preselections may include audio components from one or more streams. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/audio/.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part8-v5.0.0: Audio](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part8-v5.0.0.pdf) (published Jan 03, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
+* [DASH-IF-IOP-Part8-v5.1.0: Audio](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part8-v5.1.0.pdf) (published Mar 12, 2024) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
 
 ## Documents under Community review
 * None
@@ -163,9 +163,12 @@ Part 8 of DASH-IOP v5 describes the audio interoperability points for the DASH-I
 ## Editors
 * [Phil Maness (Xperi)](https://www.linkedin.com/in/phillip-maness-16a130/)
 * [Richard Doherty (Dolby)](https://www.linkedin.com/in/dohertyrichard/)
+* [Stephan Schreiner (Dolby)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/stephanschreiner/))
+
 
 ## History
-DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are not constrained to CMAF.
+* [DASH-IF-IOP-Part8-v5.0.0: Audio](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part8-v5.0.0.pdf) (published Jan 03, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Audio/issues))
+* DASH-IF IOP V4.3 is still available for DASH delivery of media tracks that are not constrained to CMAF.
 
 # Part 9: Text
 
