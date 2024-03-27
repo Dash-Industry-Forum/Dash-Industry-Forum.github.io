@@ -22,9 +22,9 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Presenters: 
 Editors of 6th Edition
-- Alex Giladi, Comcast
-- Thomas Stockhammer, Qualcomm
-- Iraj Sodagar, Tencent
+- [Alex Giladi](https://www.linkedin.com/in/agiladi), Comcast
+- [Thomas Stockhammer](https://www.linkedin.com/in/stockhammer), Qualcomm
+- [Iraj Sodagar](https://www.linkedin.com/in/iraj-sodagar), Tencent
 
 ### Abstract: 
 MPEG is in the process of defining the 6th edition of MPEG-DASH. The updates address industry needs from MPEG-DASH deployments. Among others the following features are presented in more details.
