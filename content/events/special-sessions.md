@@ -38,7 +38,7 @@ MPEG is in the process of defining the 6th edition of MPEG-DASH. The updates add
 - Timeline, status, DASH-IF related impacts
 
 ### Participants: 
-Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting. If you are interested to participate, please contact the [DASH-IF IOP chair](mailto: iop-chair@dashif.org). 
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting. If you are interested to participate, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
 
 ### Recording, Slides and other Material (to be completed):
 
