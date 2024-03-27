@@ -9,10 +9,39 @@ weight: 4
 # Introduction
 In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f meetings with a series of Special Sessions. This was setup in order to provide a platform for DASH-IF members and external companies to present new ideas. DASH-IF typically invites colleagues from other organizations such as MPEG, 3GPP, DVB, SCTE, CTA WAVE or ATSC. This makes these presentations lively and interesting and we have identified relevant new topics for which some of them have been moved into work streams. If you are interested to give a presentation as well, please contact us.
 
+- [Special Sessions 2024](#special-sessions-2024)
 - [Special Sessions 2023](#special-sessions-2023)
 - [Special Sessions 2022](#special-sessions-2022)
 - [Special Sessions 2021](#special-sessions-2021)
 - [Special Sessions 2020](#special-sessions-2020)
+
+
+# Special Sessions 2024
+
+## April 5, 2024: MPEG-DASH 6th Edition Features
+
+### Presenters: 
+Editors of 6th Edition
+- Alex Giladi, Comcast
+- Thomas Stockhammer, Qualcomm
+- Iraj Sodagar, Tencent
+
+### Abstract: 
+MPEG is in the process of defining the 6th edition of MPEG-DASH. The updates address industry needs from MPEG-DASH deployments. Among others the following features are presented in more details.
+- Low-Latency and Fast join/switching in DASH
+- Patterns in Segment Timeline
+- Support for CMCD
+- Support for Content Steering
+- MPD Alternative Media Presentation Events for Ad Insertion
+- Unknown highlights from 5th editions
+- Other extensions in 6th edition
+- Timeline, status, DASH-IF related impacts
+
+### Participants: 
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to the meeting. If you are interested to participate, please contact the [DASH-IF IOP chair](mailto: iop-chair@dashif.org). 
+
+### Recording, Slides and other Material (to be completed):
+
 
 # Special Sessions 2023
 
