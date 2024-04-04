@@ -12,11 +12,14 @@ The MPEG-DASH standard has raised a huge momentum within both industry and acade
 Further details can be found [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki).
 
 # Current Events
+## ACM MMSys 2024
+
+[ACM MMSys 2024](https://2024.acmmmsys.org/): [Open Call]([https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024))
+
+# Past Events
 ## ACM MMSys 2020
 
 [ACM MMSys 2020](https://2020.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020)
-
-# Past Events
 ## ACM MMSys 2019
 
 The DASH Industry Forum Excellence in DASH Award at ACM MMSys 2019 acknowledges papers substantially addressing MPEG-DASH as the presentation format and are selected for presentation at ACM MMSys 2019. Preference is given to practical enhancements and developments which can sustain future commercial usefulness of DASH. The DASH format used should conform to the DASH-IF Interoperability Points as defined by http://dashif.org/guidelines/. It is a financial prize as follows: first place – €1000; second place – €500; and third place – €250. The winners are chosen by a DASH Industry Forum appointed committee and results are final.
