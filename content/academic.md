@@ -17,9 +17,38 @@ Further details can be found [here](https://github.com/Dash-Industry-Forum/Acade
 [ACM MMSys 2024](https://2024.acmmmsys.org/): [Open Call]([https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024))
 
 # Past Events
+## ACM MMSys 2023
+
+[ACM MMSys 2023](https://2023.acmmmsys.org/): [Press Release](https://multimediacommunication.blogspot.com/2023/06/dash-if-awarded-excellence-in-dash.html)
+
+ * 1st: Latency Target based Analysis of the DASH.js Player - Piers O’Hanlon and Adil Aslam
+ * 2nd: Cross-layer Network Bandwidth Estimation for Low-latency Live ABR Streaming - Chinmaey Shende, Cheonjin Park, Subhabrata Sen, Bing Wang
+ * 3rd: TASQ: Temporal Adaptive Streaming over QUIC - Akram Ansari, Yang Liu, Mea Wang, Emir Halepovic
+
+Best PhD Dissertation on Algorithms and Protocols for Adaptive Content Delivery over the Internet: [Press Release](https://multimediacommunication.blogspot.com/2023/06/dash-if-awarded-best-phd-dissertation.html)
+
+ * Winner: Dr. Mehmet N. Akcay for his dissertation on Server and Client-side Algorithms for Enhancing Adaptive Streaming
+
+## ACM MMSys 2022
+
+[ACM MMSys 2022](https://2022.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2022)
+
+ * 1st: Nagare Media Ingest: A Server for Live CMAF Ingest Workflows - Matthias Neugebauer
+ * 2nd: Does TCP New Congestion Window Validation Improve HTTP Adaptive Streaming Performance? - Mihail Yanev, Colin Perkins, Stephen McQuistin
+ * 3rd: C2: Consumption Context Cognizant ABR Streaming for Improved QoE and Resource Usage Tradeoffs - Cheonjin Park, Chinmaey Shende, Subhabrata Sen, Bing Wang
+ * 3rd: GreenABR: Energy-Aware Adaptive Bitrate Streaming with Deep Reinforcement Learning - Bekir Turkkan, Ting Dai, Adithya Raman, Tevfik Kosar, Changyou Chen, Muhammed Fatih Bulut, Jaroslaw Zola, Daby Sow)
+
+## ACM MMSys 2021
+
+[ACM MMSys 2021](https://2021.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2021)
+
+ * DASH-IF Best PhD Dissertation Award: Kevin Spiteri
+ * DASH-IF Excellence in DASH Awards: 1st: Content-Aware Playback Speed Control for Low-Latency Live Streaming of Sports; 2nd: Playing Chunk-Transferred DASH Segments at Low Latency with QLive; 3rd: Common Media Client Data (CMCD): Initial Findings
+
 ## ACM MMSys 2020
 
-[ACM MMSys 2020](https://2020.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020)
+[ACM MMSys 2020](https://2020.acmmmsys.org/): [Open Call](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020), [Press Release](http://multimediacommunication.blogspot.com/2020/06/dash-if-awarded-excellence-in-dash.html)
+
 ## ACM MMSys 2019
 
 The DASH Industry Forum Excellence in DASH Award at ACM MMSys 2019 acknowledges papers substantially addressing MPEG-DASH as the presentation format and are selected for presentation at ACM MMSys 2019. Preference is given to practical enhancements and developments which can sustain future commercial usefulness of DASH. The DASH format used should conform to the DASH-IF Interoperability Points as defined by http://dashif.org/guidelines/. It is a financial prize as follows: first place – €1000; second place – €500; and third place – €250. The winners are chosen by a DASH Industry Forum appointed committee and results are final.
