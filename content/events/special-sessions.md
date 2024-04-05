@@ -41,7 +41,7 @@ MPEG is in the process of defining the 6th edition of MPEG-DASH. The updates add
 About 40 experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T particicatped in the meeting. If you have feedback, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
 
 ### Recording, Slides and other Material:
-- [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=6d088039d9ef39ae003f25a33315a99d) (Password: DashTf2024)
+- [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=6d088039d9ef39ae003f25a33315a99d) (Password: DashIf2024)
 - [Slides (pdf)](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/14887658/SpecialPresentation-6thEdition.pdf) 
 - If you participated in the event live or recording, [please provide us feedback](https://forms.gle/Lb4KsJ58aHTUqpQj8)
   
