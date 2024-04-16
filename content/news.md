@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+April 5, 2024 -- DASH IF will host its annual Excellence in [DASH Awards @ ACM MMSys 2024](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024).
+
 February 28, 2024 -- DASH-IF publishes [Live Media Ingest version 1.2](https://dashif.org/news/ingest-v1-2) to support 3GPP specifications referencing the DASH-IF specification.
 
 December 15, 2023 -- The Joint Content Conformance Project (JCCP)  announces the [completion of its open-source media streaming conformance project](https://dashif.org/news/jccp-completion).
@@ -14,6 +16,8 @@ August 28, 2023 -- DASH-IF Publishes [Forensic A/B Watermarking Specification](h
 August 23, 2023 -- Registration open for [IBC 2023 DASH IF Networking Reception](https://dashif.org/news/ibc-2023/) at the best venue in town, the Heineken brewery.  
 
 July 25, 2023 -- DASH-IF Publishes [Forensic A/B Watermarking Specification](https://dashif.org/news/watermarking-final) and submits for ETSI Publication as TS 104 002.
+
+June 9, 2023 -- DASH-IF awarded Best PhD Dissertation on Algorithms and Protocols for Adaptive Content Delivery over the Internet and Excellence in DASH Award: [Link](https://github.com/Dash-Industry-Forum/Academic-Track/wiki).
 
 April 5, 2023 -- DASH-IF announces that it will be [exhibiting at the 2023 NAB Show's Futures Park](https://dashif.org/news/nab-2023).
 
