@@ -126,3 +126,4 @@ For academics who want to join the DASH-IF Academic Track, please subscribe to t
 # Contact
 
 For further information please contact Christian Timmerer (christian.timmerer AT bitmovin.com) or Ali C. Begen (acbegen at ieee.org).
+
