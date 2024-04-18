@@ -6,14 +6,14 @@ This year's award goes to the following papers:
 
  * First place: **Power Efficient Multi-CDN Communication over Content Steering Server** by _Burak Kara and Gwendal Simon_
 
-![1st place Excellence in DASH award](dash-if-mmsys24-1st.jpg)
+<img src="dash-if-mmsys24-1st.jpg" width="300" height="200" />
    
  * Second place: **Media-over-QUIC Transport vs. Low-Latency DASH: a Deathmatch Testbed** by _Zafer Gurel, Tugce Erkilic Civelek, Deniz Ugur, Yigit K. Erinc and Ali C. Begen_
 
-![2nd place Excellence in DASH award](dash-if-mmsys24-2nd.jpg)
+<img src="dash-if-mmsys24-2nd.jpg" width="300" height="200" />
 
  * Third place: **Low-Latency Live Video Streaming over a Low-Earth-Orbit Satellite Network with DASH** by _Jinwei Zhao and Jianping Pan_
 
-![3rd place Excellence in DASH award](dash-if-mmsys24-3rd.jpg)
+<img src="dash-if-mmsys24-3rd.jpg" width="300" height="200" />
 
 The DASH-IF congratulates all winners and hopes to see you next year at [ACM MMSys 2025](https://2025.acmmmsys.org/).
