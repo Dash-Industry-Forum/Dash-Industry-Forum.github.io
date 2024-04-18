@@ -3,7 +3,7 @@ menu: "main"
 title: "News"
 weight: 10
 ---
-April 5, 2024 -- DASH IF will host its annual Excellence in [DASH Awards @ ACM MMSys 2024](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024).
+April 11, 2024 -- DASH-IF awarded [Excellence in DASH award](https://dashif.org/news/mmsys2024/) at ACM MMSys 2024.
 
 February 28, 2024 -- DASH-IF publishes [Live Media Ingest version 1.2](https://dashif.org/news/ingest-v1-2) to support 3GPP specifications referencing the DASH-IF specification.
 
