@@ -12,11 +12,16 @@ The MPEG-DASH standard has raised a huge momentum within both industry and acade
 Further details can be found [here](https://github.com/Dash-Industry-Forum/Academic-Track/wiki).
 
 # Current Events
-## ACM MMSys 2024
-
-[ACM MMSys 2024](https://2024.acmmmsys.org/): [Open Call]([https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024))
 
 # Past Events
+## ACM MMSys 2024
+
+[ACM MMSys 2024](https://2024.acmmmsys.org/): [Press Release]([https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2020](https://github.com/Dash-Industry-Forum/Academic-Track/wiki/Excellence-in-DASH-Awards-@-ACM-MMSys-2024))
+
+ * 1st: Power Efficient Mul0-CDN Communica0on over Content Steering Server - Burak Kara and Gwendal Simon
+ * 2nd: Media-over-QUIC Transport vs. Low-Latency DASH: a Deathmatch Testbed - Zafer Gurel, Tugce Erkilic Civelek, Deniz Ugur, Yigit K. Erinc and Ali C. Begen
+ * 3rd: Low-Latency Live Video Streaming over a Low-Earth-Orbit Satellite Network with DASH - Jinwei Zhao and Jianping Pan
+
 ## ACM MMSys 2023
 
 [ACM MMSys 2023](https://2023.acmmmsys.org/): [Press Release](https://multimediacommunication.blogspot.com/2023/06/dash-if-awarded-excellence-in-dash.html)
