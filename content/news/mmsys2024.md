@@ -6,15 +6,15 @@ The DASH Industry Forum Excellence in DASH Award at [ACM MMSys 2024](https://202
 
 This year's award goes to the following papers:
 
- * First place: **Power Efficient Multi-CDN Communication over Content Steering Server** by _Burak Kara and Gwendal Simon_
+ * First place: **Power Efficient Multi-CDN Communication over Content Steering Server** by _Burak Kara and Gwendal Simon_ [Paper at ACM DL](https://dl.acm.org/doi/10.1145/3625468.3652196)
 
 <img src="/img/dash-if-mmsys24-1st.jpg" width="300" height="200" />
    
- * Second place: **Media-over-QUIC Transport vs. Low-Latency DASH: a Deathmatch Testbed** by _Zafer Gurel, Tugce Erkilic Civelek, Deniz Ugur, Yigit K. Erinc and Ali C. Begen_
+ * Second place: **Media-over-QUIC Transport vs. Low-Latency DASH: a Deathmatch Testbed** by _Zafer Gurel, Tugce Erkilic Civelek, Deniz Ugur, Yigit K. Erinc and Ali C. Begen_ [Paper at ACM DL](https://dl.acm.org/doi/abs/10.1145/3625468.3652191)
 
 <img src="/img/dash-if-mmsys24-2nd.jpg" width="300" height="200" />
 
- * Third place: **Low-Latency Live Video Streaming over a Low-Earth-Orbit Satellite Network with DASH** by _Jinwei Zhao and Jianping Pan_
+ * Third place: **Low-Latency Live Video Streaming over a Low-Earth-Orbit Satellite Network with DASH** by _Jinwei Zhao and Jianping Pan_ [Paper at ACM DL](https://dl.acm.org/doi/10.1145/3625468.3647616)
 
 <img src="/img/dash-if-mmsys24-3rd.jpg" width="300" height="200" />
 
