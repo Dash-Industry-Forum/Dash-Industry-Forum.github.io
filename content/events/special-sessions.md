@@ -18,6 +18,23 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2024
 
+## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
+
+### Presenters: 
+Editors of 6th Edition
+- [Andy Parsons](https://www.linkedin.com/in/andyparsons/), Adobe
+- [Stefano Petrangeli](https://www.linkedin.com/in/stefano-petrangeli-7a065257/), Adobe
+- [Haoliang Wang](https://www.linkedin.com/in/haoliangx/), Adobe
+
+### Abstract: 
+The Content Authenticity Initiative or CAI (https://contentauthenticity.org/) goal is to create an open standard for content provenance online. Adobe has worked on expanding the content provenance solution for online videos, with a special focus on video streaming. Particularly, we have integrated the content provenance solution from CAI into the dash.js codebase, with the goal to provide an open reference player implementation of content provenance in combination with streaming. We believe that there is interest to the broader DASH development community to hear details on this exciting topic.
+
+### Participants: 
+Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to participate in the meeting. If you want to participate, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
+
+### Recording, Slides and other Material:
+- to be added after the event
+
 ## April 5, 2024: MPEG-DASH 6th Edition Features
 
 ### Presenters: 
