@@ -27,10 +27,10 @@ Editors of 6th Edition
 - [Haoliang Wang](https://www.linkedin.com/in/haoliangx/), Adobe
 
 ### Abstract: 
-The Content Authenticity Initiative or CAI (https://contentauthenticity.org/) goal is to create an open standard for content provenance online. Adobe has worked on expanding the content provenance solution for online videos, with a special focus on video streaming. Particularly, we have integrated the content provenance solution from CAI into the dash.js codebase, with the goal to provide an open reference player implementation of content provenance in combination with streaming. We believe that there is interest to the broader DASH development community to hear details on this exciting topic.
+The DASH Industry Forum invites for a special session on June 7, 2024 on Content Authenticity and Provenance in DASH. We are happy to have distinguished speakers from Adobe with Andy Parsons, Stefano Petrangeli and Haoliang W.ang to introduce this exiting topic in the era where AI-generated media is getting more and more prominent. In this context, the Coalition for Content Provenance and Authenticity (C2PA) and the Content Authenticity Initiative or CAI (https://contentauthenticity.org/) goal is to create an open standard for content provenance online. Adobe has worked on expanding the content provenance solution for online videos, with a special focus on video streaming. Particularly, they have integrated the content provenance solution from CAI into the dash.js codebase, with the goal to provide an open reference player implementation of content provenance in combination with streaming. We believe that there is interest to the broader DASH development community to hear details on this exciting topic.
 
 ### Participants: 
-Experts from different organizations such as DASH-IF, DVB TM-STREAM, ATSC TG3-6, 3GPP SA4 MBS, CTA WAVE TWG, 5G-MAG RT & CD-T are invited to participate in the meeting. If you want to participate, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
+Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG are invited to participate in the meeting. If you want to participate or even would have some input on this topic, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
 
 ### Recording, Slides and other Material:
 - to be added after the event
