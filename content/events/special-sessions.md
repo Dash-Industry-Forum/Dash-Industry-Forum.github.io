@@ -20,8 +20,11 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
 
+### Logistics: 
+- Date: June 7, 16:30 CEST, 7:30 PDT
+- Webex - if you want to participate please contact [DASH-IF IOP chair](mailto:iop-chair@dashif.org) or [here on LinkedIn](https://www.linkedin.com/in/stockhammer) 
+
 ### Presenters: 
-Editors of 6th Edition
 - [Andy Parsons](https://www.linkedin.com/in/andyparsons/), Adobe
 - [Stefano Petrangeli](https://www.linkedin.com/in/stefano-petrangeli-7a065257/), Adobe
 - [Haoliang Wang](https://www.linkedin.com/in/haoliangx/), Adobe
