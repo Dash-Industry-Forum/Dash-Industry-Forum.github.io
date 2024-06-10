@@ -22,7 +22,6 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Logistics: 
 - Date: June 7, 16:30 CEST, 7:30 PDT
-- Webex - if you want to participate please contact [DASH-IF IOP chair](mailto:iop-chair@dashif.org) or [here on LinkedIn](https://www.linkedin.com/in/stockhammer) 
 
 ### Presenters: 
 - [Andy Parsons](https://www.linkedin.com/in/andyparsons/), Adobe
@@ -30,13 +29,16 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 - [Haoliang Wang](https://www.linkedin.com/in/haoliangx/), Adobe
 
 ### Abstract: 
-The DASH Industry Forum invites for a special session on June 7, 2024 on Content Authenticity and Provenance in DASH. We are happy to have distinguished speakers from Adobe with Andy Parsons, Stefano Petrangeli and Haoliang W.ang to introduce this exiting topic in the era where AI-generated media is getting more and more prominent. In this context, the Coalition for Content Provenance and Authenticity (C2PA) and the Content Authenticity Initiative or CAI (https://contentauthenticity.org/) goal is to create an open standard for content provenance online. Adobe has worked on expanding the content provenance solution for online videos, with a special focus on video streaming. Particularly, they have integrated the content provenance solution from CAI into the dash.js codebase, with the goal to provide an open reference player implementation of content provenance in combination with streaming. We believe that there is interest to the broader DASH development community to hear details on this exciting topic.
+The DASH Industry Forum invited for a special session on June 7, 2024 on Content Authenticity and Provenance in DASH. We were happy to have distinguished speakers from Adobe with Andy Parsons, Stefano Petrangeli and Haoliang Wang to introduce this exciting topic in the era where AI-generated media is getting more and more prominent. In this context, the Coalition for Content Provenance and Authenticity (C2PA) and the Content Authenticity Initiative or CAI (https://contentauthenticity.org/) goal is to create an open standard for content provenance online. Adobe has worked on expanding the content provenance solution for online videos, with a special focus on video streaming. Particularly, they have integrated the content provenance solution from CAI into the dash.js codebase, with the goal to provide an open reference player implementation of content provenance in combination with streaming. There was interest in the broader DASH development community to hear details on this exciting topic.
 
 ### Participants: 
-Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG are invited to participate in the meeting. If you want to participate or even would have some input on this topic, please contact the [DASH-IF IOP chair](mailto:iop-chair@dashif.org). 
+Around 70 experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG participated in the meeting.
 
 ### Recording, Slides and other Material:
-- to be added after the event
+- [Recording link](https://dashif.my.webex.com/dashif.my/ldr.php?RCID=d7aefd2047bd9a9fac986bdf7d6d8bda) (Password: DashIf2024)
+- [Overview Slides from Andy Parsons (pdf)](https://github.com/user-attachments/files/15759753/C2PA-Overview-Andy.pdf)
+- [DASH Integration Slides from Haoliang and Stefano (pdf)](https://github.com/user-attachments/files/15759769/DASH-Integration-Haoliang-Stefano.pdf)
+- If you participated in the event live or recording, please provide us feedback using [Event feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAN63NKgXI7boxaf0J95-ViQbSo0y3SVnmyVWe71eG3L835w/viewform?usp=sf_link)
 
 ## April 5, 2024: MPEG-DASH 6th Edition Features
 
