@@ -361,6 +361,13 @@
   <tbody>
     
     <tr>
+      <td><code>urn:mpeg:mpegB:cicp:ChannelConfiguration</code></td>
+      <td><a href="/identifiers/references#23091-3">ISO/IEC 23091-3</a></td>
+      <td>clause 6.2</td>
+      <td>ChannelConfiguration specifies the channel configuration. This defines the number of audio channels and their associated loudspeaker positions according to Table 8. The name, abbreviation, and general position of each loudspeaker can be deduced from Table 7 and Figure 9. Preferred scheme for all codecs.</td>
+    </tr>
+    
+    <tr>
       <td><code>urn:mpeg:dash:23003:3:audio_channel_configuration:2011</code></td>
       <td><a href="/identifiers/references#23009-1">ISO/IEC 23009-1</a></td>
       <td>section 5.8.5.4</td>
@@ -369,9 +376,30 @@
     
     <tr>
       <td><code>tag:dolby.com,2014:dash:audio_channel_configuration:2011</code></td>
-      <td><a href="">n/a</a></td>
-      <td></td>
-      <td>Dolby audio channel configuration information. The @value attribute shall contain a four digit hexadecimal representation of the 16 bit field that describes the channel assignment as defined by table E.5 in ETSI TS 102 366 [14] where left channel is MSB.For example, for a stream with L, C, R, Ls, Rs, LFE, the value shall be “F801” (hexadecimal equivalent of the binary value 1111 1000 0000 0001).</td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/102300_102399/102366/01.04.01_60/ts_102366v010401p.pdf">ETSI TS 102 366</a></td>
+      <td>clause I.1.2</td>
+      <td>Dolby audio channel configuration information. The @value attribute shall contain a four digit hexadecimal representation of the 16 bit field that describes the channel assignment as defined by table E.5 in ETSI TS 102 366 [14] where left channel is MSB.For example, for a stream with L, C, R, Ls, Rs, LFE, the value shall be “F801” (hexadecimal equivalent of the binary value 1111 1000 0000 0001). Legacy use, discouraged for new deployments.</td>
+    </tr>
+    
+    <tr>
+      <td><code>tag:dolby.com,2015:dash:audio_channel_configuration:2015</code></td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/103100_103199/10319002/01.02.01_60/ts_10319002v010201p.pdf">ETSI TS 103 190-2</a></td>
+      <td>clause G.3.1</td>
+      <td>Dolby audio channel configuration information. The @value attribute shall contain a six digit hexadecimal representation of the 24 bit field as defined by clause G.3.1 in ETSI TS 103 109-2. For example, for a stream with an 3/2/2 (5.1.2) immersive audio channel configuration using loudspeakers L, R, C, Ls, Rs, TL, TR, LFE, the value shall be “0000C7” (hexadecimal equivalent of the binary value 0000 0000 0000 0000 1100 0111). Legacy use, discouraged for new deployments.</td>
+    </tr>
+    
+    <tr>
+      <td><code>tag:dts.com,2014:dash:audio_channel_configuration:2012</code></td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/102100_102199/102114/01.06.01_60/ts_102114v010601p.pdf">ETSI TS 102 114</a></td>
+      <td>Annex G</td>
+      <td>DTS-HD audio channel configuration information. The @value attribute shall be set to the total number of discrete output channels represented in the stream, including LFE channels. The value shall be a whole decimal number in the range of 1 to 32. Legacy use, discouraged for new deployments.</td>
+    </tr>
+    
+    <tr>
+      <td><code>tag:dts.com,2018:uhd:audio_channel_configuration</code></td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/103400_103499/103491/01.02.01_60/ts_103491v010201p.pdf">ETSI TS 103 491</a></td>
+      <td>annex D</td>
+      <td>DTS-UHD audio channel configuration information. The @value attribute shall be a string representing the ChannelMask, presented in hexadecimal form. Legacy use, discouraged for new deployments.</td>
     </tr>
     
   </tbody>
@@ -396,30 +424,37 @@
     
     <tr>
       <td><code>urn:mpeg:mpegB:cicp:OutputChannelPosition</code></td>
-      <td><a href="/identifiers/references#23001-8">ISO/IEC 23001-8</a></td>
-      <td>clause 8.1</td>
+      <td><a href="/identifiers/references#23091-3">ISO/IEC 23091-3</a></td>
+      <td>clause 6.1</td>
       <td>OutputChannelPosition specifies the association of loudspeaker positions to a given audio channel according to Table 7. Table 7 indicates the loudspeaker position in the 3D environment of the listener. In order to ease the understanding of loudspeaker positions Table 7 also contains loudspeaker positions according to IEC 62574, which are listed here for information to the interested reader.</td>
     </tr>
     
     <tr>
-      <td><code>urn:mpeg:mpegB:cicp:ChannelConfiguration</code></td>
-      <td><a href="/identifiers/references#23001-8">ISO/IEC 23001-8</a></td>
-      <td>clause 8.2</td>
-      <td>ChannelConfiguration specifies the channel configuration. This defines the number of audio channels and their associated loudspeaker positions according to Table 8. The name, abbreviation, and general position of each loudspeaker can be deduced from Table 7 and Figure 9.</td>
-    </tr>
-    
-    <tr>
       <td><code>urn:mpeg:mpegB:cicp:ProgramLoudness</code></td>
-      <td><a href="/identifiers/references#23001-8">ISO/IEC 23001-8</a></td>
-      <td>clause 8.3</td>
+      <td><a href="/identifiers/references#23091-3">ISO/IEC 23091-3</a></td>
+      <td>clause 6.4</td>
       <td>ProgramLoudness indicates the overall loudness of the corresponding audio program. It should be measured in such a way, that if two pieces of content have their loudness normalized using the value of  rogramLoudness,  the resulting audio will have consistent loudness. Decoders evaluate this value and apply an appropriate level shift to audio to maintain a consistent loudness of output audio, matched with a user-given target loudness. The ProgramLoudness should be the overall loudness measured in LKFS according to Rec. ITU-R BS.1770.</td>
     </tr>
     
     <tr>
       <td><code>urn:mpeg:mpegB:cicp:AnchorLoudness</code></td>
-      <td><a href="/identifiers/references#23001-8">ISO/IEC 23001-8</a></td>
-      <td>clause 8.4</td>
+      <td><a href="/identifiers/references#23091-3">ISO/IEC 23091-3</a></td>
+      <td>clause 6.5</td>
       <td>AnchorLoudness indicates the loudness of the anchor elements of the corresponding audio signal (usually the dialog). The method of identifying the anchor elements is chosen by the content author and is out of scope for this part of ISO/IEC 23001. It should be chosen in such a way, that if two pieces of content have their loudness normalized using the values of anchorLoudness, the anchor elements of the resulting audio will have consistent loudness. The AnchorLoudness should be the loudness of the anchor content of the program, measured in LKFS according to Rec. ITU-R BS.1770.</td>
+    </tr>
+    
+    <tr>
+      <td><code>tag:dolby.com,2018:dash:EC3_ExtensionType:2018</code></td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/103400_103499/103420/01.02.01_60/ts_103420v010201p.pdf">ETSI TS 103 420</a></td>
+      <td>clause D.2</td>
+      <td>Presence of the enhanced AC-3 extension is signalled with a DASH supplemental property descriptor using the schemeIdUri tag:dolby.com,2018:dash:EC3_ExtensionType:2018. The value of this DASH descriptor shall be the three character string JOC.</td>
+    </tr>
+    
+    <tr>
+      <td><code>tag:dolby.com,2018:dash:EC3_ExtensionComplexityIndex:2018</code></td>
+      <td><a href="https://www.etsi.org/deliver/etsi_ts/103400_103499/103420/01.02.01_60/ts_103420v010201p.pdf">ETSI TS 103 420</a></td>
+      <td>clause D.2</td>
+      <td>Complexity of the enhanced AC-3 extension is signalled with a DASH supplemental property descriptor. The value of this DASH descriptor shall be decimal representation of the eight-bit element complexity_index_type_a in the EC3SpecificBox of an enhanced AC-3 audio track.</td>
     </tr>
     
   </tbody>
