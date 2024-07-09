@@ -55,7 +55,30 @@ In addition, in case of any identified issues or bugs, please file issues here: 
 
 The scope of this document is to define a Content Protection Information Exchange Format (CPIX). The CPIX document contains keys and DRM information used for encrypting and protecting content, and can be used for exchanging this information among entities needing it in many possibly different workflows for preparing, for example DASH content or HLS content. The CPIX document itself can be encrypted, signed and authenticated so that its receivers can be sure that its confidentiality, source and integrity are also protected.
 
-## Latest Version
+## Latest Version for Community Review
+This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications.
+
+The following document is open for community review since July 9, 2024 until September 9th, 2024 for 2 months. Once the comments from community review are addressed, the document will be published as a DASH-IF Candidate Specification and also submitted to ETSI for publication. Please use github [Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues) for any feedback: 
+* DASH-IF Candidate Specification: [Content Protection Information Exchange Format (CPIX) v2.4](https://dash-industry-forum.github.io/docs/CPIX2.4/Cpix.html) | ([CPIX 2.4 XmlSchema](https://dash-industry-forum.github.io/docs/CPIX2.4/Schema/)) | ([PDF](https://dash-industry-forum.github.io/docs/CPIX2.4/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors)) | 
+
+Changes in 2.4 from 2.3.1 are
+* Added the option to encrypt Content Keys with different Document Keys, see clauses § 7.4.3 DeliveryDataList
+Element and § 8.1.2 Encryption
+* Added the option to have in one document with Content Keys for different content, allowing the bulk transfer of
+content keys information in one document, hence adding a @contentIdunder the ContentKey element, see
+clause § 6.4.7 Multiple Content Keys Delivery for Multiples Assets and § 7.4.7 ContentKey Element
+* Added HDCP information attached to the Content Key to be inserted in both HLS playlist and DASH MPD, see
+clause § 7.4.8 HDCPData Element
+* Added expected DRM robustness information to be inserted in both HLS playlist and DASH MPD, see clause
+§ 7.4.10 DRMSystem Element and § 7.4.11 ContentProtectionData Element
+* Simplified the ContentKey element by removing all non-used element inherited from the PSCK model, see
+clause § 7.4.7 ContentKey Element
+* Updated the HLS terminology to multiVariant, see clause § 7.4.12 HLSSignalingData Element
+* Removed the signaling for HDS and the deprecated URIExtXKey for HLS, see clause § 7.4.10 DRMSystem
+Element
+* Updated references
+
+## Latest Official Version
 
 * DASH-IF Implementation Guidelines v2.3.1: [Content Protection Information Exchange Format (CPIX)](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.html) | ([CPIX 2.3.1 XmlSchema.zip](https://github.com/Dash-Industry-Forum/Dash-Industry-Forum.github.io/files/13752029/CPIX.2.3.1.XmlSchema.zip)) | ([PDF](https://dashif-documents.azurewebsites.net/Cpix/master/Cpix.pdf)) | ([Bugtracker](https://github.com/Dash-Industry-Forum/CPIX/issues)) | ([Test vectors](https://github.com/Dash-Industry-Forum/cpix-test-vectors)) | 
 * Note that the guidelines v2.3 are published as ([ETSI TS 103799v1.1.1](https://www.etsi.org/deliver/etsi_ts/103700_103799/103799/01.01.01_60/ts_103799v010101p.pdf)), version 2.3.1 will not be published by ETSI, but a version 2.4 is under preparation for ETSI publication.
