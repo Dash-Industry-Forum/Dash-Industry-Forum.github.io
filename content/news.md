@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+July 16, 2024 -- DASH-IF updates [Identifier submission form](https://dashif.org/news/identifiers)
+
 April 17, 2024 -- DASH-IF awarded [Excellence in DASH award](https://dashif.org/news/mmsys2024/) at ACM MMSys 2024.
 
 February 28, 2024 -- DASH-IF publishes [Live Media Ingest version 1.2](https://dashif.org/news/ingest-v1-2) to support 3GPP specifications referencing the DASH-IF specification.
