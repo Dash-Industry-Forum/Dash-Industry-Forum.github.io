@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+July 23, 2024 -- DASH Industry Forum (DASH-IF) Becomes Part of the [SVTA](https://dashif.org/news/svta/)
+
 July 16, 2024 -- DASH-IF updates [Identifier submission form](https://dashif.org/news/identifiers)
 
 April 17, 2024 -- DASH-IF awarded [Excellence in DASH award](https://dashif.org/news/mmsys2024/) at ACM MMSys 2024.
