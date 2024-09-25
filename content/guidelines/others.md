@@ -77,11 +77,11 @@ This document presents the DASH-IF Live Media Ingest Protocol Specification. Two
 
 ## Latest Version
 
-[DASH-IF Live Media Ingest Protocol v1.2](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.html) (Feb 24, 2024) ([pdf](https://dashif-documents.azurewebsites.net/Ingest/master/DASH-IF-Ingest.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
+[DASH-IF Live Media Ingest Protocol v1.2](https://dashif.org/Ingest/) (Feb 24, 2024) ([pdf](http://dashif.org/Ingest/Ingest.pdf)) | [License declarations](https://dashif.org/ipr-declarations/)
 
 ## Comments and Bugs
 
-Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues) or [public bugtracker](https://gitreports.com/issue/Dash-Industry-Forum/Ingest)
+Comments may be submitted through the [github](https://github.com/Dash-Industry-Forum/Ingest/issues).
 
 ## Earlier Version
 
