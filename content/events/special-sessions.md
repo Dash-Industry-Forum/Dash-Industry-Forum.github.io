@@ -18,6 +18,26 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2024
 
+## October 25, 2024: DASH-IF Special Session: WAVE Streaming Media Test Suite – Devices
+
+### Logistics: 
+- Date: October 25, 16:30 CEST, 7:30 PDT
+
+### Presenters: 
+- [Louay Bassbouss](https://www.linkedin.com/in/andyparsons/), Fraunhofer Fokus
+- [Jon Piesing](https://www.linkedin.com/in/jon-piesing-98a5421/), TP Vision
+
+### Abstract: 
+The WAVE Streaming Media Test Suite for Devices enables more detailed testing of web-based media playback on devices such as Smart TVs, cell phones, media sticks and tablets.
+WAVE hopes to reduce the combinatorial explosion of repetitive and overlapping testing between content or application providers and media device implementers. Ideally, device implementers could deliver evidence of passing these tests to multiple content or application providers who would, in turn, reduce the amount of 1:1 testing they require. The WAVE Streaming Media Test Suite – Devices is a set of unit tests for media presentation using MPEG CMAF media formats and the W3C Web technologies for streaming media, the “Media Source Extensions” and “Encrypted Media Extensions”. Each individual test contains HTML, JavaScript and CMAF-compatible test content. The test suite also includes a test runner based on that in the open source ‘web platform tests’ project but packaged to be easier to install and run for a broader user group. The highly automated test suite generates a test report based on recorded test runs and offline analysis.
+The first tests focus on the very widely-used AVC video codec and have been extensively validated, particularly on a wide range of Smart TVs at the interoperability events organized by the HbbTV Association. Also included are less validated (“beta”) tests including ones for audio codecs from MPEG and Dolby.
+
+### Participants: 
+Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG will participate in the meeting. THe meeting is open to public.
+
+### Recording, Slides and other Material:
+- to be added
+
 ## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
 
 ### Logistics: 
