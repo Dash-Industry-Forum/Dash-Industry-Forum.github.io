@@ -22,6 +22,7 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Logistics: 
 - Date: October 25, 16:30 CEST, 7:30 PDT
+- Please register through Zoom if you are interested here: https://us02web.zoom.us/meeting/register/tZEuf-mupz0pHdai3nB_F8Fu_NSn6dXBNu0a
 
 ### Presenters: 
 - [Louay Bassbouss](https://www.linkedin.com/in/andyparsons/), Fraunhofer Fokus
