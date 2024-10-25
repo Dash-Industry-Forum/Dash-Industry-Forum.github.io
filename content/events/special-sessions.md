@@ -22,7 +22,7 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Logistics: 
 - Date: October 25, 16:30 CEST, 7:30 PDT
-- Please register through Zoom if you are interested here: https://us02web.zoom.us/meeting/register/tZEuf-mupz0pHdai3nB_F8Fu_NSn6dXBNu0a
+- Zoom is closed
 
 ### Presenters: 
 - [Louay Bassbouss](https://www.linkedin.com/in/andyparsons/), Fraunhofer Fokus
@@ -34,10 +34,12 @@ WAVE hopes to reduce the combinatorial explosion of repetitive and overlapping t
 The first tests focus on the very widely-used AVC video codec and have been extensively validated, particularly on a wide range of Smart TVs at the interoperability events organized by the HbbTV Association. Also included are less validated (“beta”) tests including ones for audio codecs from MPEG and Dolby.
 
 ### Participants: 
-Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG will participate in the meeting. THe meeting is open to public.
+Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA and MPEG participated in the meeting. THe meeting is open to public.
 
 ### Recording, Slides and other Material:
-- to be added
+- [2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf](https://github.com/user-attachments/files/17523699/2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf)
+- Recording to be added later
+- [Survey](https://forms.gle/ssas37nWw2LSvceb8) 
 
 ## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
 
