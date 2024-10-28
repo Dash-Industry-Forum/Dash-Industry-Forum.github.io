@@ -38,7 +38,7 @@ Experts from different organizations such as DASH Industry Forum, DVB Project, 3
 
 ### Recording, Slides and other Material:
 - [2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf](https://github.com/user-attachments/files/17523699/2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf)
-- Recording to be added later
+- [Recording](https://dash-large-files.akamaized.net/Special-Session/2024-10-25-Special-Session-WAVE-Test-Suite.mp4)
 - [Survey](https://forms.gle/ssas37nWw2LSvceb8) 
 
 ## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
