@@ -64,32 +64,6 @@ Experts from different organizations such as DASH Industry Forum, DVB Project, 3
 - [Recording mp4](https://dash-large-files.akamaized.net/Special-Session/2024-10-25-Special-Session-WAVE-Test-Suite.mp4)
 - [Survey](https://forms.gle/ssas37nWw2LSvceb8)
 
-{{< rawhtml >}}
-	    <head>
-        <title>Dash.js Rocks</title>
-        <style>
-            video {
-                width: 640px;
-                height: 360px;
-            }
-        </style>
-    </head>
-    <body>
-        <div>
-            <video id="videoPlayer" controls></video>
-        </div>
-        <script src="yourPathToDash/dash.all.min.js"></script>
-        <script>
-            (function(){
-                var url = "https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd";
-                var player = dashjs.MediaPlayer().create();
-                player.initialize(document.querySelector("#videoPlayer"), url, true);
-            })();
-        </script>
-    </body>
-{{< /rawhtml >}}
-
-
 ## June 7, 2024: DASH-IF Special Session: Content Authenticity and Provenance in DASH
 
 ### Logistics: 
