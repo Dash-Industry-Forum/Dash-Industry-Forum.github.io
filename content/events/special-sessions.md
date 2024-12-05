@@ -18,6 +18,29 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 # Special Sessions 2024
 
+## December 13, 2024: SVTA DASH-IF Special Session: The Coded Multisource Media Format (CMMF) – An Introduction to Applications & Performance
+
+### Logistics: 
+- Date: December 13, 16:30 CET, 7:30 PST (about 1 hour)
+- [Zoom Registration](https://us02web.zoom.us/meeting/register/tZwvceuprjwuHNGGQmYkwpqdc5zwvurVIogl#/registration)
+
+### Presenters: 
+- [Jeffrey Riedmiller](https://www.linkedin.com/in/jeffrey-riedmiller/), [Jason Cloud](https://www.linkedin.com/in/jasonmcloud/), [Freddie Sanchez](https://www.linkedin.com/in/freddie-sanchez-b873b9119/), [Frederic Gabin](https://www.linkedin.com/in/fredericgabin/), [Christian Wolff](https://www.linkedin.com/in/christian-wolff-341471/) (Dolby Laboratories) 
+- [Thomas Stockhammer](https://www.linkedin.com/in/stockhammer/) (Qualcomm)
+
+
+### Abstract: 
+Networks are highly dynamic (non-deterministic) systems designed to operate on a best-effort basis, and traffic from several unique applications often compete for the same and finite set of resources leaving latency sensitive media applications at higher risk of reduced QoS/E in the form of rebuffering/stalls, playback failures, etc.  The performance demands next-generation media will place on network/cloud resource availability and reliability requires new thinking beyond operating over today’s underlying network infrastructure and protocols only.
+Over the past few years, Dolby, and Qualcomm with support from Ateme and Orange Networks have collaborated on the development and standardization of a new interchange format for multisource coded media.  The Coded Multisource Media Format (CMMF) works seamlessly with underlying network/cloud infrastructure and protocols – and opens new operating and performance capabilities by enabling efficient distribution of media from a plurality of network sources to provide often sought after improvements in throughput, lower latency, along with significantly higher reliability without the burden of scheduling complexities or reliance on latent network/CDN performance data required for client-side orchestration.
+This special session will discuss the motivation and details behind the development of CMMF ([ETSI TS 103 973](https://www.etsi.org/deliver/etsi_ts/103900_103999/103973/01.01.01_60/ts_103973v010101p.pdf)) including real-world performance findings from OTT service trials deployed worldwide.
+
+
+### Participants: 
+Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA, ETSI JTC Broadcast and MPEG will participate in the meeting. The meeting is open to public.
+
+### Recording, Slides and other Material:
+- will be made available after the meeting is completed
+
 ## October 25, 2024: DASH-IF Special Session: WAVE Streaming Media Test Suite – Devices
 
 ### Logistics: 
