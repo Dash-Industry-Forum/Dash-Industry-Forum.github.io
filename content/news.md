@@ -3,6 +3,8 @@ menu: "main"
 title: "News"
 weight: 10
 ---
+December 6, 2024 -- SVTA DASH-IF WG publishes ["Watermarking API for Encoder Integration" for Community Review](https://dashif.org/news/CR-Watermarking-API).
+
 July 23, 2024 -- DASH Industry Forum (DASH-IF) Becomes Part of the [SVTA](https://dashif.org/news/svta/).
 
 July 16, 2024 -- DASH-IF updates [Identifier submission form](https://dashif.org/news/identifiers).
