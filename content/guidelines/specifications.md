@@ -15,6 +15,25 @@ Specific calls will be issued for Community Reviews. However, even for published
 
 In the following all ETSI specifications and candidate specifications are documented.
 
+# DASH-IF Candidate Specification: Watermarking API for Encoder Integration (Community Review)
+
+## Scope
+DASH-IF and UHD Forum have updated the “Watermarking API for encoder integration” to cope with the latest updates on watermarking.
+The main updates to the document comprise:
+-	the definition of interfaces to manage watermark pace information and be interoperable with DASH-IF Forensic A/B Watermarking (ETSI TS 104 002)
+-	the support for multiple processing pipelines to process several ABR representations in a single WMP instance;
+-	the clarification of ABR segmentation signaling to help the WMP enforcing its watermark pace making logic;
+-	the explicit signaling of Variant labels to avoid ambiguity in the specification;
+This updated specification is expected to fill the gap with the real needs of the market today.
+The collaborative work has been done by Elemental, Irdeto, Nagravision and Synamedia and is now open for public review until January 15, 2025.
+ 
+## Disclaimer for Community Review
+This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications.
+The following document is open for community review since December 6, 2024 until January 15th, 2025 for 5 weeks. Once the comments from community review are addressed, the document will be published as a DASH-IF Candidate Technical Specification and may be submitted to ETSI for publication. Please use github Bugtracker for any feedback: https://github.com/Dash-Industry-Forum/Watermarking/issues.
+
+## Latest Version
+* [DASH-IF DASH-IF Candidate Specification: Watermarking API for Encoder Integration v0.9.0](https://github.com/user-attachments/files/18038517/DASH-IF-CTS-Watermarking-API-v0.9.0.-.Community.Review.pdf)
+
 # DASH-IF Technical Specification (ETSI TS 104 002): DASH-IF Forensic A/B Watermarking 
 
 ## Scope
