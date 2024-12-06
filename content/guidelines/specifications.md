@@ -32,7 +32,7 @@ This document is technically stable, but public is asked for comments in order t
 The following document is open for community review since December 6, 2024 until January 15th, 2025 for 5 weeks. Once the comments from community review are addressed, the document will be published as a DASH-IF Candidate Technical Specification and may be submitted to ETSI for publication. Please use github Bugtracker for any feedback: https://github.com/Dash-Industry-Forum/Watermarking/issues.
 
 ## Latest Version
-* [DASH-IF DASH-IF Candidate Specification: Watermarking API for Encoder Integration v0.9.0](https://github.com/user-attachments/files/18038517/DASH-IF-CTS-Watermarking-API-v0.9.0.-.Community.Review.pdf)
+* [DASH-IF Candidate Specification: Watermarking API for Encoder Integration v0.9.0](https://github.com/user-attachments/files/18038517/DASH-IF-CTS-Watermarking-API-v0.9.0.-.Community.Review.pdf)
 
 # DASH-IF Technical Specification (ETSI TS 104 002): DASH-IF Forensic A/B Watermarking 
 
