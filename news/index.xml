@@ -37,6 +37,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://dash-industry-forum.github.io/news/cr-watermarking-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dash-industry-forum.github.io/news/cr-watermarking-api/</guid>
+      <description>DASH-IF announces Public Community Review for Candidate Specification: Watermarking API for Encoder Integration On December 6th, 2024, DASH-IF published the &amp;ldquo;DASH-IF Candidate Specification: Watermarking API for Encoder Integration&amp;rdquo; for community review.&#xA;DASH-IF and UHD Forum have updated the “Watermarking API for encoder integration” to cope with the latest updates on watermarking. The main updates to the document comprise:&#xA;the definition of interfaces to manage watermark pace information and be interoperable with DASH-IF Forensic A/B Watermarking (ETSI TS 104 002) the support for multiple processing pipelines to process several ABR representations in a single WMP instance; the clarification of ABR segmentation signaling to help the WMP enforcing its watermark pace making logic; the explicit signaling of Variant labels to avoid ambiguity in the specification; This updated specification is expected to fill the gap with the real needs of the market today.</description>
+    </item>
+    <item>
+      <title></title>
       <link>https://dash-industry-forum.github.io/news/dash-js-award-2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/news/dash-js-award-2021/</guid>
@@ -167,13 +174,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dash-industry-forum.github.io/news/vvc-yk/</guid>
       <description>DASH-IF receives first hand information on Versatile Video Coding &amp;ndash; September 11, 2020 - Elbonia, virtual &amp;ndash;&#xA;Today, as part of our virtual special session series, DASH-IF received a primer on &amp;ldquo;The high-level syntax (HLS) designs in VVC&amp;rdquo; from Dr. Ye-Kui Wang, Principal Scientist at Bytedance. During session also colleagues from our partner organizations DVB, 3GPP and CTA WAVE were invited and many joined. We had an audience of 60 people, thanks everyone for joining.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://dash-industry-forum.github.io/news/watermarking-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dash-industry-forum.github.io/news/watermarking-2/</guid>
-      <description>2nd Community Review and public Special Session for Candidate Technical Specification: DASH-IF Forensic A/B Watermarking On February 2nd, 2023, DASH-IF published the 2nd Community Review for the new Candidate Technical Specification: DASH-IF Forensic A/B Watermarking. The details of the community review are available here and the published document is available here (pdf) .&#xA;This second version is a significant update addressing all comments received during the initial community review.&#xA;The scope of this work is the definition of an architecture and an Application Programming Interface (API) for supporting A/B forensic watermarking for Over-The-Top (OTT) on content that is delivered in an Adaptive Bitrate (ABR) format.</description>
     </item>
     <item>
       <title></title>
