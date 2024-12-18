@@ -40,7 +40,7 @@ About 100 experts from different organizations such as DASH Industry Forum, DVB 
 
 ### Recording, Slides and other Material:
 - [2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf](https://github.com/user-attachments/files/18177814/DASH-IF-Special-Session-CMMF.pdf)
-- [Recording](https://www.svta.org/special-event/dash-if-special-session-the-coded-multisource-media-format-cmmf-an-introduction-to-applications-performance/) Password: CheesyDinosaurs4$!
+- [Recording](https://www.svta.org/special-event/dash-if-special-session-the-coded-multisource-media-format-cmmf-an-introduction-to-applications-performance/) (Password: CheesyDinosaurs4$!)
 - [Survey](https://forms.gle/QaGRTbw5b4NTs7kYA)
 
 ## October 25, 2024: DASH-IF Special Session: WAVE Streaming Media Test Suite – Devices
