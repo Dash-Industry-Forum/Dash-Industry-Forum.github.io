@@ -22,7 +22,7 @@ In early 2020, when the pandemic just was kicking off, DASH-IF replaced its f2f 
 
 ### Logistics: 
 - Date: December 13, 16:30 CET, 7:30 PST (about 1 hour)
-- [Zoom Registration](https://us02web.zoom.us/meeting/register/tZwvceuprjwuHNGGQmYkwpqdc5zwvurVIogl#/registration)
+- Event Homepage: https://www.svta.org/special-event/dash-if-special-session-the-coded-multisource-media-format-cmmf-an-introduction-to-applications-performance/
 
 ### Presenters: 
 - [Jeffrey Riedmiller](https://www.linkedin.com/in/jeffrey-riedmiller/), [Jason Cloud](https://www.linkedin.com/in/jasonmcloud/), [Freddie Sanchez](https://www.linkedin.com/in/freddie-sanchez-b873b9119/), [Frederic Gabin](https://www.linkedin.com/in/fredericgabin/), [Christian Wolff](https://www.linkedin.com/in/christian-wolff-341471/) (Dolby Laboratories) 
@@ -36,10 +36,12 @@ This special session will discuss the motivation and details behind the developm
 
 
 ### Participants: 
-Experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA, ETSI JTC Broadcast and MPEG will participate in the meeting. The meeting is open to public.
+About 100 experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA, ETSI JTC Broadcast and MPEG registered for the meeting and we had about 50-60 people attending.
 
 ### Recording, Slides and other Material:
-- will be made available after the meeting is completed
+- [2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf](https://github.com/user-attachments/files/18177814/DASH-IF-Special-Session-CMMF.pdf)
+- [Recording](https://www.svta.org/special-event/dash-if-special-session-the-coded-multisource-media-format-cmmf-an-introduction-to-applications-performance/) Password: CheesyDinosaurs4$!
+- [Survey](https://forms.gle/QaGRTbw5b4NTs7kYA)
 
 ## October 25, 2024: DASH-IF Special Session: WAVE Streaming Media Test Suite – Devices
 
