@@ -39,7 +39,7 @@ This special session will discuss the motivation and details behind the developm
 About 100 experts from different organizations such as DASH Industry Forum, DVB Project, 3GPP SA4, Consumer Technology Association WAVE, 5G-MAG MEDIA ACTION GROUP, ATSC, SVTA, ETSI JTC Broadcast and MPEG registered for the meeting and we had about 50-60 people attending.
 
 ### Recording, Slides and other Material:
-- [2024-10-25-WAVE-Streaming-Media-Test-Suite-Devices.pdf](https://github.com/user-attachments/files/18177814/DASH-IF-Special-Session-CMMF.pdf)
+- [Slides](https://github.com/user-attachments/files/18177814/DASH-IF-Special-Session-CMMF.pdf)
 - [Recording](https://www.svta.org/special-event/dash-if-special-session-the-coded-multisource-media-format-cmmf-an-introduction-to-applications-performance/) (Password: CheesyDinosaurs4$!)
 - [Survey](https://forms.gle/QaGRTbw5b4NTs7kYA)
 
