@@ -124,7 +124,29 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 (published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ## Documents under Community review
-* none
+
+### Document
+* [Draft DASH-IF-IOP-Part5-v5.1.0: Content protection and security](https://github.com/user-attachments/files/21775101/Draft-DASH-IF-IOPv5.1.0-Part6-for-Community-Review.pdf.pdf)
+(published Aug 14, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
+
+### Summary of changes compared to V5.0.0 (in change marks)
+- Typo corrections
+- Updates to the references
+- Addition of a Certurl element in the DASH-IF namespace in addition to the Laurl for license request. That allows to signal both the URL for license acquisition and certificate acquisition (needed for Widevine)
+- Proposed updates for open bugs on GitHub
+  - https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/20
+    - For ECCP, added a reference to CTA WAVE CAT specification for the CDN access token
+  - https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/19
+    - An example has been added for @ref and @refID
+  - https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/17
+    - While the text is right, it has been updated with a good practice recommendation in order to avoid useless license requests
+  - https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues/300
+    - This will be closed without any action. There was an attempt to do it, but this has been not accepted.
+
+### Disclaimer for Community Review
+This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily 
+for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since August 14, 2025 until *October 31st, 2025*. Please use github Bugtracker for any feedback: [https://github.com/Dash-Industry-Forum/Guidelines-Security/issues](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues).
+
 
 ## Editors
 * [Laurent Piron (Nagra)](https://www.linkedin.com/in/laurentpiron/)
