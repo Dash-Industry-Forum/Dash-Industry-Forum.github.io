@@ -160,13 +160,22 @@ Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidel
 Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/video/.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part8-v5.0.0: Video](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf) (published May 31, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+* [DASH-IF-IOP-Part7-v5.0.0: Video](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf) (published May 31, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
-_under development_
+### Document
+* [DASH-IF Feature: LCEVC in DASH](https://github.com/user-attachments/files/22910328/DASH-IF-IOP-Part-8-Extension-LCEVC.pdf)
+(published Oct 14, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+
+### Summary of Feature
+This document primarily addresses updates to DASH-IF IOPv5 part 7, video. It may also update the registered codecs here: [https://dashif.org/codecs/video/](https://dashif.org/codecs/video/). The ATSC 3.0 suite of standards includes an HEVC-specific spec, A/341, and a candidate standard VVC-specific spec, A/345. Both standards support 2-layer scalable video. For HEVC, SHVC is optionally supported. For VVC, optional support of LCEVC as a scalable enhancement layer is available. ATSC relies on DASH delivery at the transport layer. Currently, the transport details for SHVC support are contained in an ATSC-specific DASH IOP: https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf. Support for VVC + LCEVC is yet to be completed. This document provides the information necessary to incorporate scalability support. The following proposes utilizing dual adaptation sets to support scalable video delivery and seamless switching between the two.  The proposed method introduces a framework where a base layer (BL) using a base codec (in this case, VVC) is complemented by an enhancement layer (EL) utilizing MPEG-5 LCEVC (Low Complexity Enhancement Video Coding).  This dual-layer approach aims to ensure compatibility across a wide range of playback systems. The reference dash.js player developed by DASH-IF is currently integrating this approach for its upcoming version 5.1.0 release, see Pull Request (PR) 4572.
+
+### Disclaimer for Community Review
+This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since October 14, 2025 until *November 10th, 2025*. Please use github Bugtracker for any feedback: [https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues).
 
 ## Editors
 * [Ye-Kui Wang (Bytedance)](https://www.linkedin.com/in/yekui/)
+* [Stephan Schreiner (Dolby)](https://www.linkedin.com/in/stephanschreiner/))
 
 ## History
 _under development_
