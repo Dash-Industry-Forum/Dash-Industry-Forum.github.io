@@ -428,22 +428,18 @@
 <h2 id="summary-5">Summary</h2>
 <p>Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in MPEG CMAF format protected by MPEG CENC. As MPEG DASH is used as the delivery protocol, this part makes the links between signaling that is within content and within the MPD. In addition, to this, this part describes mechanisms for supporting key rotation. It defines the Enhanced Clear Key Content Protection (ECCP), a content protection mechanism for DASH content which provides greater protection than TLS delivery, token authentication or Clear Key used individually. It also defines the DASH-IF XML schema with elements related to content protection.</p>
 <h2 id="latest-published-specification-5">Latest Published Specification</h2>
-<ul>
-<li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf">DASH-IF-IOP-Part5-v5.0.0: Content protection and security</a>
-(published Jan 04, 2022) | (<a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">Bugtracker</a>)</li>
-</ul>
-<h2 id="documents-under-community-review-5">Documents under Community review</h2>
 <h3 id="document">Document</h3>
 <ul>
-<li><a href="https://github.com/user-attachments/files/21775101/Draft-DASH-IF-IOPv5.1.0-Part6-for-Community-Review.pdf.pdf">Draft DASH-IF-IOP-Part5-v5.1.0: Content protection and security</a>
-(published Aug 14, 2025) | (<a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">Bugtracker</a>)</li>
+<li><a href="https://github.com/user-attachments/files/24056674/DASH-IF-IOPv5.1.0-Part6.pdf">DASH-IF-IOP-Part5-v5.1.0: Content protection and security</a>
+(published Dec 09, 2025) | (<a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">Bugtracker</a>)</li>
 </ul>
 <h3 id="summary-of-changes-compared-to-v500-in-change-marks">Summary of changes compared to V5.0.0 (in change marks)</h3>
+<p>A change mark version is provided<a href="https://github.com/user-attachments/files/24056694/DASH-IF-IOPv5.1.0-Part6-rm.pdf">here</a>.</p>
 <ul>
 <li>Typo corrections</li>
 <li>Updates to the references</li>
 <li>Addition of a Certurl element in the DASH-IF namespace in addition to the Laurl for license request. That allows to signal both the URL for license acquisition and certificate acquisition (needed for Widevine)</li>
-<li>Proposed updates for open bugs on GitHub
+<li>Proposed updates for bugs on GitHub
 <ul>
 <li><a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/20">https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/20</a>
 <ul>
@@ -468,15 +464,18 @@
 </ul>
 </li>
 </ul>
-<h3 id="disclaimer-for-community-review">Disclaimer for Community Review</h3>
-<p>This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily
-for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since August 14, 2025 until <em>October 31st, 2025</em>. Please use github Bugtracker for any feedback: <a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">https://github.com/Dash-Industry-Forum/Guidelines-Security/issues</a>.</p>
+<h2 id="documents-under-community-review-5">Documents under Community review</h2>
+<p>none</p>
 <h2 id="editors-5">Editors</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/laurentpiron/">Laurent Piron (Nagra)</a></li>
 </ul>
 <h2 id="history-5">History</h2>
-<p>Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidelines under clause 11. Part 6 deprecates this information.</p>
+<ul>
+<li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf">DASH-IF-IOP-Part5-v5.0.0: Content protection and security</a>
+(published Jan 04, 2022) | (<a href="https://github.com/Dash-Industry-Forum/Guidelines-Security/issues">Bugtracker</a>)
+Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidelines under clause 11. Part 6 deprecates this information.</li>
+</ul>
 <h1 id="part-7-video">Part 7: Video</h1>
 <h2 id="summary-6">Summary</h2>
 <p>Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks. CMAF media profiles and relevant parameters for DASH are documented here: <a href="https://dashif.org/codecs/video/">https://dashif.org/codecs/video/</a>.</p>
@@ -492,7 +491,7 @@ for community review and will be replaced by a full version after the commenting
 </ul>
 <h3 id="summary-of-feature">Summary of Feature</h3>
 <p>This document primarily addresses updates to DASH-IF IOPv5 part 7, video. It may also update the registered codecs here: <a href="https://dashif.org/codecs/video/">https://dashif.org/codecs/video/</a>. The ATSC 3.0 suite of standards includes an HEVC-specific spec, A/341, and a candidate standard VVC-specific spec, A/345. Both standards support 2-layer scalable video. For HEVC, SHVC is optionally supported. For VVC, optional support of LCEVC as a scalable enhancement layer is available. ATSC relies on DASH delivery at the transport layer. Currently, the transport details for SHVC support are contained in an ATSC-specific DASH IOP: <a href="https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf">https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf</a>. Support for VVC + LCEVC is yet to be completed. This document provides the information necessary to incorporate scalability support. The following proposes utilizing dual adaptation sets to support scalable video delivery and seamless switching between the two.  The proposed method introduces a framework where a base layer (BL) using a base codec (in this case, VVC) is complemented by an enhancement layer (EL) utilizing MPEG-5 LCEVC (Low Complexity Enhancement Video Coding).  This dual-layer approach aims to ensure compatibility across a wide range of playback systems. The reference dash.js player developed by DASH-IF is currently integrating this approach for its upcoming version 5.1.0 release, see Pull Request (PR) 4572.</p>
-<h3 id="disclaimer-for-community-review-1">Disclaimer for Community Review</h3>
+<h3 id="disclaimer-for-community-review">Disclaimer for Community Review</h3>
 <p>This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since October 14, 2025 until <em>November 10th, 2025</em>. Please use github Bugtracker for any feedback: <a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues</a>.</p>
 <h2 id="editors-6">Editors</h2>
 <ul>
