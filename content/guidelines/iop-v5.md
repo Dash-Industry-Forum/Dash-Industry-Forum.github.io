@@ -149,7 +149,7 @@ none
 ## History
 * [DASH-IF-IOP-Part5-v5.0.0: Content protection and security](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf)
 (published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
-Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidelines under clause 11. Part 6 deprecates this information. 
+* Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidelines under clause 11. Part 6 deprecates this information. 
 
 # Part 7: Video
 
