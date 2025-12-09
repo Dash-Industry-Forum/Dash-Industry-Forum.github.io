@@ -120,20 +120,17 @@ Up to v4.3 any topics now covered in part 5 were included in the main IOP Guidel
 Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in MPEG CMAF format protected by MPEG CENC. As MPEG DASH is used as the delivery protocol, this part makes the links between signaling that is within content and within the MPD. In addition, to this, this part describes mechanisms for supporting key rotation. It defines the Enhanced Clear Key Content Protection (ECCP), a content protection mechanism for DASH content which provides greater protection than TLS delivery, token authentication or Clear Key used individually. It also defines the DASH-IF XML schema with elements related to content protection.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part5-v5.0.0: Content protection and security](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf)
-(published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
-
-## Documents under Community review
 
 ### Document
-* [Draft DASH-IF-IOP-Part5-v5.1.0: Content protection and security](https://github.com/user-attachments/files/21775101/Draft-DASH-IF-IOPv5.1.0-Part6-for-Community-Review.pdf.pdf)
-(published Aug 14, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
+* [DASH-IF-IOP-Part5-v5.1.0: Content protection and security](https://github.com/user-attachments/files/24056674/DASH-IF-IOPv5.1.0-Part6.pdf)
+(published Dec 09, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ### Summary of changes compared to V5.0.0 (in change marks)
+A change mark version is provided[here](https://github.com/user-attachments/files/24056694/DASH-IF-IOPv5.1.0-Part6-rm.pdf).
 - Typo corrections
 - Updates to the references
 - Addition of a Certurl element in the DASH-IF namespace in addition to the Laurl for license request. That allows to signal both the URL for license acquisition and certificate acquisition (needed for Widevine)
-- Proposed updates for open bugs on GitHub
+- Proposed updates for bugs on GitHub
   - https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/20
     - For ECCP, added a reference to CTA WAVE CAT specification for the CDN access token
   - https://github.com/Dash-Industry-Forum/Guidelines-Security/issues/19
@@ -143,15 +140,15 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
   - https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues/300
     - This will be closed without any action. There was an attempt to do it, but this has been not accepted.
 
-### Disclaimer for Community Review
-This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily 
-for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since August 14, 2025 until *October 31st, 2025*. Please use github Bugtracker for any feedback: [https://github.com/Dash-Industry-Forum/Guidelines-Security/issues](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues).
-
+## Documents under Community review
+none
 
 ## Editors
 * [Laurent Piron (Nagra)](https://www.linkedin.com/in/laurentpiron/)
 
 ## History
+* [DASH-IF-IOP-Part5-v5.0.0: Content protection and security](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part6-v5.0.0.pdf)
+(published Jan 04, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 Up to v4.3 any topics now covered in part 6 were included in the main IOP Guidelines under clause 11. Part 6 deprecates this information. 
 
 # Part 7: Video
