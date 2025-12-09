@@ -126,7 +126,7 @@ Part 6 of DASH-IF IOP v5 provides guidelines for encrypted content delivered in 
 (published Dec 09, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/Guidelines-Security/issues))
 
 ### Summary of changes compared to V5.0.0 (in change marks)
-A change mark version is provided[here](https://github.com/user-attachments/files/24056694/DASH-IF-IOPv5.1.0-Part6-rm.pdf).
+A change mark version is provided [here](https://github.com/user-attachments/files/24056694/DASH-IF-IOPv5.1.0-Part6-rm.pdf).
 - Typo corrections
 - Updates to the references
 - Addition of a Certurl element in the DASH-IF namespace in addition to the Laurl for license request. That allows to signal both the URL for license acquisition and certificate acquisition (needed for Widevine)
