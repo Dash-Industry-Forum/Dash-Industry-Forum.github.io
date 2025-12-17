@@ -483,20 +483,20 @@
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf">DASH-IF-IOP-Part7-v5.0.0: Video</a> (published May 31, 2022) | (<a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">Bugtracker</a>)</li>
 </ul>
-<h2 id="documents-under-community-review-6">Documents under Community review</h2>
-<h3 id="document-1">Document</h3>
-<ul>
-<li><a href="https://github.com/user-attachments/files/22910328/DASH-IF-IOP-Part-8-Extension-LCEVC.pdf">DASH-IF Feature: LCEVC in DASH</a>
-(published Oct 14, 2025) | (<a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">Bugtracker</a>)</li>
-</ul>
-<h3 id="summary-of-feature">Summary of Feature</h3>
-<p>This document primarily addresses updates to DASH-IF IOPv5 part 7, video. It may also update the registered codecs here: <a href="https://dashif.org/codecs/video/">https://dashif.org/codecs/video/</a>. The ATSC 3.0 suite of standards includes an HEVC-specific spec, A/341, and a candidate standard VVC-specific spec, A/345. Both standards support 2-layer scalable video. For HEVC, SHVC is optionally supported. For VVC, optional support of LCEVC as a scalable enhancement layer is available. ATSC relies on DASH delivery at the transport layer. Currently, the transport details for SHVC support are contained in an ATSC-specific DASH IOP: <a href="https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf">https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf</a>. Support for VVC + LCEVC is yet to be completed. This document provides the information necessary to incorporate scalability support. The following proposes utilizing dual adaptation sets to support scalable video delivery and seamless switching between the two.  The proposed method introduces a framework where a base layer (BL) using a base codec (in this case, VVC) is complemented by an enhancement layer (EL) utilizing MPEG-5 LCEVC (Low Complexity Enhancement Video Coding).  This dual-layer approach aims to ensure compatibility across a wide range of playback systems. The reference dash.js player developed by DASH-IF is currently integrating this approach for its upcoming version 5.1.0 release, see Pull Request (PR) 4572.</p>
-<h3 id="disclaimer-for-community-review">Disclaimer for Community Review</h3>
-<p>This document is technically stable, but public is asked for comments in order to improve details. Community Review documents are published on the DASH-IF WG website in order to get feedback from the industry on tools and features that are documented for improved interoperability. For each of the documents, comments may be submitted on the technologies itself, on specific features, etc. These documents are only published temporarily for community review and will be replaced by a full version after the commenting period has closed and the comments have been addressed. Community Review documents may also be published as Change Requests to existing specifications. The following document is open for community review since October 14, 2025 until <em>November 10th, 2025</em>. Please use github Bugtracker for any feedback: <a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues</a>.</p>
 <h2 id="editors-6">Editors</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/yekui/">Ye-Kui Wang (Bytedance)</a></li>
-<li><a href="https://www.linkedin.com/in/stephanschreiner/">Stephan Schreiner (Dolby)</a>)</li>
+<li><a href="https://www.linkedin.com/in/stephanschreiner/">Stephan Schreiner (Dolby)</a></li>
+</ul>
+<h2 id="features-and-additions-on-top-of-latest-version">Features and Additions on top of Latest Version</h2>
+<ul>
+<li><a href="https://github.com/user-attachments/files/24211534/SVTA-DASH-IF-Feature-LCEVC-1.0.0.pdf">DASH-IF Feature: LCEVC in DASH</a>
+(published Dec 17, 2025) | (<a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">Bugtracker</a>)
+<ul>
+<li>Summary of Feature: This document primarily addresses updates to DASH-IF IOPv5 part 7, video. It may also update the registered codecs here: <a href="https://dashif.org/codecs/video/">https://dashif.org/codecs/video/</a>. The ATSC 3.0 suite of standards includes an HEVC-specific spec, A/341, and a candidate standard VVC-specific spec, A/345. Both standards support 2-layer scalable video. For HEVC, SHVC is optionally supported. For VVC, optional support of LCEVC as a scalable enhancement layer is available. ATSC relies on DASH delivery at the transport layer. Currently, the transport details for SHVC support are contained in an ATSC-specific DASH IOP: <a href="https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf">https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf</a>. Support for VVC + LCEVC is yet to be completed. During the SVTA DASH-IF meeting on 11/15/2024, the chair recommended incorporating  scalability support into the main DASH IOP Video specification. This document provides the information necessary to do so. The following proposes utilizing dual adaptation sets to support scalable video delivery and seamless switching between the two. The proposed method introduces a framework where a base layer (BL) using a base codec (in this case, VVC) is complemented by an enhancement layer (EL) utilizing MPEG-5 LCEVC (Low Complexity Enhancement Video Coding). This dual-layer approach aims to ensure compatibility across a wide range of playback systems. The reference dash.js player developed by DASH-IF  this approach from version 5.1.0 release.</li>
+<li>Editors: <a href="https://www.linkedin.com/in/ajstein/">Alan Stein</a> (V-Nova), <a href="https://www.linkedin.com/in/danielesparano/">Daniele Sparano</a> (V-Nova)</li>
+</ul>
+</li>
 </ul>
 <h2 id="history-6">History</h2>
 <p><em>under development</em></p>
@@ -507,7 +507,7 @@
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part8-v5.1.0.pdf">DASH-IF-IOP-Part8-v5.1.0: Audio</a> (published Mar 12, 2024) | (<a href="https://github.com/Dash-Industry-Forum/Audio/issues">Bugtracker</a>)</li>
 </ul>
-<h2 id="documents-under-community-review-7">Documents under Community review</h2>
+<h2 id="documents-under-community-review-6">Documents under Community review</h2>
 <ul>
 <li>None</li>
 </ul>
@@ -529,7 +529,7 @@
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part9-v5.0.0.pdf">DASH-IF-IOP-Part9-v5.0.0: Text</a> (published Jan 04, 2022) | (<a href="https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues">Bugtracker</a>)</li>
 </ul>
-<h2 id="documents-under-community-review-8">Documents under Community review</h2>
+<h2 id="documents-under-community-review-7">Documents under Community review</h2>
 <ul>
 <li>none</li>
 </ul>
@@ -546,7 +546,7 @@
 <ul>
 <li><a href="https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part10-v5.0.0.pdf">DASH-IF-IOP-Part10-v5.0.0: Events and Timed Metadata</a> (published Jan 26, 2023) | <a href="https://github.com/Dash-Industry-Forum/Events">Bugtracker</a> | <a href="https://dashif.org/ipr-declarations/">IPR Declarations</a></li>
 </ul>
-<h2 id="documents-under-community-review-9">Documents under Community review</h2>
+<h2 id="documents-under-community-review-8">Documents under Community review</h2>
 <ul>
 <li>none</li>
 </ul>
@@ -569,7 +569,7 @@
 </ul>
 <h2 id="latest-published-specification-10">Latest Published Specification</h2>
 <p><em>under development</em></p>
-<h2 id="documents-under-community-review-10">Documents under Community review</h2>
+<h2 id="documents-under-community-review-9">Documents under Community review</h2>
 <p><em>under development</em></p>
 <h2 id="editors-10">Editors</h2>
 <ul>
@@ -583,7 +583,7 @@
 <p>Part 12 provides an overview of DASH-IF Reference and Conformance Tools. In particular the conformance software to verify service offerings, the dash.js reference client and the DASH-IF test assets are introduced.</p>
 <h2 id="latest-published-specification-11">Latest Published Specification</h2>
 <p><em>under development</em></p>
-<h2 id="documents-under-community-review-11">Documents under Community review</h2>
+<h2 id="documents-under-community-review-10">Documents under Community review</h2>
 <p><em>under development</em></p>
 <h2 id="editors-11">Editors</h2>
 <ul>
