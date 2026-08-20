@@ -159,8 +159,13 @@ Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks.
 ## Latest Published Specification
 * [DASH-IF-IOP-Part7-v5.0.0: Video](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf) (published May 31, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
+## Documents under Community review
+* [DASH-IF-IOP-Part-7-v5.0.3](https://github.com/user-attachments/files/31272357/DASH-IF-IOP-Part-7-Video-updates-community-review.docx.pdf) (published August 20, 2026) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+  * DASH-IF WG announces community review for the next version of the DASH-IF IOP v5, part 7.
+  * Main updates are the addition of HDR signaling, as well as codec-specific definitions on LCEVC.
+  * Please submit your comments by Oct 31, 2026 by submitting comments on Github [Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues)
+
 ## Editors
-* [Ye-Kui Wang (Bytedance)](https://www.linkedin.com/in/yekui/)
 * [Stephan Schreiner (Dolby)](https://www.linkedin.com/in/stephanschreiner/)
 
 ## Features and Additions on top of Latest Version
