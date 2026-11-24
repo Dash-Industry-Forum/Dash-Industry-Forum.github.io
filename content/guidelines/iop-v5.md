@@ -157,25 +157,17 @@ none
 Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/video/.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part7-v5.0.0: Video](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf) (published May 31, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+* [DASH-IF-IOP-Part7-v5.1.0: Video]([https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf](https://github.com/user-attachments/files/35342815/DASH-IF-IOP-Part-7-v5.1.0-Video.pdf)) (published November 24, 2026) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
-* [DASH-IF-IOP-Part-7-v5.0.3](https://github.com/user-attachments/files/31272357/DASH-IF-IOP-Part-7-Video-updates-community-review.docx.pdf) (published August 20, 2026) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
-  * DASH-IF WG announces community review for the next version of the DASH-IF IOP v5, part 7.
-  * Main updates are the addition of HDR signaling, as well as codec-specific definitions on LCEVC.
-  * Please submit your comments by Oct 31, 2026 by submitting comments on Github [Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues)
+* none
 
 ## Editors
 * [Stephan Schreiner (Dolby)](https://www.linkedin.com/in/stephanschreiner/)
 
-## Features and Additions on top of Latest Version
-* [DASH-IF Feature: LCEVC in DASH](https://github.com/user-attachments/files/24211534/SVTA-DASH-IF-Feature-LCEVC-1.0.0.pdf)
-(published Dec 17, 2025) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
-  * Summary of Feature: This document primarily addresses updates to DASH-IF IOPv5 part 7, video. It may also update the registered codecs here: https://dashif.org/codecs/video/. The ATSC 3.0 suite of standards includes an HEVC-specific spec, A/341, and a candidate standard VVC-specific spec, A/345. Both standards support 2-layer scalable video. For HEVC, SHVC is optionally supported. For VVC, optional support of LCEVC as a scalable enhancement layer is available. ATSC relies on DASH delivery at the transport layer. Currently, the transport details for SHVC support are contained in an ATSC-specific DASH IOP: https://dashif.org/docs/DASH-IF-IOP-for-ATSC3-0-v1.1.pdf. Support for VVC + LCEVC is yet to be completed. During the SVTA DASH-IF meeting on 11/15/2024, the chair recommended incorporating  scalability support into the main DASH IOP Video specification. This document provides the information necessary to do so. The following proposes utilizing dual adaptation sets to support scalable video delivery and seamless switching between the two. The proposed method introduces a framework where a base layer (BL) using a base codec (in this case, VVC) is complemented by an enhancement layer (EL) utilizing MPEG-5 LCEVC (Low Complexity Enhancement Video Coding). This dual-layer approach aims to ensure compatibility across a wide range of playback systems. The reference dash.js player developed by DASH-IF  this approach from version 5.1.0 release.
-  * Editors: [Alan Stein](https://www.linkedin.com/in/ajstein/) (V-Nova), [Daniele Sparano](https://www.linkedin.com/in/danielesparano/) (V-Nova)
-
 ## History
-_under development_
+* [DASH-IF-IOP-Part7-v5.0.0: Video](https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf) (published May 31, 2022) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+
 
 # Part 8: Audio
 
