@@ -157,7 +157,7 @@ none
 Part 7 defines the CMAF Media Profiles and the DASH signalling for video tracks. CMAF media profiles and relevant parameters for DASH are documented here: https://dashif.org/codecs/video/.
 
 ## Latest Published Specification
-* [DASH-IF-IOP-Part7-v5.1.0: Video]([https://dash-industry-forum.github.io/docs/IOP-Guidelines/DASH-IF-IOP-Part7-v5.0.0.pdf](https://github.com/user-attachments/files/35342815/DASH-IF-IOP-Part-7-v5.1.0-Video.pdf)) (published November 24, 2026) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
+* [DASH-IF-IOP-Part7-v5.1.0: Video](https://github.com/user-attachments/files/35342815/DASH-IF-IOP-Part-7-v5.1.0-Video.pdf) (published November 24, 2026) | ([Bugtracker](https://github.com/Dash-Industry-Forum/DASH-IF-IOP/issues))
 
 ## Documents under Community review
 * none
